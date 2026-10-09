@@ -51,6 +51,10 @@ a{color:var(--accent)}
 .pill{display:inline-block;font:500 11.5px var(--mono);padding:2px 7px;border-radius:99px;white-space:nowrap}
 .p-ok{background:var(--accent-soft);color:var(--accent)}.p-mid{background:var(--warn-soft);color:var(--warn)}.p-bad{background:var(--bad-soft);color:var(--bad)}
 .cname{min-width:200px}
+.chips{display:flex;flex-wrap:wrap;gap:6px}
+.chip{font:500 13px var(--body);padding:4px 10px;border:1px solid var(--accent);border-radius:99px;text-decoration:none;background:var(--accent-soft)}
+.chip:hover{text-decoration:underline}
+.chip:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
 .more{margin-top:12px;font:14px var(--body);padding:8px 14px;border:1px solid var(--line);border-radius:6px;background:var(--surface);color:var(--fg);cursor:pointer}
 </style>
 
@@ -112,9 +116,10 @@ tabs.forEach(b=>b.onclick=()=>show(b.dataset.tab));
 const h=location.hash.slice(1);let saved=null;try{saved=localStorage.getItem('tab')}catch(e){}
 if(document.getElementById(h))show(h);else if(saved&&document.getElementById(saved))show(saved);
 // fırsatlar
+const lk=s=>esc(s).replace(/#(\d+)/g,(m,n)=>D.urls[n]?`<a href="${esc(D.urls[n])}" target="_blank" rel="noopener">#${n}</a>`:m);
 document.getElementById('oppList').innerHTML=D.opps.map((o,i)=>`<article class="opp"><div class="score">${o[6]}<small>/10</small></div>
 <div><span class="tag">${i+1}. sıra · ${esc(o[1])}</span><h3>${esc(o[0])}</h3>
-<dl><dt>Kanıt</dt><dd>${esc(o[2])}</dd><dt>Rakip durumu</dt><dd>${esc(o[3])}</dd><dt>İçerik planı</dt><dd>${esc(o[4])}</dd><dt>Risk</dt><dd>${esc(o[5])}</dd></dl></div></article>`).join('');
+<dl><dt>Kanallar</dt><dd class="chips">${o[7].map(l=>`<a class="chip" href="${esc(l[1])}" target="_blank" rel="noopener">${esc(l[0])} ↗</a>`).join('')}</dd><dt>Kanıt</dt><dd>${lk(o[2])}</dd><dt>Rakip durumu</dt><dd>${lk(o[3])}</dd><dt>İçerik planı</dt><dd>${esc(o[4])}</dd><dt>Risk</dt><dd>${esc(o[5])}</dd></dl></div></article>`).join('');
 // konseptler
 const pill=c=>c>=6?'<span class="pill p-bad">Dolu</span>':c>=3?'<span class="pill p-mid">Kısmen dolu</span>':'<span class="pill p-ok">Az rakip</span>';
 const ck=t=>!t?'':`<span class="pill ${/Dolu|dolu/.test(t)&&!/açık/i.test(t)?'p-bad':/Kısmen/.test(t)?'p-mid':'p-ok'}">${esc(t)}</span>`;
