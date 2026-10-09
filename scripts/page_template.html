@@ -1,0 +1,145 @@
+<title>Konsept Avı Ekim 2026</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: tek sütunlu rapor, üstte sekmeler; tablolar kendi yatay kaydırmalı kutularında */
+:root{
+  --bg:#f6f7f4; --surface:#ffffff; --fg:#1d2420; --muted:#5d6a63; --line:#dde3de;
+  --accent:#1f6f54; --accent-soft:#e3f0ea; --warn:#a15c07; --warn-soft:#fbefdc; --bad:#a3302a; --bad-soft:#f8e3e1;
+  --display:'Fraunces',Georgia,serif; --body:'IBM Plex Sans',system-ui,sans-serif; --mono:'IBM Plex Mono',ui-monospace,monospace;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#141916;--surface:#1b221e;--fg:#e4ebe6;--muted:#9aa8a0;--line:#2c3631;--accent:#5cc49b;--accent-soft:#1d3a2e;--warn:#e3a54f;--warn-soft:#3a2c17;--bad:#ec8a83;--bad-soft:#3d2220;color-scheme:dark}}
+:root[data-theme="dark"]{--bg:#141916;--surface:#1b221e;--fg:#e4ebe6;--muted:#9aa8a0;--line:#2c3631;--accent:#5cc49b;--accent-soft:#1d3a2e;--warn:#e3a54f;--warn-soft:#3a2c17;--bad:#ec8a83;--bad-soft:#3d2220;color-scheme:dark}
+body{background:var(--bg);color:var(--fg);font:15px/1.55 var(--body)}
+.wrap{max-width:1180px;margin:0 auto;padding-inline:16px;padding-block:28px 60px}
+h1{font:600 clamp(28px,5vw,40px)/1.1 var(--display);margin:0 0 8px;text-wrap:balance}
+h2{font:600 22px/1.2 var(--display);margin:0 0 12px}
+.lead{color:var(--muted);max-width:68ch;margin:0}
+.facts{display:flex;flex-wrap:wrap;gap:8px 20px;margin:16px 0 0;font:500 13px var(--mono);color:var(--muted)}
+.facts b{color:var(--fg);font-weight:500}
+nav{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--bg);display:flex;gap:4px;flex-wrap:wrap;padding-block:12px;margin-top:20px;border-bottom:1px solid var(--line)}
+nav button{font:500 14px var(--body);background:none;border:1px solid transparent;color:var(--muted);padding:7px 14px;border-radius:6px;cursor:pointer}
+nav button[aria-selected="true"]{background:var(--accent-soft);color:var(--accent);border-color:var(--accent)}
+nav button:focus-visible,input:focus-visible,select:focus-visible,th button:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+section{padding-top:24px}
+.note{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:14px 16px;max-width:80ch}
+.note p{margin:0 0 8px}.note p:last-child{margin:0}
+.opps{display:grid;gap:14px}
+.opp{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:16px;display:grid;grid-template-columns:52px 1fr;gap:4px 16px}
+.score{grid-row:span 6;font:600 26px/1 var(--display);color:var(--accent);text-align:center;padding-top:2px}
+.score small{display:block;font:500 11px var(--mono);color:var(--muted);margin-top:4px}
+.opp h3{margin:0;font:600 17px/1.3 var(--body)}
+.tag{display:inline-block;font:500 12px var(--mono);color:var(--muted);margin-bottom:4px}
+.opp dl{margin:6px 0 0;display:grid;grid-template-columns:120px 1fr;gap:6px 12px;min-width:0}
+.opp dt{font:500 12px var(--mono);color:var(--muted);text-transform:uppercase;letter-spacing:.04em;padding-top:2px}
+.opp dd{margin:0;min-width:0}
+@media (max-width:640px){.opp{grid-template-columns:1fr}.score{grid-row:auto;text-align:left}.opp dl{grid-template-columns:1fr}.opp dt{padding-top:6px}}
+.controls{display:flex;flex-wrap:wrap;gap:10px;margin-bottom:12px;align-items:center}
+.controls input,.controls select{font:14px var(--body);padding:8px 10px;border:1px solid var(--line);border-radius:6px;background:var(--surface);color:var(--fg);min-width:0}
+.controls input[type=search]{flex:1 1 220px}
+.count{font:500 13px var(--mono);color:var(--muted)}
+.tbl{overflow-x:auto;border:1px solid var(--line);border-radius:8px;background:var(--surface)}
+table{border-collapse:collapse;width:100%;font-size:13.5px}
+th,td{padding:8px 10px;text-align:left;border-bottom:1px solid var(--line);vertical-align:top}
+th{position:sticky;top:0;background:var(--surface);font:500 12px var(--mono);color:var(--muted);text-transform:uppercase;letter-spacing:.03em;white-space:nowrap}
+th button{all:unset;cursor:pointer}
+td.n{text-align:right;font-variant-numeric:tabular-nums;font-family:var(--mono);font-size:13px;white-space:nowrap}
+tr:last-child td{border-bottom:none}
+a{color:var(--accent)}
+.vids{color:var(--muted);font-size:12.5px;min-width:320px}
+.vids div{margin-bottom:3px}
+.pill{display:inline-block;font:500 11.5px var(--mono);padding:2px 7px;border-radius:99px;white-space:nowrap}
+.p-ok{background:var(--accent-soft);color:var(--accent)}.p-mid{background:var(--warn-soft);color:var(--warn)}.p-bad{background:var(--bad-soft);color:var(--bad)}
+.cname{min-width:200px}
+.more{margin-top:12px;font:14px var(--body);padding:8px 14px;border:1px solid var(--line);border-radius:6px;background:var(--surface);color:var(--fg);cursor:pointer}
+</style>
+
+<div class="wrap">
+  <h1>Konsept Avı · Ekim 2026</h1>
+  <p class="lead">Son 5 ayda açılmış, para kazanma açık ve tahmini aylık geliri $1.000'ın üzerinde olan YouTube kanalları. Kaynak: Nexlev. Her kanal video başlıklarına göre bir konsepte atandı. Aday boşluklar canlı YouTube aramasıyla kontrol edildi.</p>
+  <div class="facts"><span><b>561</b> kanal</span><span><b>101</b> konsept</span><span><b>22</b> fırsat</span><span><b>13</b> rakip araması</span><span>veri tarihi <b>9 Eki 2026</b></span></div>
+
+  <nav role="tablist">
+    <button role="tab" aria-selected="true" data-tab="firsat">Fırsatlar</button>
+    <button role="tab" aria-selected="false" data-tab="konsept">Konseptler</button>
+    <button role="tab" aria-selected="false" data-tab="kanal">Kanallar</button>
+    <button role="tab" aria-selected="false" data-tab="rakip">Rakip kontrolleri</button>
+    <button role="tab" aria-selected="false" data-tab="not">Yöntem ve uyarılar</button>
+  </nav>
+
+  <section id="firsat"><div class="opps" id="oppList"></div></section>
+
+  <section id="konsept" hidden>
+    <div class="controls"><input type="search" id="cq" placeholder="Konsept ara…" aria-label="Konsept ara"><span class="count" id="cc"></span></div>
+    <div class="tbl"><table id="ct"><thead><tr>
+      <th><button data-k="1">Konsept</button></th><th><button data-k="2">Yeni kanal</button></th><th><button data-k="3">Toplam $/ay</button></th><th><button data-k="4">Ort. $/kanal</button></th><th><button data-k="5">En yüksek $</button></th><th>Doygunluk</th><th>YouTube kontrolü</th>
+    </tr></thead><tbody></tbody></table></div>
+  </section>
+
+  <section id="kanal" hidden>
+    <div class="controls">
+      <input type="search" id="q" placeholder="Kanal adı veya video başlığı ara…" aria-label="Kanal ara">
+      <select id="fc" aria-label="Konsept filtresi"><option value="">Tüm konseptler</option></select>
+      <select id="fl" aria-label="Dil filtresi"><option value="">Tüm diller</option><option>en</option><option>es</option><option>de</option><option>fr</option><option value="?">bilinmiyor</option></select>
+      <select id="fa" aria-label="AI filtresi"><option value="">AI + insan</option><option value="1">Sadece AI</option><option value="0">AI değil</option></select>
+      <span class="count" id="kc"></span>
+    </div>
+    <div class="tbl"><table id="kt"><thead><tr>
+      <th><button data-k="0">#</button></th><th><button data-k="1">Kanal</button></th><th>Konsept</th><th><button data-k="5">$/ay</button></th><th><button data-k="6">Abone</button></th><th><button data-k="7">Video</button></th><th><button data-k="8">Ort. izl.</button></th><th><button data-k="9">Süre dk</button></th><th><button data-k="10">RPM</button></th><th><button data-k="12">Yaş (gün)</button></th><th>Dil</th><th>Son videolar</th>
+    </tr></thead><tbody></tbody></table></div>
+    <button class="more" id="more">Daha fazla göster</button>
+  </section>
+
+  <section id="rakip" hidden><div class="tbl"><table><thead><tr><th>Arama</th><th>Dönem</th><th>Bulgu</th><th>Sonuç</th></tr></thead><tbody id="st"></tbody></table></div></section>
+
+  <section id="not" hidden><div class="note">
+    <p><b>Kriterler.</b> Kanal 9 Mayıs 2026'dan sonra açılmış (ilk video tarihiyle çapraz kontrol edildi), para kazanma açık, tahmini aylık AdSense geliri en az $1.000.</p>
+    <p><b>Kapsam.</b> Nexlev bu kriterlerle 1.137 kanal buldu. Ücretsiz plan günde 5 arama sorgusuna izin verdiği için 500'ü çekilebildi. Nexlev'in keşif listesinden 61 kanal daha eklendi. Kalan 637 kanal sonraki günlerde eklenebilir.</p>
+    <p><b>Gelirler tahmindir.</b> Bazı kanallarda gelir izlenmeyle orantısız: #1 Senju, #2 3DVerse 12, #3 3D_Spectra_YT, #6 Crazy Football, #16 Baseplate, #42 REDDIT HAN. #4 PopDaBalloon bir TV şovunu yeniden yüklüyor (telif riski). #351 WIRED Investigations'ın ilk videosu 2016'dan, yeni kanal sayılmamalı.</p>
+    <p><b>Boşluk nasıl okunmalı.</b> Tutan bir format 1-3 hafta içinde 10-15 birebir kopya çekiyor ve kopyalar çoğunlukla 0-2K izlenmede kalıyor. Gerçek boşluk iki türlü: talebi kanıtlı ama yüzsüz kanalı olmayan konu, ya da tutmuş bir şablonun henüz girilmemiş komşu alana taşınması. Fırsat puanları bu mantıkla verildi ve benim değerlendirmemdir.</p>
+    <p><b>Doygunluk etiketi.</b> Aynı konseptte son 5 ayda açılıp $1K+ kazanan kanal sayısı: 6+ dolu, 3-5 kısmen dolu, 1-2 az rakip. Bu sadece bu veri setine göredir; YouTube kontrolü sütunu canlı aramadan gelir.</p>
+  </div></section>
+</div>
+
+<script>
+const D=/*DATA*/null;
+const fmt=n=>n==null?'–':n.toLocaleString('tr-TR');
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+// sekmeler
+const tabs=[...document.querySelectorAll('nav button')];
+function show(id){tabs.forEach(b=>b.setAttribute('aria-selected',b.dataset.tab===id));document.querySelectorAll('section').forEach(s=>s.hidden=s.id!==id);try{localStorage.setItem('tab',id)}catch(e){}}
+tabs.forEach(b=>b.onclick=()=>show(b.dataset.tab));
+const h=location.hash.slice(1);let saved=null;try{saved=localStorage.getItem('tab')}catch(e){}
+if(document.getElementById(h))show(h);else if(saved&&document.getElementById(saved))show(saved);
+// fırsatlar
+document.getElementById('oppList').innerHTML=D.opps.map((o,i)=>`<article class="opp"><div class="score">${o[6]}<small>/10</small></div>
+<div><span class="tag">${i+1}. sıra · ${esc(o[1])}</span><h3>${esc(o[0])}</h3>
+<dl><dt>Kanıt</dt><dd>${esc(o[2])}</dd><dt>Rakip durumu</dt><dd>${esc(o[3])}</dd><dt>İçerik planı</dt><dd>${esc(o[4])}</dd><dt>Risk</dt><dd>${esc(o[5])}</dd></dl></div></article>`).join('');
+// konseptler
+const pill=c=>c>=6?'<span class="pill p-bad">Dolu</span>':c>=3?'<span class="pill p-mid">Kısmen dolu</span>':'<span class="pill p-ok">Az rakip</span>';
+const ck=t=>!t?'':`<span class="pill ${/Dolu|dolu/.test(t)&&!/açık/i.test(t)?'p-bad':/Kısmen/.test(t)?'p-mid':'p-ok'}">${esc(t)}</span>`;
+let cs={k:3,d:-1};
+function renderC(){const q=document.getElementById('cq').value.toLowerCase();
+ const L=D.concepts.filter(c=>!q||c[1].toLowerCase().includes(q)).sort((a,b)=>(a[cs.k]>b[cs.k]?1:a[cs.k]<b[cs.k]?-1:0)*cs.d);
+ document.getElementById('cc').textContent=L.length+' konsept';
+ document.querySelector('#ct tbody').innerHTML=L.map(c=>`<tr><td class="cname"><a href="#kanal" data-c="${c[0]}">${esc(c[1])}</a></td><td class="n">${c[2]}</td><td class="n">$${fmt(c[3])}</td><td class="n">$${fmt(c[4])}</td><td class="n">$${fmt(c[5])}</td><td>${pill(c[2])}</td><td>${ck(c[6])}</td></tr>`).join('');}
+document.getElementById('cq').oninput=renderC;
+document.querySelectorAll('#ct th button').forEach(b=>b.onclick=()=>{const k=+b.dataset.k;cs={k,d:cs.k===k?-cs.d:(k===1?1:-1)};renderC()});
+document.querySelector('#ct tbody').onclick=e=>{const a=e.target.closest('a[data-c]');if(!a)return;e.preventDefault();document.getElementById('fc').value=a.dataset.c;limit=60;renderK();show('kanal');window.scrollTo(0,0)};
+renderC();
+// kanallar
+const fc=document.getElementById('fc');
+Object.entries(D.names).sort((a,b)=>a[1].localeCompare(b[1],'tr')).forEach(([k,v])=>fc.insertAdjacentHTML('beforeend',`<option value="${k}">${esc(v)}</option>`));
+let ks={k:5,d:-1},limit=60;
+function renderK(){const q=document.getElementById('q').value.toLowerCase(),c=fc.value,l=document.getElementById('fl').value,ai=document.getElementById('fa').value;
+ const L=D.rows.filter(r=>(!c||r[3]===c)&&(!l||(l==='?'?!r[4]:r[4]===l))&&(ai===''||r[11]==+ai)&&(!q||r[1].toLowerCase().includes(q)||r[13].some(v=>v[0].toLowerCase().includes(q))))
+  .sort((a,b)=>((a[ks.k]??-1)>(b[ks.k]??-1)?1:(a[ks.k]??-1)<(b[ks.k]??-1)?-1:0)*ks.d);
+ document.getElementById('kc').textContent=L.length+' kanal';
+ document.getElementById('more').hidden=L.length<=limit;
+ document.querySelector('#kt tbody').innerHTML=L.slice(0,limit).map(r=>`<tr><td class="n">${r[0]}</td><td class="cname"><a href="${esc(r[2])}" target="_blank" rel="noopener">${esc(r[1])}</a>${r[11]?' <span class="pill p-mid">AI</span>':''}</td><td>${esc(D.names[r[3]])}</td><td class="n">$${fmt(r[5])}</td><td class="n">${fmt(r[6])}</td><td class="n">${fmt(r[7])}</td><td class="n">${fmt(r[8])}</td><td class="n">${r[9]}</td><td class="n">${r[10]??'–'}</td><td class="n">${r[12]??'–'}</td><td>${r[4]||'?'}</td><td class="vids">${r[13].map(v=>`<div>${esc(v[0])} <span class="n">(${fmt(v[1])})</span></div>`).join('')}</td></tr>`).join('');}
+['q','fl','fa'].forEach(id=>document.getElementById(id).oninput=()=>{limit=60;renderK()});fc.onchange=()=>{limit=60;renderK()};
+document.querySelectorAll('#kt th button').forEach(b=>b.onclick=()=>{const k=+b.dataset.k;ks={k,d:ks.k===k?-ks.d:(k<=1?1:-1)};renderK()});
+document.getElementById('more').onclick=()=>{limit+=100;renderK()};
+renderK();
+document.getElementById('st').innerHTML=D.searches.map(s=>`<tr><td>${esc(s[0])}</td><td>${esc(s[1])}</td><td style="min-width:320px">${esc(s[2])}</td><td>${ck(s[3])}</td></tr>`).join('');
+</script>
