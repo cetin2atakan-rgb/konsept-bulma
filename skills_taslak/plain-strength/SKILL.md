@@ -1,5 +1,5 @@
 ---
-name: erkek-guc
+name: plain-strength
 description: İNGİLİZCE erkek güç/fizik kanalı "Plain Strength" için uçtan uca video paketi üretir (~14 dk; erkeklerin görünüşünü ve gücünü değiştiren hatalar ve egzersizler, sonuç/statü odaklı başlıklar; ABD/İngilizce 25-55 erkek kitle; Kokoro am_fenrir; sabit karakter Coach Hal; Video Studio "Plain Strength" kartı = POV hattı). Kullanıcı "Plain Strength", "erkek güç", "erkek fitness kanalı", "fitness kanalı", "kas kanalı", "Mr. White gibi olan kanal", "Coach Hal" dediğinde veya bu kanal için konu, başlık, script, sıralama, prompt, karakter, kaynak, assets istediğinde skill adı geçmese bile MUTLAKA kullan. Her video için sıralama.txt, prompts.txt, karakterler.txt, Assets.txt, kaynaklar.txt, kaynak_listesi.md üretir. Sağlık/tedavi, beslenme-diyet, takviye kanallarıyla karışmaz; bu kanal takviye, doz, kilo verme vaadi vermez. Kanal belirsizse önce sor.
 ---
 
@@ -34,7 +34,9 @@ Kural: başlıkta kas adı değil, başkalarının sende GÖRECEĞİ sonuç (gü
 ## 3. Doğruluk ve sağlık (kesin kural)
 - Kaynaklar: hakemli spor bilimi makaleleri (meta-analiz öncelikli), NSCA, ACSM, ACE, üniversite yayınları.
 - Dil: "a two thousand sixteen review found…", "is linked to", "may help". "Studies show" kaynaksız yazılmaz.
-- YOK: takviye önerisi, doz, kalori/kilo verme vaadi, "X günde Y kilo/santim", steroid, hormon, sakatlık tedavisi, ağrı teşhisi.
+- Serbest: set, tekrar ve haftalık gün sayısı, kaynakta geçen GENEL ARALIK olarak (ör. "a two thousand sixteen review found ten or more weekly sets per muscle linked to more growth"). Kişiye özel program reçetesi gibi sunulmaz.
+- YASAK: ilaç/takviye dozu, kalori ya da gram hesabı, kilo/santim vaadi, "X günde Y" vaadi, steroid, hormon, sakatlık tedavisi, ağrı teşhisi.
+- Beslenme: KARAR BEKLİYOR (Atakan). Karar gelene kadar beslenme konusu işlenmez; yemek, protein, diyet önerisi yok.
 - Her videoda bir kez: ağrı varsa durup bir uzmana danışmak.
 - Uydurma rakam, alıntı, "araştırmacı söyledi" yok; doğrulanamayan çıkarılır.
 
@@ -44,7 +46,7 @@ Kural: başlıkta kas adı değil, başkalarının sende GÖRECEĞİ sonuç (gü
 | Kanca: sonuç vaadi + yaygın hata | 0:00-0:50 | ~120 |
 | Neden: kısa anatomi (hangi kas, neden görüntüyü değiştirir) | 0:50-2:30 | ~250 |
 | 5-7 madde (hata ya da egzersiz): ne, nasıl, neden işe yarar, kaynak | 2:30-12:30 | ~1500 |
-| Basit plan: haftada kaç gün, hangi sırayla (sayı/doz yok, genel ilke) | 12:30-13:30 | ~150 |
+| Basit plan: haftada kaç gün, hangi sırayla; set/tekrar sadece kaynaktaki genel aralık olarak (doz, kalori, vaat yok) | 12:30-13:30 | ~150 |
 | Kapanış: yorum sorusu + sonraki video | son 30 sn | ~80 |
 
 Bölüm kartı (bu kanalda AÇIK): her madde satırı hata videolarında `Mistake two, …`, egzersiz videolarında `Number three, …` kalıbıyla başlar; uygulama bunu NO. kartına çevirir ve YouTube bölüm listesini çıkarır. Bir videoda tek kalıp kullanılır, numaralar ardışık. Kanca, plan ve kapanışta kalıp yok.
@@ -58,20 +60,21 @@ Bölüm kartı (bu kanalda AÇIK): her madde satırı hata videolarında `Mistak
 - Temiz 3D çizgi film tarzı; koyu gri spor salonu arka planı; anlatılan kas sıcak turuncu parlar; stüdyo ışığı.
 - Sabit karakter Coach Hal (rakibin karakterine benzemez). Anatomi sahnelerinde karakter yerine sade kaslı manken.
 - Gösterilmeyecek: gerçek sporcu/ünlü yüzü, marka logosu, şırınga/ilaç, kan, sakatlık yarası, çıplaklık.
-- Egzersiz duruşu doğru çizilmeli (düz sırt, nötr bilek); emin değilsen basit duruş seç.
+- Egzersiz duruşu: Grok hareketin ortasını sık bozar. Karmaşık hareketlerde (deadlift, squat, row, overhead press) görsel hareketin ortası değil, BAŞLANGIÇ ya da BİTİŞ pozisyonu olarak istenir; egzersiz içeren her prompta `correct form, neutral spine` eklenir. Emin değilsen basit duruş seç.
+- Turuncu kas parlaması stil cümlesinde DEĞİLDİR; sadece anatomi/manken promptlarına, sahnenin içine yazılır (`… the rear shoulder muscles glowing warm orange …`). Coach Hal sahnelerinde parlama yok.
 - Ekranda yazı en fazla 3-4 kelime, tırnak içinde.
 - Görsel kareyi baştan sona doldurur; altta boş, düz beyaz ya da krem şerit bırakılmaz.
 - Stil cümlesi (her promptun sonuna AYNEN):
-  `clean stylized 3D cartoon render, dark grey gym background, highlighted muscles glow warm orange, soft studio lighting, 16:9`
+  `clean stylized 3D cartoon render, dark grey gym background, soft studio lighting, 16:9`
 - `karakterler.txt` (her videoda aynı):
   ```
   Hal: muscular cartoon strength coach in his late forties, short grey buzz cut, short grey beard, square jaw, thick neck, olive green zip-up training jacket over a black t-shirt, dark grey joggers, white sneakers, silver whistle on a cord, calm confident expression
   STIL: clean stylized 3D cartoon render, soft studio lighting, plain white background, character reference sheet, front view and three-quarter view, full body
   ```
 - Örnek promptlar:
-  1. `1. [KARAKTER: Hal] standing in an empty gym with arms crossed, looking at the viewer seriously, clean stylized 3D cartoon render, dark grey gym background, highlighted muscles glow warm orange, soft studio lighting, 16:9`
-  2. `2. a simple muscular mannequin seen from behind, the rear shoulder muscles glowing orange, clean stylized 3D cartoon render, dark grey gym background, highlighted muscles glow warm orange, soft studio lighting, 16:9`
-  3. `3. [KARAKTER: Hal] demonstrating a farmer's carry with two heavy dumbbells, straight back, clean stylized 3D cartoon render, dark grey gym background, highlighted muscles glow warm orange, soft studio lighting, 16:9`
+  1. `1. [KARAKTER: Hal] standing in an empty gym with arms crossed, looking at the viewer seriously, clean stylized 3D cartoon render, dark grey gym background, soft studio lighting, 16:9`
+  2. `2. a simple muscular mannequin seen from behind, the rear shoulder muscles glowing warm orange, other muscles plain grey, clean stylized 3D cartoon render, dark grey gym background, soft studio lighting, 16:9`
+  3. `3. [KARAKTER: Hal] standing upright at the start of a farmer's carry, holding two heavy dumbbells at his sides, correct form, neutral spine, clean stylized 3D cartoon render, dark grey gym background, soft studio lighting, 16:9`
 
 ## 7. Ses
 Kokoro `am_fenrir` (yedek `am_onyx`), hız 1.0.
@@ -83,7 +86,8 @@ Kokoro `am_fenrir` (yedek `am_onyx`), hız 1.0.
 
 ## 9. Başlık ve thumbnail
 - İlham kalıpları (kopya değil): `Mistakes That Make Your X Look Y`, `Why Some Men Look Strong Without …`, `The Muscle That Changes How People See You`, `Things You Do Before … That Kill Your Strength`, `Old-School Exercises Strongmen Used Before Gyms`.
-- Kaçın: rakibin kelimeleri ("Dangerous", "Scary", "Explode", "Illegal"), düz kas adı başlığı, kilo/gün vaadi.
+- Rakibin başlığını birebir ya da çok yakın kopyalama; aynı duyguyu kendi kelimelerinle ver ("Hands Built Like Tools", "A Back People Notice"). Tek tek kelimeler (Dangerous, Scary vb.) yasak değildir.
+- Kaçın: düz kas adı başlığı, kilo/gün vaadi, "Illegal" gibi yanıltıcı vaat.
 - Thumbnail: Coach Hal ya da manken, vurgulu kas turuncu, 2-4 kelime ("STOP DOING THIS", "NARROW SHOULDERS?").
 
 ## 10. İş akışı
@@ -100,11 +104,12 @@ Kokoro `am_fenrir` (yedek `am_onyx`), hız 1.0.
 ## 11. Kontrol listesi
 - [ ] sıralama.txt ve prompts.txt satır sayısı eşit
 - [ ] Stil cümlesi her promptta aynen; karakter sahnelerinde `[KARAKTER: Hal]`
-- [ ] Takviye, doz, kilo vaadi, tedavi iddiası yok; uyarı satırı açıklamada
+- [ ] Takviye/ilaç dozu, kalori/gram hesabı, kilo vaadi, tedavi iddiası yok; set/tekrar sadece kaynaktaki genel aralık; uyarı satırı açıklamada
+- [ ] Turuncu parlama sadece anatomi promptlarında; karmaşık egzersizler başlangıç/bitiş pozisyonunda ve `correct form, neutral spine` ile
 - [ ] Her bilimsel iddianın kaynağı ve kaynaklar.txt satırı var
 - [ ] Script'te rakam ve yasaklı simge yok
 - [ ] Görsel sayısı 250'nin altında
-- [ ] Başlıkta rakibin kelimeleri yok
+- [ ] Başlık rakibin bir başlığını birebir ya da çok yakın kopyalamıyor
 - [ ] NO. kart satırları kalıba uygun ve ardışık
 - [ ] Ortak kurallar dosyasının (uretim_kurallari.md) bölüm 5 kontrol listesi de geçti
 

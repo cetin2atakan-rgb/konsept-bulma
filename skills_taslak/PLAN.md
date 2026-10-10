@@ -8,7 +8,7 @@ Kanal adları ve slug'lar geçicidir.
 |---|---|---|---|---|---|
 | grid-down-america | Boring Apocalypse | POV | 20-25 dk | $7.79 | yok |
 | bible-psikoloji | Bible Unlocked | POV (ya da DSH) | 16-19 dk | $12.50 | yok |
-| erkek-guc | Mr. White | POV | ~14 dk | $4.17 | var (ayırt edici antrenör) |
+| plain-strength | Mr. White | POV | ~14 dk | $4.17 | var (ayırt edici antrenör) |
 | why-humans | Ancient Human Files / Mack | POV | 20-25 dk | $3.24-3.73 | var (stickman, rakipten farklı) |
 
 Açık sorular:
