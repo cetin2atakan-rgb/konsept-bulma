@@ -8,7 +8,7 @@ Tutmayan: düz kas grubu başlıkları (chest 315-7K, triceps 297), "illegal tri
 Kural: başlıkta kas adı/teknik konu değil, insanların sende göreceği sonuç ya da yaptığın hata olmalı.
 
 ## Kaçınılacaklar (sağlık kuralı)
-Takviye/ilaç dozu, kalori/gram hesabı, kilo vaadi, "X günde Y", steroid, sakatlık tedavisi. Beslenme: karar bekliyor, şimdilik konu yok.
+Takviye/ilaç dozu, kalori/gram hesabı, kilo vaadi, "X günde Y", steroid, sakatlık tedavisi. Beslenme YASAK (Atakan'ın kararı): diyet, protein, yemek konusu önerilmez. Rakibin "cheapest diet" gibi konuları alınmaz.
 Bilimsel iddia: "bir çalışmada bulundu" dili, kaynaklı.
 
 ## İlk 10 (test edilmedi)

@@ -1,6 +1,6 @@
 ---
 name: plain-strength
-description: İNGİLİZCE erkek güç/fizik kanalı "Plain Strength" için uçtan uca video paketi üretir (~14 dk; erkeklerin görünüşünü ve gücünü değiştiren hatalar ve egzersizler, sonuç/statü odaklı başlıklar; ABD/İngilizce 25-55 erkek kitle; Kokoro am_fenrir; sabit karakter Coach Hal; Video Studio "Plain Strength" kartı = POV hattı). Kullanıcı "Plain Strength", "erkek güç", "erkek fitness kanalı", "fitness kanalı", "kas kanalı", "Mr. White gibi olan kanal", "Coach Hal" dediğinde veya bu kanal için konu, başlık, script, sıralama, prompt, karakter, kaynak, assets istediğinde skill adı geçmese bile MUTLAKA kullan. Her video için sıralama.txt, prompts.txt, karakterler.txt, Assets.txt, kaynaklar.txt, kaynak_listesi.md üretir. Sağlık/tedavi, beslenme-diyet, takviye kanallarıyla karışmaz; bu kanal takviye, doz, kilo verme vaadi vermez. Kanal belirsizse önce sor.
+description: İNGİLİZCE erkek güç/fizik kanalı "Plain Strength" için uçtan uca video paketi üretir (~14 dk; erkeklerin görünüşünü ve gücünü değiştiren hatalar ve egzersizler, sonuç/statü odaklı başlıklar; ABD/İngilizce 25-55 erkek kitle; Kokoro am_fenrir; sabit karakter Coach Hal; Video Studio "Plain Strength" kartı = POV hattı). Kullanıcı "Plain Strength", "erkek güç", "erkek fitness kanalı", "fitness kanalı", "kas kanalı", "Mr. White gibi olan kanal", "Coach Hal" dediğinde veya bu kanal için konu, başlık, script, sıralama, prompt, karakter, kaynak, assets istediğinde skill adı geçmese bile MUTLAKA kullan. Her video için sıralama.txt, prompts.txt, karakterler.txt, Assets.txt, kaynaklar.txt, kaynak_listesi.md üretir. Sağlık/tedavi, beslenme-diyet, takviye kanallarıyla karışmaz; bu kanal beslenme konusu hiç işlemez, takviye, doz, kilo verme vaadi vermez. Kanal belirsizse önce sor.
 ---
 
 # Plain Strength (erkek güç ve fizik, kaynaklı)
@@ -36,7 +36,7 @@ Kural: başlıkta kas adı değil, başkalarının sende GÖRECEĞİ sonuç (gü
 - Dil: "a two thousand sixteen review found…", "is linked to", "may help". "Studies show" kaynaksız yazılmaz.
 - Serbest: set, tekrar ve haftalık gün sayısı, kaynakta geçen GENEL ARALIK olarak (ör. "a two thousand sixteen review found ten or more weekly sets per muscle linked to more growth"). Kişiye özel program reçetesi gibi sunulmaz.
 - YASAK: ilaç/takviye dozu, kalori ya da gram hesabı, kilo/santim vaadi, "X günde Y" vaadi, steroid, hormon, sakatlık tedavisi, ağrı teşhisi.
-- Beslenme: KARAR BEKLİYOR (Atakan). Karar gelene kadar beslenme konusu işlenmez; yemek, protein, diyet önerisi yok.
+- Beslenme: YASAK (Atakan'ın kararı, Ekim 2026). Yemek, protein, diyet, takviye, toz protein, marka, gram/kalori konusu hiçbir videoda işlenmez; başlıkta ve thumbnail'de de geçmez. Konu yalnızca antrenman, duruş, dinlenme düzeni ve görünüştür.
 - Her videoda bir kez: ağrı varsa durup bir uzmana danışmak.
 - Uydurma rakam, alıntı, "araştırmacı söyledi" yok; doğrulanamayan çıkarılır.
 
@@ -104,6 +104,7 @@ Kokoro `am_fenrir` (yedek `am_onyx`), hız 1.0.
 ## 11. Kontrol listesi
 - [ ] sıralama.txt ve prompts.txt satır sayısı eşit
 - [ ] Stil cümlesi her promptta aynen; karakter sahnelerinde `[KARAKTER: Hal]`
+- [ ] Beslenme/diyet/protein konusu yok (yasak)
 - [ ] Takviye/ilaç dozu, kalori/gram hesabı, kilo vaadi, tedavi iddiası yok; set/tekrar sadece kaynaktaki genel aralık; uyarı satırı açıklamada
 - [ ] Turuncu parlama sadece anatomi promptlarında; karmaşık egzersizler başlangıç/bitiş pozisyonunda ve `correct form, neutral spine` ile
 - [ ] Her bilimsel iddianın kaynağı ve kaynaklar.txt satırı var
