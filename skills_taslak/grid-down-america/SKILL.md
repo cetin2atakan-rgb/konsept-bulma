@@ -38,7 +38,7 @@ Kural: izleyicinin YAŞADIĞI YER ve verisi olan somut risk tutar; genel ürün 
 - Sağlık: tedavi, ilaç, ilk yardım adımı anlatılmaz. Gerekirse sadece "official guidance from Ready.gov says…" düzeyinde, kaynaklı ve genel.
 - Silah, patlayıcı, yasa dışı her şey için talimat yok.
 - Güncel savaş/afet haberi kovalanmaz. Konu kalıcı olmalı (eyalet verisi, tarihsel olay, mevsimsel risk).
-- Sıralamalarda yöntem söylenir ("ranked by average outage minutes per customer, EIA 2023").
+- Sıralamalarda yöntem söylenir ("ranked by average outage minutes per customer, EIA 2023"). Kaynak kutusunda böyle görünür: `N: SOURCE: EIA reliability data, SAIDI 2023`. Yöntemin anlatıldığı satıra ve her sıralama maddesinin ilk satırına kutu konur.
 
 ## 4. Video yapısı (toplam 3000-3700 kelime ≈ 20-25 dk, 150 kelime ≈ 1 dk)
 | Bölüm | Süre | Kelime |
@@ -49,22 +49,26 @@ Kural: izleyicinin YAŞADIĞI YER ve verisi olan somut risk tutar; genel ürün 
 | Ters köşe: herkesin güvenli sandığı yer | 20:00-22:00 | ~300 |
 | Kapanış: tek pratik özet + yorum sorusu ("Which state are you watching from?") + sonraki video | son 1 dk | ~150 |
 
-Bölüm kartı: kart açıksa madde satırı `Number seven, …` diye başlar. Kart kapalıysa bu kalıp kullanılmaz.
+Bölüm kartı (bu kanalda AÇIK, videolar liste formatında): her madde satırı `Number seven, …` kalıbıyla başlar; uygulama bunu NO. 7 kartına çevirir ve YouTube bölüm listesini çıkarır. Geri sayım yapılıyorsa numaralar ardışık olmalı (seven, six, … one), atlama yok. Kancada ve kapanışta bu kalıp kullanılmaz; ters köşe bölümü madde değilse o da kalıpsız yazılır.
 
 ## 5. Satır ve görsel temposu
-- 1 satır = 1 görsel. Satır 16-22 kelime, ilk dakikada 8-12 kelime (hızlı görsel değişimi).
+- 1 satır = 1 görsel. Satır 16-22 kelime; ilk dakikada 14-16 kelime (ortak kuraldaki 14-26 alt sınırı geçilmez).
 - Hedef 160-190 görsel (Grok ~51 sn/görsel → ~2.3-2.7 saat). 250'yi geçme; geçiyorsa satırları uzat.
 - Rakamlar yazıyla: `four point two hours`, `nineteen seventy-seven`, `forty percent`. `$`, `%`, `&`, rakam, kısaltma (EIA bile "the Energy Information Administration" ya da "E I A"), emoji, parantez, URL yok.
 
 ## 6. Görsel dil
 - Yarı gerçekçi sinematik dijital resim; soğuk ve soluk renkler; bulutlu ışık; ABD manzaraları (kar altında banliyö, karanlık şehir silueti, trafo, su kulesi, kırsal yol).
+- Stil gerekçesi: rakip beyaz tahta eskizi kullanıyor. Uygulamada çizilme efekti olmadığı için düz beyaz tahta zoom ile sönük durur, sinematik resim de farklılaşma sağlar. Risk: rakibin hit'leri beyaz tahta görünümüyle geldi; ilk 5-10 videoda tıklanma oranı izlenmeli, düşükse stil yeniden düşünülür.
+- Görsel kareyi baştan sona doldurur; altta boş, düz beyaz ya da krem şerit bırakılmaz (altyazı görselin üstüne yazılır).
 - Gösterilmeyecek: kan, ceset, silah doğrultan insan, gerçek ünlü/politikacı yüzü, okunur marka logosu, panik yağması.
-- Harita sahneleri: sade ABD haritası, ilgili eyalet vurgulu; eyalet adı gerekiyorsa tırnak içinde, en fazla 3 kelime.
+- Harita sahneleri için SABİT kalıp (her haritada aynen, sadece eyalet değişir; birden çok eyalet virgülle):
+  `simple flat map of the contiguous United States, [EYALET] highlighted in pale red, other states light gray, no other labels`
+  Eyalet adı ekranda gerekiyorsa kalıbın sonuna `, a small label reading "TEXAS"` eklenir (en fazla 3 kelime). Stil cümlesi yine sona gelir.
 - Stil cümlesi (her promptun sonuna AYNEN):
   `cinematic semi-realistic digital painting, muted cold color palette, soft overcast light, quiet documentary mood, 16:9`
 - Örnek promptlar:
   1. `1. a quiet suburban street at night after a snowstorm, every house dark, one window glowing with candlelight, cinematic semi-realistic digital painting, muted cold color palette, soft overcast light, quiet documentary mood, 16:9`
-  2. `2. a simple map of the United States with Texas highlighted in pale red, a small label reading "TEXAS", cinematic semi-realistic digital painting, muted cold color palette, soft overcast light, quiet documentary mood, 16:9`
+  2. `2. simple flat map of the contiguous United States, Texas highlighted in pale red, other states light gray, no other labels, cinematic semi-realistic digital painting, muted cold color palette, soft overcast light, quiet documentary mood, 16:9`
   3. `3. an old cast iron wood stove in a farmhouse kitchen, a kettle steaming on top, frost on the window, cinematic semi-realistic digital painting, muted cold color palette, soft overcast light, quiet documentary mood, 16:9`
 
 ## 7. Ses
@@ -88,7 +92,8 @@ Kokoro `am_onyx` (yedek `am_michael`), hız 0.95.
 1. Konu verilmediyse `references/video_fikirleri.md`'den 5 öneri sun (neden tutar + kaynak), onay bekle.
 2. Birincil kaynakları bul ve gerçekten aç; rakamları kaynaktan al.
 3. Bölüm planı + kelime hedefi → bölüm bölüm yaz → satırlara böl → betikle say:
-   `python3 -c "import re,sys;L=[l for l in open(sys.argv[1],encoding='utf-8') if re.match(r'^\d+\. ',l)];print(len(L),'satir',sum(len(l.split())-1 for l in L),'kelime')" sıralama.txt`
+   `python -X utf8 -c "import re,sys;L=[l for l in open(sys.argv[1],encoding='utf-8') if re.match(r'^\d+\. ',l)];print(len(L),'satir',sum(len(l.split())-1 for l in L),'kelime')" "sıralama.txt"`
+   (Windows: `python`, `-X utf8` ve tırnaklı dosya adı şart; ı harfi yüzünden tırnaksız yol hata verebilir.)
 4. prompts.txt, Assets.txt, kaynaklar.txt, kaynak_listesi.md.
 5. Kontrol listesi. Teslimde: kelime, tahmini süre, görsel sayısı + Grok süresi, çıkarılan doğrulanamayan iddialar.
 6. Paket: `Desktop\<hafta, ör. 12-18 Ekim>\<gün 1-7>\Grid Down America\`.
@@ -103,3 +108,18 @@ Kokoro `am_onyx` (yedek `am_michael`), hız 0.95.
 - [ ] Sağlık tedavisi, silah talimatı, güncel haber yok
 - [ ] Görsel sayısı 250'nin altında
 - [ ] Başlık rakip başlıklarına benzemiyor, dosya adı için yasaklı karakter yok
+- [ ] NO. kart satırları `Number N, …` kalıbında ve ardışık; kanca/kapanışta kalıp yok
+- [ ] Haritalar sabit kalıpla yazıldı
+- [ ] Ortak kurallar dosyasının (uretim_kurallari.md) bölüm 5 kontrol listesi de geçti
+
+## 12. Uygulama kartı ayarları (Claude Code'da eklenecek)
+- hat: POV
+- ses: Kokoro am_onyx, hız 0.95
+- altyazı: none
+- NO. bölüm kartı: açık
+- geçiş sesi (sfx): kapalı
+- gren: 1
+- vinyet: açık
+- geçiş: fade
+- karakter onayı: yok (karakterler.txt üretilmez)
+- görsel kaynağı: Grok

@@ -14,14 +14,14 @@ korku pazarlaması, ürün satışı, tekrar başlık.
 
 ## İlk 10 (önerilen sıra; hepsi test edilmedi, kaynaklar üretimde açılıp doğrulanacak)
 1. The 7 US States Where the Power Goes Out Longest (and Why). Gerekçe: eyalet sıralaması + veri. Kaynak: EIA elektrik güvenilirlik verisi (SAIDI, eyalet bazında).
-2. Hour by Hour: What Happens in the First 72 Hours of a Nationwide Blackout. Gerekçe: kış kesintisi kalıbı. Kaynak: 2003 Northeast Blackout, US-Canada Power System Outage Task Force raporu.
+2. Hour by Hour: What Happens in the First 72 Hours of a Nationwide Blackout. Gerekçe: kış kesintisi kalıbı. Kaynak: 2003 Northeast Blackout, US-Canada Power System Outage Task Force raporu. Not: spekülasyona kaymasın; saat saat akış 2003 raporundaki gerçek olaylara dayanır, raporda olmayan an anlatılmaz. Böyle kurulamıyorsa konuyu bırak.
 3. Texas 2021: The 4 Days the Grid Almost Collapsed. Gerekçe: gerçek olay + kış. Kaynak: FERC-NERC February 2021 Cold Weather raporu.
 4. The US Cities That Freeze First When the Grid Fails. Gerekçe: şehir sıralaması. Kaynak: Census ACS konut ısıtma yakıtı (elektrikli ısıtma oranı).
 5. How Americans Survived Winter Before Central Heating. Gerekçe: old-timers kalıbı. Kaynak: Smithsonian / müze kayıtları.
 6. 7 Old Inventions That Still Work Without Electricity. Gerekçe: icat/çözüm kalıbı. Kaynak: müze ve patent kayıtları.
 7. Where Water Runs Out First: The Most Water-Stressed US Counties. Gerekçe: su + yer. Kaynak: USGS su kullanımı verisi, WRI Aqueduct.
 8. The Dust Bowl Towns That Survived and the Ones That Vanished. Gerekçe: tarih + yer. Kaynak: USDA, Library of Congress.
-9. Why Rural Towns Run Out of Food Before Suburbs Do. Gerekçe: yer + ters köşe. Kaynak: USDA Food Access Research Atlas.
+9. Why Rural Towns Run Out of Food Before Suburbs Do. Gerekçe: yer + ters köşe. Kaynak: USDA Food Access Research Atlas. Not: tez doğrulanmazsa bırak (veri tezi desteklemiyorsa video yapılmaz).
 10. The 1977 New York Blackout: What 25 Hours Without Power Did to a City. Gerekçe: gerçek olay. Kaynak: dönemin resmi raporları, ciddi basın arşivi.
 
 ## Yedekler

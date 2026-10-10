@@ -47,10 +47,10 @@ Kural: başlıkta kas adı değil, başkalarının sende GÖRECEĞİ sonuç (gü
 | Basit plan: haftada kaç gün, hangi sırayla (sayı/doz yok, genel ilke) | 12:30-13:30 | ~150 |
 | Kapanış: yorum sorusu + sonraki video | son 30 sn | ~80 |
 
-Bölüm kartı: kart açıksa `Mistake two, …` ya da `Number three, …` ile başlar; kapalıysa kullanılmaz.
+Bölüm kartı (bu kanalda AÇIK): her madde satırı hata videolarında `Mistake two, …`, egzersiz videolarında `Number three, …` kalıbıyla başlar; uygulama bunu NO. kartına çevirir ve YouTube bölüm listesini çıkarır. Bir videoda tek kalıp kullanılır, numaralar ardışık. Kanca, plan ve kapanışta kalıp yok.
 
 ## 5. Satır ve görsel temposu
-- 1 satır = 1 görsel. Satır 13-17 kelime, ilk dakikada 8-10 kelime.
+- 1 satır = 1 görsel. Satır 14-18 kelime (ortak kuraldaki 14-26 alt sınırı geçilmez).
 - Hedef 130-160 görsel (Grok ~1.9-2.3 saat). 250'yi geçme.
 - Rakamlar yazıyla: `three sets`, `twenty sixteen`. `$`, `%`, `&`, rakam, kısaltma, emoji, parantez, URL yok.
 
@@ -60,6 +60,7 @@ Bölüm kartı: kart açıksa `Mistake two, …` ya da `Number three, …` ile b
 - Gösterilmeyecek: gerçek sporcu/ünlü yüzü, marka logosu, şırınga/ilaç, kan, sakatlık yarası, çıplaklık.
 - Egzersiz duruşu doğru çizilmeli (düz sırt, nötr bilek); emin değilsen basit duruş seç.
 - Ekranda yazı en fazla 3-4 kelime, tırnak içinde.
+- Görsel kareyi baştan sona doldurur; altta boş, düz beyaz ya da krem şerit bırakılmaz.
 - Stil cümlesi (her promptun sonuna AYNEN):
   `clean stylized 3D cartoon render, dark grey gym background, highlighted muscles glow warm orange, soft studio lighting, 16:9`
 - `karakterler.txt` (her videoda aynı):
@@ -89,7 +90,8 @@ Kokoro `am_fenrir` (yedek `am_onyx`), hız 1.0.
 1. Konu verilmediyse `references/video_fikirleri.md`'den 5 öneri sun (neden tutar + kaynak), onay bekle.
 2. Kaynak makaleleri bul ve gerçekten aç (özet en azından); sonucu doğru aktar.
 3. Bölüm planı → yaz → satırlara böl → betikle say:
-   `python3 -c "import re,sys;L=[l for l in open(sys.argv[1],encoding='utf-8') if re.match(r'^\d+\. ',l)];print(len(L),'satir',sum(len(l.split())-1 for l in L),'kelime')" sıralama.txt`
+   `python -X utf8 -c "import re,sys;L=[l for l in open(sys.argv[1],encoding='utf-8') if re.match(r'^\d+\. ',l)];print(len(L),'satir',sum(len(l.split())-1 for l in L),'kelime')" "sıralama.txt"`
+   (Windows: `python`, `-X utf8` ve tırnaklı dosya adı şart; ı harfi yüzünden tırnaksız yol hata verebilir.)
 4. Diğer dosyalar.
 5. Kontrol listesi. Teslimde: kelime, tahmini süre, görsel sayısı + Grok süresi, çıkarılan iddialar.
 6. Paket: `Desktop\<hafta>\<gün 1-7>\Plain Strength\`.
@@ -103,3 +105,17 @@ Kokoro `am_fenrir` (yedek `am_onyx`), hız 1.0.
 - [ ] Script'te rakam ve yasaklı simge yok
 - [ ] Görsel sayısı 250'nin altında
 - [ ] Başlıkta rakibin kelimeleri yok
+- [ ] NO. kart satırları kalıba uygun ve ardışık
+- [ ] Ortak kurallar dosyasının (uretim_kurallari.md) bölüm 5 kontrol listesi de geçti
+
+## 12. Uygulama kartı ayarları (Claude Code'da eklenecek; ÖNERİ, Atakan onaylamadı)
+- hat: POV
+- ses: Kokoro am_fenrir, hız 1.0
+- altyazı: none
+- NO. bölüm kartı: açık
+- geçiş sesi (sfx): kapalı
+- gren: 0
+- vinyet: kapalı
+- geçiş: fade
+- karakter onayı: var (karakterler.txt, Coach Hal)
+- görsel kaynağı: Grok

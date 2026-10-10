@@ -15,3 +15,11 @@ Açık sorular:
 1. bible-psikoloji, Silver Thread Bible ile çakışır. Yeni kanal mı, yoksa konular Silver Thread'e mi?
 2. why-humans: rakip (AHF) zaten Mack kopyası; 3. giren olacağız. Farklı açı şart.
 3. Kapasite: 4 kanal x günlük video = gecede ~4 x 2.3 saat Grok (tahmin). Mümkün mü?
+
+## Skill yazım dersleri (grid-down-america kontrolünden, Ekim 2026)
+- Ortak dosya (uretim_kurallari.md vb.) verilmemişse taklit edip doldurma; "şu dosya eksik, gönder" de, paketi bitmiş sayma.
+- Bölüm kartı ayarı kesin yazılır (açık/kapalı + hangi kalıp + ardışık numara + kanca/kapanışta yok).
+- Komutlar Windows için: `python -X utf8 ... "sıralama.txt"`.
+- Her SKILL.md sonunda "Uygulama kartı ayarları" bölümü olur.
+- Görsel stil seçimi rakipten farklıysa gerekçe + risk yazılır; tekrar eden sahne tipine (harita) sabit prompt kalıbı verilir.
+- Zayıf tezli fikirlere "tez doğrulanmazsa bırak" notu düşülür.
