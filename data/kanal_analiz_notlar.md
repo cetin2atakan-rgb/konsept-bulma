@@ -69,3 +69,37 @@ Desen: Tabu/günlük merak (sigara, alkol, regl, ırk, mahremiyet, akıl hastal�
 Tutan: POV: You Became the Rich Friend — Then Things Got Awkward 363K; Stop Chasing Status, Live Like Old Money 362K; Pay Off House While Everyone Else Has Mortgage 248K; Keep Same Car 10 Years 236K; Paying Cash for Cars 217K; Skip College Learn a Trade 216K
 Tutmayan: Retired at 35/45 12-13K; coworkers thought broke 11K; richer than friends weird 11K (ilk hitin tekrarı); corporate ladder 10K; wealthiest in circle 14K; learn trade at 18 15K (tekrar)
 Desen: POV + somut tek karar (ev borcunu kapat, arabayı 10 yıl kullan, nakit al, meslek öğren) + sosyal karşılaştırma tutuyor. Erken emeklilik fantezisi (35'te emekli) ve aynı hitin varyasyonları tutmuyor → tekrar edilen fikirler hızla düşüyor.
+
+# 2. TUR – SON VİDEOLAR (newest, 10 Ekim 2026)
+## Mr. Finance newest: drone network 1.3K (10s), desalination 2.3K (1g), nuclear depository 3.5K, oil refinery 3.9K, underwater cable 3.5K, ice cream shop 13K (11g), wedding venue 7.5K, brewery 4.4K, zoo 4K, nail salon 4.5K, racehorse 8.8K, vending machine 16K, funeral home 4.4K, payday loan 30K, vineyard 16K, cell tower 6.7K, bail bonds 11K, landfill 11K, superyacht 14K, port 32K, toll road 22K, Airbnb 20K
+→ DÜŞÜŞTE. Popüler videolar 100-305K iken son 3 haftanın ortalaması ~10K, son 5 video (altyapı/soyut) 1.3-3.9K. Atakan'ın notu doğrulandı.
+## Mack newest: conspiracy 23 (31dk), first spear 1.5K, gold 2.7K, famines 7.8K, earth backwards 1.2K, sound terrified 4.6K, nuclear bomb 1.9K, wisdom teeth 8.4K, run on water 2.9K, do humans exist 9.7K, metal 14K, body abnormalities 6K, Neanderthal DNA 11K, horses 5.4K, slavery 17K, America 16K, salt 13K, never buried 5.8K, chicken eggs 8K, FROZEN NORTH 221K, children 6.6K, insects 38K, pig/dog milk 6.2K, taxes 3.9K
+→ DÜŞÜŞTE. Haziran-Temmuz 0.3-1.7M; son 3 haftada 1 hit (221K), gerisi 1-17K. Konu "insan bedeni/tabu"dan "icatlar/genel tarih"e kaymış.
+## Marcus Explains newest: Motels (It's Not Rooms) 30K (19 saat), Thrift Stores 38K (2g), All-Inclusive Resorts 250K (4g), food delivery 33K, dating app 10K, fake designer 38K, airport 27K, buffets 369K, gas station 27K, dollar stores 101K, F1 27K, pawn shops 383K, boxing gym 9K, tuning 6.6K, used car 143K, rap labels 149K, arms dealer 16K, festivals 82K, defence 13K, sports teams 123K, souvenir 97K, $15 gym 69K, music labels 378K, casinos 28K, scalping 5.2K, loan shark 5.7K, nightclubs 364K, hitman 23K
+→ YÜKSELİŞTE/SABİT. Son 10 günde 250K'lık hit; taban ~25-35K. 20K abone duyurusu 28 Eylül → hızlı büyüme.
+
+## 2. TUR – Batch metrikleri (job 2b657812, 2026-10-10)
+| Kanal | RPM | ort. izlenme | ort. süre | monetize |
+|---|---|---|---|---|
+| Holmes Legacy | 23.01 | 17,407 | 117.6 dk | **HAYIR** |
+| Boring Apocalypse | 7.79 | 13,286 | 26.3 | evet |
+| Ancient Human Files | 3.24 | 10,794 | 23.1 | evet |
+| Simpson Explains | 2.70 | 18,817 | 8.9 | evet |
+| Mr. White | 4.17 | 12,915 | 14.2 | evet |
+| Bible Unlocked | 12.50 | 22,540 | 17.9 | evet |
+| Mr. Finance | 2.42 | 30,714 | 23.5 | evet |
+| Rick Finance | 3.27 | 13,076 | 16.2 | evet |
+| Survival Guy | 3.71 | 11,614 | 30.8 | evet |
+| Grandpa Walter | 3.28 | 27,930 | 20.9 | evet |
+
+## 2. TUR – Son videolar (newest, ~son 4 hafta)
+- Boring Apocalypse: çok dalgalı. Tutan: 6 States Ungovernable 116K, Grid-Independent inventions 99K, Winter Blackout 93K, Survival Drinks 80K, Old-Timers winter 39K, Dangerous People 25K. Tutmayan: diş/sağlık 413, Dollar Tree 882, donan araba 501, burglar 354-2.1K. Son 2 hafta medyan ~1.6K.
+- Ancient Human Files: günlük yükleme, konu "antik"ten genel "Why do humans..." beden/psikolojiye kaydı. Tutan: predators sleep 139K, spiders 89K, fall asleep 46K, chili 44K, right handed 44K. Tutmayan: dark 338, walking 486, writing 733. Taban ~10K.
+- Simpson Explains: kural net. TV ayarı: calibrate 134K, game mode 97K, Netflix 4K 40K, PS5 next-gen 37K, DVD 37K. TV dışı (borax, jeans, araba, solar, scammer): 300-1.7K.
+- Mr. White: istikrarlı. 339K (after workout), 239K (hands dangerous), 95K punch, 76K scary body, 66K traps; taban ~7K. Flop: 'illegal tricks' 2.4K, triceps 297, chest 30 days 315.
+- Bible Unlocked: günlük, taban ~10K. Tutan: 109K (love without taken advantage), 60K exhaustion rebuilding, 44K waiting, 40K Matthew 11, 25K exhaustion signs. Zayıf: anxiety 2.3K, let go 2K. Tema: yorgunluk/bekleme/overthinking.
+- Rick Finance: istikrarlı, taban ~6-10K. Tutan: 5 Wealth Levels 73K, Saving Barely Matters 57K, Above Average Retiree 50K, Compounding point 47K. Kalıp: "Once you hit THIS number".
+- Grandpa Walter: Tutan: magnetic field 111K, ammonium nitrate 45K, magnet destroys itself 42K, 45-Tesla body 37K, helium 50K. Tutmayan: copper pipes 661, wave energy 1K, bacon nitrite 1.2K. Kural: tehlike/limit + beden.
+- CalmaBro: ARTIK İNGİLİZCE BAŞLIKLAR DA ATIYOR (son 2 hafta çoğu İngilizce). İng: dog attacks your dog 471K, bees 191K, rat toilet 163K, tick 78K, kidnapped 57K, boar 48K, subway 42K. İsp: cucaracha 782K, jauría 334K, multitud 224K. → İngilizce boşluk iddiası zayıfladı, orijinal kendisi giriyor.
+- Money Life POV: düşüşte. Eylül: 79K, 70K, 63K, 45K, 38K. Son 10 gün: 80-21K, çoğu 2-10K. Süre 12→27 dk uzamış.
+- Survival Guy: haber kovalayan, kural gereği elendi (son liste çekilmedi).
