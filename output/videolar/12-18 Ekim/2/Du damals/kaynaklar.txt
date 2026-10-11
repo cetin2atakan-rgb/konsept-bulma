@@ -1,0 +1,11 @@
+21: QUELLE: Chronik der Mauer
+27: QUELLE: bpb, Fluchtbewegung
+28: QUELLE: LeMO, Flucht und Notaufnahme
+31: QUELLE: bpb, Mauerbau 1961
+41: QUELLE: Chronik der Mauer, Mauerbau
+55: QUELLE: Stiftung Berliner Mauer
+66: QUELLE: Chronik der Mauer
+73: QUELLE: DHM, Der Sprung 1961
+84: QUELLE: Chronik der Mauer, Todesopfer
+106: QUELLE: bpb, Passierscheinabkommen 1963
+119: QUELLE: Stiftung Berliner Mauer

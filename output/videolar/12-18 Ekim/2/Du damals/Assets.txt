@@ -1,0 +1,36 @@
+# Video 02 Assets: 13. August 1961
+
+## TITLE (selected)
+13. August 1961: Du wachst in Berlin auf, und die Stadt ist geteilt
+
+## Title options
+1. 13. August 1961: Du wachst in Berlin auf, und die Stadt ist geteilt
+2. Was wäre, wenn du am Tag des Mauerbaus in Ost-Berlin aufgewacht wärst?
+3. Über Nacht geteilt: Dein 13. August 1961 in Berlin
+
+## Description
+Sonntag, 13. August 1961: Du wachst in Ost-Berlin auf, und am Ende deiner Straße liegt Stacheldraht. Deine Schwester wohnt fünf Minuten entfernt, auf der anderen Seite. Erlebe den Tag des Mauerbaus und die Wochen danach als Grenzgänger, der über Nacht seine Arbeit im Westen verliert.
+
+Was geschah in der Nacht zum 13. August? Was bedeutete die Mauer für Familien, Grenzgänger und die Menschen in der Bernauer Straße? Und wann konnten sich getrennte Familien zum ersten Mal wiedersehen?
+
+Hat deine Familie eine Geschichte von der Mauer? Schreib sie in die Kommentare.
+
+Die Hauptfigur ist fiktiv. Die geschilderten Umstände beruhen auf historischen Quellen, die unten aufgeführt sind.
+
+Quellen:
+Chronik der Mauer (bpb, ZZF Potsdam, Deutschlandradio)
+Stiftung Berliner Mauer, Gedenkstätte Bernauer Straße
+Bundeszentrale für politische Bildung, Mauerbau und Fluchtbewegung
+LeMO, Haus der Geschichte
+Deutsches Historisches Museum, Der Sprung 1961
+Landeszentrale für politische Bildung Baden-Württemberg, Mauerbau
+
+#Mauerbau #BerlinerMauer #Geschichte
+
+## Thumbnail Prompts (3)
+1. [KARAKTER: Held] large in the foreground wearing a white undershirt, mustard yellow knitted scarf, gripping a window frame with a shocked face, behind him a Berlin street blocked by barbed wire and uniformed men at sunrise, 1961, big bold text "ÜBER NACHT GETEILT", simple flat 2D cartoon, minimalist characters with round heads in a flat warm skin tone, small black oval eyes, short simple eyebrows and a small mouth, no nose, hair drawn as one solid shape, thick clean black outlines, flat muted period colors, no shading, simple uncluttered backgrounds, historically accurate clothing and objects, 16:9, any text short and in capital letters
+2. [KARAKTER: Held] in a light blue 1961 shirt with mustard yellow scarf on one side of barbed wire and [KARAKTER: Heldin] in a floral dress with mustard yellow scarf crying and waving on the other side, Bernauer Strasse 1961, big bold text "13. AUGUST 1961", simple flat 2D cartoon, minimalist characters with round heads in a flat warm skin tone, small black oval eyes, short simple eyebrows and a small mouth, no nose, hair drawn as one solid shape, thick clean black outlines, flat muted period colors, no shading, simple uncluttered backgrounds, historically accurate clothing and objects, 16:9, any text short and in capital letters
+3. split image: left a sunny open Berlin street with people walking freely, right the same street with a grey wall and barbed wire, [KARAKTER: Held] with mustard yellow scarf standing in the middle looking at the viewer, big bold text "MORGEN IST ALLES ANDERS", simple flat 2D cartoon, minimalist characters with round heads in a flat warm skin tone, small black oval eyes, short simple eyebrows and a small mouth, no nose, hair drawn as one solid shape, thick clean black outlines, flat muted period colors, no shading, simple uncluttered backgrounds, historically accurate clothing and objects, 16:9, any text short and in capital letters
+
+## SEO Tags
+Mauerbau, 13. August 1961, Berliner Mauer, Mauerbau 1961, Bernauer Straße, Grenzgänger, DDR Geschichte, Ost-Berlin, West-Berlin, geteiltes Berlin, Stacheldraht Berlin, Geisterbahnhöfe, Passierscheinabkommen, deutsche Teilung, Geschichte Deutschland, Was wäre wenn, Geschichte animiert, Kalter Krieg, Ulbricht Mauer, Niemand hat die Absicht
