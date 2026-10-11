@@ -59,7 +59,7 @@ description: ALMANCA yakın tarih POV kanalı "Du, damals" için video paketi ü
 - Ekranda yazı en fazla 2-3 kelime, tırnak içinde, basit kelime (`"MÜNCHEN HBF"`, `"1961"`, `"180 MARK"`). Uzun Almanca cümle yazdırma.
 - Gerçek ünlü/politikacı yüzü yok; gerçek kişi gerekiyorsa uzaktan/arkadan, tanınmaz figür. Nazi sembolü yok. Kan, yara yakın planı yok.
 - **Stil cümlesi** (her promptun sonuna AYNEN):
-  `simple flat 2D cartoon, minimalist characters with round heads in a flat warm skin tone, small black oval eyes, short simple eyebrows and a small mouth, no nose, hair drawn as one solid shape, thick clean black outlines, flat muted period colors, no shading, simple uncluttered backgrounds, historically accurate clothing and objects, 16:9, any text short and in capital letters`
+  `simple flat 2D cartoon, minimalist characters with round heads in a flat warm skin tone, small black oval eyes, short simple eyebrows and a small mouth, no nose, hair drawn as one solid shape, thick clean black outlines, flat muted period colors, no shading, simple uncluttered backgrounds, historically accurate clothing and objects, 16:9, never write any character name or label on the image, no captions, only real signs or objects may show text, short and in capital letters`
 - Görsel kareyi baştan sona doldurur; altta boş şerit yok.
 
 ### Karakterler (`karakterler.txt`, SABİT KADRO)
@@ -71,7 +71,7 @@ Kanalın yüzü **sabit iki kahramandır**: izleyici "du"dur ve her videoda ayn�
 - Ayırt edici işaret (her sahnede görünmeli, dönemden bağımsız): Held'de boynunda, Heldin'de omzuna atılmış **hardal sarısı örgü atkı**. Thumbnail'de de hep bu sarı detay var.
 - **Kalabalık kuralı (Grok kopyalama sorunu):** Grok, `[KARAKTER: Ad]` olan sahnede diğer insanları da kahramana benzetebiliyor. Bu yüzden:
   - `[KARAKTER: …]` etiketini SADECE devamlılığı olan kişiye koy (kahraman, Heldin, videoya özgü yan karakter). Kasabadaki halk, kuyruk, işçiler, polis, memur, aile üyeleri gibi tek seferlik kişiler etiketsiz, rastgele karakterdir.
-  - Kahramanla birlikte başka insan da görünen her promptun sonuna (stil cümlesinden önce) şunu ekle: `only Held is the recurring character: every other person in the scene is a different random person with a clearly different face shape, hairstyle, age and clothing, and no one else wears a mustard yellow scarf` (iki etiketli kişi varsa `only Held and Heldin are the recurring characters: …`).
+  - Kahramanla birlikte başka insan da görünen her promptun sonuna (stil cümlesinden önce) şunu ekle: `only the characters from the reference sheets are recurring: every other person in the scene is a different random person with a clearly different face shape, hairstyle, age and clothing, and no one else wears a mustard yellow scarf`. Bu cümlede karakter ADI YAZILMAZ (ad yazılırsa Grok görsele "HELD" diye etiket basabiliyor).
   - Hardal atkı yalnızca etiketli ana karakterlerde olur; başka hiçbir figüre atkı yazma.
 - Her video ayrıca en çok 2 **videoya özgü yan karakter** tanımlayabilir (doktor, usta, komşu). Yan karakter adları videoya özgü olmalı (`Doktor1964`, `Meister1958`): uygulama onaylanan karakteri adıyla saklar ve aynı adı sonraki videolarda tekrar getirir.
 
@@ -79,7 +79,7 @@ Kanalın yüzü **sabit iki kahramandır**: izleyici "du"dur ve her videoda ayn�
 ```
 Held: simple flat cartoon young man, round head with flat warm light-brown skin tone, short dark brown hair drawn as one solid shape with a small side parting, small black oval eyes, short simple eyebrows, small friendly mouth, no nose, slim body, mustard yellow knitted scarf around his neck, plain white shirt and brown trousers on the reference sheet
 Heldin: simple flat cartoon young woman, round head with flat warm light-brown skin tone, dark brown hair in a small low bun drawn as one solid shape, small black oval eyes, short simple eyebrows, small friendly mouth, no nose, mustard yellow knitted scarf over her shoulders, cream blouse and dark skirt on the reference sheet
-STIL: simple flat 2D cartoon, minimalist characters with round heads in a flat warm skin tone, small black oval eyes, short simple eyebrows and a small mouth, no nose, thick clean black outlines, flat colors, no shading, plain white background, character reference sheet, front view and three-quarter view, full body
+STIL: simple flat 2D cartoon, minimalist characters with round heads in a flat warm skin tone, small black oval eyes, short simple eyebrows and a small mouth, no nose, thick clean black outlines, flat colors, no shading, plain white background, character reference sheet, front view and three-quarter view, full body, no text, no name labels, no captions anywhere on the sheet
 ```
 - Referans sayfasında kıyafet bilerek sade; dönem kıyafetini **her sahne promptunda** açıkça yaz: `[KARAKTER: Held] wearing a grey 1960s suit jacket and flat cap, …`. Sarı atkı her promptta tekrar edilir: `… still wearing his mustard yellow scarf …`.
 - Yaş konuya göre değişmez (hep yirmili yaşların ortası), çünkü kahraman "sensin". Hikâye yıllara yayılıyorsa en fazla "a few years older, tired" gibi hafif değişiklik yaz.
@@ -103,6 +103,7 @@ STIL: simple flat 2D cartoon, minimalist characters with round heads in a flat w
 - **Assets.txt** — Almanca: `## TITLE (selected)` altında tek satır başlık; Title options, Description (2-3 paragraf + uyarı satırı + kısa kaynak listesi + hashtag), Thumbnail Prompts (3, İngilizce), SEO Tags (Almanca).
 - **kaynaklar.txt** — `N: QUELLE: Kurum, Yıl`.
 - **kaynak_listesi.md** — insan için ayrıntılı liste.
+- **TR_ceviri.txt** — script'in satır numaralı Türkçe çevirisi (Atakan Almanca bilmiyor; HER videoda zorunlu). Dosya adında "sıralama" geçmez, yoksa Video Studio onu script sanar.
 - Açıklama uyarı satırı (her videoda): `Die Hauptfigur ist fiktiv. Die geschilderten Umstände beruhen auf historischen Quellen, die unten aufgeführt sind.`
 
 ## 10. Başlık ve thumbnail

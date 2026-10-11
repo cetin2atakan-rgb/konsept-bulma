@@ -16,7 +16,7 @@ Yapılan konunun başına `[YAPILDI, video N, <klasör>]` yaz. Tüm tarih ve rak
 5. **1946: Dein Leben als Trümmerfrau.** Yıkıntılar, karne, açlık kışı. Kaynak: LeMO, bpb, şehir arşivleri. (Not: "Trümmerfrau" efsanesi ile gerçek oranlar tartışmalı; tartışmayı dürüstçe yansıt.)
 6. **Was wäre, wenn du 1955 als Gastarbeiter aus Italien gekommen wärst?** İlk anlaşma (İtalya, 1955), tarım ve sanayi işleri. Kaynak: DOMiD, bpb.
 7. **Dein erstes Jahr als Bergmann im Ruhrgebiet, 1958.** Yeraltı vardiyası, kömür ocağı kolonileri (Zechensiedlung), Kumpel kültürü. Kaynak: Deutsches Bergbau-Museum, LeMO.
-8. **9. November 1989: Du bist in Ost-Berlin, als die Mauer fällt.** Schabowski'nin açıklaması, sınır kapıları, ilk Batı ziyareti, "Begrüßungsgeld". Kaynak: Stiftung Berliner Mauer, bpb.
+8. [YAPILDI, video 3, 12-18 Ekim\3] **9. November 1989: Du bist in Ost-Berlin, als die Mauer fällt.** Schabowski'nin açıklaması, sınır kapıları, ilk Batı ziyareti, "Begrüßungsgeld". Kaynak: Stiftung Berliner Mauer, bpb.
 9. **1923: Dein Leben in der Hyperinflation.** Maaş günde iki kez ödeniyor, el arabası dolusu para, birikimlerin yok oluşu. Kaynak: Bundesbank, DHM.
 10. **1885: Du wanderst über Bremerhaven nach Amerika aus.** Alman göçmenler, gemi yolculuğu, Ellis Island öncesi Castle Garden. Kaynak: Deutsches Auswandererhaus Bremerhaven.
 
