@@ -1,0 +1,16 @@
+# Stil testi: Stiltest 1 Sade renkli
+
+## TITLE (selected)
+Stiltest 1 Sade renkli
+
+## Title options
+1. Stiltest 1 Sade renkli
+
+## Description
+Stil testi, yayınlanmayacak.
+
+## Thumbnail Prompts (3)
+1. [KARAKTER: Held] wearing a grey 1960s suit jacket, white shirt, brown trousers and a flat cap, mustard yellow knitted scarf around his neck stepping off a train at night onto a platform with a sign reading "GLEIS 11", tired but amazed, Munich main station, 1964, simple flat 2D cartoon, minimalist characters with round heads in a flat warm skin tone, small black oval eyes, short simple eyebrows and a small mouth, no nose, hair drawn as one solid shape, thick clean black outlines, flat muted period colors, no shading, simple uncluttered backgrounds, historically accurate clothing and objects, 16:9, any text short and in capital letters
+
+## SEO Tags
+test

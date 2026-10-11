@@ -1,0 +1,16 @@
+# Stil testi: Stiltest 4 Kagit kolaj
+
+## TITLE (selected)
+Stiltest 4 Kagit kolaj
+
+## Title options
+1. Stiltest 4 Kagit kolaj
+
+## Description
+Stil testi, yayınlanmayacak.
+
+## Thumbnail Prompts (3)
+1. [KARAKTER: Held] wearing a grey 1960s suit jacket, white shirt, brown trousers and a flat cap, mustard yellow knitted scarf around his neck stepping off a train at night onto a platform with a sign reading "GLEIS 11", tired but amazed, Munich main station, 1964, paper cut-out collage illustration, characters and objects made of flat cut colored construction paper with visible paper fibers and slightly uneven cut edges, small drop shadows between paper layers, simple faces with paper-dot eyes and small cut-paper mouth, backgrounds layered from faded sepia period photo textures and torn paper, muted retro colors, historically accurate clothing and objects, 16:9, any text short and in capital letters cut from paper
+
+## SEO Tags
+test

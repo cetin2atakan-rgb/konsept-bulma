@@ -1,0 +1,16 @@
+# Stil testi: Stiltest 2 Defter
+
+## TITLE (selected)
+Stiltest 2 Defter
+
+## Title options
+1. Stiltest 2 Defter
+
+## Description
+Stil testi, yayınlanmayacak.
+
+## Thumbnail Prompts (3)
+1. [KARAKTER: Held] wearing a grey 1960s suit jacket, white shirt, brown trousers and a flat cap, mustard yellow knitted scarf around his neck stepping off a train at night onto a platform with a sign reading "GLEIS 11", tired but amazed, Munich main station, 1964, hand-drawn sketchbook illustration on cream lined notebook paper, slightly wobbly pencil and black felt-tip pen lines, mostly grey and black linework with only a few muted color accents, the mustard yellow scarf as the brightest color, simple characters with big heads and small bodies, loose hatching instead of shading, historically accurate clothing and objects, 16:9, any text short and in capital letters handwritten
+
+## SEO Tags
+test
