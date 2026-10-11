@@ -1,0 +1,38 @@
+# Video 01 Assets: Gastarbeiter 1964
+
+## TITLE (selected)
+Was wäre, wenn du 1964 als Gastarbeiter aus der Türkei nach Deutschland gekommen wärst
+
+## Title options
+1. Was wäre, wenn du 1964 als Gastarbeiter aus der Türkei nach Deutschland gekommen wärst?
+2. Istanbul – München, Gleis 11: Dein erstes Jahr als Gastarbeiter 1964
+3. Zwei Jahre wolltest du bleiben: Dein Leben als Gastarbeiter 1964
+
+## Description
+Istanbul, 1964: Ein deutscher Arzt prüft deine Zähne, und davon hängt ab, ob du nach Deutschland darfst. Erlebe die Reise eines jungen Gastarbeiters aus der Türkei, von der Deutschen Verbindungsstelle in Istanbul über Gleis 11 in München bis ans Fließband in Köln.
+
+Wie lief die Anwerbung ab? Wie lebte man im Wohnheim, wie viel verdiente man, und warum blieben so viele, obwohl sie nur zwei Jahre bleiben wollten? In diesem Video erlebst du es selbst.
+
+Kam deine Familie auch so nach Deutschland? Schreib ihre Geschichte in die Kommentare.
+
+Die Hauptfigur ist fiktiv. Die geschilderten Umstände beruhen auf historischen Quellen, die unten aufgeführt sind.
+
+Quellen:
+Bundeszentrale für politische Bildung, Dossier Anwerbeabkommen
+Landeszentrale für politische Bildung Baden-Württemberg, 60 Jahre Anwerbeabkommen, 2021
+DOMiD, Dokumentationszentrum und Museum über die Migration in Deutschland
+Haus der Bayerischen Geschichte, Gleis 11
+Deutsches Historisches Museum, Ein Moped für den millionsten Gastarbeiter
+Lebenswege, Online-Migrationsmuseum Rheinland-Pfalz
+IG Metall, Reise ins Ungewisse
+Ilkılıç u. a., Medical selection in the recruitment of migrant workers, 2014
+
+#Gastarbeiter #Geschichte #Anwerbeabkommen
+
+## Thumbnail Prompts (3)
+1. [KARAKTER: Held] large in the foreground wearing a grey 1960s suit jacket and flat cap, mustard yellow knitted scarf, holding a cardboard suitcase tied with string, hopeful but nervous wide-eyed face, behind him a long 1960s train at Munich main station with a sign reading "GLEIS 11", big bold text "ALLES ZURÜCKLASSEN", clean 2D vector cartoon illustration, thick dark outlines, warm muted period colors, soft shading, expressive faces, historically accurate details, 16:9, any text short and in capital letters
+2. [KARAKTER: Held] in a plain white shirt with mustard yellow scarf, a German doctor in a white coat looking into his open mouth with a dental mirror, Held's eyes huge with surprise, Istanbul 1964 examination room, big bold text "ZÄHNE ZEIGEN", clean 2D vector cartoon illustration, thick dark outlines, warm muted period colors, soft shading, expressive faces, historically accurate details, 16:9, any text short and in capital letters
+3. split image: left half Istanbul Sirkeci station 1964 with warm orange light, right half grey Cologne Ford factory 1964, [KARAKTER: Held] in the middle with mustard yellow scarf and suitcase looking between both, big bold text "1964", clean 2D vector cartoon illustration, thick dark outlines, warm muted period colors, soft shading, expressive faces, historically accurate details, 16:9, any text short and in capital letters
+
+## SEO Tags
+Gastarbeiter, Gastarbeiter Türkei, Anwerbeabkommen 1961, Anwerbeabkommen Türkei, Gastarbeiter Geschichte, Gleis 11 München, Deutsche Verbindungsstelle Istanbul, türkische Gastarbeiter, Gastarbeiter 1964, Ford Köln Gastarbeiter, Wirtschaftswunder, Migration Deutschland, Geschichte Deutschland, deutsch-türkische Geschichte, erste Generation, Almanya, Was wäre wenn, Geschichte animiert, Wohnheim Gastarbeiter, Armando Rodrigues de Sá
