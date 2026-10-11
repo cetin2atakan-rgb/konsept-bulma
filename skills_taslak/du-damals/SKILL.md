@@ -69,6 +69,10 @@ Kanalın yüzü **sabit iki kahramandır**: izleyici "du"dur ve her videoda ayn�
 - **Heldin** (kadın ana kahraman): konu kadın deneyimi ise (Trümmerfrau, DDR'de çalışan anne, kadın Gastarbeiter) kahraman odur. Almanca "du" cinsiyetsiz olduğu için anlatım değişmez. Diğer videolarda gerekirse yan karakter (eş, kız kardeş, iş arkadaşı) olarak görünebilir.
 - Yüzleri ve ayırt edici detayları HİÇ değişmez; **değişen sadece dönem kıyafeti ve ortam**. Kökeni belirsiz bırakılmış bir görünüş seçildi (koyu saç, sıcak ten tonu) ki Türk, İtalyan ya da Alman kahraman olarak da inandırıcı olsun.
 - Ayırt edici işaret (her sahnede görünmeli, dönemden bağımsız): Held'de boynunda, Heldin'de omzuna atılmış **hardal sarısı örgü atkı**. Thumbnail'de de hep bu sarı detay var.
+- **Kalabalık kuralı (Grok kopyalama sorunu):** Grok, `[KARAKTER: Ad]` olan sahnede diğer insanları da kahramana benzetebiliyor. Bu yüzden:
+  - `[KARAKTER: …]` etiketini SADECE devamlılığı olan kişiye koy (kahraman, Heldin, videoya özgü yan karakter). Kasabadaki halk, kuyruk, işçiler, polis, memur, aile üyeleri gibi tek seferlik kişiler etiketsiz, rastgele karakterdir.
+  - Kahramanla birlikte başka insan da görünen her promptun sonuna (stil cümlesinden önce) şunu ekle: `only Held is the recurring character: every other person in the scene is a different random person with a clearly different face shape, hairstyle, age and clothing, and no one else wears a mustard yellow scarf` (iki etiketli kişi varsa `only Held and Heldin are the recurring characters: …`).
+  - Hardal atkı yalnızca etiketli ana karakterlerde olur; başka hiçbir figüre atkı yazma.
 - Her video ayrıca en çok 2 **videoya özgü yan karakter** tanımlayabilir (doktor, usta, komşu). Yan karakter adları videoya özgü olmalı (`Doktor1964`, `Meister1958`): uygulama onaylanan karakteri adıyla saklar ve aynı adı sonraki videolarda tekrar getirir.
 
 `karakterler.txt` (Held ve Heldin satırları HER VİDEODA AYNEN; yan karakterler videoya göre eklenir):
@@ -128,6 +132,7 @@ STIL: simple flat 2D cartoon, minimalist characters with round heads in a flat w
 - [ ] Her promptta yıl + yer + stil cümlesi; kahraman sahnelerinde `[KARAKTER: Ad]`
 - [ ] karakterler.txt'de Held/Heldin satırları aynen; yan karakter adları bu videoya özgü
 - [ ] Kahraman sahnelerinde dönem kıyafeti + sarı atkı yazılı
+- [ ] Kalabalık sahnelerde 'only … recurring character' cümlesi var; tek seferlik kişiler etiketsiz
 - [ ] Her tarihsel detayın kaynağı kaynak_listesi.md'de; kaynaklar.txt kısa ve Almanca
 - [ ] Nazi sembolü, 2. Dünya Savaşı içi POV, kökenle alay, siyasi taraf yok
 - [ ] Senin Devrin'in metni/başlığı kullanılmadı
