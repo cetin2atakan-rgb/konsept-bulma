@@ -1,0 +1,35 @@
+# Video 04 Assets: Ein ganz normaler Tag in der DDR, 1978
+
+## TITLE (selected)
+Dein Leben in der DDR: ein ganz normaler Tag im Jahr 1978
+
+## Title options
+1. Dein Leben in der DDR: ein ganz normaler Tag im Jahr 1978
+2. Was wäre, wenn du 1978 in der DDR gelebt hättest?
+3. Trabant, Konsum und Westpaket: Dein Tag in der DDR 1978
+
+## Description
+Leipzig, 1978: Nach über zehn Jahren Wartezeit liegt endlich der Brief im Kasten, dein Trabant ist da. Erlebe einen ganz normalen Tag in der DDR, vom Plattenbau über die Brigade im volkseigenen Betrieb bis zur Schlange vor dem Konsum, dem Westpaket und dem Abend vor dem Westfernsehen.
+
+Wie lebte man in der DDR wirklich? Was war sicher, was war knapp, und warum sprach man in der Kantine besser leise? Ein Alltag mit Gemeinschaft und Sicherheit, aber auch mit Mangel und Misstrauen.
+
+Haben deine Eltern oder Großeltern in der DDR gelebt? Schreib ihre Erinnerungen in die Kommentare.
+
+Die Hauptfigur ist fiktiv. Die geschilderten Umstände beruhen auf historischen Quellen, die unten aufgeführt sind.
+
+Quellen:
+LeMO, Haus der Geschichte: Mangelwirtschaft
+Bundesarchiv, Stasi-Unterlagen-Archiv: MfS-Lexikon
+Bundeszentrale für politische Bildung: Kitas und Kindererziehung in Ost und West
+DIW Berlin, Erwerbstätigkeit von Frauen in der DDR, 1990
+SRF, 60 Jahre Trabant
+
+#DDR #Trabant #Geschichte
+
+## Thumbnail Prompts (3)
+1. [KARAKTER: Held] large in the foreground wearing a brown 1970s jacket and flared trousers, mustard yellow knitted scarf around his neck, hugging the roof of a beige Trabant 601 with pure joy, grey prefabricated apartment blocks behind, East Germany 1978, big bold text "ENDLICH DA", simple flat 2D cartoon, minimalist characters with round heads in a flat warm skin tone, small black oval eyes, short simple eyebrows and a small mouth, no nose, hair drawn as one solid shape, thick clean black outlines, flat muted period colors, no shading, simple uncluttered backgrounds, historically accurate clothing and objects, 16:9, never write any character name or label on the image, any text short and in capital letters
+2. [KARAKTER: Held] with mustard yellow scarf standing at the end of a very long queue in front of a small shop with a sign reading "KONSUM", curious face, East Germany 1978, big bold text "WAS GIBT ES HEUTE", only the characters from the reference sheets are recurring: every other person in the scene is a different random person with a clearly different face shape, hairstyle, age and clothing, and no one else wears a mustard yellow scarf, simple flat 2D cartoon, minimalist characters with round heads in a flat warm skin tone, small black oval eyes, short simple eyebrows and a small mouth, no nose, hair drawn as one solid shape, thick clean black outlines, flat muted period colors, no shading, simple uncluttered backgrounds, historically accurate clothing and objects, 16:9, never write any character name or label on the image, any text short and in capital letters
+3. split image: left a cozy 1970s East German living room with a family and a Trabant key, right a shadowy figure listening behind a wall, [KARAKTER: Held] with mustard yellow scarf in the middle looking at the viewer, big bold text "DDR 1978", simple flat 2D cartoon, minimalist characters with round heads in a flat warm skin tone, small black oval eyes, short simple eyebrows and a small mouth, no nose, hair drawn as one solid shape, thick clean black outlines, flat muted period colors, no shading, simple uncluttered backgrounds, historically accurate clothing and objects, 16:9, never write any character name or label on the image, any text short and in capital letters
+
+## SEO Tags
+DDR, DDR Alltag, Leben in der DDR, DDR 1978, Trabant, Trabi Wartezeit, Konsum DDR, Westpaket, Plattenbau, Intershop, Stasi, Tal der Ahnungslosen, Mangelwirtschaft, Ostalgie, deutsche Geschichte, Was wäre wenn, Geschichte animiert, Brigade DDR, Datsche, Ausreiseantrag

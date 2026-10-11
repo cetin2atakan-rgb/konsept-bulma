@@ -11,7 +11,7 @@ Yapılan konunun başına `[YAPILDI, video N, <klasör>]` yaz. Tüm tarih ve rak
 ## İlk 10 (önerilen sıra; hepsi test edilmedi)
 1. [YAPILDI, video 1, 12-18 Ekim\1] **Was wäre, wenn du 1964 als Gastarbeiter aus der Türkei nach Deutschland gekommen wärst?** Anwerbeabkommen Türkiye (1961), Istanbul'daki Alman irtibat bürosu ve sağlık muayenesi, tren yolculuğu, Münih varışı, yurtlar, fabrika işi. Kaynak: DOMiD, bpb, LeMO.
 2. [YAPILDI, video 2, 12-18 Ekim\2] **13. August 1961: Du wachst in Berlin auf, und die Stadt ist geteilt.** Duvar'ın inşa sabahı, bölünen aileler, ilk kaçışlar. Kaynak: Stiftung Berliner Mauer, bpb.
-3. **Dein Leben in der DDR: ein ganz normaler Tag im Jahr 1978.** İş, Trabant bekleme listesi, Westpaket, Konsum, FDJ, Stasi'nin gölgesi. Kaynak: Haus der Geschichte, BStU, LeMO.
+3. [YAPILDI, video 4, 12-18 Ekim\4] **Dein Leben in der DDR: ein ganz normaler Tag im Jahr 1978.** İş, Trabant bekleme listesi, Westpaket, Konsum, FDJ, Stasi'nin gölgesi. Kaynak: Haus der Geschichte, BStU, LeMO.
 4. **Juni 1948: Die Währungsreform – du bekommst dein Kopfgeld.** Yeni para, bir gecede dolan vitrinler, karaborsanın sonu. Kaynak: Bundesbank, LeMO.
 5. **1946: Dein Leben als Trümmerfrau.** Yıkıntılar, karne, açlık kışı. Kaynak: LeMO, bpb, şehir arşivleri. (Not: "Trümmerfrau" efsanesi ile gerçek oranlar tartışmalı; tartışmayı dürüstçe yansıt.)
 6. **Was wäre, wenn du 1955 als Gastarbeiter aus Italien gekommen wärst?** İlk anlaşma (İtalya, 1955), tarım ve sanayi işleri. Kaynak: DOMiD, bpb.
