@@ -14,7 +14,7 @@ Yapılan konunun başına `[YAPILDI, video N, <klasör>]` yaz. Tüm tarih ve rak
 3. [YAPILDI, video 4, 12-18 Ekim\4] **Dein Leben in der DDR: ein ganz normaler Tag im Jahr 1978.** İş, Trabant bekleme listesi, Westpaket, Konsum, FDJ, Stasi'nin gölgesi. Kaynak: Haus der Geschichte, BStU, LeMO.
 4. [YAPILDI, video 5, 12-18 Ekim\5] **Juni 1948: Die Währungsreform – du bekommst dein Kopfgeld.** Yeni para, bir gecede dolan vitrinler, karaborsanın sonu. Kaynak: Bundesbank, LeMO.
 5. [YAPILDI, video 6, 12-18 Ekim\6] **1946: Dein Leben als Trümmerfrau.** Yıkıntılar, karne, açlık kışı. Kaynak: LeMO, bpb, şehir arşivleri. (Not: "Trümmerfrau" efsanesi ile gerçek oranlar tartışmalı; tartışmayı dürüstçe yansıt.)
-6. **Was wäre, wenn du 1955 als Gastarbeiter aus Italien gekommen wärst?** İlk anlaşma (İtalya, 1955), tarım ve sanayi işleri. Kaynak: DOMiD, bpb.
+6. [YAPILDI, video 7, 12-18 Ekim\7] **Was wäre, wenn du 1955 als Gastarbeiter aus Italien gekommen wärst?** İlk anlaşma (İtalya, 1955), tarım ve sanayi işleri. Kaynak: DOMiD, bpb.
 7. **Dein erstes Jahr als Bergmann im Ruhrgebiet, 1958.** Yeraltı vardiyası, kömür ocağı kolonileri (Zechensiedlung), Kumpel kültürü. Kaynak: Deutsches Bergbau-Museum, LeMO.
 8. [YAPILDI, video 3, 12-18 Ekim\3] **9. November 1989: Du bist in Ost-Berlin, als die Mauer fällt.** Schabowski'nin açıklaması, sınır kapıları, ilk Batı ziyareti, "Begrüßungsgeld". Kaynak: Stiftung Berliner Mauer, bpb.
 9. **1923: Dein Leben in der Hyperinflation.** Maaş günde iki kez ödeniyor, el arabası dolusu para, birikimlerin yok oluşu. Kaynak: Bundesbank, DHM.

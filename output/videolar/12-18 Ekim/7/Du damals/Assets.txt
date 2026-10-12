@@ -1,0 +1,38 @@
+# Video 07 Assets: Italienische Gastarbeiter 1956
+
+## TITLE (selected)
+Was wäre, wenn du 1956 als einer der ersten Gastarbeiter aus Italien gekommen wärst?
+
+## Title options
+1. Was wäre, wenn du 1956 als einer der ersten Gastarbeiter aus Italien gekommen wärst?
+2. Von Apulien nach Württemberg: Dein erstes Jahr als Gastarbeiter 1956
+3. Sauerkraut statt Pasta: Der erste Gastarbeiter aus Italien bist du
+
+## Description
+Württemberg, April 1956: Die Bäuerin stellt dir einen Teller Sauerkraut hin, und dein Gesicht verrät alles. Vor drei Tagen warst du noch unter Olivenbäumen in Apulien. Erlebe das erste Jahr der allerersten Gastarbeiter, vom Anwerbeabkommen mit Italien über die Deutsche Kommission in Verona bis zur Ernte auf einem schwäbischen Hof.
+
+Warum kamen 1956 viel weniger Italiener als erwartet? Wie lebte man als Saisonarbeiter? Und wie kamen Espresso, Pizza und Eiscafés nach Deutschland?
+
+Kam deine Familie auch aus Italien oder einem anderen Land nach Deutschland? Schreib ihre Geschichte in die Kommentare.
+
+Die Hauptfigur ist fiktiv. Die geschilderten Umstände beruhen auf historischen Quellen, die unten aufgeführt sind.
+
+Quellen:
+Institut für Zeitgeschichte, Vierteljahrshefte 2007 (Roberto Sala)
+Heinrich-Böll-Stiftung, Italienische Gastarbeiter*innen in Deutschland
+KNA / CIBEDO, Vor 65 Jahren kamen die ersten italienischen Gastarbeiter
+WirtschaftsWoche, WiWo History: Anwerbeabkommen 1956
+Stadt Wolfsburg, Stadtarchiv
+zeitklicks, Abkommen über die ersten Gastarbeiter
+
+#Gastarbeiter #Italien #Geschichte
+
+## Thumbnail Prompts (3)
+1. [KARAKTER: Held] large in the foreground wearing grey 1950s farm work clothes, mustard yellow knitted scarf around his neck, pulling a funny sour face over a plate of sauerkraut, a smiling German farm woman behind him in a farmhouse kitchen 1956, empty space on the right for text, simple flat 2D cartoon, minimalist characters with round heads in a flat warm skin tone, small black oval eyes, short simple eyebrows and a small mouth, no nose, hair drawn as one solid shape, thick clean black outlines, flat muted period colors, no shading, simple uncluttered backgrounds, historically accurate clothing and objects, 16:9, never write any character name or label on the image, no text
+2. split image: left sunny olive trees in Apulia in warm orange, right a snowy German farm in cool blue, [KARAKTER: Held] with mustard yellow scarf and cardboard suitcase in the middle looking at the viewer, empty space at the top for text, simple flat 2D cartoon, minimalist characters with round heads in a flat warm skin tone, small black oval eyes, short simple eyebrows and a small mouth, no nose, hair drawn as one solid shape, thick clean black outlines, flat muted period colors, no shading, simple uncluttered backgrounds, historically accurate clothing and objects, 16:9, never write any character name or label on the image, no text
+3. [KARAKTER: Held] with mustard yellow scarf at a train window crossing snowy Alps, amazed wide eyes, other Italian workers behind him, 1956, empty space on the right for text, simple flat 2D cartoon, minimalist characters with round heads in a flat warm skin tone, small black oval eyes, short simple eyebrows and a small mouth, no nose, hair drawn as one solid shape, thick clean black outlines, flat muted period colors, no shading, simple uncluttered backgrounds, historically accurate clothing and objects, 16:9, never write any character name or label on the image, no text
+
+Overlay-Texte (in Canva hinzufügen): 1) "SAUERKRAUT?!" 2) "APULIEN → DEUTSCHLAND" 3) "DIE ERSTEN" + Jahres-Badge "1956"
+
+## SEO Tags
+Gastarbeiter Italien, italienische Gastarbeiter, Anwerbeabkommen 1955, Anwerbeabkommen Italien, erste Gastarbeiter, Gastarbeiter 1956, Deutsche Kommission Verona, Saisonarbeiter, Wirtschaftswunder, Migration Deutschland, Italiener in Deutschland, Volkswagen Wolfsburg Italiener, Eiscafé Geschichte, Apulien, deutsche Geschichte, Was wäre wenn, Geschichte animiert, Gastarbeiter Geschichte, deutsch-italienische Geschichte, la Germania
