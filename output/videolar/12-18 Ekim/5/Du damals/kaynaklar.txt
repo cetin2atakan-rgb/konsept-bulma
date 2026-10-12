@@ -1,0 +1,11 @@
+17: QUELLE: LeMO, Überlebensmittel
+25: QUELLE: Muenzenwoche, Zigarettenwährung
+47: QUELLE: Bundesbank, Währungsreform 1948
+55: QUELLE: bpb, Ereignisgeschichte 1948
+65: QUELLE: Bundesarchiv, Währungsreform
+68: QUELLE: Bundesbank, Währungsreform 1948
+71: QUELLE: Ludwig-Erhard-Stiftung
+79: QUELLE: Bundesbank, Währungsreform 1948
+94: QUELLE: Konrad-Adenauer-Stiftung, 2023
+98: QUELLE: Bundesarchiv, Berlin-Blockade
+100: QUELLE: bpb, Berlin-Blockade

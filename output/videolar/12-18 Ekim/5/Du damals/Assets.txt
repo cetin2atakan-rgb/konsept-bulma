@@ -1,0 +1,38 @@
+# Video 05 Assets: Währungsreform 1948
+
+## TITLE (selected)
+Juni 1948: Die Währungsreform – du bekommst dein Kopfgeld
+
+## Title options
+1. Juni 1948: Die Währungsreform – du bekommst dein Kopfgeld
+2. Was wäre, wenn du 1948 deine ersten 40 D-Mark bekommen hättest?
+3. Über Nacht volle Schaufenster: Dein Juni 1948
+
+## Description
+Köln, Montag, 21. Juni 1948: Gestern war das Schaufenster der Bäckerei noch leer, heute liegen dort Brötchen, Kuchen und Butter. Erlebe die Währungsreform als junge Näherin in den Trümmern, vom Schwarzmarkt mit Zigaretten als Währung über die Schlange für das Kopfgeld bis zum ersten Einkauf mit der neuen D-Mark.
+
+Wie lebte man vor der Reform? Warum waren die Schaufenster plötzlich voll? Und warum war der Neuanfang nicht für alle ein Grund zur Freude?
+
+Was hättest du mit deinen 40 Mark gekauft? Schreib es in die Kommentare.
+
+Die Hauptfigur ist fiktiv. Die geschilderten Umstände beruhen auf historischen Quellen, die unten aufgeführt sind.
+
+Quellen:
+Deutsche Bundesbank, Währungsreform 1948
+Bundesarchiv, Währungsreform und Berlin-Blockade
+Bundeszentrale für politische Bildung, Kleine Ereignisgeschichte der Währungsreform 1948
+LeMO, Haus der Geschichte: Überlebensmittel
+Ludwig-Erhard-Stiftung
+Konrad-Adenauer-Stiftung, 75 Jahre Währungsreform
+
+#Währungsreform #DMark #Geschichte
+
+## Thumbnail Prompts (3)
+1. [KARAKTER: Heldin] large in the foreground wearing a faded blue 1940s dress, mustard yellow knitted scarf over her shoulders, holding crisp new banknotes with shining amazed eyes, behind her a bakery window suddenly full of bread and cakes, ruined street of Cologne 1948, empty space on the right for text, simple flat 2D cartoon, minimalist characters with round heads in a flat warm skin tone, small black oval eyes, short simple eyebrows and a small mouth, no nose, hair drawn as one solid shape, thick clean black outlines, flat muted period colors, no shading, simple uncluttered backgrounds, historically accurate clothing and objects, 16:9, never write any character name or label on the image, any text short and in capital letters
+2. split image: left an empty shop window with a note in 1947 in grey colors, right the same window full of goods in warm colors in 1948, [KARAKTER: Heldin] with mustard yellow scarf in the middle looking at the viewer in surprise, empty space at the top for text, simple flat 2D cartoon, minimalist characters with round heads in a flat warm skin tone, small black oval eyes, short simple eyebrows and a small mouth, no nose, hair drawn as one solid shape, thick clean black outlines, flat muted period colors, no shading, simple uncluttered backgrounds, historically accurate clothing and objects, 16:9, never write any character name or label on the image, any text short and in capital letters
+3. [KARAKTER: Heldin] with mustard yellow scarf holding a single cigarette like a precious jewel on one side and a crisp new banknote on the other, curious face, black market background 1948, empty space on the right for text, simple flat 2D cartoon, minimalist characters with round heads in a flat warm skin tone, small black oval eyes, short simple eyebrows and a small mouth, no nose, hair drawn as one solid shape, thick clean black outlines, flat muted period colors, no shading, simple uncluttered backgrounds, historically accurate clothing and objects, 16:9, never write any character name or label on the image, any text short and in capital letters
+
+Overlay-Texte (in Canva hinzufügen, nicht von Grok erzeugen lassen): 1) "ÜBER NACHT VOLL" 2) "40 MARK" 3) "NEUES GELD" + Jahres-Badge "1948"
+
+## SEO Tags
+Währungsreform 1948, D-Mark, Kopfgeld, Deutsche Mark Einführung, Schaufenstereffekt, Schwarzmarkt Nachkriegszeit, Zigarettenwährung, Nachkriegszeit Deutschland, Wirtschaftswunder, Ludwig Erhard, Berlin-Blockade, Hamstern, Hungerwinter, Trümmerzeit, deutsche Geschichte, Was wäre wenn, Geschichte animiert, Reichsmark, 1948, Köln Nachkriegszeit
