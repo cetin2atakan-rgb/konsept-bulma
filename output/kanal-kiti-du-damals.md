@@ -85,22 +85,46 @@ close-up portrait of [KARAKTER: Held]: simple flat cartoon young man, round head
 
 ## 5. BANNER (2560×1440)
 
-**Güvenli alan:** Orta 1546×423 px. Telefon ve TV'de sadece burası görünür. Her önemli öğe bu şeridin içinde kalmalı.
+**Güvenli alan:** Orta 1546×423 px (yüksekliğin yalnızca %29'u). Telefonda ve masaüstünde sadece bu şerit görünür; TV'de tamamı. Bu yüzden banner **ince, yatay ve sade** olmalı: üst ve alt üçte birlik bölümler düz zemin, her şey ortadaki şeritte.
 
-**Kompozisyon:** "Zaman şeridi" fikri. Soldan sağa üç dönem tek bir panoramada birleşiyor:
-- Sol: 1964, eski buharlı tren ve "GLEIS 11" peronu (sönük, küçük)
-- Orta: Held (bavulla) ve Heldin (1989 parkasıyla) yan yana, ikisi de hardal atkılı, izleyiciye bakıyor; arkalarında Duvar parçası ve Brandenburg Kapısı silueti
-- Sağ: boş sıcak krem alan (yazı alanı)
+**Neden yeniledik:** İlk taslakta tren + iki karakter + Duvar + Brandenburg Kapısı + tabela vardı. Telefondaki ince şeritte bunlar küçük ve karışık görünür. Ayrıca Grok'a yazı (GLEIS 11) yazdırmak hata riski taşır. Yeni banner tek bir güçlü fikir taşır ve hiç yazı içermez.
 
-**Grok promptu (16:9 üret, aynen):**
+### Önerilen: "Atkı = zaman çizgisi" (A)
+**Fikir:** Kanalın imzası olan hardal sarısı atkı, bannerin bir ucundan öbür ucuna uzanan bir zaman çizgisine dönüşür. Atkının üstünde, soldan sağa, kanalın dönemlerinden küçük simgeler durur: harabe tuğla yığını (1946), dikenli tel (1961), bavul ve tren (1964), Trabant (1978), Duvar'da açılan boşluk (1989). Held atkının bir ucunu tutuyor, Heldin diğer ucunu; ikisi izleyiciye bakıyor. Mesaj: "Hangi döneme adım atacaksın?"
+
+**Yerleşim:**
+- Sol üçte bir (güvenli alanın içinde): Held, belden yukarı, atkının sol ucunu tutuyor
+- Orta: atkı boyunca 5 küçük dönem simgesi, eşit aralıklı
+- Sağ: Heldin, atkının sağ ucunu tutuyor; arkasında yazı için boş krem alan **atkının üstünde ve altında** (yazılar atkının üstüne/altına gelir)
+- Üst %35 ve alt %35: düz krem zemin, hiçbir şey yok
+
+**Grok promptu (16:9, aynen):**
 ```
-wide panoramic scene in the central horizontal band, on the left a 1960s steam train at a station platform with a small sign reading "GLEIS 11", in the center [KARAKTER: Held] in a grey 1960s suit jacket holding an old cardboard suitcase and [KARAKTER: Heldin] in a beige 1980s parka, both with mustard yellow knitted scarves, standing side by side and looking at the viewer with curious friendly faces, behind them a piece of the Berlin Wall and a faint silhouette of the Brandenburg Gate, on the right side an empty warm cream background for headline text, all important elements kept in the central horizontal band, simple flat 2D cartoon, minimalist characters with round heads in a flat warm skin tone, small black oval eyes, short simple eyebrows and a small mouth, no nose, thick clean black outlines, flat muted period colors of mustard yellow, olive green, brown and dusty blue, no shading, no other text, no name labels
+very wide flat banner composition, plain flat warm cream background, the top third and the bottom third of the image are completely empty plain cream, everything is placed in one thin horizontal strip across the middle of the image, a long mustard yellow knitted scarf stretched horizontally across the whole width like a timeline, on the left [KARAKTER: Held] shown from the waist up holding the left end of the scarf, on the right [KARAKTER: Heldin] shown from the waist up holding the right end of the scarf, both smiling and looking at the viewer, along the scarf between them five small evenly spaced period icons standing on it from left to right: a small pile of rubble bricks, a short roll of barbed wire, an old cardboard suitcase with a tiny steam train, a small beige Trabant car, a broken piece of a wall with a gap, simple flat 2D cartoon, minimalist characters with round heads in a flat warm skin tone, small black oval eyes, short simple eyebrows and a small mouth, no nose, hair drawn as one solid shape, thick clean black outlines, flat muted colors of mustard yellow, olive green, brown and dusty blue on cream, no shading, no text, no letters, no numbers, no name labels
 ```
 
-**Yazılar (Canva/Video Studio'da ekle, Grok'ta üretme):**
-- Ana satır: **Was hättest du getan?** (kalın, yuvarlak hatlı sans-serif, koyu kahve; altında hardal sarısı bant)
-- Alt satır, küçük: *Deutsche Geschichte, wie du sie erlebt hättest*
-- Yayın günleri: "Jeden Sonntag ein neues Kapitel" (takvimi sen belirle)
+**Yazılar (Canva'da ekle, Grok'ta üretme):**
+- Atkının **üstünde**, ortada: **Was hättest du getan?** (kalın yuvarlak sans-serif, koyu kahve #3B2A1E, güvenli alanın üst kenarına yakın)
+- Atkının **altında**, ortada, küçük: *Deutsche Geschichte, wie du sie erlebt hättest* (kahve, normal ağırlık)
+- Her dönem simgesinin hemen altına küçük yıl etiketi: **1946 · 1961 · 1964 · 1978 · 1989** (hardal zemin üstüne krem yazı, yuvarlak köşeli küçük rozet). Bu rozet stili thumbnail'lerdeki yıl rozetiyle aynı olur ve kanalın imzası haline gelir
+- Yayın günü (TV'de görünen üst/alt boşluğa, küçük): "Jeden Sonntag ein neues Kapitel"
+
+**Kılavuz:** `banner_kilavuz_du_damals.png` (2560×1440) Canva'da alt katman olarak kullan; kırmızı çerçeve güvenli alan.
+
+**Kontrol:** Canva'da banner'ı 1546×423 kılavuzuyla kırp ve telefonda önizle. Held ve Heldin'in yüzleri ile başlık bu şeritte tam okunmalı.
+
+### Alternatif: "Pencereler" (B)
+**Fikir:** Krem zemin üzerinde yan yana beş küçük, yuvarlak köşeli pencere (eski tren penceresi gibi). Her pencereden bir dönem görünür: harabe şehir, dikenli telli sokak, Gleis 11 treni, Plattenbau ve Trabant, Duvar'da dans eden kalabalık. Ortadaki pencerede Held ve Heldin izleyiciye el sallıyor. Mesaj: "Hangi pencereden bakarsın?"
+
+**Grok promptu (16:9, aynen):**
+```
+very wide flat banner composition, plain flat warm cream background, the top third and the bottom third of the image are completely empty plain cream, in one thin horizontal strip across the middle five rounded rectangular windows in a row like old train windows with mustard yellow frames, through each window a different small period scene from left to right: a ruined city street with rubble, a street blocked by barbed wire at dawn, a 1960s steam train at a platform, grey prefabricated apartment blocks with a small beige Trabant, people celebrating on top of a wall at night, in the middle window [KARAKTER: Held] and [KARAKTER: Heldin] with mustard yellow scarves waving at the viewer, simple flat 2D cartoon, minimalist characters with round heads in a flat warm skin tone, small black oval eyes, short simple eyebrows and a small mouth, no nose, thick clean black outlines, flat muted colors of mustard yellow, olive green, brown and dusty blue, no shading, no text, no letters, no numbers, no name labels
+```
+Yazılar: başlık pencerelerin üstünde, alt satır altında; yıl rozetleri her pencerenin altında (A ile aynı).
+
+**Önerim A:** Atkı zaten kanalın imzası. Banner'da zaman çizgisine dönüşmesi ilk bakışta "bu kanal dönemler arasında geziniyor" mesajını veriyor ve ince şeritte bile okunuyor. B daha zengin ama telefonda sahneler küçük kalabilir.
+
+**Grok ipucu:** Grok üst/alt boşlukları yine de doldurursa görseli 16:9 üret, Canva'da 2560×1440 krem zeminin ortasına yerleştir ve üst/alt kısmı düz krem bırak. Böylece kompozisyon her zaman güvenli şeritte kalır.
 
 ---
 
