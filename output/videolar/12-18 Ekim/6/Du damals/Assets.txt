@@ -1,0 +1,35 @@
+# Video 06 Assets: Trümmerfrau 1946
+
+## TITLE (selected)
+1946: Dein Leben als Trümmerfrau in Berlin – und was davon ein Mythos ist
+
+## Title options
+1. 1946: Dein Leben als Trümmerfrau in Berlin – und was davon ein Mythos ist
+2. Was wäre, wenn du 1946 in Berlin Trümmer geräumt hättest?
+3. Steine gegen Brot: Dein Jahr als Trümmerfrau 1946
+
+## Description
+Berlin, März 1946: Du stehst mit zwanzig anderen Frauen auf einem Berg aus Schutt und reichst Ziegel von Hand zu Hand. Nicht, weil du eine Heldin sein willst, sondern weil es dafür eine bessere Lebensmittelkarte gibt. Erlebe ein Jahr als Bauhilfsarbeiterin, vom ersten blauen Daumen bis zum Hungerwinter.
+
+Und dann die Frage, die viele Schulbücher auslassen: Wie viel an der Geschichte der Trümmerfrauen stimmt wirklich? Die Historikerin Leonie Treber hat das Bild genauer untersucht.
+
+Gibt es in deiner Familie eine Großmutter, die von dieser Zeit erzählt hat? Schreib ihre Geschichte in die Kommentare.
+
+Die Hauptfigur ist fiktiv. Die geschilderten Umstände beruhen auf historischen Quellen, die unten aufgeführt sind.
+
+Quellen:
+Leonie Treber, Mythos Trümmerfrauen (Bundeszentrale für politische Bildung, Schriftenreihe Bd. 1655)
+LeMO, Haus der Geschichte: Überlebensmittel
+Wikipedia: Trümmerbahn, Lebensmittelmarke, Trümmerfrau
+
+#Trümmerfrauen #Nachkriegszeit #Geschichte
+
+## Thumbnail Prompts (3)
+1. [KARAKTER: Heldin] large in the foreground wearing a worn grey 1940s work coat and grey head kerchief, mustard yellow knitted scarf over her shoulders, dusty face, holding a brick in both hands, determined eyes, behind her a long chain of women on a rubble mountain in ruined Berlin 1946, empty space on the right for text, only the characters from the reference sheets are recurring: every other person in the scene is a different random person with a clearly different face shape, hairstyle, age and clothing, and no one else wears a mustard yellow scarf, simple flat 2D cartoon, minimalist characters with round heads in a flat warm skin tone, small black oval eyes, short simple eyebrows and a small mouth, no nose, hair drawn as one solid shape, thick clean black outlines, flat muted period colors, no shading, simple uncluttered backgrounds, historically accurate clothing and objects, 16:9, never write any character name or label on the image, no text
+2. [KARAKTER: Heldin] with mustard yellow scarf and dusty face holding a brick in one hand and a ration card in the other, looking at the viewer, ruins of Berlin 1946 behind her, empty space at the top for text, simple flat 2D cartoon, minimalist characters with round heads in a flat warm skin tone, small black oval eyes, short simple eyebrows and a small mouth, no nose, hair drawn as one solid shape, thick clean black outlines, flat muted period colors, no shading, simple uncluttered backgrounds, historically accurate clothing and objects, 16:9, never write any character name or label on the image, no text
+3. split image: left a heroic golden statue of a woman with a brick, right the real tired [KARAKTER: Heldin] with mustard yellow scarf and dusty face on a rubble pile, Berlin 1946, empty space at the top for text, simple flat 2D cartoon, minimalist characters with round heads in a flat warm skin tone, small black oval eyes, short simple eyebrows and a small mouth, no nose, hair drawn as one solid shape, thick clean black outlines, flat muted period colors, no shading, simple uncluttered backgrounds, historically accurate clothing and objects, 16:9, never write any character name or label on the image, no text
+
+Overlay-Texte (in Canva hinzufügen): 1) "STEINE GEGEN BROT" 2) "NUR EIN MYTHOS?" 3) "HELDIN ODER MYTHOS?" + Jahres-Badge "1946"
+
+## SEO Tags
+Trümmerfrauen, Trümmerfrau, Mythos Trümmerfrauen, Berlin 1946, Nachkriegszeit, Hungerwinter 1946, Lebensmittelkarte, Friedhofskarte, Trümmerbahn, Teufelsberg, Wiederaufbau Berlin, Leonie Treber, deutsche Geschichte, Frauen nach dem Krieg, Was wäre wenn, Geschichte animiert, Bauhilfsarbeiterinnen, Berlin Ruinen, Stunde null, 1946
