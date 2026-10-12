@@ -1,0 +1,10 @@
+13: SOURCE: Bishop, Sports Med, 2003
+26: SOURCE: Kay and Blazevich, Med Sci Sports Exerc, 2012
+29: SOURCE: Behm et al, Appl Physiol Nutr Metab, 2016
+41: SOURCE: Fradkin et al, J Strength Cond Res, 2010
+57: SOURCE: Ribeiro et al, Percept Mot Skills, 2014
+59: SOURCE: Ribeiro et al, Int J Environ Res Public Health, 2020
+61: SOURCE: Ribeiro et al, Motricidade, 2021
+72: SOURCE: Craven et al, Sports Med, 2022
+88: SOURCE: Sporer and Wenger, J Strength Cond Res, 2003
+104: SOURCE: Simao et al, Sports Med, 2012
