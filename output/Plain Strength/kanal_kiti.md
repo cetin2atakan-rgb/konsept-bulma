@@ -116,7 +116,7 @@ strength training, strength training for men, get stronger, workout mistakes, gy
 
 ### İlk 10 video sırası (video_fikirleri.md'ye göre)
 1. ✅ Pre-Workout Mistakes That Quietly Steal Your Strength (hazır)
-2. Mistakes That Make Your Shoulders Look Narrow (video 1'in kapanışında duyuruldu)
+2. ✅ Mistakes That Make Your Shoulders Look Narrow (hazır)
 3. The Effort Mistake That Wastes Half Your Workout
 4. The Rest Mistake That Keeps You Weak
 5. The Posture Mistakes That Make You Look Weak

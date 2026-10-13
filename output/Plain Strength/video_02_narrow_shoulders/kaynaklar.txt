@@ -1,0 +1,8 @@
+22: SOURCE: Sell et al, Proc R Soc B, 2017
+31: SOURCE: Coratella et al, Int J Environ Res Public Health, 2020
+35: SOURCE: Larsen et al, Front Physiol, 2025
+46: SOURCE: Franke et al, J Sports Med Phys Fitness, 2015
+48: SOURCE: Botton et al, 2013
+59: SOURCE: Schoenfeld et al, J Sports Sci, 2017
+73: SOURCE: Schoenfeld et al, Sports Med, 2016
+99: SOURCE: Vacharkulksemsuk et al, PNAS, 2016

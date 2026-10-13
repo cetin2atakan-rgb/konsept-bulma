@@ -12,7 +12,7 @@ Takviye/ilaç dozu, kalori/gram hesabı, kilo vaadi, "X günde Y", steroid, saka
 Bilimsel iddia: "bir çalışmada bulundu" dili, kaynaklı.
 
 ## İlk 10 (test edilmedi)
-1. Mistakes That Make Your Shoulders Look Narrow. Kaynak: NSCA / ACE egzersiz rehberleri. Not: tez kaynakla doğrulanmazsa bırak.
+1. [YAPILDI, video 2, output/Plain Strength/video_02_narrow_shoulders] Mistakes That Make Your Shoulders Look Narrow. Kaynak: NSCA / ACE egzersiz rehberleri. Not: tez kaynakla doğrulanmazsa bırak.
 2. [YAPILDI, video 1, output/Plain Strength/video_01_pre_workout_mistakes] Things You Do Before a Workout That Kill Your Strength. Kaynak: statik esneme meta-analizi (Behm ve ark., 2016). Not: tez kaynakla doğrulanmazsa bırak.
 3. Why Some Men Look Strong Without Ever Going to the Gym. Kaynak: loaded carry / el işçiliği üzerine NSCA yazıları. Not: tez kaynakla doğrulanmazsa bırak.
 4. The Neck: Why a Thick Neck Changes How People See You. Kaynak: NSCA boyun antrenmanı. Not: tez kaynakla doğrulanmazsa bırak.
