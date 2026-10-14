@@ -23,5 +23,13 @@ Bilimsel iddia: "bir çalışmada bulundu" dili, kaynaklı.
 9. The Posture Mistakes That Make You Look Weak. Kaynak: fizyoterapi dernek yayınları (temkinli dil). Not: tez kaynakla doğrulanmazsa bırak.
 10. Old-School Exercises Strongmen Used Before Gyms Existed. Kaynak: tarih kaynakları (Sandow, Saxon kayıtları). Not: tez kaynakla doğrulanmazsa bırak.
 
+## Sıradaki 4 (Ekim 2026 değerlendirmesi, rakip verisine göre; Nexlev limiti dolduğu için güncel arama yapılmadı)
+Ölçüt: rakipte sonuç/statü + hata çerçevesi tutuyor; düz kas grubu ve program/yöntem başlıkları ("Soviet method" 4.7K) tutmuyor.
+1. The Effort Mistake That Wastes Half Your Workout (video 3; video 2 kapanışında duyuruldu). Kaynak: Refalo ve ark., 2023.
+2. The Muscles That Make You Look Hard to Mess With (trapez, boyun, üst sırt; rakipte korkutan vücut 76K, trapez 66K). Kaynak: Sell ve ark., 2009 (üst beden gücünün bedenden/yüzden tahmini).
+3. A Grip People Feel: Exercises for a Handshake That Gets Respect (rakipte tehlikeli eller 239K). Kaynak: Chaplin ve ark., 2000 (el sıkışma ve ilk izlenim); NSCA kavrama antrenmanı. Sağlık iddiası yok.
+4. Why Some Men Look Strong Without Ever Going to the Gym (yukarıdaki 3 numara).
+Bekletilen: The Rest Mistake (orta; teknik konu). Düşürülen: Why Your Strength Stopped Going Up (statü vaadi yok). Video 2 ile çakıştığı için ertelenen: Posture Mistakes, Smaller in a T-Shirt. Boyun fikri (4) "Hard to Mess With" içine katıldı.
+
 ## Rakibin YAPTIĞI konular (farklı açıdan)
 - Dangerous hands, punch harder, traps, attractive muscle, after-workout mistakes, cheapest diet.
