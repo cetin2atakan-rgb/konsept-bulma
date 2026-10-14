@@ -114,17 +114,17 @@ strength training, strength training for men, get stronger, workout mistakes, gy
 - Yayın saati: ABD Doğu saatiyle Salı ya da Perşembe 10:00. Türkiye saatiyle ABD yaz saati döneminde 17:00, kış döneminde 18:00.
 - İlk 5 videonun hepsi "hata" formatında olsun; rakipte en çok tutan format bu. Sonra egzersiz ve görünüş videolarıyla dönüşümlü ilerle.
 
-### İlk 10 video sırası (video_fikirleri.md'ye göre)
+### İlk 10 video sırası (Ekim 2026 güncellemesi)
 1. ✅ Pre-Workout Mistakes That Quietly Steal Your Strength (hazır)
 2. ✅ Mistakes That Make Your Shoulders Look Narrow (hazır)
-3. The Effort Mistake That Wastes Half Your Workout
-4. The Rest Mistake That Keeps You Weak
-5. The Posture Mistakes That Make You Look Weak
-6. Why You Look Smaller in a T-Shirt Than You Are
-7. Why Some Men Look Strong Without Ever Going to the Gym
-8. Why Your Strength Stopped Going Up
-9. The Neck: Why a Thick Neck Changes How People See You
-10. Old-School Exercises Strongmen Used Before Gyms Existed
+3. ✅ The Effort Mistake That Wastes Half Your Workout (hazır)
+4. ✅ The Muscles That Make You Look Hard to Mess With (hazır)
+5. ✅ A Grip People Feel: Exercises for a Handshake That Gets Respect (hazır)
+6. ✅ Why Some Men Look Strong Without Ever Going to the Gym (hazır)
+7. The Rest Mistake That Keeps You Weak
+8. Old-School Exercises Strongmen Used Before Gyms Existed
+9. The Posture Mistakes That Make You Look Weak (video 2'den yeterince sonra)
+10. Why You Look Smaller in a T-Shirt Than You Are (video 2'den yeterince sonra)
 
 ---
 
