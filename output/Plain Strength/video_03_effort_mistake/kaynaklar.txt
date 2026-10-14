@@ -1,0 +1,7 @@
+24: SOURCE: Robinson et al, Sports Med, 2024
+38: SOURCE: Halperin et al, Sports Med, 2022
+55: SOURCE: Glass and Stanton, J Strength Cond Res, 2004
+59: SOURCE: Schoenfeld et al, J Strength Cond Res, 2017
+69: SOURCE: Refalo et al, Sports Med, 2023
+72: SOURCE: Grgic et al, J Sport Health Sci, 2022
+83: SOURCE: Plotkin et al, PeerJ, 2022
