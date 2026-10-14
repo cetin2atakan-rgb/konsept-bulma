@@ -9,7 +9,7 @@ Klasörde şu dosyalar olur (dosya adında şu kelimeler geçmesi yeterli, büy�
 | `Assets.txt` | evet | Başlık, açıklama, thumbnail promptları, etiketler (aşağıdaki biçim). |
 | `prompts.txt` | evet | Her satır: `N. [KARAKTER: Ad] sahne tarifi`. N, sıralama satırı numarasıyla birebir aynı. Grok Bot bunlardan görsel üretir. |
 | `karakterler.txt` | yalnızca sabit karakteri olan kanallarda (yoksa oluşturma) | `Ad: tanım` satırları + bir `STIL: …` satırı. Uygulama önce referans sayfalarını üretir, kullanıcı onaylar, sonra sahneler o karakterlere bağlanır. |
-| `kaynaklar.txt` | önerilir | `N: SOURCE: Yazar/Kurum, Yıl` ya da `N: SUPPORTED` / `N: MIXED` / `N: POPULAR IDEA`. Satır N başladığında sol üstte küçük kutu çıkar (4,5 sn). Kutu ekranda AYNEN görünür: İngilizce yaz (`SOURCE: Sethna et al., 2017`); Türkçe kelime (`ve ark.`, `Yazar`, `Yıl`, `KAYNAK`) yazma. |
+| ~~`kaynaklar.txt`~~ | **hayır, oluşturulmaz (14 Ekim 2026, Atakan)** | Artık kullanılmıyor; ekranda kaynak kutusu çıkmaz. Kaynaklar yalnızca `kaynak_listesi.md` ve açıklamadaki kaynak listesinde yer alır. |
 | `avatar.txt` | sadece sunucu avatarlı kanallarda | `N: klip.mp4 full` (tam ekran) ya da `N: klip.mp4 pip` (köşede). Klip dosyaları klasöre ya da `avatar\` alt klasörüne konur. Klibin sesi kullanılmaz; anlatım Kokoro'dan gelir. |
 | `kaynak_listesi.md` | evet (insan için) | Her iddia için kaynak adı + bağlantı. Uygulama okumaz; Atakan'ın kontrolü içindir. |
 
@@ -75,6 +75,6 @@ Rakip kanalların video başlıklarını, cümlelerini, karakterlerini, mizah ka
 - [ ] Hiçbir satırda emoji/URL/hashtag/parantez yok.
 - [ ] Bölüm kartı satırları kalıba uygun; numaralar ardışık.
 - [ ] `Assets.txt` içinde `## TITLE (selected)` var.
-- [ ] `kaynaklar.txt` numaraları geçerli satırları gösteriyor; her kaynak `kaynak_listesi.md` içinde var.
+- [ ] Her iddianın kaynağı `kaynak_listesi.md` içinde var (`kaynaklar.txt` oluşturulmaz).
 - [ ] Sağlık/tedavi/kesin iddia kuralı ihlali yok.
 - [ ] Toplam kelime sayısı hedef süreye uyuyor.
