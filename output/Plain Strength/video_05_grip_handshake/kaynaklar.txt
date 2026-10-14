@@ -1,0 +1,5 @@
+10: SOURCE: Chaplin et al, J Pers Soc Psychol, 2000
+14: SOURCE: Stewart et al, J Appl Psychol, 2008
+19: SOURCE: Fain and Weatherford, J Hand Ther, 2016
+33: SOURCE: Lopez-Rivera and Gonzalez-Badillo, J Hum Kinet, 2019
+74: SOURCE: Jukic et al, 2021
