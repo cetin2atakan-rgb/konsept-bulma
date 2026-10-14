@@ -1,0 +1,10 @@
+14: SOURCE: Carrington Event, 1859
+17: SOURCE: NOAA SWPC
+19: SOURCE: NASA
+21: SOURCE: Ready.gov
+26: SOURCE: Ready.gov
+33: SOURCE: U.S. Department of Energy
+38: SOURCE: Ready.gov
+47: SOURCE: CDC
+52: SOURCE: USDA
+77: SOURCE: CDC
