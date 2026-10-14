@@ -1,0 +1,6 @@
+10: SOURCE: Sell et al, Proc R Soc B, 2009
+28: SOURCE: Ekstrom et al, J Orthop Sports Phys Ther, 2003
+41: SOURCE: Conley et al, Eur J Appl Physiol, 1997
+59: SOURCE: McGill et al, J Strength Cond Res, 2009
+73: SOURCE: Coratella et al, Front Physiol, 2022
+86: SOURCE: Escamilla et al, Med Sci Sports Exerc, 2002
