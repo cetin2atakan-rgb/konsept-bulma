@@ -1,0 +1,6 @@
+11: SOURCE: Kikuchi and Nakazato, J Exerc Sci Fit, 2017
+13: SOURCE: Calatayud et al, J Strength Cond Res, 2015
+26: SOURCE: Schoenfeld et al, J Strength Cond Res, 2017
+35: SOURCE: Ebben et al, J Strength Cond Res, 2011
+44: SOURCE: Kotarsky et al, J Strength Cond Res, 2018
+54: SOURCE: Cogley et al, J Strength Cond Res, 2005
