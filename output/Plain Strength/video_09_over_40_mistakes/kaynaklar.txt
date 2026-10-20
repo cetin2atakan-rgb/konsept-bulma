@@ -1,0 +1,6 @@
+10: SOURCE: Janssen et al, J Appl Physiol, 2000
+17: SOURCE: Reid and Fielding, Exerc Sport Sci Rev, 2012
+26: SOURCE: Peterson et al, Med Sci Sports Exerc, 2011
+29: SOURCE: Peterson et al, Ageing Res Rev, 2010
+72: SOURCE: Fell and Williams, J Aging Phys Act, 2008
+75: SOURCE: Borges et al, 2016
