@@ -1,0 +1,4 @@
+21: SOURCE: Heinemeier et al, FASEB J, 2013
+31: SOURCE: Bohm et al, Sports Med Open, 2015
+72: SOURCE: Mersmann et al, Front Physiol, 2017
+84: SOURCE: Kubo et al, Med Sci Sports Exerc, 2007
