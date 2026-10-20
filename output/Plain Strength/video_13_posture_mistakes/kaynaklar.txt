@@ -1,0 +1,5 @@
+15: SOURCE: Vacharkulksemsuk et al, PNAS, 2016
+19: SOURCE: Nair et al, Health Psychol, 2015
+38: SOURCE: Lynch et al, Br J Sports Med, 2010
+73: SOURCE: Ranehill et al, Psychol Sci, 2015
+80: SOURCE: Swain et al, J Biomech, 2020
