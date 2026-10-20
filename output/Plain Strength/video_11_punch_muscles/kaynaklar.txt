@@ -1,0 +1,4 @@
+16: SOURCE: Smith et al, J Sports Sci, 2000
+28: SOURCE: Loturco et al, J Strength Cond Res, 2016
+32: SOURCE: Loturco et al, 2021
+41: SOURCE: Fatiguing exercise and punch force study, 2021
