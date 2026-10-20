@@ -114,17 +114,21 @@ strength training, strength training for men, get stronger, workout mistakes, gy
 - Yayın saati: ABD Doğu saatiyle Salı ya da Perşembe 10:00. Türkiye saatiyle ABD yaz saati döneminde 17:00, kış döneminde 18:00.
 - İlk 5 videonun hepsi "hata" formatında olsun; rakipte en çok tutan format bu. Sonra egzersiz ve görünüş videolarıyla dönüşümlü ilerle.
 
-### İlk 10 video sırası (Ekim 2026 güncellemesi)
-1. ✅ Pre-Workout Mistakes That Quietly Steal Your Strength (hazır)
-2. ✅ Mistakes That Make Your Shoulders Look Narrow (hazır)
-3. ✅ The Effort Mistake That Wastes Half Your Workout (hazır)
-4. ✅ The Muscles That Make You Look Hard to Mess With (hazır)
-5. ✅ A Grip People Feel: Exercises for a Handshake That Gets Respect (hazır)
-6. ✅ Why Some Men Look Strong Without Ever Going to the Gym (hazır)
-7. The Rest Mistake That Keeps You Weak
-8. Old-School Exercises Strongmen Used Before Gyms Existed
-9. The Posture Mistakes That Make You Look Weak (video 2'den yeterince sonra)
-10. Why You Look Smaller in a T-Shirt Than You Are (video 2'den yeterince sonra)
+### Video sırası (20 Ekim 2026 güncellemesi)
+1. ✅ Pre-Workout Mistakes That Quietly Steal Your Strength
+2. ✅ Mistakes That Make Your Shoulders Look Narrow
+3. ✅ The Effort Mistake That Wastes Half Your Workout
+4. ✅ The Muscles That Make You Look Hard to Mess With
+5. ✅ A Grip People Feel: Exercises for a Handshake That Gets Respect
+6. ✅ Why Some Men Look Strong Without Ever Going to the Gym
+7. ✅ Why Some Men Feel Like Steel: The Tendon Training Most Lifters Skip
+8. ✅ Your Arms Look Small Because You Skip These Two Muscles
+9. ✅ Training Mistakes That Make Men Over 40 Look Older and Weaker
+10. ✅ The Rest Mistake That Keeps You Weak
+11. ✅ The Muscles Behind a Hard Punch (And Why Size Is Not One of Them)
+12. ✅ Push-Up Mistakes That Keep Your Chest Flat
+13. ✅ The Posture Mistakes That Make You Look Weak
+Sırada (fikir): Old-School Exercises Strongmen Used Before Gyms Existed; Why You Look Smaller in a T-Shirt Than You Are.
 
 ---
 
