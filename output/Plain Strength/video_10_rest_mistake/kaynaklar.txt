@@ -1,0 +1,5 @@
+25: SOURCE: Schoenfeld et al, J Strength Cond Res, 2016
+32: SOURCE: Grgic et al, Sports Med, 2018
+41: SOURCE: Willardson and Burkett, 2005
+57: SOURCE: Singer et al, Front Sports Act Living, 2024
+60: SOURCE: Longo et al, J Strength Cond Res, 2022
