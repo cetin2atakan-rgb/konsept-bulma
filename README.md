@@ -1,5 +1,7 @@
 # Konsept Bulma – Ekim 2026
 
+> **Video Ajan:** video paketlerini 11 YouTube skill'inden geçiren yerel uygulama → [`video-ajan/`](video-ajan/README.md) (Windows: `video-ajan\baslat.bat`).
+
 Nexlev verisiyle yapılan YouTube konsept/boşluk araştırması.
 
 **Ana çıktı:** [`output/konsept_arastirmasi_2026-10.xlsx`](output/konsept_arastirmasi_2026-10.xlsx)

@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Video Ajan</title>
+<link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+<header class="ust">
+  <div class="marka">Video Ajan <span class="alt">11 YouTube skill'i · yerel</span></div>
+  <div class="ust-sag">
+    <button id="yzDurum" class="hap" title="Yapay zekâ ayarı (kapalıyken yalnızca kontrol + otomatik düzeltme)">…</button>
+  </div>
+</header>
+
+<main class="duzen">
+  <aside class="yan">
+    <section class="kutu">
+      <h2>Yeni paket</h2>
+      <label class="etiket">Kanal
+        <select id="yeniKanal"></select>
+      </label>
+      <div id="birak" class="birak" tabindex="0">
+        <strong>Video klasörünü buraya sürükle</strong>
+        <span>ya da tıklayıp seç</span>
+        <input id="klasorSec" type="file" webkitdirectory directory multiple hidden>
+      </div>
+      <details class="yol">
+        <summary>Klasör yolunu yapıştır</summary>
+        <div class="satir">
+          <input id="yolGir" type="text" placeholder="C:\Users\...\Desktop\Hafta 3\1\Plain Strength">
+          <button id="yolEkle">Ekle</button>
+        </div>
+      </details>
+    </section>
+    <section class="kutu">
+      <h2>Paketler</h2>
+      <ul id="paketler" class="liste"></ul>
+    </section>
+  </aside>
+
+  <section id="ana" class="ana">
+    <div class="bos">
+      <h1>Bir video paketi ekle</h1>
+      <p>Diğer hesabında yazdırdığın klasörü (sıralama.txt, prompts.txt, Assets.txt, kaynaklar.txt…) soldan ekle.
+        Ajanlar dosyaları inceler, düzeltmeleri önerir; sen kabul ettiklerin son hale yazılır. Orijinal dosyalara dokunulmaz.</p>
+      <p>İsteğe bağlı ek dosyalar: kayıt transkripti (.srt), izleyici tutma CSV'si, yorumlar (yorumlar.txt), rakip listesi (viral.json).</p>
+    </div>
+  </section>
+</main>
+
+<dialog id="ayarPencere">
+  <form method="dialog" class="ayar">
+    <h2>Yapay zekâ</h2>
+    <p class="not">Kontroller ve otomatik düzeltmeler her zaman ücretsiz ve yerel çalışır. Yapay zekâ sadece yazı
+      gerektiren adımlarda kullanılır: yeni hook, başlık, açıklama, bölüm adları, Shorts satırları, yorum cevapları.</p>
+    <label class="secim"><input type="radio" name="yz" value="kapali"> <b>Kapalı</b> · sıfır maliyet, yazı önerisi yok</label>
+    <label class="secim"><input type="radio" name="yz" value="ollama"> <b>Ollama</b> · bilgisayarındaki ücretsiz model</label>
+    <div class="alt-ayar">
+      <label>Adres <input name="ollama_adres"></label>
+      <label>Model <input name="ollama_model" placeholder="qwen2.5:14b"></label>
+    </div>
+    <label class="secim"><input type="radio" name="yz" value="claude"> <b>Claude API</b> · en iyi kalite, ücretli</label>
+    <div class="alt-ayar">
+      <label>Model <input name="claude_model"></label>
+      <label>Effort
+        <select name="claude_effort"><option>low</option><option>medium</option><option>high</option></select>
+      </label>
+      <p class="not">Gerekenler: <code>pip install anthropic</code> ve <code>ANTHROPIC_API_KEY</code> ortam değişkeni.
+        Daha ucuz seçenek: model olarak <code>claude-haiku-5-5</code> yaz.</p>
+    </div>
+    <menu>
+      <button value="iptal" class="ikincil">Vazgeç</button>
+      <button id="ayarKaydet" value="kaydet">Kaydet</button>
+    </menu>
+  </form>
+</dialog>
+
+<div id="bildirim" class="bildirim" hidden></div>
+<script src="/static/app.js"></script>
+</body>
+</html>
