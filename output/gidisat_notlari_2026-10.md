@@ -1,0 +1,28 @@
+## Gidişat notları (en yeni videolar, 25 Eki 2026)
+- The Cosmographer (uyku uzay 3s+): medyan ~7K, hafif düşüş.
+- Stringer Movies (terk edilmiş ev 3s+): medyan 6-8K, hafif düşüş, uyum belirsiz.
+- Ohio Uncovered (eyalet tarihi): SAĞLIKLI. 2 günde 34K; son hitler 259K/132K/83K. Malikane rise&fall, mafya, mega proje, yeni yasalar, "her ilçenin ünlüsü".
+- The Silent Ruins (arkeoloji gizem): SAĞLIKLI, günlük, 40-120K hitler. "Geologists Just Found Out What X Actually Is".
+- Mordoze (LOTR uyku lore 1s40-2s): Ağu partisi 311K/291K/262K/105K; Eyl 63K/53K; Eki 93K,47K,19K,15K,13K,13K,5.6K. HAFİF DÜŞÜŞ, hâlâ 10-50K. Niş kalabalık (LOTR uyku).
+- What Used to Be (terk edilmiş park / şehir çöküşü 30-40dk): Eyl hitleri 186K/173K/169K/138K/98K; Eki: 6.9K,4.5K,1.8K,539,402,241. SERT DÜŞÜŞ (Below The Map deseni).
+- How the West Actually Was ("25 Things X ACTUALLY ... Hollywood Got It All Wrong", 30-45dk, ~günlük): Eyl 747K/153K/129K/95K; 11 Eki 160K/59K/34K; 15 Eki 25K; 17-21 Eki 13K/15K/10K; son 3 gün 2.6-4.5K. HAFİF DÜŞÜŞ ama haftada 10-25K tabanı var. STABİL-.
+- Two Sides of War (2. DS karşı-olgu animasyon, "COMPLETELY Avoidable", "Could X REALLY..."): 371K/242K; 11 Eki 194K/181K; 15 Eki 219K; 20-21 Eki 10K/9.4K (5 gün). SAĞLIKLI, hit üretmeye devam.
+- Lost American Stores (1960'lar mağaza nostaljisi "25 Things Every 1960s X Had", 30-50dk): ilk hit 687K, 73K; Eki 33K (Noel vitrinleri), 11K, 10K; son 2 hafta çoğu 400-4.5K. DÜŞÜŞ (taban). Noel konusu hâlâ tutuyor.
+- Stateside Stories (ABD toplum belgeseli 50dk, "gazetecilerin gözünden"): 1.3M/347K/312K; Eki 71K/36K/12K; son 0.7-4.8K. DÜŞÜŞ + siyaset + muhtemel yeniden kullanılmış görüntü. ELE.
+- Secret State Files (58K abone; "Before X, How Did Americans...?" / "America Had No X Until 1935 — How Did...?", 25-40dk, günlük): 10 gün önce 591K, 461K, 432K, 137K, 117K; son hafta 50K (3 gün), 26K, 24K, 18K (22 saatte). GÜÇLÜ YÜKSELİŞ. En sağlıklı kanal.
+- Marcus Explains (iş ekonomisi "How X Actually Make Money (It's Not Y)", 25-28dk): 471K/442K/390K (2 hafta önce); son 29K,13K,11K,10K,7.3K. STABİL, ara ara büyük hit.
+- Deutsche Chroniken (52K; adı Almanca ama içerik İNGİLİZCE: Alman tarihi/diaspora, "Why Is Bavaria Different?", "How 3 Million Germans Disappeared", 20-35dk): 405K/206K/192K/165K; son 35K (3 gün), 13K, 12K, 9.7K; birçok video "0" (üyelik/premiere). STABİL-SAĞLIKLI.
+- Aussie True Crime: TV programlarının tam sezonları yeniden yükleniyor ("Watch all of season 3"). Lisanslı/yeniden kullanım. ELE.
+- Bagholder Association (marka çöküşü "X Is (Finally) Getting What They Deserve…", "Why X Got So Expensive", 17-25dk): 1.2M/722K/582K/555K/448K/423K; son hafta 77K (5 gün), 58K, 52K, 39K, 27K, 10K (1 gün). ÇOK SAĞLIKLI.
+- Consumer Truth: 100-600 izlenme, ÖLÜ. ELE.
+- The Greatest Graves (ünlü mezarları/"Final Hours Of...", 1s15-2s): 179K/119K/107K/106K/97K; son hafta 35K, 23K, 21K, 5K, 4K. STABİL, düzenli hit.
+- Hollywood Revealed ("12 Classic TV Stars Who...", 30dk, günde 1-2): 6 gün önce 248K; 227K, 180K, 99K, 62K, 44K, 39K; çok sayıda 1-6K. SAĞLIKLI hit makinesi, yaşlı ABD kitlesi.
+- Airspeed (3D animasyon havacılık, 9-13dk, 10 video): hepsi 200K-2.2M; 1 günde 90K. ÇOK GÜÇLÜ ama 3D animasyon = yüksek üretim bariyeri.
+- Overengineered (mega projeler 16-28dk): erken 4.7M/345K/222K/176K; Eki 8.8K, 6.3K, 2.1K, 2.1K. SERT DÜŞÜŞ.
+- The Last Day ("What Would Happen If...?" felaket bilimi, 19-21dk): 5M/1.8M/1.5M/836K/737K; son 286K (7 gün), 54K. ÇOK SAĞLIKLI. Sinematik görseller = Grok uyumlu.
+- Qumal Fafma: hemşirelik iğne videosu tekrarı, tıbbi. ELE.
+- Elias Stoltzfus (Amish göçü): 3.7M/831K/232K/112K tek konu; geri kalan yüzlerce; son 5.5K, 658, 273. TEK HİT, DÜŞÜŞ.
+- History Unfiltered: 3dk karışık; tek 2.2M hit, gerisi yüzlerce. ELE.
+- Atlas One (gerçek hayatta kalma hikâyeleri "Left Alone on a Frozen Island...", 19-23dk): 2.8M/484K/298K/204K/134K; son hafta 51K (1 gün!), 79K, 44K, 23K. SAĞLIKLI. Last Hatch kitlesine yakın ama gerçek olay.
+- Earth Unknown ("Living in X" 1-3s gezi belgeseli): 1M/622K/259K/183K; son 4-23K. HAFİF DÜŞÜŞ, 5-10K taban.
+- After the Crown ("What Happened to X's Family After Y Fell?", 25-30dk, günlük): 8 gün önce 365K; 306K, 234K, 139K, 128K, 119K; son 35K (2 gün), 17K (1 gün), 13K (22 saat). ÇOK SAĞLIKLI. (ROYALS nişi magazin dramı yüzünden elenmişti; bu kanal tarih formatı, temiz.)
