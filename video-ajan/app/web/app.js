@@ -58,7 +58,7 @@ async function yenile() {
   hap.classList.toggle("acik", g.yz_mod !== "kapali");
   const sec = $("#yeniKanal");
   const onceki = sec.value;
-  sec.innerHTML = `<option value="">Kanal seç…</option>` + g.kanallar.map((k) => `<option>${esc(k)}</option>`).join("");
+  sec.innerHTML = `<option value="">Otomatik algıla</option>` + g.kanallar.map((k) => `<option>${esc(k)}</option>`).join("");
   if (onceki) sec.value = onceki;
   const ul = $("#paketler");
   ul.innerHTML = g.paketler.length ? g.paketler.map((p) => `
@@ -243,9 +243,13 @@ async function son_hali() {
 // ---- yükleme --------------------------------------------------------------------------------
 const METIN = /\.(txt|md|srt|vtt|json|csv)$/i;
 
+function kanal_bildir(r) {
+  if (r.kanal) bildir(`Kanal: ${r.kanal} (${r.neden})`);
+  else bildir(`Kanal anlaşılamadı: ${r.neden}. Paketin üstünden seç.`, true);
+}
+
 async function yukle(dosyalar, ad) {
   const kanal = $("#yeniKanal").value;
-  if (!kanal) return bildir("Önce kanal seç.", true);
   const liste = [];
   for (const { yol, file } of dosyalar) if (METIN.test(yol)) liste.push({ yol, icerik: await file.text() });
   if (!liste.length) return bildir("Klasörde .txt/.md/.srt/.csv/.json dosyası yok.", true);
@@ -253,7 +257,7 @@ async function yukle(dosyalar, ad) {
     const r = await api("/api/yukle", { ad, kanal, dosyalar: liste });
     await yenile();
     await sec_paket(r.ad);
-    bildir(`${liste.length} dosya eklendi.`);
+    kanal_bildir(r);
   } catch (e) { bildir(e.message, true); }
 }
 
@@ -293,12 +297,12 @@ function kur() {
   });
   $("#yolEkle").onclick = async () => {
     const kanal = $("#yeniKanal").value;
-    if (!kanal) return bildir("Önce kanal seç.", true);
     try {
       const r = await api("/api/klasor", { yol: $("#yolGir").value, kanal });
       $("#yolGir").value = "";
       await yenile();
       await sec_paket(r.ad);
+      kanal_bildir(r);
     } catch (e) { bildir(e.message, true); }
   };
   // ayarlar

@@ -18,8 +18,8 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 import ajanlar  # noqa: E402
 import llm  # noqa: E402
-from ayarlar import CIKTI, DURUM, GELEN, ayar_kaydet, ayarlar, kanal, kanallar  # noqa: E402
-from paket import METIN_UZANTI, Paket  # noqa: E402
+from ayarlar import CIKTI, DURUM, GELEN, ayar_kaydet, ayarlar, kanal, kanal_tahmin, kanallar  # noqa: E402
+from paket import METIN_UZANTI, Paket, bolumler, bolum_bul, dosya_turu  # noqa: E402
 
 WEB = Path(__file__).resolve().parent / "web"
 KILIT = threading.Lock()
@@ -223,39 +223,45 @@ class Isleyici(BaseHTTPRequestHandler):
         except (ValueError, KeyError, FileNotFoundError) as e:
             return self._json({"hata": str(e)}, 400)
 
+    def _kaydet(self, ad, kanal_adi, ipucu):
+        neden = "elle seçildi"
+        if not kanal_adi:
+            kanal_adi, neden = kanal_tahmin(paket_yolu(ad), ipucu)
+        d = durum_oku(ad)
+        d["kanal"] = kanal_adi
+        d["raporlar"], d["kararlar"] = {}, {}
+        durum_yaz(ad, d)
+        return {"ad": ad, "kanal": kanal_adi, "neden": neden}
+
     def _post(self, yol, g):
         if yol == "/api/yukle":
-            ad = guvenli_ad(g["ad"])
+            # Paket adı Assets.txt'deki başlıktan gelir: her hafta aynı adlı "Plain Strength" klasörü
+            # yüklense de videolar birbirinin üzerine yazılmaz.
+            klasor_adi = guvenli_ad(g["ad"])
+            ad = guvenli_ad(baslik_bul({f["yol"]: f["icerik"] for f in g["dosyalar"]}) or klasor_adi)
             hedef = paket_yolu(ad)
-            hedef.mkdir(parents=True, exist_ok=True)
+            if hedef.exists():
+                shutil.rmtree(hedef)
+            hedef.mkdir(parents=True)
             for f in g["dosyalar"]:
                 parca = [guvenli_ad(x) for x in Path(f["yol"]).parts if x not in ("", ".", "..")]
-                if len(parca) > 1 and parca[0] == ad:
+                if len(parca) > 1 and parca[0] == klasor_adi:
                     parca = parca[1:]
                 t = hedef.joinpath(*parca)
                 t.parent.mkdir(parents=True, exist_ok=True)
                 t.write_text(f["icerik"], encoding="utf-8")
-            d = durum_oku(ad)
-            if g.get("kanal"):
-                d["kanal"] = g["kanal"]
-            d["raporlar"], d["kararlar"] = {}, {}
-            durum_yaz(ad, d)
-            return {"ad": ad}
+            return self._kaydet(ad, g.get("kanal"), klasor_adi)
         if yol == "/api/klasor":
             kaynak = Path(g["yol"].strip().strip('"'))
             if not kaynak.is_dir():
                 raise ValueError(f"Klasör bulunamadı: {kaynak}")
-            ad = guvenli_ad(kaynak.name)
+            p = Paket(kaynak)
+            ad = guvenli_ad(p.baslik() or kaynak.name)
             hedef = paket_yolu(ad)
             if hedef.exists():
                 shutil.rmtree(hedef)
             shutil.copytree(kaynak, hedef)
-            d = durum_oku(ad)
-            if g.get("kanal"):
-                d["kanal"] = g["kanal"]
-            d["raporlar"], d["kararlar"] = {}, {}
-            durum_yaz(ad, d)
-            return {"ad": ad}
+            return self._kaydet(ad, g.get("kanal"), str(kaynak))
         if yol == "/api/sil":
             ad = guvenli_ad(g["ad"])
             for p in (paket_yolu(ad), CIKTI / ad):
@@ -310,6 +316,18 @@ class Isleyici(BaseHTTPRequestHandler):
             ayar_kaydet(g)
             return {"ok": True, "yz": llm.durum()}
         raise KeyError(yol)
+
+
+def baslik_bul(dosyalar):
+    for yol, metin in dosyalar.items():
+        if dosya_turu(yol) == "assets":
+            parts = bolumler(metin)
+            i = bolum_bul(parts, "TITLE")
+            if i >= 0:
+                for line in parts[i][1].splitlines():
+                    if line.strip():
+                        return line.strip()
+    return ""
 
 
 class _bos:

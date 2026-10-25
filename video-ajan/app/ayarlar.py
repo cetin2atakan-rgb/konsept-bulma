@@ -1,5 +1,6 @@
 """ayarlar.json ve kanallar.json okuma/yazma."""
 import json
+import re
 from pathlib import Path
 
 KOK = Path(__file__).resolve().parent.parent          # video-ajan/
@@ -62,3 +63,36 @@ def kanal(ad):
         if sp.exists():
             d["ses"] = sp.read_text(encoding="utf-8")
     return d
+
+
+def kanal_tahmin(klasor, ipucu=""):
+    """Paketin hangi kanala ait olduğunu içeriğinden tahmin eder. (kanal adı | "", neden) döner."""
+    from paket import Paket, sade
+    p = Paket(klasor)
+    yer = sade(" ".join([ipucu, p.ad]))
+    prompts = p.metin("prompts")
+    assets = p.metin("assets")
+    karakter = p.metin("karakterler") + prompts
+    puanlar = []
+    for ad in kanallar():
+        k = kanal(ad)
+        puan, neden = 0, []
+        if sade(ad) in yer or sade(ad).replace(",", "") in yer.replace(",", ""):
+            puan += 10
+            neden.append("klasör adı")
+        if k["stil_cumlesi"] and k["stil_cumlesi"] in prompts:
+            puan += 6
+            neden.append("stil cümlesi")
+        if k["uyari_satiri"] and k["uyari_satiri"][:60] in assets:
+            puan += 5
+            neden.append("uyarı satırı")
+        if any(re.search(r"\b" + re.escape(c) + r"\b", karakter) for c in k["karakterler"]):
+            puan += 3
+            neden.append("karakter")
+        puanlar.append((puan, ad, neden))
+    puanlar.sort(key=lambda x: -x[0])
+    if not puanlar or puanlar[0][0] == 0:
+        return "", "hiçbir kanal işareti bulunamadı"
+    if len(puanlar) > 1 and puanlar[1][0] == puanlar[0][0]:
+        return "", f"{puanlar[0][1]} ile {puanlar[1][1]} arasında karar verilemedi"
+    return puanlar[0][1], ", ".join(puanlar[0][2])

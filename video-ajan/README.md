@@ -14,7 +14,7 @@ Başka bir şey kurmak gerekmez. Uygulama sadece bu bilgisayardan erişilir.
 
 ## Kullanım
 
-1. Soldan **kanalı** seç.
+1. Kanalı boş bırakabilirsin: klasör adından, stil cümlesinden, uyarı satırından ve karakterlerden kendisi anlar. Anlayamazsa paketin üstünden seçersin.
 2. Video klasörünü kutuya **sürükle** (ya da klasör yolunu yapıştır).
 3. **Tüm ajanları çalıştır.** Her ajanın kartında bulgular, düzeltmeler (önce/sonra farkıyla) ve kopyalanacak çıktılar görünür.
 4. Düzeltmeleri gözden geçir: **otomatik** olanlar işaretli gelir (rakamı yazıya çevirme, numaralama,
