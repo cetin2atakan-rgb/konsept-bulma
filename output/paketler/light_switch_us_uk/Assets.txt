@@ -1,0 +1,53 @@
+# Video Assets: Why American and British Light Switches Flip Opposite Ways
+
+## TITLE (selected)
+Why American and British Light Switches Flip Opposite Ways
+
+## Title options
+1. Why American and British Light Switches Flip Opposite Ways
+2. Why Up Means On in America but Off in Britain
+3. Why Light Switches Are Upside Down in the UK
+
+## Description
+In the United States, flipping a light switch up turns it on. In the United Kingdom, down is on. Why do two countries with the same language and the same early electrical engineering disagree on something this simple?
+The answer has almost nothing to do with electricity and almost everything to do with a dangerous piece of 1880s factory hardware: the open knife switch.
+
+This video follows the switch from Edison's Pearl Street Station in 1882 to the smart switches of today: the gravity rule for knife switches that shaped American practice, John Henry Holmes and the quick-break mechanism, the Newton and Goldberg toggle switch patent, Underwriters Laboratories and the National Electrical Code, the British fireman's switch, and why Britain settled into "down is on" through trade habit rather than one national rule. Along the way: Japan's split 50 Hz and 60 Hz grid, plug shapes, and why an early choice can become too expensive to ever undo.
+
+What everyday standard works one way where you live and the opposite way somewhere else? Tell me in the comments.
+
+Chapters
+00:00 Up is on, until you land in London
+1:10 Why the easy answers are wrong
+2:51 Knife switches, toggles and the first rulebooks
+12:27 The real reason the two countries split
+17:27 What if Britain had wired like America?
+20:50 Where the split still shows up today
+24:00 The pattern behind it
+
+Sources:
+- National Fire Protection Association, National Electrical Code (NFPA 70)
+- Underwriters Laboratories history
+- U.S. Patent 1,248,384, Newton and Goldberg, "Electric wall-switch"
+- BS 3676 and BS EN 60669-1 standard records
+- Institution of Engineering and Technology, history of the IEE Wiring Regulations
+- Fireman's switch requirements in the UK wiring regulations
+Where the historical record is thin, the video says so. If you know a detail we missed, add it in the comments; corrections are welcome.
+
+This is a history explainer, not electrical advice. Work on panels, disconnects or main switches should be done by a licensed electrician familiar with your local code.
+
+#LightSwitch #EngineeringHistory #WhyItsBuiltThatWay
+
+## Thumbnail Prompts (3)
+1. Clean technical line-art illustration, thin white lines on a dark slate background (#1C2228), single teal accent (#2FB8B0), blueprint feel: one large wall light switch drawn in a split composition, the left half with the toggle tilted up and a small teal glow, the right half with the toggle tilted down and the same teal glow, a thin vertical seam between the halves. No face, no logo, no brand. Large bold white sans-serif text: "UP = ON? NOT HERE". 16:9
+2. Clean technical line-art illustration, thin white lines on a dark slate background (#1C2228), single teal accent (#2FB8B0), blueprint feel: a large open 1880s knife switch on a wooden panel drawn in cross-section, the blade hanging open with a teal gravity arrow pointing down, and a small modern wall toggle switch ghosted in the corner. No face, no logo. Large bold white sans-serif text: "BLAME THE KNIFE". 16:9
+3. Cinematic period illustration, painterly realism, muted warm palette: a dim 1880s power station wall lined with exposed knife switches on slate panels, a single blade switch in the foreground glowing faintly, soft volumetric light through high windows. No recognizable faces, no logos. Large bold white sans-serif text: "1880s FACTORY RULE". 16:9
+
+## SEO Tags
+light switch up or down, why are uk light switches upside down, american vs british light switches, which way is on for a light switch, light switch history, history of the toggle switch, knife switch, national electrical code, uk electrical standards, fireman's switch, everyday engineering, why it's built that way, engineering history, us vs uk differences, path dependency
+
+## PINNED COMMENT
+What is the strangest everyday standard you've run into that works one way at home and the opposite way somewhere else? Corrections are welcome too; we update the description when we get something wrong.
+
+## END SCREEN
+Point to the most recent "Why It's Built That Way" video closest in subject (electrical or household standards, for example a 50 Hz vs 60 Hz video if one exists at upload time; otherwise the most recent upload).
