@@ -1,0 +1,62 @@
+# Video Assets: Why Train Tracks Are 4 Feet 8.5 Inches Apart
+
+## TITLE (selected)
+Why Train Tracks Are 4 Feet 8.5 Inches Apart
+
+## Title options
+1. Why Train Tracks Are 4 Feet 8.5 Inches Apart
+2. Why US Railroads Still Use a Gauge Nobody Designed
+3. 4 Feet 8.5 Inches: The Track Width Coal Carts Chose
+
+## Description
+Under almost every train in the United States, the rails sit exactly 4 feet 8.5 inches apart, and most of the world's railways use the same width. Nobody calculated that number for speed or stability.
+It came from horse-drawn coal wagonways in the north of England, survived Britain's Victorian gauge war, and was locked in across the American South in a single weekend in 1886.
+
+This video follows the gauge from the colliery wagonways of North East England to George Stephenson's Killingworth locomotives, the Stockton and Darlington and the Liverpool and Manchester railways, the Roman chariot myth (and why it doesn't hold up), Brunel's 7-foot broad gauge and the Gauge Act of 1846, the dozens of gauges on early American railroads, and the 1886 regauging of more than 11,000 miles of southern track in about 36 hours. Then the real reason it won: network effects, sunk cost and path dependence, what would have happened if broad gauge had won, and where the split still shows up today, from New York subway clearances to the Spain–France border.
+
+What's the strangest standard or measurement in your country, the kind nobody around you can explain? Tell me in the comments.
+
+Chapters
+00:00 4 feet 8.5 inches, under almost every train
+01:00 Did someone calculate this number?
+02:52 Coal carts, wagonways and Stephenson
+05:02 Stockton, Darlington and Liverpool
+06:56 The Roman chariot myth
+08:37 Brunel's broad gauge and the Gauge Act
+09:56 America's 20-plus gauges
+10:51 The weekend the South moved its rails
+11:53 The real reason: network effects
+17:03 What if broad gauge had won?
+20:21 Where the gauge shows up today
+21:53 Spain, France and the gauge changers
+23:44 The pattern behind it
+
+Sources:
+- Network Rail and UK railway heritage records (Stockton and Darlington, Liverpool and Manchester)
+- Andrew Dow, The Railway: British Track Since 1804
+- Daniel P. Gross, economic history research on the 1886 Southern regauging
+- Douglas J. Puffert, Tracks Across Continents, Paths Through History: The Economic Dynamics of Standardization in Railway Gauge
+- Royal Commission on Railway Gauges (1845) and the Gauge Act of 1846
+- Skeptoid and other published analyses of the Roman chariot legend
+Where the historical record is thin or disputed, the video says so. If you know a detail we missed, add it in the comments; corrections are welcome.
+
+Diagrams and scenes are AI-generated illustrations based on historical sources and may simplify some details.
+
+#Railroads #EngineeringHistory #WhyItsBuiltThatWay
+
+## Thumbnail Prompts (3)
+1. Clean technical line-art illustration, thin white lines on a dark slate background (#1C2228), single teal accent (#2FB8B0), blueprint feel: a low-angle cross-section of two steel rails on a wooden sleeper, a teal dimension line spanning the gap between the rail heads, a faint horse-drawn coal cart drawn in ghosted white lines behind the rails at the same width. No face, no logo. Large bold white sans-serif text: "NOBODY DESIGNED THIS". 16:9
+2. Clean technical line-art illustration, thin white lines on dark slate (#1C2228), single teal accent (#2FB8B0): isometric view of two tracks side by side, a narrow standard-gauge track highlighted in teal and a much wider broad-gauge track in plain white, a small Victorian locomotive silhouette on each. No face, no logo. Large bold white sans-serif text: "THE WIDE ONE LOST". 16:9
+3. Cinematic period illustration, painterly realism, muted warm palette: a misty early-1800s colliery yard in northern England at dawn, a horse pulling a loaded coal wagon along wooden rails, a pit headframe in the distance, soft volumetric light. No recognizable faces, no logos. Large bold white sans-serif text: "BLAME THE HORSE". 16:9
+
+## SEO Tags
+why are train tracks 4 feet 8.5 inches, standard gauge explained, railroad gauge history, track gauge, standard gauge railway, roman chariot railroad myth, george stephenson, isambard kingdom brunel, gauge act 1846, broad gauge vs standard gauge, 1886 gauge change, american railroad history, path dependence, network effect, why it's built that way
+
+## PINNED COMMENT
+What's the strangest standard or measurement in your own country, the kind nobody around you can actually explain? Corrections are welcome too; we update the description when something checks out.
+
+## END SCREEN
+Point to "Why American and British Light Switches Flip Opposite Ways" (same locked-in-standard theme). If a closer transport or measurement standard video exists at upload time, use that instead.
+
+## baslik_kaydi
+why-its-built-that-way_2026-10-21_us-railroad-gauge_v1	Why Train Tracks Are 4 Feet 8.5 Inches Apart
