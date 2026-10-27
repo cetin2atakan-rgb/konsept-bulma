@@ -1,0 +1,1456 @@
+{
+ "id": "demoB2",
+ "title": "What If You Woke Up in 1955 With Everything You Know Today?",
+ "voice": "am_eric",
+ "speed": 0.95,
+ "theme": "retro",
+ "scenes": [
+  {
+   "text": "You open your eyes, and the alarm clock on the nightstand is ringing.",
+   "bg": "bedroom55",
+   "chars": [
+    {
+     "id": "hero",
+     "x": 600,
+     "color": "#4f7a8a",
+     "keys": [
+      [
+       "stretch",
+       0
+      ],
+      [
+       "surprised",
+       0.55
+      ]
+     ],
+     "face": [
+      [
+       "sleepy",
+       0
+      ],
+      [
+       "shocked",
+       0.55
+      ]
+     ],
+     "emote": [
+      [
+       "zzz",
+       0
+      ],
+      [
+       "!",
+       0.55
+      ]
+     ],
+     "act": [
+      [
+       "hop",
+       0.55
+      ]
+     ]
+    }
+   ],
+   "overlay": {
+    "type": "title",
+    "text": "WHAT IF YOU WOKE UP IN 1955?",
+    "until": 0.5
+   },
+   "sfx": [
+    [
+     "ring",
+     0.05
+    ]
+   ],
+   "shots": [
+    {
+     "at": 0,
+     "z": 1.0,
+     "z2": 1.08
+    },
+    {
+     "at": 0.5,
+     "focus": "hero",
+     "z": 1.7
+    }
+   ],
+   "start": 12,
+   "dur": 117,
+   "words": [
+    {
+     "w": "You",
+     "s": 12
+    },
+    {
+     "w": "open",
+     "s": 18
+    },
+    {
+     "w": "your",
+     "s": 26
+    },
+    {
+     "w": "eyes,",
+     "s": 34
+    },
+    {
+     "w": "and",
+     "s": 42
+    },
+    {
+     "w": "the",
+     "s": 48
+    },
+    {
+     "w": "alarm",
+     "s": 54
+    },
+    {
+     "w": "clock",
+     "s": 64
+    },
+    {
+     "w": "on",
+     "s": 73
+    },
+    {
+     "w": "the",
+     "s": 78
+    },
+    {
+     "w": "nightstand",
+     "s": 84
+    },
+    {
+     "w": "is",
+     "s": 102
+    },
+    {
+     "w": "ringing.",
+     "s": 106
+    }
+   ]
+  },
+  {
+   "text": "The calendar on the wall says June, nineteen fifty-five.",
+   "bg": "bedroom55",
+   "chars": [
+    {
+     "id": "hero",
+     "x": 640,
+     "color": "#4f7a8a",
+     "keys": [
+      [
+       "idle",
+       0
+      ],
+      [
+       "scared",
+       0.45
+      ]
+     ],
+     "face": [
+      [
+       "normal",
+       0
+      ],
+      [
+       "shocked",
+       0.4
+      ]
+     ],
+     "emote": [
+      [
+       "sweat",
+       0.5
+      ]
+     ],
+     "look": 1
+    }
+   ],
+   "overlay": {
+    "type": "calendar",
+    "text": "JUNE",
+    "sub": "1955",
+    "at": 0.3
+   },
+   "sfx": [
+    [
+     "pop",
+     0.3
+    ]
+   ],
+   "shake": [
+    0.42
+   ],
+   "start": 129,
+   "dur": 105,
+   "words": [
+    {
+     "w": "The",
+     "s": 129
+    },
+    {
+     "w": "calendar",
+     "s": 136
+    },
+    {
+     "w": "on",
+     "s": 152
+    },
+    {
+     "w": "the",
+     "s": 157
+    },
+    {
+     "w": "wall",
+     "s": 164
+    },
+    {
+     "w": "says",
+     "s": 173
+    },
+    {
+     "w": "June,",
+     "s": 182
+    },
+    {
+     "w": "nineteen",
+     "s": 190
+    },
+    {
+     "w": "fifty-five.",
+     "s": 206
+    }
+   ]
+  },
+  {
+   "text": "And you still remember everything you know today. Every invention, every price, every headline.",
+   "bg": "abstract55",
+   "chars": [
+    {
+     "id": "hero",
+     "x": 640,
+     "color": "#4f7a8a",
+     "keys": [
+      [
+       "think",
+       0
+      ],
+      [
+       "think_b",
+       0.35
+      ],
+      [
+       "point_b",
+       0.7
+      ]
+     ],
+     "face": [
+      [
+       "skeptical",
+       0
+      ],
+      [
+       "smug",
+       0.7
+      ]
+     ],
+     "emote": [
+      [
+       "idea",
+       0.68
+      ]
+     ]
+    }
+   ],
+   "overlay": {
+    "type": "bubble",
+    "items": [
+     "THE MOON LANDING",
+     "THE INTERNET",
+     "YOUR PHONE"
+    ],
+    "at": 0.25
+   },
+   "sfx": [
+    [
+     "shimmer",
+     0.25
+    ]
+   ],
+   "transition": "wipe",
+   "start": 234,
+   "dur": 163,
+   "words": [
+    {
+     "w": "And",
+     "s": 234
+    },
+    {
+     "w": "you",
+     "s": 241
+    },
+    {
+     "w": "still",
+     "s": 247
+    },
+    {
+     "w": "remember",
+     "s": 257
+    },
+    {
+     "w": "everything",
+     "s": 272
+    },
+    {
+     "w": "you",
+     "s": 290
+    },
+    {
+     "w": "know",
+     "s": 297
+    },
+    {
+     "w": "today.",
+     "s": 305
+    },
+    {
+     "w": "Every",
+     "s": 315
+    },
+    {
+     "w": "invention,",
+     "s": 325
+    },
+    {
+     "w": "every",
+     "s": 342
+    },
+    {
+     "w": "price,",
+     "s": 352
+    },
+    {
+     "w": "every",
+     "s": 362
+    },
+    {
+     "w": "headline.",
+     "s": 372
+    }
+   ]
+  },
+  {
+   "text": "You walk into the corner diner, and a cup of coffee costs about a dime.",
+   "bg": "diner",
+   "chars": [
+    {
+     "id": "hero",
+     "x": 260,
+     "color": "#4f7a8a",
+     "move": {
+      "to": 760,
+      "from": 0.0,
+      "until": 0.45
+     },
+     "keys": [
+      [
+       "idle",
+       0
+      ],
+      [
+       "hold",
+       0.62
+      ]
+     ],
+     "prop": "coffee",
+     "propAt": 0.62,
+     "face": [
+      [
+       "normal",
+       0
+      ],
+      [
+       "shocked",
+       0.72
+      ]
+     ],
+     "emote": [
+      [
+       "!",
+       0.74
+      ]
+     ]
+    },
+    {
+     "id": "cook",
+     "x": 1360,
+     "color": "#f2efe6",
+     "hat": "paper",
+     "facing": -1,
+     "keys": [
+      [
+       "idle",
+       0
+      ],
+      [
+       "give",
+       0.45
+      ],
+      [
+       "wave",
+       0.75
+      ]
+     ],
+     "face": [
+      [
+       "smile",
+       0
+      ]
+     ]
+    }
+   ],
+   "overlay": {
+    "type": "sticker",
+    "text": "10¢",
+    "at": 0.72
+   },
+   "sfx": [
+    [
+     "ding",
+     0.72
+    ]
+   ],
+   "transition": "wipe",
+   "shots": [
+    {
+     "at": 0,
+     "z": 1.0,
+     "z2": 1.05
+    },
+    {
+     "at": 0.45,
+     "z": 1.3,
+     "x": 1060,
+     "y": 600
+    },
+    {
+     "at": 0.7,
+     "focus": "hero",
+     "z": 1.75
+    }
+   ],
+   "start": 397,
+   "dur": 121,
+   "words": [
+    {
+     "w": "You",
+     "s": 397
+    },
+    {
+     "w": "walk",
+     "s": 404
+    },
+    {
+     "w": "into",
+     "s": 412
+    },
+    {
+     "w": "the",
+     "s": 420
+    },
+    {
+     "w": "corner",
+     "s": 426
+    },
+    {
+     "w": "diner,",
+     "s": 437
+    },
+    {
+     "w": "and",
+     "s": 446
+    },
+    {
+     "w": "a",
+     "s": 453
+    },
+    {
+     "w": "cup",
+     "s": 456
+    },
+    {
+     "w": "of",
+     "s": 462
+    },
+    {
+     "w": "coffee",
+     "s": 467
+    },
+    {
+     "w": "costs",
+     "s": 478
+    },
+    {
+     "w": "about",
+     "s": 488
+    },
+    {
+     "w": "a",
+     "s": 497
+    },
+    {
+     "w": "dime.",
+     "s": 500
+    }
+   ]
+  },
+  {
+   "text": "At the gas station, a gallon of gas is around twenty-five cents.",
+   "bg": "gas",
+   "chars": [
+    {
+     "id": "att",
+     "x": 1300,
+     "color": "#c0392b",
+     "hat": "cap",
+     "facing": -1,
+     "keys": [
+      [
+       "wave",
+       0
+      ],
+      [
+       "hips",
+       0.5
+      ]
+     ],
+     "face": [
+      [
+       "smile",
+       0
+      ]
+     ]
+    },
+    {
+     "id": "hero",
+     "x": 600,
+     "color": "#4f7a8a",
+     "keys": [
+      [
+       "idle",
+       0
+      ],
+      [
+       "cheer",
+       0.6
+      ]
+     ],
+     "face": [
+      [
+       "normal",
+       0
+      ],
+      [
+       "happy",
+       0.6
+      ]
+     ],
+     "act": [
+      [
+       "jump",
+       0.6
+      ]
+     ],
+     "emote": [
+      [
+       "sparkle",
+       0.62
+      ]
+     ]
+    }
+   ],
+   "overlay": {
+    "type": "sticker",
+    "text": "25¢",
+    "at": 0.58
+   },
+   "start": 519,
+   "dur": 122,
+   "words": [
+    {
+     "w": "At",
+     "s": 519
+    },
+    {
+     "w": "the",
+     "s": 524
+    },
+    {
+     "w": "gas",
+     "s": 531
+    },
+    {
+     "w": "station,",
+     "s": 538
+    },
+    {
+     "w": "a",
+     "s": 553
+    },
+    {
+     "w": "gallon",
+     "s": 556
+    },
+    {
+     "w": "of",
+     "s": 569
+    },
+    {
+     "w": "gas",
+     "s": 574
+    },
+    {
+     "w": "is",
+     "s": 582
+    },
+    {
+     "w": "around",
+     "s": 587
+    },
+    {
+     "w": "twenty-five",
+     "s": 599
+    },
+    {
+     "w": "cents.",
+     "s": 619
+    }
+   ]
+  },
+  {
+   "text": "You buy a newspaper, and every headline is something you already know the ending to.",
+   "bg": "street55",
+   "chars": [
+    {
+     "id": "hero",
+     "x": 900,
+     "color": "#4f7a8a",
+     "keys": [
+      [
+       "hold",
+       0
+      ],
+      [
+       "phone",
+       0.3
+      ],
+      [
+       "shrug_b",
+       0.72
+      ]
+     ],
+     "prop": "newspaper",
+     "face": [
+      [
+       "normal",
+       0
+      ],
+      [
+       "smug",
+       0.45
+      ]
+     ],
+     "emote": [
+      [
+       "sparkle",
+       0.5
+      ]
+     ]
+    }
+   ],
+   "overlays": [
+    {
+     "type": "label",
+     "text": "SPOILERS",
+     "target": "hero",
+     "at": 0.5
+    }
+   ],
+   "shots": [
+    {
+     "at": 0,
+     "z": 1.1,
+     "z2": 1.15
+    },
+    {
+     "at": 0.45,
+     "focus": "hero",
+     "z": 1.75,
+     "z2": 1.85
+    }
+   ],
+   "start": 640,
+   "dur": 137,
+   "words": [
+    {
+     "w": "You",
+     "s": 640
+    },
+    {
+     "w": "buy",
+     "s": 647
+    },
+    {
+     "w": "a",
+     "s": 653
+    },
+    {
+     "w": "newspaper,",
+     "s": 656
+    },
+    {
+     "w": "and",
+     "s": 671
+    },
+    {
+     "w": "every",
+     "s": 677
+    },
+    {
+     "w": "headline",
+     "s": 686
+    },
+    {
+     "w": "is",
+     "s": 700
+    },
+    {
+     "w": "something",
+     "s": 704
+    },
+    {
+     "w": "you",
+     "s": 719
+    },
+    {
+     "w": "already",
+     "s": 726
+    },
+    {
+     "w": "know",
+     "s": 738
+    },
+    {
+     "w": "the",
+     "s": 745
+    },
+    {
+     "w": "ending",
+     "s": 751
+    },
+    {
+     "w": "to.",
+     "s": 762
+    }
+   ]
+  },
+  {
+   "text": "You know which small companies will grow into giants, and how the next seventy years will turn out.",
+   "bg": "abstract55",
+   "chars": [
+    {
+     "id": "hero",
+     "x": 560,
+     "color": "#4f7a8a",
+     "keys": [
+      [
+       "explain",
+       0
+      ],
+      [
+       "point",
+       0.3
+      ],
+      [
+       "point_b",
+       0.65
+      ]
+     ],
+     "face": [
+      [
+       "smug",
+       0
+      ],
+      [
+       "happy",
+       0.75
+      ]
+     ]
+    }
+   ],
+   "overlay": {
+    "type": "growth",
+    "at": 0.15
+   },
+   "sfx": [
+    [
+     "whoosh",
+     0.15
+    ]
+   ],
+   "start": 777,
+   "dur": 164,
+   "words": [
+    {
+     "w": "You",
+     "s": 777
+    },
+    {
+     "w": "know",
+     "s": 783
+    },
+    {
+     "w": "which",
+     "s": 791
+    },
+    {
+     "w": "small",
+     "s": 801
+    },
+    {
+     "w": "companies",
+     "s": 810
+    },
+    {
+     "w": "will",
+     "s": 826
+    },
+    {
+     "w": "grow",
+     "s": 834
+    },
+    {
+     "w": "into",
+     "s": 841
+    },
+    {
+     "w": "giants,",
+     "s": 849
+    },
+    {
+     "w": "and",
+     "s": 860
+    },
+    {
+     "w": "how",
+     "s": 866
+    },
+    {
+     "w": "the",
+     "s": 873
+    },
+    {
+     "w": "next",
+     "s": 879
+    },
+    {
+     "w": "seventy",
+     "s": 887
+    },
+    {
+     "w": "years",
+     "s": 899
+    },
+    {
+     "w": "will",
+     "s": 909
+    },
+    {
+     "w": "turn",
+     "s": 917
+    },
+    {
+     "w": "out.",
+     "s": 924
+    }
+   ]
+  },
+  {
+   "text": "But here is the catch.",
+   "bg": "street55",
+   "transition": "sticky",
+   "chars": [
+    {
+     "id": "hero",
+     "x": 960,
+     "color": "#4f7a8a",
+     "keys": [
+      [
+       "happy",
+       0
+      ],
+      [
+       "idle",
+       0.35
+      ]
+     ],
+     "face": [
+      [
+       "happy",
+       0
+      ],
+      [
+       "worried",
+       0.4
+      ]
+     ],
+     "emote": [
+      [
+       "sweat",
+       0.45
+      ]
+     ]
+    }
+   ],
+   "sfx": [
+    [
+     "boom",
+     0.05
+    ]
+   ],
+   "shots": [
+    {
+     "at": 0,
+     "focus": "hero",
+     "z": 1.9,
+     "z2": 1.6
+    }
+   ],
+   "start": 941,
+   "dur": 56,
+   "words": [
+    {
+     "w": "But",
+     "s": 941
+    },
+    {
+     "w": "here",
+     "s": 949
+    },
+    {
+     "w": "is",
+     "s": 960
+    },
+    {
+     "w": "the",
+     "s": 966
+    },
+    {
+     "w": "catch.",
+     "s": 974
+    }
+   ]
+  },
+  {
+   "text": "There is no internet, no cell phone, and nobody who would ever believe you.",
+   "bg": "street55",
+   "chars": [
+    {
+     "id": "hero",
+     "x": 960,
+     "color": "#4f7a8a",
+     "keys": [
+      [
+       "phone",
+       0
+      ],
+      [
+       "shrug",
+       0.4
+      ],
+      [
+       "facepalm",
+       0.75
+      ]
+     ],
+     "prop": "phone",
+     "face": [
+      [
+       "normal",
+       0
+      ],
+      [
+       "frustrated",
+       0.4
+      ],
+      [
+       "sad",
+       0.75
+      ]
+     ],
+     "emote": [
+      [
+       "?",
+       0.12
+      ]
+     ]
+    }
+   ],
+   "overlay": {
+    "type": "tag",
+    "text": "NO INTERNET",
+    "color": "#e63946",
+    "at": 0.15
+   },
+   "start": 997,
+   "dur": 122,
+   "words": [
+    {
+     "w": "There",
+     "s": 997
+    },
+    {
+     "w": "is",
+     "s": 1006
+    },
+    {
+     "w": "no",
+     "s": 1011
+    },
+    {
+     "w": "internet,",
+     "s": 1016
+    },
+    {
+     "w": "no",
+     "s": 1029
+    },
+    {
+     "w": "cell",
+     "s": 1034
+    },
+    {
+     "w": "phone,",
+     "s": 1042
+    },
+    {
+     "w": "and",
+     "s": 1051
+    },
+    {
+     "w": "nobody",
+     "s": 1057
+    },
+    {
+     "w": "who",
+     "s": 1068
+    },
+    {
+     "w": "would",
+     "s": 1074
+    },
+    {
+     "w": "ever",
+     "s": 1083
+    },
+    {
+     "w": "believe",
+     "s": 1091
+    },
+    {
+     "w": "you.",
+     "s": 1103
+    }
+   ]
+  },
+  {
+   "text": "The first time you warn your neighbor about the future, he looks at you like you have lost your mind.",
+   "bg": "street55",
+   "chars": [
+    {
+     "id": "hero",
+     "x": 640,
+     "color": "#4f7a8a",
+     "keys": [
+      [
+       "explain",
+       0
+      ],
+      [
+       "explain_b",
+       0.25
+      ],
+      [
+       "point",
+       0.45
+      ],
+      [
+       "shrug",
+       0.8
+      ]
+     ],
+     "face": [
+      [
+       "worried",
+       0
+      ],
+      [
+       "normal",
+       0.3
+      ],
+      [
+       "awkward",
+       0.8
+      ]
+     ]
+    },
+    {
+     "id": "nb",
+     "x": 1280,
+     "color": "#7a5c3e",
+     "hat": "fedora",
+     "facing": -1,
+     "keys": [
+      [
+       "idle",
+       0
+      ],
+      [
+       "cross",
+       0.35
+      ],
+      [
+       "skeptical",
+       0.6
+      ]
+     ],
+     "face": [
+      [
+       "normal",
+       0
+      ],
+      [
+       "skeptical",
+       0.35
+      ]
+     ],
+     "emote": [
+      [
+       "?",
+       0.4
+      ],
+      [
+       "anger",
+       0.72
+      ]
+     ]
+    }
+   ],
+   "overlays": [
+    {
+     "type": "stamp",
+     "text": "CRAZY?",
+     "at": 0.74
+    }
+   ],
+   "transition": "wipe",
+   "start": 1120,
+   "dur": 151,
+   "words": [
+    {
+     "w": "The",
+     "s": 1120
+    },
+    {
+     "w": "first",
+     "s": 1125
+    },
+    {
+     "w": "time",
+     "s": 1134
+    },
+    {
+     "w": "you",
+     "s": 1141
+    },
+    {
+     "w": "warn",
+     "s": 1146
+    },
+    {
+     "w": "your",
+     "s": 1153
+    },
+    {
+     "w": "neighbor",
+     "s": 1160
+    },
+    {
+     "w": "about",
+     "s": 1173
+    },
+    {
+     "w": "the",
+     "s": 1181
+    },
+    {
+     "w": "future,",
+     "s": 1187
+    },
+    {
+     "w": "he",
+     "s": 1197
+    },
+    {
+     "w": "looks",
+     "s": 1201
+    },
+    {
+     "w": "at",
+     "s": 1209
+    },
+    {
+     "w": "you",
+     "s": 1214
+    },
+    {
+     "w": "like",
+     "s": 1219
+    },
+    {
+     "w": "you",
+     "s": 1226
+    },
+    {
+     "w": "have",
+     "s": 1232
+    },
+    {
+     "w": "lost",
+     "s": 1239
+    },
+    {
+     "w": "your",
+     "s": 1246
+    },
+    {
+     "w": "mind.",
+     "s": 1253
+    }
+   ]
+  },
+  {
+   "text": "By the end of the week, the whole street is whispering about you.",
+   "bg": "street55",
+   "crowd": {
+    "n": 12,
+    "rows": 2,
+    "face": "skeptical",
+    "pose": "cross",
+    "hats": "fedora"
+   },
+   "chars": [
+    {
+     "id": "hero",
+     "x": 960,
+     "color": "#4f7a8a",
+     "keys": [
+      [
+       "sad",
+       0
+      ]
+     ],
+     "face": [
+      [
+       "sad",
+       0
+      ]
+     ],
+     "emote": [
+      [
+       "sweat",
+       0.4
+      ]
+     ]
+    }
+   ],
+   "overlays": [
+    {
+     "type": "label",
+     "text": "THE WEIRD ONE",
+     "target": "hero",
+     "at": 0.45,
+     "color": "#e9c46a"
+    }
+   ],
+   "shots": [
+    {
+     "at": 0,
+     "z": 1.0,
+     "z2": 1.06
+    },
+    {
+     "at": 0.4,
+     "focus": "hero",
+     "z": 1.55,
+     "z2": 1.65
+    }
+   ],
+   "start": 1270,
+   "dur": 103,
+   "words": [
+    {
+     "w": "By",
+     "s": 1270
+    },
+    {
+     "w": "the",
+     "s": 1275
+    },
+    {
+     "w": "end",
+     "s": 1280
+    },
+    {
+     "w": "of",
+     "s": 1286
+    },
+    {
+     "w": "the",
+     "s": 1290
+    },
+    {
+     "w": "week,",
+     "s": 1296
+    },
+    {
+     "w": "the",
+     "s": 1303
+    },
+    {
+     "w": "whole",
+     "s": 1309
+    },
+    {
+     "w": "street",
+     "s": 1318
+    },
+    {
+     "w": "is",
+     "s": 1328
+    },
+    {
+     "w": "whispering",
+     "s": 1332
+    },
+    {
+     "w": "about",
+     "s": 1348
+    },
+    {
+     "w": "you.",
+     "s": 1357
+    }
+   ]
+  },
+  {
+   "text": "So what would you do first? Tell me in the comments.",
+   "bg": "bedroom55",
+   "chars": [
+    {
+     "id": "hero",
+     "x": 960,
+     "color": "#4f7a8a",
+     "keys": [
+      [
+       "think",
+       0
+      ],
+      [
+       "point",
+       0.6
+      ]
+     ],
+     "face": [
+      [
+       "skeptical",
+       0
+      ],
+      [
+       "smile",
+       0.6
+      ]
+     ],
+     "emote": [
+      [
+       "idea",
+       0.35
+      ]
+     ]
+    }
+   ],
+   "overlay": {
+    "type": "endcard",
+    "text": "WHAT WOULD YOU DO FIRST?",
+    "at": 0.4
+   },
+   "sfx": [
+    [
+     "shimmer",
+     0.4
+    ]
+   ],
+   "start": 1373,
+   "dur": 91,
+   "words": [
+    {
+     "w": "So",
+     "s": 1373
+    },
+    {
+     "w": "what",
+     "s": 1378
+    },
+    {
+     "w": "would",
+     "s": 1386
+    },
+    {
+     "w": "you",
+     "s": 1395
+    },
+    {
+     "w": "do",
+     "s": 1401
+    },
+    {
+     "w": "first?",
+     "s": 1406
+    },
+    {
+     "w": "Tell",
+     "s": 1416
+    },
+    {
+     "w": "me",
+     "s": 1424
+    },
+    {
+     "w": "in",
+     "s": 1428
+    },
+    {
+     "w": "the",
+     "s": 1433
+    },
+    {
+     "w": "comments.",
+     "s": 1439
+    }
+   ]
+  }
+ ],
+ "total": 1494
+}

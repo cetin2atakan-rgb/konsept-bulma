@@ -41,9 +41,19 @@ const Bedroom: React.FC<{ retro?: boolean }> = ({ retro }) => (
   </g>
 );
 
-const Street: React.FC<{ retro?: boolean }> = ({ retro }) => (
+const Clouds: React.FC<{ frame: number }> = ({ frame }) => (
+  <g opacity={0.9}>
+    {[0, 1, 2, 3].map((i) => {
+      const x = ((i * 640 + frame * (0.6 + i * 0.15)) % 2400) - 300;
+      return <g key={i} transform={`translate(${x},${90 + (i % 2) * 90})`} fill="#fff"><ellipse rx={90} ry={34} /><ellipse cx={60} cy={-20} rx={60} ry={34} /><ellipse cx={-50} cy={-14} rx={50} ry={26} /></g>;
+    })}
+  </g>
+);
+
+const Street: React.FC<{ retro?: boolean; frame: number }> = ({ retro, frame }) => (
   <g>
     <rect width={1920} height={1080} fill={retro ? "#d9ecef" : "#cdeffd"} />
+    <Clouds frame={frame} />
     {[0, 1, 2, 3].map((i) => (
       <g key={i} transform={`translate(${80 + i * 470},0)`}>
         <rect x={0} y={420} width={380} height={440} fill={["#f2cc8f", "#e07a5f", "#81b29a", "#f4f1de"][i]} />
@@ -56,7 +66,7 @@ const Street: React.FC<{ retro?: boolean }> = ({ retro }) => (
     <rect y={FLOOR_Y} width={1920} height={220} fill={retro ? "#8d8d8d" : "#9aa5ab"} />
     <rect y={FLOOR_Y} width={1920} height={30} fill="#d6d6d6" />
     {Array.from({ length: 10 }).map((_, i) => <rect key={i} x={i * 210 + 40} y={990} width={110} height={12} fill="#f1f1f1" />)}
-    {retro && <g transform="translate(1500,890)">
+    {retro && <g transform={`translate(${2100 - ((frame * 7) % 3200)},890)`}>
       <rect x={0} y={20} width={360} height={80} rx={40} fill="#4a7c8c" />
       <rect x={70} y={-30} width={200} height={70} rx={30} fill="#5b8fa0" />
       <circle cx={80} cy={105} r={32} fill="#222" /><circle cx={290} cy={105} r={32} fill="#222" />
@@ -141,8 +151,8 @@ export const Background: React.FC<{ name: string; frame: number }> = ({ name, fr
   switch (name) {
     case "bedroom": return <Bedroom />;
     case "bedroom55": return <Bedroom retro />;
-    case "street": return <Street />;
-    case "street55": return <Street retro />;
+    case "street": return <Street frame={frame} />;
+    case "street55": return <Street retro frame={frame} />;
     case "hallway": return <Hallway />;
     case "classroom": return <Classroom />;
     case "diner": return <Diner />;

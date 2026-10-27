@@ -1,5 +1,5 @@
 import React from "react";
-import { spring, interpolate } from "remotion";
+import { spring, interpolate, Easing } from "remotion";
 
 export type Theme = { font: string; ink: string; paper: string; accent: string; retro: boolean };
 
@@ -29,7 +29,8 @@ export const Overlay: React.FC<OProps> = ({ o, frame, dur, fps, theme }) => {
 
   switch (o.type) {
     case "title": {
-      const out = interpolate(frame, [dur - 14, dur - 2], [1, 0], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
+      const u = (o.until ?? 1) * dur;
+      const out = interpolate(frame, [u - 12, u - 2], [1, 0], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
       return (
         <Box s={s * out} rot={-2} style={{ ...card, left: 260, right: 260, top: 40, fontSize: 70, lineHeight: 1.05, background: theme.accent }}>
           {o.text}
@@ -111,6 +112,40 @@ export const Overlay: React.FC<OProps> = ({ o, frame, dur, fps, theme }) => {
           </svg>
           <div style={{ fontSize: 96, color: theme.accent, opacity: interpolate(k, [0.85, 1], [0, 1], { extrapolateLeft: "clamp" }) }}>{o.end ?? "GIANT"}</div>
         </div>
+      );
+    }
+    case "stamp": {
+      const k = interpolate(frame - at, [0, 6], [2.6, 1], { extrapolateRight: "clamp", easing: Easing.in(Easing.quad) });
+      const op = interpolate(frame - at, [0, 3], [0, 1], { extrapolateRight: "clamp" });
+      const c = o.color ?? "#e63946";
+      return (
+        <div style={{ position: "absolute", left: 0, right: 0, top: o.top ?? 300, display: "flex", justifyContent: "center", opacity: op }}>
+          <div style={{ ...base, transform: `scale(${k}) rotate(-8deg)`, color: c, border: `12px solid ${c}`, borderRadius: 18, padding: "6px 40px", fontSize: 130, letterSpacing: 6,
+            background: "rgba(255,255,255,0.55)" }}>{o.text}</div>
+        </div>
+      );
+    }
+    case "legend":
+      return (
+        <Box s={s} style={{ ...card, right: 90, top: 90, textAlign: "left", fontSize: 50, padding: "20px 36px" }}>
+          {(o.items as { color: string; text: string }[]).map((it, i) => {
+            const kk = pop(frame, fps, at + 6 + i * 8);
+            return (
+              <div key={i} style={{ display: "flex", alignItems: "center", gap: 18, margin: "6px 0", opacity: kk, transform: `translateX(${(1 - kk) * 40}px)` }}>
+                <span style={{ width: 44, height: 44, borderRadius: 22, background: it.color, border: `5px solid ${theme.ink}`, boxShadow: `0 0 24px ${it.color}` }} />{it.text}
+              </div>
+            );
+          })}
+        </Box>
+      );
+    case "count": {
+      const k = interpolate(frame - at, [0, o.frames ?? 40], [0, 1], { extrapolateRight: "clamp", easing: Easing.out(Easing.cubic) });
+      const v = Math.round(o.from + (o.to - o.from) * k);
+      return (
+        <Box s={s} rot={-3} style={{ ...card, left: "50%", top: 150, width: 900, marginLeft: -450, background: o.color ?? theme.accent }}>
+          <div style={{ fontSize: 170, lineHeight: 1 }}>{o.prefix ?? ""}{v.toLocaleString("en-US")}{o.suffix ?? ""}</div>
+          {o.sub && <div style={{ fontSize: 56 }}>{o.sub}</div>}
+        </Box>
       );
     }
     default:

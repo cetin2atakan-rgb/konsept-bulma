@@ -1,0 +1,771 @@
+{
+ "id": "demoB2",
+ "title": "What If You Woke Up in 1955 With Everything You Know Today?",
+ "voice": "am_eric",
+ "speed": 0.95,
+ "theme": "retro",
+ "scenes": [
+  {
+   "text": "You open your eyes, and the alarm clock on the nightstand is ringing.",
+   "bg": "bedroom55",
+   "chars": [
+    {
+     "id": "hero",
+     "x": 600,
+     "color": "#4f7a8a",
+     "keys": [
+      [
+       "stretch",
+       0
+      ],
+      [
+       "surprised",
+       0.55
+      ]
+     ],
+     "face": [
+      [
+       "sleepy",
+       0
+      ],
+      [
+       "shocked",
+       0.55
+      ]
+     ],
+     "emote": [
+      [
+       "zzz",
+       0
+      ],
+      [
+       "!",
+       0.55
+      ]
+     ],
+     "act": [
+      [
+       "hop",
+       0.55
+      ]
+     ]
+    }
+   ],
+   "overlay": {
+    "type": "title",
+    "text": "WHAT IF YOU WOKE UP IN 1955?",
+    "until": 0.5
+   },
+   "sfx": [
+    [
+     "ring",
+     0.05
+    ]
+   ],
+   "shots": [
+    {
+     "at": 0,
+     "z": 1.0,
+     "z2": 1.08
+    },
+    {
+     "at": 0.5,
+     "focus": "hero",
+     "z": 1.7
+    }
+   ]
+  },
+  {
+   "text": "The calendar on the wall says June, nineteen fifty-five.",
+   "bg": "bedroom55",
+   "chars": [
+    {
+     "id": "hero",
+     "x": 640,
+     "color": "#4f7a8a",
+     "keys": [
+      [
+       "idle",
+       0
+      ],
+      [
+       "scared",
+       0.45
+      ]
+     ],
+     "face": [
+      [
+       "normal",
+       0
+      ],
+      [
+       "shocked",
+       0.4
+      ]
+     ],
+     "emote": [
+      [
+       "sweat",
+       0.5
+      ]
+     ],
+     "look": 1
+    }
+   ],
+   "overlay": {
+    "type": "calendar",
+    "text": "JUNE",
+    "sub": "1955",
+    "at": 0.3
+   },
+   "sfx": [
+    [
+     "pop",
+     0.3
+    ]
+   ],
+   "shake": [
+    0.42
+   ]
+  },
+  {
+   "text": "And you still remember everything you know today. Every invention, every price, every headline.",
+   "bg": "abstract55",
+   "chars": [
+    {
+     "id": "hero",
+     "x": 640,
+     "color": "#4f7a8a",
+     "keys": [
+      [
+       "think",
+       0
+      ],
+      [
+       "think_b",
+       0.35
+      ],
+      [
+       "point_b",
+       0.7
+      ]
+     ],
+     "face": [
+      [
+       "skeptical",
+       0
+      ],
+      [
+       "smug",
+       0.7
+      ]
+     ],
+     "emote": [
+      [
+       "idea",
+       0.68
+      ]
+     ]
+    }
+   ],
+   "overlay": {
+    "type": "bubble",
+    "items": [
+     "THE MOON LANDING",
+     "THE INTERNET",
+     "YOUR PHONE"
+    ],
+    "at": 0.25
+   },
+   "sfx": [
+    [
+     "shimmer",
+     0.25
+    ]
+   ],
+   "transition": "wipe"
+  },
+  {
+   "text": "You walk into the corner diner, and a cup of coffee costs about a dime.",
+   "bg": "diner",
+   "chars": [
+    {
+     "id": "hero",
+     "x": 260,
+     "color": "#4f7a8a",
+     "move": {
+      "to": 760,
+      "from": 0.0,
+      "until": 0.45
+     },
+     "keys": [
+      [
+       "idle",
+       0
+      ],
+      [
+       "hold",
+       0.62
+      ]
+     ],
+     "prop": "coffee",
+     "propAt": 0.62,
+     "face": [
+      [
+       "normal",
+       0
+      ],
+      [
+       "shocked",
+       0.72
+      ]
+     ],
+     "emote": [
+      [
+       "!",
+       0.74
+      ]
+     ]
+    },
+    {
+     "id": "cook",
+     "x": 1360,
+     "color": "#f2efe6",
+     "hat": "paper",
+     "facing": -1,
+     "keys": [
+      [
+       "idle",
+       0
+      ],
+      [
+       "give",
+       0.45
+      ],
+      [
+       "wave",
+       0.75
+      ]
+     ],
+     "face": [
+      [
+       "smile",
+       0
+      ]
+     ]
+    }
+   ],
+   "overlay": {
+    "type": "sticker",
+    "text": "10¢",
+    "at": 0.72
+   },
+   "sfx": [
+    [
+     "ding",
+     0.72
+    ]
+   ],
+   "transition": "wipe",
+   "shots": [
+    {
+     "at": 0,
+     "z": 1.0,
+     "z2": 1.05
+    },
+    {
+     "at": 0.45,
+     "z": 1.3,
+     "x": 1060,
+     "y": 600
+    },
+    {
+     "at": 0.7,
+     "focus": "hero",
+     "z": 1.75
+    }
+   ]
+  },
+  {
+   "text": "At the gas station, a gallon of gas is around twenty-five cents.",
+   "bg": "gas",
+   "chars": [
+    {
+     "id": "att",
+     "x": 1300,
+     "color": "#c0392b",
+     "hat": "cap",
+     "facing": -1,
+     "keys": [
+      [
+       "wave",
+       0
+      ],
+      [
+       "hips",
+       0.5
+      ]
+     ],
+     "face": [
+      [
+       "smile",
+       0
+      ]
+     ]
+    },
+    {
+     "id": "hero",
+     "x": 600,
+     "color": "#4f7a8a",
+     "keys": [
+      [
+       "idle",
+       0
+      ],
+      [
+       "cheer",
+       0.6
+      ]
+     ],
+     "face": [
+      [
+       "normal",
+       0
+      ],
+      [
+       "happy",
+       0.6
+      ]
+     ],
+     "act": [
+      [
+       "jump",
+       0.6
+      ]
+     ],
+     "emote": [
+      [
+       "sparkle",
+       0.62
+      ]
+     ]
+    }
+   ],
+   "overlay": {
+    "type": "sticker",
+    "text": "25¢",
+    "at": 0.58
+   }
+  },
+  {
+   "text": "You buy a newspaper, and every headline is something you already know the ending to.",
+   "bg": "street55",
+   "chars": [
+    {
+     "id": "hero",
+     "x": 900,
+     "color": "#4f7a8a",
+     "keys": [
+      [
+       "hold",
+       0
+      ],
+      [
+       "phone",
+       0.3
+      ],
+      [
+       "shrug_b",
+       0.72
+      ]
+     ],
+     "prop": "newspaper",
+     "face": [
+      [
+       "normal",
+       0
+      ],
+      [
+       "smug",
+       0.45
+      ]
+     ],
+     "emote": [
+      [
+       "sparkle",
+       0.5
+      ]
+     ]
+    }
+   ],
+   "overlays": [
+    {
+     "type": "label",
+     "text": "SPOILERS",
+     "target": "hero",
+     "at": 0.5
+    }
+   ],
+   "shots": [
+    {
+     "at": 0,
+     "z": 1.1,
+     "z2": 1.15
+    },
+    {
+     "at": 0.45,
+     "focus": "hero",
+     "z": 1.75,
+     "z2": 1.85
+    }
+   ]
+  },
+  {
+   "text": "You know which small companies will grow into giants, and how the next seventy years will turn out.",
+   "bg": "abstract55",
+   "chars": [
+    {
+     "id": "hero",
+     "x": 560,
+     "color": "#4f7a8a",
+     "keys": [
+      [
+       "explain",
+       0
+      ],
+      [
+       "point",
+       0.3
+      ],
+      [
+       "point_b",
+       0.65
+      ]
+     ],
+     "face": [
+      [
+       "smug",
+       0
+      ],
+      [
+       "happy",
+       0.75
+      ]
+     ]
+    }
+   ],
+   "overlay": {
+    "type": "growth",
+    "at": 0.15
+   },
+   "sfx": [
+    [
+     "whoosh",
+     0.15
+    ]
+   ]
+  },
+  {
+   "text": "But here is the catch.",
+   "bg": "street55",
+   "transition": "sticky",
+   "chars": [
+    {
+     "id": "hero",
+     "x": 960,
+     "color": "#4f7a8a",
+     "keys": [
+      [
+       "happy",
+       0
+      ],
+      [
+       "idle",
+       0.35
+      ]
+     ],
+     "face": [
+      [
+       "happy",
+       0
+      ],
+      [
+       "worried",
+       0.4
+      ]
+     ],
+     "emote": [
+      [
+       "sweat",
+       0.45
+      ]
+     ]
+    }
+   ],
+   "sfx": [
+    [
+     "boom",
+     0.05
+    ]
+   ],
+   "shots": [
+    {
+     "at": 0,
+     "focus": "hero",
+     "z": 1.9,
+     "z2": 1.6
+    }
+   ]
+  },
+  {
+   "text": "There is no internet, no cell phone, and nobody who would ever believe you.",
+   "bg": "street55",
+   "chars": [
+    {
+     "id": "hero",
+     "x": 960,
+     "color": "#4f7a8a",
+     "keys": [
+      [
+       "phone",
+       0
+      ],
+      [
+       "shrug",
+       0.4
+      ],
+      [
+       "facepalm",
+       0.75
+      ]
+     ],
+     "prop": "phone",
+     "face": [
+      [
+       "normal",
+       0
+      ],
+      [
+       "frustrated",
+       0.4
+      ],
+      [
+       "sad",
+       0.75
+      ]
+     ],
+     "emote": [
+      [
+       "?",
+       0.12
+      ]
+     ]
+    }
+   ],
+   "overlay": {
+    "type": "tag",
+    "text": "NO INTERNET",
+    "color": "#e63946",
+    "at": 0.15
+   }
+  },
+  {
+   "text": "The first time you warn your neighbor about the future, he looks at you like you have lost your mind.",
+   "bg": "street55",
+   "chars": [
+    {
+     "id": "hero",
+     "x": 640,
+     "color": "#4f7a8a",
+     "keys": [
+      [
+       "explain",
+       0
+      ],
+      [
+       "explain_b",
+       0.25
+      ],
+      [
+       "point",
+       0.45
+      ],
+      [
+       "shrug",
+       0.8
+      ]
+     ],
+     "face": [
+      [
+       "worried",
+       0
+      ],
+      [
+       "normal",
+       0.3
+      ],
+      [
+       "awkward",
+       0.8
+      ]
+     ]
+    },
+    {
+     "id": "nb",
+     "x": 1280,
+     "color": "#7a5c3e",
+     "hat": "fedora",
+     "facing": -1,
+     "keys": [
+      [
+       "idle",
+       0
+      ],
+      [
+       "cross",
+       0.35
+      ],
+      [
+       "skeptical",
+       0.6
+      ]
+     ],
+     "face": [
+      [
+       "normal",
+       0
+      ],
+      [
+       "skeptical",
+       0.35
+      ]
+     ],
+     "emote": [
+      [
+       "?",
+       0.4
+      ],
+      [
+       "anger",
+       0.72
+      ]
+     ]
+    }
+   ],
+   "overlays": [
+    {
+     "type": "stamp",
+     "text": "CRAZY?",
+     "at": 0.74
+    }
+   ],
+   "transition": "wipe"
+  },
+  {
+   "text": "By the end of the week, the whole street is whispering about you.",
+   "bg": "street55",
+   "crowd": {
+    "n": 12,
+    "rows": 2,
+    "face": "skeptical",
+    "pose": "cross",
+    "hats": "fedora"
+   },
+   "chars": [
+    {
+     "id": "hero",
+     "x": 960,
+     "color": "#4f7a8a",
+     "keys": [
+      [
+       "sad",
+       0
+      ]
+     ],
+     "face": [
+      [
+       "sad",
+       0
+      ]
+     ],
+     "emote": [
+      [
+       "sweat",
+       0.4
+      ]
+     ]
+    }
+   ],
+   "overlays": [
+    {
+     "type": "label",
+     "text": "THE WEIRD ONE",
+     "target": "hero",
+     "at": 0.45,
+     "color": "#e9c46a"
+    }
+   ],
+   "shots": [
+    {
+     "at": 0,
+     "z": 1.0,
+     "z2": 1.06
+    },
+    {
+     "at": 0.4,
+     "focus": "hero",
+     "z": 1.55,
+     "z2": 1.65
+    }
+   ]
+  },
+  {
+   "text": "So what would you do first? Tell me in the comments.",
+   "bg": "bedroom55",
+   "chars": [
+    {
+     "id": "hero",
+     "x": 960,
+     "color": "#4f7a8a",
+     "keys": [
+      [
+       "think",
+       0
+      ],
+      [
+       "point",
+       0.6
+      ]
+     ],
+     "face": [
+      [
+       "skeptical",
+       0
+      ],
+      [
+       "smile",
+       0.6
+      ]
+     ],
+     "emote": [
+      [
+       "idea",
+       0.35
+      ]
+     ]
+    }
+   ],
+   "overlay": {
+    "type": "endcard",
+    "text": "WHAT WOULD YOU DO FIRST?",
+    "at": 0.4
+   },
+   "sfx": [
+    [
+     "shimmer",
+     0.4
+    ]
+   ]
+  }
+ ]
+}
