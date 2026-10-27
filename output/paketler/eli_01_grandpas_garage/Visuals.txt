@@ -1,0 +1,169 @@
+ELI HOLLOWAY · 01 · 25 Strange Tools From Grandpa's Garage — VISUALS.TXT
+Stil: 1950s Kodachrome amateur fotoğraf (tam prompt uretim_listesi.txt'te). Ken Burns açık, 300 ms crossfade. Toplam 112 görsel.
+ANCHOR = ilgili script cümlesinin ilk 5 kelimesi (birebir).
+
+# [1. HOOK]
+1. IMAGE: img_001.png | TYPE: photo | ANCHOR: "Your grandfather fixed his own"
+2. IMAGE: img_002.png | TYPE: photo | ANCHOR: "It is a wooden stick"
+3. IMAGE: img_003.png | TYPE: photo | ANCHOR: "That stick, and twenty-four other"
+4. IMAGE: img_004.png | TYPE: photo | ANCHOR: "Some of them are still"
+5. IMAGE: img_005.png | TYPE: photo | ANCHOR: "Today we are going to"
+
+# [25. Valve Lapping Stick]
+6. IMAGE: img_006.png | TYPE: photo | ANCHOR: "It is called a valve"
+7. IMAGE: img_007.png | TYPE: photo | ANCHOR: "Over the years, those surfaces"
+8. IMAGE: img_008.png | TYPE: photo | ANCHOR: "A mechanic smeared a gritty"
+9. IMAGE: img_009.png | TYPE: photo | ANCHOR: "A whole set of valves"
+
+# [24. Spark Plug Cleaner]
+10. IMAGE: img_010.png | TYPE: photo | ANCHOR: "At a lot of service"
+11. IMAGE: img_011.png | TYPE: photo | ANCHOR: "The attendant pushed a dirty"
+12. IMAGE: img_012.png | TYPE: photo | ANCHOR: "Many of these machines also"
+13. IMAGE: img_013.png | TYPE: photo | ANCHOR: "Cleaning and regapping plugs was"
+
+# [23. Feeler Gauge]
+14. IMAGE: img_014.png | TYPE: photo | ANCHOR: "In the back pocket of"
+15. IMAGE: img_015.png | TYPE: photo | ANCHOR: "Each blade is a precise"
+16. IMAGE: img_016.png | TYPE: photo | ANCHOR: "On older engines you used"
+17. IMAGE: img_017.png | TYPE: photo | ANCHOR: "Get the gap wrong by"
+
+# [22. Ignition Points File]
+18. IMAGE: img_018.png | TYPE: photo | ANCHOR: "Next to the feeler gauge,"
+19. IMAGE: img_019.png | TYPE: photo | ANCHOR: "Before the mid nineteen seventies,"
+20. IMAGE: img_020.png | TYPE: photo | ANCHOR: "Those contacts slowly burned and"
+21. IMAGE: img_021.png | TYPE: photo | ANCHOR: "It got many people home"
+
+# [21. Timing Light]
+22. IMAGE: img_022.png | TYPE: photo | ANCHOR: "It looked like a ray"
+23. IMAGE: img_023.png | TYPE: photo | ANCHOR: "You clipped one lead to"
+24. IMAGE: img_024.png | TYPE: photo | ANCHOR: "Every time that cylinder fired,"
+25. IMAGE: img_025.png | TYPE: photo | ANCHOR: "Then you turned the distributor"
+
+# [20. Vacuum Gauge]
+26. IMAGE: img_026.png | TYPE: photo | ANCHOR: "A round dial with a"
+27. IMAGE: img_027.png | TYPE: photo | ANCHOR: "You connected the hose to"
+28. IMAGE: img_028.png | TYPE: photo | ANCHOR: "What made it powerful was"
+29. IMAGE: img_029.png | TYPE: photo | ANCHOR: "A slow drift could mean"
+
+# [19. Compression Tester]
+30. IMAGE: img_030.png | TYPE: photo | ANCHOR: "This one is a gauge"
+31. IMAGE: img_031.png | TYPE: photo | ANCHOR: "You pulled a spark plug,"
+32. IMAGE: img_032.png | TYPE: photo | ANCHOR: "Then you did the same"
+33. IMAGE: img_033.png | TYPE: photo | ANCHOR: "If one cylinder was much"
+
+# [18. Mechanic's Stethoscope]
+34. IMAGE: img_034.png | TYPE: photo | ANCHOR: "It looks exactly like a"
+35. IMAGE: img_035.png | TYPE: photo | ANCHOR: "An engine makes dozens of"
+36. IMAGE: img_036.png | TYPE: photo | ANCHOR: "A bad bearing growls."
+37. IMAGE: img_037.png | TYPE: photo | ANCHOR: "A failing water pump whines."
+
+# [17. Grease Gun and Zerk Fittings]
+38. IMAGE: img_038.png | TYPE: photo | ANCHOR: "Under an older car you"
+39. IMAGE: img_039.png | TYPE: photo | ANCHOR: "Those are zerk fittings, and"
+40. IMAGE: img_040.png | TYPE: photo | ANCHOR: "Every thousand miles or so,"
+41. IMAGE: img_041.png | TYPE: photo | ANCHOR: "The mechanic pressed the gun"
+42. IMAGE: img_042.png | TYPE: photo | ANCHOR: "Most modern cars use sealed"
+
+# [16. Battery Hydrometer]
+43. IMAGE: img_043.png | TYPE: photo | ANCHOR: "It looked like a turkey"
+44. IMAGE: img_044.png | TYPE: photo | ANCHOR: "Old car batteries had removable"
+45. IMAGE: img_045.png | TYPE: photo | ANCHOR: "A fully charged cell read"
+46. IMAGE: img_046.png | TYPE: photo | ANCHOR: "If one cell read much"
+
+# [15. Antifreeze Tester]
+47. IMAGE: img_047.png | TYPE: photo | ANCHOR: "Right next to the battery"
+48. IMAGE: img_048.png | TYPE: photo | ANCHOR: "You drew coolant up from"
+49. IMAGE: img_049.png | TYPE: photo | ANCHOR: "In the northern states, this"
+50. IMAGE: img_050.png | TYPE: photo | ANCHOR: "The gas station attendant would"
+
+# [14. Wheel Bearing Packer]
+51. IMAGE: img_051.png | TYPE: photo | ANCHOR: "A cone-shaped tool with a"
+52. IMAGE: img_052.png | TYPE: photo | ANCHOR: "Older cars and trailers ran"
+53. IMAGE: img_053.png | TYPE: photo | ANCHOR: "The old way was to"
+54. IMAGE: img_054.png | TYPE: photo | ANCHOR: "With the packer, you set"
+
+# [13. Brake Adjusting Spoon]
+55. IMAGE: img_055.png | TYPE: photo | ANCHOR: "This is a flat piece"
+56. IMAGE: img_056.png | TYPE: photo | ANCHOR: "Older drum brakes had a"
+57. IMAGE: img_057.png | TYPE: photo | ANCHOR: "As the brake shoes wore"
+58. IMAGE: img_058.png | TYPE: photo | ANCHOR: "You pulled a rubber plug"
+
+# [12. Piston Ring Compressor]
+59. IMAGE: img_059.png | TYPE: photo | ANCHOR: "It is a band of"
+60. IMAGE: img_060.png | TYPE: photo | ANCHOR: "Every piston has springy rings"
+61. IMAGE: img_061.png | TYPE: photo | ANCHOR: "To put a piston back"
+62. IMAGE: img_062.png | TYPE: photo | ANCHOR: "You wrapped the band around"
+
+# [11. Tire Bead Breaker]
+63. IMAGE: img_063.png | TYPE: photo | ANCHOR: "On farms and in country"
+64. IMAGE: img_064.png | TYPE: photo | ANCHOR: "A tire seals against the"
+65. IMAGE: img_065.png | TYPE: photo | ANCHOR: "Before tire machines were everywhere,"
+66. IMAGE: img_066.png | TYPE: photo | ANCHOR: "Truck and tractor tires were"
+
+# [10. Hot Patch Vulcanizer]
+67. IMAGE: img_067.png | TYPE: photo | ANCHOR: "Back when cars ran on"
+68. IMAGE: img_068.png | TYPE: photo | ANCHOR: "The kit came with a"
+69. IMAGE: img_069.png | TYPE: photo | ANCHOR: "It burned for a minute"
+70. IMAGE: img_070.png | TYPE: photo | ANCHOR: "When it cooled, the repair"
+
+# [9. Bumper Jack]
+71. IMAGE: img_071.png | TYPE: photo | ANCHOR: "If you ever changed a"
+72. IMAGE: img_072.png | TYPE: photo | ANCHOR: "You set the base on"
+73. IMAGE: img_073.png | TYPE: photo | ANCHOR: "On soft ground or a"
+74. IMAGE: img_074.png | TYPE: photo | ANCHOR: "As bumpers changed in the"
+
+# [8. Hand Crank]
+75. IMAGE: img_075.png | TYPE: photo | ANCHOR: "Before electric starters, every car"
+76. IMAGE: img_076.png | TYPE: photo | ANCHOR: "The danger was kickback."
+77. IMAGE: img_077.png | TYPE: photo | ANCHOR: "If the engine fired early,"
+78. IMAGE: img_078.png | TYPE: photo | ANCHOR: "That is why old timers"
+
+# [7. Pump Oiler]
+79. IMAGE: img_079.png | TYPE: photo | ANCHOR: "A small metal can with"
+80. IMAGE: img_080.png | TYPE: photo | ANCHOR: "Instead of tipping and pouring,"
+81. IMAGE: img_081.png | TYPE: photo | ANCHOR: "Hinges, chains, sewing machines, clippers,"
+82. IMAGE: img_082.png | TYPE: photo | ANCHOR: "A good one never leaked"
+
+# [6. Draw Knife]
+83. IMAGE: img_083.png | TYPE: photo | ANCHOR: "It is a long blade"
+84. IMAGE: img_084.png | TYPE: photo | ANCHOR: "You sat on a bench,"
+85. IMAGE: img_085.png | TYPE: photo | ANCHOR: "It was how axe handles,"
+86. IMAGE: img_086.png | TYPE: photo | ANCHOR: "In the right hands, it"
+
+# [5. Spokeshave]
+87. IMAGE: img_087.png | TYPE: photo | ANCHOR: "The draw knife had a"
+88. IMAGE: img_088.png | TYPE: photo | ANCHOR: "It was originally made for"
+89. IMAGE: img_089.png | TYPE: photo | ANCHOR: "Where the draw knife took"
+90. IMAGE: img_090.png | TYPE: photo | ANCHOR: "Carpenters used it for chair"
+
+# [4. Brace and Bit]
+91. IMAGE: img_091.png | TYPE: photo | ANCHOR: "Before cordless drills, this was"
+92. IMAGE: img_092.png | TYPE: photo | ANCHOR: "You pressed your chest or"
+93. IMAGE: img_093.png | TYPE: photo | ANCHOR: "The better ones had a"
+94. IMAGE: img_094.png | TYPE: photo | ANCHOR: "A brace never needed a"
+
+# [3. Post Drill]
+95. IMAGE: img_095.png | TYPE: photo | ANCHOR: "In some farm shops, there"
+96. IMAGE: img_096.png | TYPE: photo | ANCHOR: "You turned a big hand"
+97. IMAGE: img_097.png | TYPE: photo | ANCHOR: "A heavy flywheel kept it"
+98. IMAGE: img_098.png | TYPE: photo | ANCHOR: "With one of these, a"
+
+# [2. Fence Stretcher]
+99. IMAGE: img_099.png | TYPE: photo | ANCHOR: "On any farm with livestock,"
+100. IMAGE: img_100.png | TYPE: photo | ANCHOR: "It was the fence stretcher."
+101. IMAGE: img_101.png | TYPE: photo | ANCHOR: "It hooked to the wire"
+102. IMAGE: img_102.png | TYPE: photo | ANCHOR: "The design has hardly changed"
+
+# [1. Treadle Grindstone]
+103. IMAGE: img_103.png | TYPE: photo | ANCHOR: "And the most important tool"
+104. IMAGE: img_104.png | TYPE: photo | ANCHOR: "It was a big round"
+105. IMAGE: img_105.png | TYPE: photo | ANCHOR: "The bottom of the wheel"
+106. IMAGE: img_106.png | TYPE: photo | ANCHOR: "Axes, hatchets, scythes, knives and"
+107. IMAGE: img_107.png | TYPE: photo | ANCHOR: "Ask anyone who grew up"
+
+# [CLOSE]
+108. IMAGE: img_108.png | TYPE: photo | ANCHOR: "Those were twenty-five tools from"
+109. IMAGE: img_109.png | TYPE: photo | ANCHOR: "Some of them disappeared because"
+110. IMAGE: img_110.png | TYPE: photo | ANCHOR: "And a few of them,"
+111. IMAGE: img_111.png | TYPE: photo | ANCHOR: "Now I want to hear"
+112. IMAGE: img_112.png | TYPE: photo | ANCHOR: "Which of these tools did"

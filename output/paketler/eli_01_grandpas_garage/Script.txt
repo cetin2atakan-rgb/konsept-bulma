@@ -1,0 +1,233 @@
+[1. HOOK]
+Your grandfather fixed his own engine with a five dollar stick.
+Today, a shop would charge you hundreds of dollars for the same job.
+It is a wooden stick with a rubber suction cup on the end, and if you found one in a drawer, you would probably throw it away.
+That stick, and twenty-four other tools just as strange, kept American cars, tractors and farms running for half a century.
+Most of them disappeared without anyone noticing.
+Some of them are still the best tool for the job.
+Today we are going to open the drawers of an old American garage, one tool at a time, and I will tell you exactly what each one was for.
+Let's start with that stick.
+
+[25. Valve Lapping Stick]
+It is called a valve lapping stick, and it was used to make an engine breathe properly again.
+Inside every engine, the valves close against metal seats thousands of times a minute.
+Over the years, those surfaces get pitted and stop sealing, and the engine loses power.
+The fix was slow and simple.
+A mechanic smeared a gritty paste called lapping compound on the valve, pressed the suction cup onto its face, and spun the stick back and forth between his palms like a man trying to start a fire.
+Every few turns he lifted it, checked the gray ring forming on the metal, and kept going until that ring was even all the way around.
+A whole set of valves could take an afternoon.
+Machine shops do this with grinders now, but you can still buy a lapping stick for a few dollars, and old engine builders still swear by it.
+
+[24. Spark Plug Cleaner]
+At a lot of service stations in the forties and fifties, there was a small metal cabinet on the counter with a rubber hole in the front.
+It was a spark plug cleaner.
+The attendant pushed a dirty plug into the hole, pressed a lever, and a blast of air carrying fine abrasive grit scoured the carbon off the tip.
+Many of these machines also had a little window and a pressure test, so you could watch the plug spark under compression before it went back in the engine.
+Cleaning and regapping plugs was cheaper than buying new ones, and a careful driver might reuse the same set several times.
+Modern plugs last a hundred thousand miles, so the cabinet quietly vanished from the counter.
+
+[23. Feeler Gauge]
+In the back pocket of almost every mechanic was a little fan of thin steel blades, each one stamped with a number.
+That was a feeler gauge.
+Each blade is a precise thickness, measured in thousandths of an inch.
+You slid them into a gap until one fit with a slight drag, and that told you exactly how wide the gap was.
+On older engines you used it constantly: spark plug gaps, breaker point gaps, and the clearance on valves that had to be adjusted by hand.
+Get the gap wrong by a few thousandths and the engine would idle rough, ping, or burn a valve.
+It is one of the few tools on this list that never went away, because nothing measures a tiny gap more simply.
+
+[22. Ignition Points File]
+Next to the feeler gauge, you would often find a tiny flat file, no bigger than a nail file.
+It was for the ignition points.
+Before the mid nineteen seventies, most cars fired their spark plugs using a set of small metal contacts that opened and closed inside the distributor.
+Every time they opened, the coil sent a spark.
+Those contacts slowly burned and pitted, and when the car started to miss, a driver would pop the distributor cap, run that little file across the points to clean them up, and reset the gap with the feeler gauge.
+It got many people home from a breakdown on the side of the road.
+Electronic ignition replaced points across Detroit in the nineteen seventies, and the points file became a mystery to anyone younger.
+
+[21. Timing Light]
+It looked like a ray gun from an old science fiction movie, with a pistol grip and wires running to the battery.
+It was a timing light.
+You clipped one lead to the number one spark plug wire, pointed the light at the spinning pulley on the front of the engine, and pulled the trigger.
+Every time that cylinder fired, the light flashed, and the flash froze a painted mark on the pulley so it looked like it was standing still.
+Then you turned the distributor by hand until the mark lined up with the right number on a little scale.
+That was how you set ignition timing, and it made the difference between an engine that pulled hard and one that knocked going up hills.
+
+[20. Vacuum Gauge]
+A round dial with a rubber hose was one of the cheapest diagnostic tools a man could own.
+It was a vacuum gauge.
+You connected the hose to the intake manifold and started the engine.
+On a healthy engine at idle near sea level, the needle sat steady, usually somewhere around seventeen to twenty-one inches.
+What made it powerful was the way the needle moved.
+A needle that dropped every few seconds pointed to a sticking valve.
+A slow drift could mean a carburetor problem, and a low, steady reading suggested worn rings or late timing.
+An experienced mechanic could read that needle the way a doctor reads a pulse, and many old timers still keep one in the drawer.
+
+[19. Compression Tester]
+This one is a gauge on the end of a short hose with a threaded tip.
+It is a compression tester.
+You pulled a spark plug, screwed the tip into the empty hole, and had someone crank the engine a few times.
+The gauge showed how much pressure that cylinder could build.
+Then you did the same on every cylinder and compared the numbers.
+If one cylinder was much lower than the others, you knew there was trouble inside that one: a burned valve, a broken ring, or a leaking head gasket.
+It let a mechanic look inside an engine without taking it apart, and it is still one of the first tests a good mechanic runs today.
+
+[18. Mechanic's Stethoscope]
+It looks exactly like a doctor's stethoscope, except for a long metal probe where the chest piece should be.
+It is a mechanic's stethoscope.
+An engine makes dozens of sounds at once, and it is hard to tell where a knock or a tick is coming from.
+With the probe pressed against different parts of a running engine, the sound of each part came straight up into your ears.
+A bad bearing growls.
+A loose lifter ticks.
+A failing water pump whines.
+Before that, many old mechanics did the same thing with a long screwdriver, pressing the tip to the engine and the handle to their ear.
+
+[17. Grease Gun and Zerk Fittings]
+Under an older car you would find dozens of little nipples screwed into the steering and suspension joints.
+Those are zerk fittings, and the tool that fed them was the lever-action grease gun.
+The fitting was patented by an inventor named Oscar Zerk around nineteen twenty-nine, and it changed car maintenance.
+Every thousand miles or so, owners were told to have the chassis lubricated.
+The mechanic pressed the gun onto each fitting and pumped until fresh grease pushed the old dirty grease out of the joint.
+It was called a lube job, and it was part of every oil change.
+Most modern cars use sealed joints with no fittings at all, but tractors, trailers and farm equipment are still covered in them.
+
+[16. Battery Hydrometer]
+It looked like a turkey baster with a little float sealed inside the glass.
+It was a battery hydrometer.
+Old car batteries had removable caps on top, and you could draw up a little of the liquid inside each cell.
+The float rose or sank depending on how strong the acid was, and the reading told you how charged that cell was.
+A fully charged cell read around one point two six five.
+If one cell read much lower than the others, the battery was failing, even if the car still started that morning.
+Most batteries today are sealed, so there is nothing to draw out, but people who maintain old trucks and tractors still use one.
+
+[15. Antifreeze Tester]
+Right next to the battery hydrometer, there was a second one that looked almost the same, except it had a row of little colored balls inside.
+It tested antifreeze.
+You drew coolant up from the radiator and counted how many balls floated.
+More floating balls meant more protection against freezing.
+In the northern states, this was a ritual every fall, because a frozen engine could crack its block overnight and ruin the whole car.
+The gas station attendant would test your radiator and tell you how cold it could get before you were in trouble.
+It is still sold today for a few dollars, and it is still one of the smartest things to check before the first hard freeze.
+
+[14. Wheel Bearing Packer]
+A cone-shaped tool with a grease fitting on top doesn't look like much, but it saved a lot of greasy hands.
+It was a wheel bearing packer.
+Older cars and trailers ran on tapered roller bearings that had to be repacked with fresh grease every so often.
+The old way was to push grease into the bearing with your palm until it came out the other side, and it took a while to learn.
+With the packer, you set the bearing between two cones and pumped the grease gun, and grease was forced through every roller at once.
+If you have a boat trailer, you probably still need one, because those bearings live in water and fail quietly.
+
+[13. Brake Adjusting Spoon]
+This is a flat piece of steel with a slight bend at the end, like a small spoon that someone stepped on.
+It is a brake adjusting spoon.
+Older drum brakes had a little toothed wheel inside the brake called a star adjuster.
+As the brake shoes wore down, the pedal sank lower and lower, and someone had to take up the slack.
+You pulled a rubber plug from the back of the brake, slid the spoon in, and clicked the star wheel a few teeth at a time until the wheel just started to drag.
+Later drum brakes adjusted themselves when you backed up, and most modern cars have disc brakes in front, so the spoon became a puzzle in the bottom of the toolbox.
+
+[12. Piston Ring Compressor]
+It is a band of thin spring steel with a ratchet and a little key.
+It is a piston ring compressor.
+Every piston has springy rings around it that seal against the cylinder wall.
+To put a piston back into an engine, those rings have to be squeezed flat, or they catch on the edge of the cylinder and snap.
+You wrapped the band around the piston, tightened it with the key, set it on top of the cylinder, and tapped the piston down with the wooden handle of a hammer.
+If you have ever rebuilt an engine on a garage floor, you have used one, and you remember the first ring you broke.
+
+[11. Tire Bead Breaker]
+On farms and in country garages, you would find a heavy steel lever with a hooked foot, or a stand you hit with a sledgehammer.
+It was a tire bead breaker.
+A tire seals against the wheel at a thick edge called the bead, and after years on the road it bonds to the rim almost like glue.
+Before tire machines were everywhere, getting a tire off meant breaking that seal by hand, one hard stroke at a time.
+Truck and tractor tires were the worst.
+Men who did it for years still talk about how many knuckles it cost them.
+
+[10. Hot Patch Vulcanizer]
+Back when cars ran on inner tubes, a flat tire was something you fixed on the side of the road.
+One of the strangest ways to do it was a hot patch.
+The kit came with a small clamp and patches that had a little metal tray of fuel on the back.
+You clamped the patch over the hole in the tube and lit the fuel with a match.
+It burned for a minute or two, and the heat melted the patch rubber into the tube and sealed it.
+When it cooled, the repair was almost as strong as the tube itself.
+It sounds dangerous, and it was a little, but it got a lot of families home.
+
+[9. Bumper Jack]
+If you ever changed a flat on an older car, you remember this one.
+It was a tall notched steel post with a ratchet that hooked under the bumper.
+You set the base on the ground, slipped the hook under the bumper, and worked a handle up and down until the car rose one notch at a time.
+It was also one of the most dangerous tools ever put in a trunk.
+On soft ground or a slope, the whole car could slide off the post.
+As bumpers changed in the nineteen seventies and eighties, carmakers switched to jacks that lift from the frame.
+Old timers still tell you never to put any part of your body under a car on a bumper jack.
+
+[8. Hand Crank]
+Before electric starters, every car came with an iron crank that fit into the front of the engine.
+To start the car, you set the controls, then grabbed the crank and gave it a hard pull upward.
+The danger was kickback.
+If the engine fired early, the crank could spin backward hard enough to break a wrist.
+That is why old timers taught everyone to keep the thumb on the same side as the fingers, instead of wrapping it around the handle.
+The electric self-starter arrived on the nineteen twelve Cadillac and spread quickly, but tractors and stationary engines kept their cranks for decades.
+
+[7. Pump Oiler]
+A small metal can with a long spout and a thumb lever on the side sat on almost every workbench.
+It was a pump oiler.
+Instead of tipping and pouring, you aimed the spout and pressed the lever, and a few drops went exactly where you wanted them.
+Hinges, chains, sewing machines, clippers, the moving parts of farm tools, all got a drop or two from the same can.
+A good one never leaked and lasted a lifetime.
+Spray cans took over in later decades, but plenty of men still prefer the oiler, because spray goes everywhere and a drop goes where you point it.
+
+[6. Draw Knife]
+It is a long blade with a handle on each end, sharpened on one side.
+It is a draw knife.
+You sat on a bench, clamped a piece of wood in front of you, and pulled the blade toward your body to peel off long curls of wood.
+It was how axe handles, fence posts, wagon parts and tool handles were shaped by hand.
+In the right hands, it could take bark off a log in minutes.
+Woodworkers still use them today, and once you try one, it is hard not to smile at how fast it works.
+
+[5. Spokeshave]
+The draw knife had a little brother.
+It is a short blade set in a body with a handle on each side, and it is called a spokeshave.
+It was originally made for shaping wagon wheel spokes, and that is where the name comes from.
+Where the draw knife took off big curls, the spokeshave took off thin shavings and left a smooth, round surface.
+Carpenters used it for chair legs, paddles, and the curved handles of tools.
+It is still made today, and it is still the best tool for shaping a round piece of wood by hand.
+
+[4. Brace and Bit]
+Before cordless drills, this was how a carpenter made a hole.
+It is a crank-shaped handle with a pad on top and a chuck on the end, called a brace.
+You pressed your chest or your hand on the top pad, turned the crank, and the bit bored through wood slowly and cleanly.
+The better ones had a ratchet, so you could work in a tight corner by swinging the handle back and forth instead of turning it all the way around.
+A brace never needed a battery, never overheated, and gave you a feel for the wood that a power drill never does.
+Plenty of old boxes at farm auctions still have one in the bottom.
+
+[3. Post Drill]
+In some farm shops, there was a drill press that ran on muscle.
+It was called a post drill, and it was bolted to a wall or a wooden post.
+You turned a big hand wheel on the side, and a set of gears turned the drill bit and fed it slowly down into the metal.
+A heavy flywheel kept it turning smoothly between strokes.
+With one of these, a farmer could drill holes in iron and steel for repairs, years before the farm had electricity.
+Today they sell to collectors, and some of them still work as well as the day they left the factory.
+
+[2. Fence Stretcher]
+On any farm with livestock, one tool sat near the door because it was needed so often.
+It was the fence stretcher.
+It hooked to the wire on one end and to a post or a chain on the other, and with a lever or a ratchet, you pulled the wire tight before you stapled it.
+A loose fence lets cattle walk right through, so getting the wire tight mattered.
+The design has hardly changed in a century, and every farmer you ask still has one hanging somewhere.
+
+[1. Treadle Grindstone]
+And the most important tool in the old farm garage didn't run on gas or electricity at all.
+It was a big round sandstone wheel, set in a wooden frame, turned by a foot pedal or a hand crank.
+It was the grindstone.
+The bottom of the wheel ran through a trough of water, which kept the stone clean and the blade cool.
+Axes, hatchets, scythes, knives and hoes all came back to life on that wheel.
+On many farms, it was the job of the youngest boy to turn the crank while his father held the blade.
+Ask anyone who grew up that way, and they will tell you they can still hear the sound of it.
+
+[CLOSE]
+Those were twenty-five tools from the drawers of an old American garage.
+Some of them disappeared because cars changed.
+Some of them disappeared because nobody remembered how to use them.
+And a few of them, like the feeler gauge, the vacuum gauge and the grease gun, are still the best tool for the job.
+I'm Eli Holloway, and this channel is about the old ways that still make sense.
+Now I want to hear from you.
+Which of these tools did you actually use, and which one is still hanging in your garage today?
+Tell me in the comments, and if you have a strange tool that nobody can identify, describe it, and we will try to figure it out together.
