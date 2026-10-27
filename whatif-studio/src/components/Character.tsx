@@ -2,6 +2,7 @@ import React from "react";
 import { interpolate, Easing } from "remotion";
 import { Prop } from "./Props";
 import { Emote } from "./Emotes";
+import { HumanBody } from "./Human";
 
 // ---------------------------------------------------------------------------
 // Rig: feet at y=0, hips -125, shoulders -255, head centre -340 (r 62).
@@ -14,12 +15,26 @@ export type Pose = {
   tilt: number; head: number; crouch?: number;
 };
 
-const L1 = 72, L2 = 66;
-const SH_L: [number, number] = [-40, -255];
-const SH_R: [number, number] = [40, -255];
+export type Rig = {
+  shL: [number, number]; shR: [number, number]; l1: number; l2: number; headTop: number;
+  anchors: Record<string, [number, number]>;
+};
+
+// cartoon rig (round head, ~3 heads tall)
+export const CARTOON: Rig = {
+  shL: [-40, -255], shR: [40, -255], l1: 72, l2: 66, headTop: -400,
+  anchors: { chin: [24, -290], face: [8, -335], ear: [58, -340], hipL: [-40, -150], hipR: [40, -150], chestL: [32, -200], chestR: [-30, -192],
+    front: [120, -200], phone: [105, -225], phone2: [100, -235], faceL: [-28, -320], faceR: [28, -320] },
+};
+// illustrated human rig (~6.5 heads tall, same overall height)
+export const HUMAN: Rig = {
+  shL: [-44, -378], shR: [44, -378], l1: 94, l2: 86, headTop: -490,
+  anchors: { chin: [10, -398], face: [6, -440], ear: [34, -440], hipL: [-46, -250], hipR: [46, -250], chestL: [26, -322], chestR: [-26, -314],
+    front: [140, -300], phone: [112, -296], phone2: [108, -306], faceL: [-14, -428], faceR: [14, -428] },
+};
 
 // two-bone IK: returns [upper, elbow] rotation for a hand target; bend +1/-1 picks elbow side
-const ik = (s: [number, number], t: [number, number], bend: number): [number, number] => {
+const ik = (s: [number, number], t: [number, number], bend: number, L1: number, L2: number): [number, number] => {
   const dx = t[0] - s[0], dy = t[1] - s[1];
   const d = Math.min(Math.max(Math.hypot(dx, dy), 8), L1 + L2 - 0.5);
   const th = Math.atan2(dy, dx);
@@ -35,51 +50,58 @@ const ik = (s: [number, number], t: [number, number], bend: number): [number, nu
 };
 
 const base: Pose = { la: 8, le: -6, ra: -8, re: 6, ll: 4, lk: 0, rl: -4, rk: 0, tilt: 0, head: 0 };
-const P = (o: Partial<Pose> & { lh?: [number, number, number]; rh?: [number, number, number] }): Pose => {
-  const p: any = { ...base, ...o };
-  if (o.lh) [p.la, p.le] = ik(SH_L, [o.lh[0], o.lh[1]], o.lh[2]);
-  if (o.rh) [p.ra, p.re] = ik(SH_R, [o.rh[0], o.rh[1]], o.rh[2]);
-  delete p.lh; delete p.rh;
-  return p;
+type Src = Partial<Pose> & { lh?: [string, number]; rh?: [string, number] };
+const SRC: Record<string, Src> = {
+  idle: {},
+  idle_b: { la: 14, le: -14, ra: -4, re: 20, tilt: 1.5, head: 4 },
+  wave: { ra: -150, re: -25, tilt: -3, head: -4 },
+  point: { ra: -95, re: 0, tilt: -2, head: -3 },
+  point_b: { ra: -120, re: 4, tilt: -3, head: -6 },
+  explain: { ra: -55, re: -45, head: 4 },
+  explain_b: { la: 50, le: 40, ra: -55, re: -45, head: -3 },
+  shrug: { la: 55, le: -115, ra: -55, re: 115, head: 9 },
+  shrug_b: { la: 60, le: -125, ra: -60, re: 125, head: -8, tilt: 2 },
+  think: { rh: ["chin", -1], la: 30, le: -95, head: 8 },
+  think_b: { rh: ["chin", -1], la: 30, le: -95, head: -6, tilt: 2 },
+  surprised: { la: 140, le: 25, ra: -140, re: -25, ll: 10, rl: -10, head: -5 },
+  surprised_b: { la: 150, le: 35, ra: -150, re: -35, ll: 12, rl: -12, head: 5 },
+  happy: { la: 150, le: -15, ra: -150, re: 15, ll: 8, rl: -8 },
+  happy_b: { la: 165, le: -25, ra: -165, re: 25, ll: 10, rl: -10, head: 6 },
+  cheer: { la: 165, le: -10, ra: -165, re: 10, ll: 12, rl: -12, head: -8 },
+  stretch: { la: 172, le: 0, ra: -172, re: 0, head: -10 },
+  skeptical: { lh: ["hipL", 1], rh: ["hipR", -1], tilt: -4, head: -8 },
+  skeptical_b: { lh: ["hipL", 1], rh: ["hipR", -1], tilt: 3, head: 7 },
+  hips: { lh: ["hipL", 1], rh: ["hipR", -1] },
+  cross: { lh: ["chestL", -1], rh: ["chestR", 1], head: -4 },
+  cross_b: { lh: ["chestL", -1], rh: ["chestR", 1], head: 7, tilt: 2 },
+  facepalm: { rh: ["face", 1], la: 10, head: 14, tilt: 3 },
+  phone: { rh: ["phone", -1], head: 12 },
+  phone_b: { rh: ["phone2", -1], head: 16, tilt: 2 },
+  call: { rh: ["ear", 1], head: -6 },
+  hold: { rh: ["front", -1] },
+  give: { ra: -78, re: -8, tilt: -4, head: -3 },
+  scared: { lh: ["faceL", 1], rh: ["faceR", -1], ll: 10, rl: -10, lk: 6, rk: -6, head: 6, crouch: 14 },
+  sad: { la: 4, le: -2, ra: -4, re: 2, tilt: 5, head: 18, crouch: 6 },
+  sad_b: { la: 4, le: -2, ra: -4, re: 2, tilt: 5, head: 22, crouch: 8 },
+  angry: { la: 25, le: -40, ra: -25, re: 40, ll: 12, rl: -12, tilt: -4, head: -10 },
+  walk: { la: 0, le: -10, ra: 0, re: 10, ll: 0, rl: 0, tilt: 2 },
+  run: { tilt: 8 },
+  jump: { la: 150, le: -15, ra: -150, re: 15, ll: 30, lk: -60, rl: -30, rk: 60 },
 };
 
-export const POSES: Record<string, Pose> = {
-  idle: P({}),
-  idle_b: P({ la: 14, le: -14, ra: -4, re: 20, tilt: 1.5, head: 4 }),
-  wave: P({ ra: -150, re: -25, tilt: -3, head: -4 }),
-  point: P({ ra: -95, re: 0, tilt: -2, head: -3 }),
-  point_b: P({ ra: -120, re: 4, tilt: -3, head: -6 }),
-  explain: P({ ra: -55, re: -45, head: 4 }),
-  explain_b: P({ la: 50, le: 40, ra: -55, re: -45, head: -3 }),
-  shrug: P({ la: 55, le: -115, ra: -55, re: 115, head: 9 }),
-  shrug_b: P({ la: 60, le: -125, ra: -60, re: 125, head: -8, tilt: 2 }),
-  think: P({ rh: [24, -290, -1], la: 30, le: -95, head: 8 }),
-  think_b: P({ rh: [24, -290, -1], la: 30, le: -95, head: -6, tilt: 2 }),
-  surprised: P({ la: 140, le: 25, ra: -140, re: -25, ll: 10, rl: -10, head: -5 }),
-  surprised_b: P({ la: 150, le: 35, ra: -150, re: -35, ll: 12, rl: -12, head: 5 }),
-  happy: P({ la: 150, le: -15, ra: -150, re: 15, ll: 8, rl: -8 }),
-  happy_b: P({ la: 165, le: -25, ra: -165, re: 25, ll: 10, rl: -10, head: 6 }),
-  cheer: P({ la: 165, le: -10, ra: -165, re: 10, ll: 12, rl: -12, head: -8 }),
-  stretch: P({ la: 172, le: 0, ra: -172, re: 0, head: -10 }),
-  skeptical: P({ lh: [-40, -150, -1], rh: [40, -150, 1], tilt: -4, head: -8 }),
-  skeptical_b: P({ lh: [-40, -150, -1], rh: [40, -150, 1], tilt: 3, head: 7 }),
-  hips: P({ lh: [-40, -150, -1], rh: [40, -150, 1] }),
-  cross: P({ lh: [32, -200, -1], rh: [-30, -192, 1], head: -4 }),
-  cross_b: P({ lh: [32, -200, -1], rh: [-30, -192, 1], head: 7, tilt: 2 }),
-  facepalm: P({ rh: [8, -335, 1], la: 10, head: 14, tilt: 3 }),
-  phone: P({ rh: [105, -225, -1], head: 12 }),
-  phone_b: P({ rh: [100, -235, -1], head: 16, tilt: 2 }),
-  call: P({ rh: [58, -340, 1], head: -6 }),
-  hold: P({ rh: [120, -200, -1] }),
-  give: P({ ra: -78, re: -8, tilt: -4, head: -3 }),
-  scared: P({ lh: [-28, -320, 1], rh: [28, -320, -1], ll: 10, rl: -10, lk: 6, rk: -6, head: 6, crouch: 14 }),
-  sad: P({ la: 4, le: -2, ra: -4, re: 2, tilt: 5, head: 18, crouch: 6 }),
-  sad_b: P({ la: 4, le: -2, ra: -4, re: 2, tilt: 5, head: 22, crouch: 8 }),
-  angry: P({ la: 25, le: -40, ra: -25, re: 40, ll: 12, rl: -12, tilt: -4, head: -10 }),
-  walk: P({ la: 0, le: -10, ra: 0, re: 10, ll: 0, rl: 0, tilt: 2 }),
-  run: P({ tilt: 8 }),
-  jump: P({ la: 150, le: -15, ra: -150, re: 15, ll: 30, lk: -60, rl: -30, rk: 60 }),
+const buildPoses = (rig: Rig): Record<string, Pose> => {
+  const out: Record<string, Pose> = {};
+  Object.entries(SRC).forEach(([k, o]) => {
+    const p: any = { ...base, ...o };
+    if (o.lh) [p.la, p.le] = ik(rig.shL, rig.anchors[o.lh[0]], o.lh[1], rig.l1, rig.l2);
+    if (o.rh) [p.ra, p.re] = ik(rig.shR, rig.anchors[o.rh[0]], o.rh[1], rig.l1, rig.l2);
+    delete p.lh; delete p.rh;
+    out[k] = p;
+  });
+  return out;
 };
+export const POSES = buildPoses(CARTOON);
+const POSES_HUMAN = buildPoses(HUMAN);
 
 // Face presets: eyes / brows / mouth
 type Face = { eyes: string; brows?: string; mouth?: string };
@@ -111,6 +133,7 @@ export type CharSpec = {
   glow?: string | null; glowAt?: number;
   facing?: number; look?: number; scale?: number; hat?: string | null; hair?: string | null; enter?: string | null;
   body?: "tall" | "short" | "wide" | "kid";
+  style?: "cartoon" | "human"; skin?: string; hairColor?: string; pants?: string; outfit?: string; sleeves?: "short" | "long"; female?: boolean;
 };
 
 const mix = (a: Pose, b: Pose, t: number): Pose => {
@@ -163,10 +186,13 @@ const keyAt = <T,>(keys: [T, number][], f: number, dur: number) => {
 
 export const Character: React.FC<{ c: CharSpec; frame: number; dur: number; y: number; scale: number; others?: number[] }> = ({ c, frame, dur, y, scale }) => {
   const seed = hash(c.id);
+  const human = c.style === "human";
+  const PS = human ? POSES_HUMAN : POSES;
+  const rig = human ? HUMAN : CARTOON;
   const keys = buildKeys(c, dur);
   const { i: ki, start: kStart } = keyAt(keys, frame, dur);
-  const prev = POSES[keys[Math.max(0, ki - 1)][0]] ?? POSES.idle;
-  const cur = POSES[keys[ki][0]] ?? POSES.idle;
+  const prev = PS[keys[Math.max(0, ki - 1)][0]] ?? PS.idle;
+  const cur = PS[keys[ki][0]] ?? PS.idle;
   const since = frame - kStart;
   const bl = ki === 0 ? 1 : interpolate(since, [0, 9], [0, 1], { extrapolateRight: "clamp", easing: Easing.out(Easing.back(1.8)) });
   let pose = mix(prev, cur, bl);
@@ -203,7 +229,7 @@ export const Character: React.FC<{ c: CharSpec; frame: number; dur: number; y: n
       const T = a === "jump" ? 22 : 14, H = a === "jump" ? 170 : 70;
       if (f > -6 && f < 0) { const k = (f + 6) / 6; sqy *= 1 - 0.12 * k; sqx *= 1 + 0.08 * k; }
       if (f >= 0 && f <= T) { const u = f / T; jy -= 4 * H * u * (1 - u); sqy *= 1 + 0.1 * Math.sin(u * Math.PI); sqx *= 1 - 0.06 * Math.sin(u * Math.PI);
-        pose = mix(pose, POSES.jump, Math.sin(u * Math.PI) * 0.8); }
+        pose = mix(pose, PS.jump, Math.sin(u * Math.PI) * 0.8); }
       if (f > T && f < T + 8) { const k = 1 - (f - T) / 8; sqy *= 1 - 0.1 * k; sqx *= 1 + 0.07 * k; }
     }
     if (a === "nod" && f >= 0 && f < 24) extraHead += Math.sin((f / 24) * Math.PI * 4) * 10;
@@ -232,7 +258,7 @@ export const Character: React.FC<{ c: CharSpec; frame: number; dur: number; y: n
   const body = c.body ?? "normal";
   const bw = body === "wide" ? 1.25 : body === "kid" ? 0.95 : 1;
   const bh = body === "tall" ? 1.12 : body === "short" ? 0.9 : body === "kid" ? 0.78 : 1;
-  const sc = (c.scale ?? 1) * scale * popIn;
+  const sc = (c.scale ?? 1) * scale * popIn * (human ? 0.8 : 1); // human rig is taller; keep the same screen height
   const facing = dir;
   const pants = "#2b2d42";
   const skin = "#1d1d1f";
@@ -257,10 +283,11 @@ export const Character: React.FC<{ c: CharSpec; frame: number; dur: number; y: n
       <ellipse cx={0} cy={6} rx={95 * sc * bw} ry={14 * sc} fill="rgba(0,0,0,0.18)" opacity={1 + jy / 300} />
       <g transform={`translate(0,${bob}) scale(${sc * facing * sqx},${sc * sqy})`}>
         <g transform={`scale(${bw},${bh})`}>
+          {human ? <HumanBody c={c} pose={pose} frame={frame} seed={seed} gaze={gaze} face={face} faceSince={faceSince} handProp={handProp} /> : (
           <g transform={`translate(0,${crouch}) rotate(${pose.tilt},0,-120)`}>
             <Limb x={-22} y={-125} a={pose.ll} b={pose.lk} l1={64} l2={66} w={24} color={pants} end={<ellipse cx={-10} cy={4} rx={24} ry={11} fill="#111" />} />
             <Limb x={22} y={-125} a={pose.rl} b={pose.rk} l1={64} l2={66} w={24} color={pants} end={<ellipse cx={10} cy={4} rx={24} ry={11} fill="#111" />} />
-            <Limb x={SH_L[0]} y={SH_L[1]} a={pose.la} b={pose.le} l1={L1} l2={L2} w={22} color={shade(c.color, 0.82)} color2={shade(c.color, 0.82)}
+            <Limb x={CARTOON.shL[0]} y={CARTOON.shL[1]} a={pose.la} b={pose.le} l1={CARTOON.l1} l2={CARTOON.l2} w={22} color={shade(c.color, 0.82)} color2={shade(c.color, 0.82)}
               end={<g><circle r={13} fill={skin} />{handProp("l")}</g>} />
             <path d="M -48 -268 Q -54 -200 -46 -128 Q 0 -112 46 -128 Q 54 -200 48 -268 Q 0 -286 -48 -268 Z" fill={c.color} />
             <path d="M -20 -200 Q 0 -192 20 -200 L 18 -160 Q 0 -154 -18 -160 Z" fill={shade(c.color, 0.8)} opacity={0.6} />
@@ -278,15 +305,15 @@ export const Character: React.FC<{ c: CharSpec; frame: number; dur: number; y: n
               {c.hat === "paper" && <path d="M -56 -378 L 56 -378 L 44 -420 L -44 -420 Z" fill="#fff" stroke="#ddd" strokeWidth={3} />}
               {c.hat === "fedora" && <path d="M -90 -372 Q 0 -360 90 -372 Q 70 -384 52 -384 Q 50 -430 0 -428 Q -50 -430 -52 -384 Q -70 -384 -90 -372 Z" fill="#4a3b2f" />}
             </g>
-            <Limb x={SH_R[0]} y={SH_R[1]} a={pose.ra} b={pose.re} l1={L1} l2={L2} w={22} color={c.color} outline={shade(c.color, 0.55)}
+            <Limb x={CARTOON.shR[0]} y={CARTOON.shR[1]} a={pose.ra} b={pose.re} l1={CARTOON.l1} l2={CARTOON.l2} w={22} color={c.color} outline={shade(c.color, 0.55)}
               end={<g><circle r={13} fill={skin} />{handProp("r")}</g>} />
-          </g>
+          </g>)}
         </g>
       </g>
       {(c.emote ?? []).map(([e, at], i) => {
         const f = frame - at * dur;
         if (f < 0) return null;
-        return <g key={i} transform={`translate(${70 * sc * facing},${-400 * sc * bh + bob})`}><Emote name={e} f={f} s={sc} /></g>;
+        return <g key={i} transform={`translate(${70 * sc * facing},${rig.headTop * sc * bh + bob})`}><Emote name={e} f={f} s={sc} /></g>;
       })}
     </g>
   );

@@ -12,7 +12,7 @@
     {
      "id": "hero",
      "x": 600,
-     "color": "#4f7a8a",
+     "color": "#5b7f95",
      "keys": [
       [
        "stretch",
@@ -48,7 +48,11 @@
        "hop",
        0.55
       ]
-     ]
+     ],
+     "skin": "#f1c27d",
+     "hair": "side",
+     "hairColor": "#4a3222",
+     "outfit": "shirt"
     }
    ],
    "overlay": {
@@ -138,7 +142,7 @@
     {
      "id": "hero",
      "x": 640,
-     "color": "#4f7a8a",
+     "color": "#5b7f95",
      "keys": [
       [
        "idle",
@@ -165,7 +169,11 @@
        0.5
       ]
      ],
-     "look": 1
+     "look": 1,
+     "skin": "#f1c27d",
+     "hair": "side",
+     "hairColor": "#4a3222",
+     "outfit": "shirt"
     }
    ],
    "overlay": {
@@ -231,7 +239,7 @@
     {
      "id": "hero",
      "x": 640,
-     "color": "#4f7a8a",
+     "color": "#5b7f95",
      "keys": [
       [
        "think",
@@ -261,7 +269,11 @@
        "idea",
        0.68
       ]
-     ]
+     ],
+     "skin": "#f1c27d",
+     "hair": "side",
+     "hairColor": "#4a3222",
+     "outfit": "shirt"
     }
    ],
    "overlay": {
@@ -348,7 +360,7 @@
     {
      "id": "hero",
      "x": 260,
-     "color": "#4f7a8a",
+     "color": "#5b7f95",
      "move": {
       "to": 760,
       "from": 0.0,
@@ -381,7 +393,11 @@
        "!",
        0.74
       ]
-     ]
+     ],
+     "skin": "#f1c27d",
+     "hair": "side",
+     "hairColor": "#4a3222",
+     "outfit": "shirt"
     },
     {
      "id": "cook",
@@ -408,7 +424,9 @@
        "smile",
        0
       ]
-     ]
+     ],
+     "outfit": "apron",
+     "skin": "#c68642"
     }
    ],
    "overlay": {
@@ -531,12 +549,15 @@
        "smile",
        0
       ]
-     ]
+     ],
+     "outfit": "shirt",
+     "skin": "#ffdbac",
+     "hair": "short"
     },
     {
      "id": "hero",
      "x": 600,
-     "color": "#4f7a8a",
+     "color": "#5b7f95",
      "keys": [
       [
        "idle",
@@ -568,7 +589,11 @@
        "sparkle",
        0.62
       ]
-     ]
+     ],
+     "skin": "#f1c27d",
+     "hair": "side",
+     "hairColor": "#4a3222",
+     "outfit": "shirt"
     }
    ],
    "overlay": {
@@ -636,7 +661,7 @@
     {
      "id": "hero",
      "x": 900,
-     "color": "#4f7a8a",
+     "color": "#5b7f95",
      "keys": [
       [
        "hold",
@@ -667,7 +692,11 @@
        "sparkle",
        0.5
       ]
-     ]
+     ],
+     "skin": "#f1c27d",
+     "hair": "side",
+     "hairColor": "#4a3222",
+     "outfit": "shirt"
     }
    ],
    "overlays": [
@@ -763,7 +792,7 @@
     {
      "id": "hero",
      "x": 560,
-     "color": "#4f7a8a",
+     "color": "#5b7f95",
      "keys": [
       [
        "explain",
@@ -787,7 +816,11 @@
        "happy",
        0.75
       ]
-     ]
+     ],
+     "skin": "#f1c27d",
+     "hair": "side",
+     "hairColor": "#4a3222",
+     "outfit": "shirt"
     }
    ],
    "overlay": {
@@ -885,7 +918,7 @@
     {
      "id": "hero",
      "x": 960,
-     "color": "#4f7a8a",
+     "color": "#5b7f95",
      "keys": [
       [
        "happy",
@@ -911,7 +944,11 @@
        "sweat",
        0.45
       ]
-     ]
+     ],
+     "skin": "#f1c27d",
+     "hair": "side",
+     "hairColor": "#4a3222",
+     "outfit": "shirt"
     }
    ],
    "sfx": [
@@ -960,7 +997,7 @@
     {
      "id": "hero",
      "x": 960,
-     "color": "#4f7a8a",
+     "color": "#5b7f95",
      "keys": [
       [
        "phone",
@@ -971,7 +1008,7 @@
        0.4
       ],
       [
-       "facepalm",
+       "sad",
        0.75
       ]
      ],
@@ -995,7 +1032,11 @@
        "?",
        0.12
       ]
-     ]
+     ],
+     "skin": "#f1c27d",
+     "hair": "side",
+     "hairColor": "#4a3222",
+     "outfit": "shirt"
     }
    ],
    "overlay": {
@@ -1072,7 +1113,7 @@
     {
      "id": "hero",
      "x": 640,
-     "color": "#4f7a8a",
+     "color": "#5b7f95",
      "keys": [
       [
        "explain",
@@ -1104,12 +1145,16 @@
        "awkward",
        0.8
       ]
-     ]
+     ],
+     "skin": "#f1c27d",
+     "hair": "side",
+     "hairColor": "#4a3222",
+     "outfit": "shirt"
     },
     {
      "id": "nb",
      "x": 1280,
-     "color": "#7a5c3e",
+     "color": "#7a6a58",
      "hat": "fedora",
      "facing": -1,
      "keys": [
@@ -1145,7 +1190,10 @@
        "anger",
        0.72
       ]
-     ]
+     ],
+     "outfit": "suit",
+     "skin": "#e0ac69",
+     "hair": "gray"
     }
    ],
    "overlays": [
@@ -1255,7 +1303,7 @@
     {
      "id": "hero",
      "x": 960,
-     "color": "#4f7a8a",
+     "color": "#5b7f95",
      "keys": [
       [
        "sad",
@@ -1273,7 +1321,11 @@
        "sweat",
        0.4
       ]
-     ]
+     ],
+     "skin": "#f1c27d",
+     "hair": "side",
+     "hairColor": "#4a3222",
+     "outfit": "shirt"
     }
    ],
    "overlays": [
@@ -1362,7 +1414,7 @@
     {
      "id": "hero",
      "x": 960,
-     "color": "#4f7a8a",
+     "color": "#5b7f95",
      "keys": [
       [
        "think",
@@ -1388,7 +1440,11 @@
        "idea",
        0.35
       ]
-     ]
+     ],
+     "skin": "#f1c27d",
+     "hair": "side",
+     "hairColor": "#4a3222",
+     "outfit": "shirt"
     }
    ],
    "overlay": {
@@ -1452,5 +1508,6 @@
    ]
   }
  ],
- "total": 1494
+ "total": 1494,
+ "style": "human"
 }

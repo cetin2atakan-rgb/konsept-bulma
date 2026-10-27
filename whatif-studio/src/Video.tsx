@@ -17,7 +17,8 @@ const overlaysOf = (sc: any): any[] => (sc.overlays ?? (sc.overlay ? [sc.overlay
 // Shot list: explicit > auto (cut every ~2.2 s between wide / close-up / medium)
 const shotsFor = (sc: any): Shot[] => {
   const s = charScale(sc);
-  const headY = FLOOR - 290 * s; // leaves headroom for emotes and labels
+  const human = sc.chars[0]?.style === "human";
+  const headY = FLOOR - (human ? 320 : 290) * s; // leaves headroom for emotes and labels
   const byId = (id: string) => sc.chars.find((c: CharSpec) => c.id === id);
   if (Array.isArray(sc.shots)) {
     return sc.shots.map((sh: any) => {
@@ -78,8 +79,8 @@ const Crowd: React.FC<{ cr: any; frame: number; dur: number; scale: number }> = 
       const glow = cr.glow && ((idx * 7) % 10) / 10 < (cr.glow.ratio ?? 1) ? (cr.glow.colors ? cr.glow.colors[idx % cr.glow.colors.length] : cr.glow.color) : null;
       items.push(
         <Character key={idx} frame={frame} dur={dur} y={(cr.y ?? FLOOR - 60) - r * 70} scale={scale * (cr.scale ?? 0.62) * (1 - r * 0.08)}
-          c={{ id: `crowd${idx}`, x, color: pal[idx % pal.length], pose: cr.pose ?? "idle", glow, glowAt: (cr.glow?.at ?? 0) + (idx % 5) * 0.02, face: cr.face ? [[cr.face, 0]] : undefined,
-            hair: idx % 6 === 2 ? "pony" : idx % 9 === 4 ? "gray" : null, hat: cr.hats ? (idx % 4 === 1 ? cr.hats : null) : null, body: idx % 5 === 3 ? "short" : idx % 7 === 2 ? "tall" : undefined }} />
+          c={{ id: `crowd${idx}`, x, style: cr.style, female: cr.style === "human" && idx % 3 === 1, color: pal[idx % pal.length], pose: cr.pose ?? "idle", glow, glowAt: (cr.glow?.at ?? 0) + (idx % 5) * 0.02, face: cr.face ? [[cr.face, 0]] : undefined,
+            hair: cr.style === "human" ? undefined : idx % 6 === 2 ? "pony" : idx % 9 === 4 ? "gray" : null, hat: cr.hats ? (idx % 4 === 1 ? cr.hats : null) : null, body: idx % 5 === 3 ? "short" : idx % 7 === 2 ? "tall" : undefined }} />
       );
     }
   }
@@ -121,7 +122,7 @@ const Scene: React.FC<{ sc: any; theme: Theme }> = ({ sc, theme }) => {
               const c = sc.chars.find((ch: CharSpec) => ch.id === o.target);
               if (!c || frame < (o.at ?? 0) * dur) return null;
               const kk = interpolate(frame - (o.at ?? 0) * dur, [0, 8], [0, 1], { extrapolateRight: "clamp", easing: Easing.out(Easing.back(2.4)) });
-              const y = FLOOR - 470 * scale * (c.scale ?? 1);
+              const y = FLOOR - (c.style === "human" ? 455 : 470) * scale * (c.scale ?? 1);
               const w = o.text.length * 30 + 60;
               return (
                 <g key={i} transform={`translate(${c.move?.to ?? c.x},${y}) scale(${kk})`}>
@@ -181,7 +182,7 @@ export const WhatIfVideo: React.FC<{ data: any }> = ({ data }) => {
           const from = i === 0 ? 0 : sc.start;
           return (
             <Sequence key={i} from={from} durationInFrames={next - from}>
-              <Scene sc={{ ...sc, start: from, dur: next - from }} theme={theme} />
+              <Scene sc={{ ...sc, start: from, dur: next - from, chars: sc.chars.map((c: any) => ({ style: data.style, ...c })), crowd: sc.crowd && { style: data.style, ...sc.crowd } }} theme={theme} />
             </Sequence>
           );
         })}
