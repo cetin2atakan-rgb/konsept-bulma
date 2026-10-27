@@ -1,0 +1,1129 @@
+{
+ "id": "demoA",
+ "title": "What If You Could See How Much Everyone Trusts You?",
+ "voice": "am_michael",
+ "speed": 1.0,
+ "theme": "modern",
+ "scenes": [
+  {
+   "text": "You wake up one morning, and something feels different.",
+   "bg": "bedroom",
+   "chars": [
+    {
+     "id": "hero",
+     "pose": "stretch",
+     "pose2": "idle",
+     "x": 900,
+     "color": "#2a9d8f",
+     "mood": "sleepy",
+     "mood2": "normal"
+    }
+   ],
+   "cam": {
+    "z": [
+     1.25,
+     1.05
+    ],
+    "x": [
+     0,
+     0
+    ],
+    "y": [
+     40,
+     0
+    ]
+   },
+   "overlay": {
+    "type": "title",
+    "text": "WHAT IF YOU COULD SEE WHO TRUSTS YOU?"
+   },
+   "sfx": "whoosh",
+   "start": 12,
+   "dur": 104,
+   "words": [
+    {
+     "w": "You",
+     "s": 12
+    },
+    {
+     "w": "wake",
+     "s": 19
+    },
+    {
+     "w": "up",
+     "s": 28
+    },
+    {
+     "w": "one",
+     "s": 33
+    },
+    {
+     "w": "morning,",
+     "s": 40
+    },
+    {
+     "w": "and",
+     "s": 54
+    },
+    {
+     "w": "something",
+     "s": 60
+    },
+    {
+     "w": "feels",
+     "s": 78
+    },
+    {
+     "w": "different.",
+     "s": 88
+    }
+   ]
+  },
+  {
+   "text": "Everyone around you has a soft glow, and the color tells you exactly how much they trust you.",
+   "bg": "street",
+   "chars": [
+    {
+     "id": "hero",
+     "pose": "walk",
+     "x": 560,
+     "color": "#2a9d8f",
+     "mood": "wide"
+    },
+    {
+     "id": "a",
+     "pose": "idle",
+     "x": 1150,
+     "color": "#e76f51",
+     "glow": "#7bd389"
+    },
+    {
+     "id": "b",
+     "pose": "idle",
+     "x": 1450,
+     "color": "#6d597a",
+     "glow": "#f4d35e",
+     "facing": -1
+    }
+   ],
+   "cam": {
+    "z": [
+     1.0,
+     1.12
+    ],
+    "x": [
+     0,
+     -80
+    ],
+    "y": [
+     0,
+     0
+    ]
+   },
+   "overlay": {
+    "type": "tag",
+    "text": "GLOW = TRUST",
+    "at": 0.45
+   },
+   "sfx": "shimmer",
+   "start": 116,
+   "dur": 184,
+   "words": [
+    {
+     "w": "Everyone",
+     "s": 116
+    },
+    {
+     "w": "around",
+     "s": 133
+    },
+    {
+     "w": "you",
+     "s": 146
+    },
+    {
+     "w": "has",
+     "s": 154
+    },
+    {
+     "w": "a",
+     "s": 161
+    },
+    {
+     "w": "soft",
+     "s": 165
+    },
+    {
+     "w": "glow,",
+     "s": 174
+    },
+    {
+     "w": "and",
+     "s": 184
+    },
+    {
+     "w": "the",
+     "s": 191
+    },
+    {
+     "w": "color",
+     "s": 199
+    },
+    {
+     "w": "tells",
+     "s": 210
+    },
+    {
+     "w": "you",
+     "s": 222
+    },
+    {
+     "w": "exactly",
+     "s": 229
+    },
+    {
+     "w": "how",
+     "s": 244
+    },
+    {
+     "w": "much",
+     "s": 252
+    },
+    {
+     "w": "they",
+     "s": 261
+    },
+    {
+     "w": "trust",
+     "s": 271
+    },
+    {
+     "w": "you.",
+     "s": 282
+    }
+   ]
+  },
+  {
+   "text": "Green means they would trust you with anything.",
+   "bg": "abstract",
+   "chars": [
+    {
+     "id": "a",
+     "pose": "happy",
+     "x": 960,
+     "color": "#e76f51",
+     "glow": "#7bd389",
+     "mood": "happy"
+    }
+   ],
+   "cam": {
+    "z": [
+     1.1,
+     1.2
+    ],
+    "x": [
+     0,
+     0
+    ],
+    "y": [
+     0,
+     0
+    ]
+   },
+   "overlay": {
+    "type": "tag",
+    "text": "GREEN",
+    "color": "#7bd389",
+    "at": 0.2
+   },
+   "sfx": "pop",
+   "start": 300,
+   "dur": 87,
+   "words": [
+    {
+     "w": "Green",
+     "s": 300
+    },
+    {
+     "w": "means",
+     "s": 310
+    },
+    {
+     "w": "they",
+     "s": 319
+    },
+    {
+     "w": "would",
+     "s": 328
+    },
+    {
+     "w": "trust",
+     "s": 337
+    },
+    {
+     "w": "you",
+     "s": 347
+    },
+    {
+     "w": "with",
+     "s": 354
+    },
+    {
+     "w": "anything.",
+     "s": 362
+    }
+   ]
+  },
+  {
+   "text": "Yellow means they are not quite sure about you yet.",
+   "bg": "abstract",
+   "chars": [
+    {
+     "id": "b",
+     "pose": "think",
+     "x": 960,
+     "color": "#6d597a",
+     "glow": "#f4d35e"
+    }
+   ],
+   "cam": {
+    "z": [
+     1.2,
+     1.1
+    ],
+    "x": [
+     0,
+     0
+    ],
+    "y": [
+     0,
+     0
+    ]
+   },
+   "overlay": {
+    "type": "tag",
+    "text": "YELLOW",
+    "color": "#f4d35e",
+    "at": 0.2
+   },
+   "sfx": "pop",
+   "start": 387,
+   "dur": 99,
+   "words": [
+    {
+     "w": "Yellow",
+     "s": 387
+    },
+    {
+     "w": "means",
+     "s": 399
+    },
+    {
+     "w": "they",
+     "s": 410
+    },
+    {
+     "w": "are",
+     "s": 419
+    },
+    {
+     "w": "not",
+     "s": 426
+    },
+    {
+     "w": "quite",
+     "s": 433
+    },
+    {
+     "w": "sure",
+     "s": 443
+    },
+    {
+     "w": "about",
+     "s": 452
+    },
+    {
+     "w": "you",
+     "s": 462
+    },
+    {
+     "w": "yet.",
+     "s": 469
+    }
+   ]
+  },
+  {
+   "text": "And red means they do not trust you at all.",
+   "bg": "abstract",
+   "chars": [
+    {
+     "id": "c",
+     "pose": "skeptical",
+     "x": 960,
+     "color": "#264653",
+     "glow": "#ef476f",
+     "mood": "narrow"
+    }
+   ],
+   "cam": {
+    "z": [
+     1.05,
+     1.3
+    ],
+    "x": [
+     0,
+     0
+    ],
+    "y": [
+     0,
+     -30
+    ]
+   },
+   "overlay": {
+    "type": "tag",
+    "text": "RED",
+    "color": "#ef476f",
+    "at": 0.25
+   },
+   "sfx": "boom",
+   "start": 487,
+   "dur": 85,
+   "words": [
+    {
+     "w": "And",
+     "s": 487
+    },
+    {
+     "w": "red",
+     "s": 494
+    },
+    {
+     "w": "means",
+     "s": 501
+    },
+    {
+     "w": "they",
+     "s": 511
+    },
+    {
+     "w": "do",
+     "s": 520
+    },
+    {
+     "w": "not",
+     "s": 525
+    },
+    {
+     "w": "trust",
+     "s": 532
+    },
+    {
+     "w": "you",
+     "s": 542
+    },
+    {
+     "w": "at",
+     "s": 549
+    },
+    {
+     "w": "all.",
+     "s": 555
+    }
+   ]
+  },
+  {
+   "text": "At school, your best friend walks in glowing bright green.",
+   "bg": "hallway",
+   "chars": [
+    {
+     "id": "hero",
+     "pose": "wave",
+     "x": 700,
+     "color": "#2a9d8f",
+     "mood": "happy"
+    },
+    {
+     "id": "a",
+     "pose": "walk",
+     "pose2": "wave",
+     "x": 1250,
+     "color": "#e76f51",
+     "glow": "#7bd389",
+     "facing": -1,
+     "enter": "right",
+     "mood": "happy"
+    }
+   ],
+   "cam": {
+    "z": [
+     1.0,
+     1.08
+    ],
+    "x": [
+     0,
+     40
+    ],
+    "y": [
+     0,
+     0
+    ]
+   },
+   "sfx": "ding",
+   "start": 572,
+   "dur": 114,
+   "words": [
+    {
+     "w": "At",
+     "s": 572
+    },
+    {
+     "w": "school,",
+     "s": 577
+    },
+    {
+     "w": "your",
+     "s": 590
+    },
+    {
+     "w": "best",
+     "s": 599
+    },
+    {
+     "w": "friend",
+     "s": 608
+    },
+    {
+     "w": "walks",
+     "s": 621
+    },
+    {
+     "w": "in",
+     "s": 632
+    },
+    {
+     "w": "glowing",
+     "s": 637
+    },
+    {
+     "w": "bright",
+     "s": 652
+    },
+    {
+     "w": "green.",
+     "s": 664
+    }
+   ]
+  },
+  {
+   "text": "Then your teacher looks up from her desk, and her glow is yellow.",
+   "bg": "classroom",
+   "chars": [
+    {
+     "id": "t",
+     "pose": "skeptical",
+     "x": 1300,
+     "color": "#8d6e63",
+     "glow": "#f4d35e",
+     "facing": -1,
+     "hair": "bun"
+    },
+    {
+     "id": "hero",
+     "pose": "idle",
+     "pose2": "surprised",
+     "x": 620,
+     "color": "#2a9d8f",
+     "mood": "wide"
+    }
+   ],
+   "cam": {
+    "z": [
+     1.0,
+     1.15
+    ],
+    "x": [
+     0,
+     -120
+    ],
+    "y": [
+     0,
+     0
+    ]
+   },
+   "sfx": "pop",
+   "start": 686,
+   "dur": 122,
+   "words": [
+    {
+     "w": "Then",
+     "s": 686
+    },
+    {
+     "w": "your",
+     "s": 694
+    },
+    {
+     "w": "teacher",
+     "s": 703
+    },
+    {
+     "w": "looks",
+     "s": 717
+    },
+    {
+     "w": "up",
+     "s": 727
+    },
+    {
+     "w": "from",
+     "s": 733
+    },
+    {
+     "w": "her",
+     "s": 741
+    },
+    {
+     "w": "desk,",
+     "s": 748
+    },
+    {
+     "w": "and",
+     "s": 757
+    },
+    {
+     "w": "her",
+     "s": 764
+    },
+    {
+     "w": "glow",
+     "s": 771
+    },
+    {
+     "w": "is",
+     "s": 780
+    },
+    {
+     "w": "yellow.",
+     "s": 785
+    }
+   ]
+  },
+  {
+   "text": "Fair enough. You did forget your homework three times this month.",
+   "bg": "classroom",
+   "chars": [
+    {
+     "id": "hero",
+     "pose": "shrug",
+     "x": 960,
+     "color": "#2a9d8f",
+     "mood": "awkward"
+    }
+   ],
+   "cam": {
+    "z": [
+     1.2,
+     1.25
+    ],
+    "x": [
+     0,
+     0
+    ],
+    "y": [
+     0,
+     0
+    ]
+   },
+   "overlay": {
+    "type": "sticker",
+    "text": "3X",
+    "at": 0.6
+   },
+   "sfx": "pop",
+   "start": 807,
+   "dur": 128,
+   "words": [
+    {
+     "w": "Fair",
+     "s": 807
+    },
+    {
+     "w": "enough.",
+     "s": 817
+    },
+    {
+     "w": "You",
+     "s": 830
+    },
+    {
+     "w": "did",
+     "s": 837
+    },
+    {
+     "w": "forget",
+     "s": 844
+    },
+    {
+     "w": "your",
+     "s": 857
+    },
+    {
+     "w": "homework",
+     "s": 866
+    },
+    {
+     "w": "three",
+     "s": 883
+    },
+    {
+     "w": "times",
+     "s": 894
+    },
+    {
+     "w": "this",
+     "s": 905
+    },
+    {
+     "w": "month.",
+     "s": 914
+    }
+   ]
+  },
+  {
+   "text": "But then you see it.",
+   "bg": "hallway",
+   "transition": "sticky",
+   "chars": [
+    {
+     "id": "hero",
+     "pose": "surprised",
+     "x": 960,
+     "color": "#2a9d8f",
+     "mood": "wide"
+    }
+   ],
+   "cam": {
+    "z": [
+     1.0,
+     1.45
+    ],
+    "x": [
+     0,
+     0
+    ],
+    "y": [
+     0,
+     -40
+    ]
+   },
+   "sfx": "whoosh",
+   "start": 936,
+   "dur": 50,
+   "words": [
+    {
+     "w": "But",
+     "s": 936
+    },
+    {
+     "w": "then",
+     "s": 944
+    },
+    {
+     "w": "you",
+     "s": 954
+    },
+    {
+     "w": "see",
+     "s": 961
+    },
+    {
+     "w": "it.",
+     "s": 969
+    }
+   ]
+  },
+  {
+   "text": "Sam, the friend who knows every single one of your secrets, is glowing red.",
+   "bg": "hallway",
+   "chars": [
+    {
+     "id": "sam",
+     "pose": "idle",
+     "pose2": "skeptical",
+     "x": 1180,
+     "color": "#f4a261",
+     "glow": "#ef476f",
+     "facing": -1,
+     "mood": "narrow"
+    },
+    {
+     "id": "hero",
+     "pose": "surprised",
+     "x": 620,
+     "color": "#2a9d8f",
+     "mood": "wide"
+    }
+   ],
+   "cam": {
+    "z": [
+     1.05,
+     1.2
+    ],
+    "x": [
+     0,
+     -140
+    ],
+    "y": [
+     0,
+     0
+    ]
+   },
+   "overlay": {
+    "type": "tag",
+    "text": "SAM = RED?!",
+    "color": "#ef476f",
+    "at": 0.55
+   },
+   "sfx": "boom",
+   "start": 986,
+   "dur": 153,
+   "words": [
+    {
+     "w": "Sam,",
+     "s": 986
+    },
+    {
+     "w": "the",
+     "s": 994
+    },
+    {
+     "w": "friend",
+     "s": 1002
+    },
+    {
+     "w": "who",
+     "s": 1015
+    },
+    {
+     "w": "knows",
+     "s": 1023
+    },
+    {
+     "w": "every",
+     "s": 1035
+    },
+    {
+     "w": "single",
+     "s": 1046
+    },
+    {
+     "w": "one",
+     "s": 1060
+    },
+    {
+     "w": "of",
+     "s": 1068
+    },
+    {
+     "w": "your",
+     "s": 1074
+    },
+    {
+     "w": "secrets,",
+     "s": 1084
+    },
+    {
+     "w": "is",
+     "s": 1099
+    },
+    {
+     "w": "glowing",
+     "s": 1105
+    },
+    {
+     "w": "red.",
+     "s": 1121
+    }
+   ]
+  },
+  {
+   "text": "In studies, people spot a lie only about fifty-four percent of the time, barely better than a coin flip.",
+   "bg": "abstract",
+   "chars": [],
+   "cam": {
+    "z": [
+     1.0,
+     1.05
+    ],
+    "x": [
+     0,
+     0
+    ],
+    "y": [
+     0,
+     0
+    ]
+   },
+   "overlay": {
+    "type": "bars",
+    "bars": [
+     {
+      "label": "HUMANS",
+      "value": 54,
+      "color": "#f4d35e"
+     },
+     {
+      "label": "COIN FLIP",
+      "value": 50,
+      "color": "#adb5bd"
+     }
+    ],
+    "at": 0.15
+   },
+   "sfx": "ding",
+   "start": 1139,
+   "dur": 215,
+   "words": [
+    {
+     "w": "In",
+     "s": 1139
+    },
+    {
+     "w": "studies,",
+     "s": 1145
+    },
+    {
+     "w": "people",
+     "s": 1161
+    },
+    {
+     "w": "spot",
+     "s": 1175
+    },
+    {
+     "w": "a",
+     "s": 1186
+    },
+    {
+     "w": "lie",
+     "s": 1190
+    },
+    {
+     "w": "only",
+     "s": 1198
+    },
+    {
+     "w": "about",
+     "s": 1208
+    },
+    {
+     "w": "fifty-four",
+     "s": 1220
+    },
+    {
+     "w": "percent",
+     "s": 1240
+    },
+    {
+     "w": "of",
+     "s": 1256
+    },
+    {
+     "w": "the",
+     "s": 1262
+    },
+    {
+     "w": "time,",
+     "s": 1270
+    },
+    {
+     "w": "barely",
+     "s": 1281
+    },
+    {
+     "w": "better",
+     "s": 1295
+    },
+    {
+     "w": "than",
+     "s": 1309
+    },
+    {
+     "w": "a",
+     "s": 1319
+    },
+    {
+     "w": "coin",
+     "s": 1323
+    },
+    {
+     "w": "flip.",
+     "s": 1333
+    }
+   ]
+  },
+  {
+   "text": "With this power, you would be right every single time.",
+   "bg": "abstract",
+   "chars": [
+    {
+     "id": "hero",
+     "pose": "point",
+     "x": 760,
+     "color": "#2a9d8f",
+     "mood": "normal"
+    }
+   ],
+   "cam": {
+    "z": [
+     1.1,
+     1.0
+    ],
+    "x": [
+     0,
+     0
+    ],
+    "y": [
+     0,
+     0
+    ]
+   },
+   "overlay": {
+    "type": "sticker",
+    "text": "100%",
+    "at": 0.5
+   },
+   "sfx": "pop",
+   "start": 1354,
+   "dur": 111,
+   "words": [
+    {
+     "w": "With",
+     "s": 1354
+    },
+    {
+     "w": "this",
+     "s": 1363
+    },
+    {
+     "w": "power,",
+     "s": 1373
+    },
+    {
+     "w": "you",
+     "s": 1384
+    },
+    {
+     "w": "would",
+     "s": 1392
+    },
+    {
+     "w": "be",
+     "s": 1403
+    },
+    {
+     "w": "right",
+     "s": 1409
+    },
+    {
+     "w": "every",
+     "s": 1420
+    },
+    {
+     "w": "single",
+     "s": 1431
+    },
+    {
+     "w": "time.",
+     "s": 1445
+    }
+   ]
+  },
+  {
+   "text": "So here is the real question. Would you actually want to know?",
+   "bg": "bedroom",
+   "chars": [
+    {
+     "id": "hero",
+     "pose": "think",
+     "x": 960,
+     "color": "#2a9d8f",
+     "mood": "normal"
+    }
+   ],
+   "cam": {
+    "z": [
+     1.0,
+     1.3
+    ],
+    "x": [
+     0,
+     0
+    ],
+    "y": [
+     0,
+     -30
+    ]
+   },
+   "overlay": {
+    "type": "endcard",
+    "text": "WOULD YOU WANT TO KNOW?",
+    "at": 0.55
+   },
+   "sfx": "shimmer",
+   "start": 1465,
+   "dur": 125,
+   "words": [
+    {
+     "w": "So",
+     "s": 1465
+    },
+    {
+     "w": "here",
+     "s": 1470
+    },
+    {
+     "w": "is",
+     "s": 1480
+    },
+    {
+     "w": "the",
+     "s": 1485
+    },
+    {
+     "w": "real",
+     "s": 1493
+    },
+    {
+     "w": "question.",
+     "s": 1502
+    },
+    {
+     "w": "Would",
+     "s": 1519
+    },
+    {
+     "w": "you",
+     "s": 1530
+    },
+    {
+     "w": "actually",
+     "s": 1538
+    },
+    {
+     "w": "want",
+     "s": 1555
+    },
+    {
+     "w": "to",
+     "s": 1564
+    },
+    {
+     "w": "know?",
+     "s": 1570
+    }
+   ]
+  }
+ ],
+ "total": 1620
+}
