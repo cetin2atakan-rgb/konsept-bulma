@@ -5,7 +5,7 @@ Reads the shot catalogs in trailers/catalog_*.json and the VO captions (src/capt
 by how well its tags match the words being spoken. A shot is never used twice while unused
 ones remain. Writes src/footage.json: [{at, dur, src, from}] (seconds).
 
-    python tools/match_trailer.py [--every 3.5] [--seed 1]
+    python tools/match_trailer.py [--every 3.5] [--seed 1] [--only launch_trailer]
 """
 import argparse, glob, json, random, re
 
@@ -35,12 +35,13 @@ GENERIC = ["city", "street", "driving", "skyline", "daytime", "vice-city"]
 ap = argparse.ArgumentParser()
 ap.add_argument("--every", type=float, default=3.5)
 ap.add_argument("--seed", type=int, default=1)
+ap.add_argument("--only", help="use only this trailer src, e.g. launch_trailer")
 a = ap.parse_args()
 random.seed(a.seed)
 
 shots = []
 for f in sorted(glob.glob("trailers/catalog_*.json")):
-    shots += [s for s in json.load(open(f)) if s["use"] == "yes" and s["dur"] >= 2]
+    shots += [s for s in json.load(open(f)) if s["use"] == "yes" and s["dur"] >= 1.4 and (not a.only or s["src"] == a.only)]
 caps = json.load(open("src/captions.json"))
 end = max(c["e"] for c in caps) + 1.5
 
@@ -56,6 +57,8 @@ def score(shot, text):
     sc += 0.5 * len(tags & set(GENERIC))
     if "gameplay-ui" in tags or "dark" in tags:
         sc -= 1.5          # HUD overlays and near-black shots read badly under cards
+    if shot["src"] == "launch_trailer":
+        sc += 1.0          # cinematic trailer shots look best; prefer them on equal matches
     return sc + random.random() * 0.8
 
 used, out, t = set(), [], 0.0

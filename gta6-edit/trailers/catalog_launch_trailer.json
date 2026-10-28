@@ -1,0 +1,597 @@
+[
+ {
+  "id": "LT_001",
+  "src": "launch_trailer",
+  "start": 0.0,
+  "end": 2.03,
+  "dur": 2.03,
+  "desc": "PS5 + GTA VI logo ad card (PlayStation marketing)",
+  "tags": [
+   "logo",
+   "ps5",
+   "title-card"
+  ],
+  "energy": "calm",
+  "use": "no",
+  "note": "skip"
+ },
+ {
+  "id": "LT_002",
+  "src": "launch_trailer",
+  "start": 2.03,
+  "end": 6.33,
+  "dur": 4.3,
+  "desc": "The Keys roadside sign with heron and fish, sunny",
+  "tags": [
+   "keys",
+   "sign",
+   "leonida",
+   "daytime",
+   "iconic"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": ""
+ },
+ {
+  "id": "LT_003",
+  "src": "launch_trailer",
+  "start": 6.33,
+  "end": 9.33,
+  "dur": 3.0,
+  "desc": "bearded man polishing a boat hull with buffer",
+  "tags": [
+   "keys",
+   "boat",
+   "work",
+   "character",
+   "closeup"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": ""
+ },
+ {
+  "id": "LT_004",
+  "src": "launch_trailer",
+  "start": 9.33,
+  "end": 11.27,
+  "dur": 1.94,
+  "desc": "man works on boat in dry dock, sunlit marina",
+  "tags": [
+   "keys",
+   "boat",
+   "marina",
+   "daytime",
+   "character"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": ""
+ },
+ {
+  "id": "LT_005",
+  "src": "launch_trailer",
+  "start": 11.27,
+  "end": 13.57,
+  "dur": 2.3,
+  "desc": "bearded man in tank top on phone at boatyard",
+  "tags": [
+   "keys",
+   "phone",
+   "character",
+   "boatyard",
+   "dialogue"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": ""
+ },
+ {
+  "id": "LT_006",
+  "src": "launch_trailer",
+  "start": 13.57,
+  "end": 14.53,
+  "dur": 0.96,
+  "desc": "man on dock watching seaplane taxi on turquoise water",
+  "tags": [
+   "seaplane",
+   "keys",
+   "water",
+   "dock",
+   "daytime",
+   "vehicle"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": ""
+ },
+ {
+  "id": "LT_007",
+  "src": "launch_trailer",
+  "start": 14.53,
+  "end": 20.53,
+  "dur": 6.0,
+  "desc": "night Vice City aerial with ROCKSTAR GAMES PRESENTS text overlay",
+  "tags": [
+   "night",
+   "aerial",
+   "skyline",
+   "text-overlay"
+  ],
+  "energy": "calm",
+  "use": "no",
+  "note": "skip"
+ },
+ {
+  "id": "LT_008",
+  "src": "launch_trailer",
+  "start": 20.53,
+  "end": 25.73,
+  "dur": 5.2,
+  "desc": "official GTA VI logo card",
+  "tags": [
+   "logo",
+   "title-card"
+  ],
+  "energy": "calm",
+  "use": "no",
+  "note": "skip"
+ },
+ {
+  "id": "LT_009",
+  "src": "launch_trailer",
+  "start": 25.73,
+  "end": 27.2,
+  "dur": 1.47,
+  "desc": "Lucia leaning out of red convertible, Jason driving in sunglasses, towers behind (iconic)",
+  "tags": [
+   "lucia",
+   "jason",
+   "car",
+   "convertible",
+   "daytime",
+   "iconic",
+   "driving"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": ""
+ },
+ {
+  "id": "LT_010",
+  "src": "launch_trailer",
+  "start": 27.2,
+  "end": 28.77,
+  "dur": 1.57,
+  "desc": "armed men wading through swamp at sunset, mangroves",
+  "tags": [
+   "swamp",
+   "everglades",
+   "gun",
+   "sunset",
+   "action",
+   "leonida"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": ""
+ },
+ {
+  "id": "LT_011",
+  "src": "launch_trailer",
+  "start": 28.77,
+  "end": 32.17,
+  "dur": 3.4,
+  "desc": "masked man in dark green-lit room",
+  "tags": [
+   "mask",
+   "dark",
+   "heist",
+   "character"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": ""
+ },
+ {
+  "id": "LT_012",
+  "src": "launch_trailer",
+  "start": 32.17,
+  "end": 33.0,
+  "dur": 0.83,
+  "desc": "man leaning out of helicopter/boat at golden hour, rifle",
+  "tags": [
+   "helicopter",
+   "gun",
+   "sunset",
+   "action"
+  ],
+  "energy": "action",
+  "use": "yes",
+  "note": ""
+ },
+ {
+  "id": "LT_013",
+  "src": "launch_trailer",
+  "start": 33.0,
+  "end": 34.43,
+  "dur": 1.43,
+  "desc": "armed figure crouched under neon-lit overpass at night, smoke",
+  "tags": [
+   "night",
+   "gun",
+   "neon",
+   "stealth",
+   "action"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": ""
+ },
+ {
+  "id": "LT_014",
+  "src": "launch_trailer",
+  "start": 34.43,
+  "end": 35.83,
+  "dur": 1.4,
+  "desc": "silhouette through porthole/round window, debris flying (heist)",
+  "tags": [
+   "heist",
+   "silhouette",
+   "action",
+   "chaos"
+  ],
+  "energy": "action",
+  "use": "yes",
+  "note": ""
+ },
+ {
+  "id": "LT_015",
+  "src": "launch_trailer",
+  "start": 35.83,
+  "end": 37.37,
+  "dur": 1.54,
+  "desc": "woman silhouette by sunlit window, warm light",
+  "tags": [
+   "woman",
+   "silhouette",
+   "sunset",
+   "interior",
+   "mood"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": ""
+ },
+ {
+  "id": "LT_016",
+  "src": "launch_trailer",
+  "start": 37.37,
+  "end": 38.37,
+  "dur": 1.0,
+  "desc": "figure with arms raised in red-lit club",
+  "tags": [
+   "nightclub",
+   "party",
+   "red",
+   "neon",
+   "dancing"
+  ],
+  "energy": "action",
+  "use": "yes",
+  "note": ""
+ },
+ {
+  "id": "LT_017",
+  "src": "launch_trailer",
+  "start": 38.37,
+  "end": 39.8,
+  "dur": 1.43,
+  "desc": "person on car roof racing under plane at dusk, airport",
+  "tags": [
+   "stunt",
+   "car",
+   "plane",
+   "airport",
+   "dusk",
+   "action"
+  ],
+  "energy": "action",
+  "use": "yes",
+  "note": ""
+ },
+ {
+  "id": "LT_018",
+  "src": "launch_trailer",
+  "start": 39.8,
+  "end": 41.7,
+  "dur": 1.9,
+  "desc": "Jason and Lucia leaning on red muscle car by shipping containers, sunset (iconic)",
+  "tags": [
+   "jason",
+   "lucia",
+   "car",
+   "muscle-car",
+   "iconic",
+   "sunset",
+   "characters"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": ""
+ },
+ {
+  "id": "LT_019",
+  "src": "launch_trailer",
+  "start": 41.7,
+  "end": 44.43,
+  "dur": 2.73,
+  "desc": "hand on safe dial/vault door close-up (heist)",
+  "tags": [
+   "heist",
+   "vault",
+   "safe",
+   "closeup",
+   "money"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": ""
+ },
+ {
+  "id": "LT_020",
+  "src": "launch_trailer",
+  "start": 44.43,
+  "end": 46.33,
+  "dur": 1.9,
+  "desc": "woman dancing in pink nightclub lights",
+  "tags": [
+   "nightclub",
+   "party",
+   "pink",
+   "neon",
+   "dancing"
+  ],
+  "energy": "action",
+  "use": "yes",
+  "note": ""
+ },
+ {
+  "id": "LT_021",
+  "src": "launch_trailer",
+  "start": 46.33,
+  "end": 48.27,
+  "dur": 1.94,
+  "desc": "police cars spin out on sunny Vice City street, palms",
+  "tags": [
+   "police",
+   "car",
+   "chase",
+   "street",
+   "daytime",
+   "vice-city",
+   "action"
+  ],
+  "energy": "action",
+  "use": "yes",
+  "note": ""
+ },
+ {
+  "id": "LT_022",
+  "src": "launch_trailer",
+  "start": 48.27,
+  "end": 54.53,
+  "dur": 6.26,
+  "desc": "bare feet, red laser dot in dark room",
+  "tags": [
+   "stealth",
+   "laser",
+   "dark",
+   "tense"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": ""
+ },
+ {
+  "id": "LT_023",
+  "src": "launch_trailer",
+  "start": 54.53,
+  "end": 56.43,
+  "dur": 1.9,
+  "desc": "biplane with pink smoke flies over crowded beach, high-rises",
+  "tags": [
+   "beach",
+   "plane",
+   "biplane",
+   "vice-city",
+   "daytime",
+   "iconic",
+   "crowd"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": ""
+ },
+ {
+  "id": "LT_024",
+  "src": "launch_trailer",
+  "start": 56.43,
+  "end": 57.87,
+  "dur": 1.44,
+  "desc": "muscular tattooed man working out in gym",
+  "tags": [
+   "gym",
+   "workout",
+   "character",
+   "tattoo"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": ""
+ },
+ {
+  "id": "LT_025",
+  "src": "launch_trailer",
+  "start": 57.87,
+  "end": 59.27,
+  "dur": 1.4,
+  "desc": "man in vest lounging, eating on couch (character)",
+  "tags": [
+   "character",
+   "couch",
+   "interior",
+   "humor"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": ""
+ },
+ {
+  "id": "LT_026",
+  "src": "launch_trailer",
+  "start": 59.27,
+  "end": 62.53,
+  "dur": 3.26,
+  "desc": "tactical woman with braids and vest, explosion behind at night",
+  "tags": [
+   "lucia",
+   "gun",
+   "explosion",
+   "night",
+   "action"
+  ],
+  "energy": "action",
+  "use": "yes",
+  "note": ""
+ },
+ {
+  "id": "LT_027",
+  "src": "launch_trailer",
+  "start": 62.53,
+  "end": 63.4,
+  "dur": 0.87,
+  "desc": "Lucia on balcony at sunset, cranes and towers",
+  "tags": [
+   "lucia",
+   "balcony",
+   "sunset",
+   "skyline",
+   "closeup"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": ""
+ },
+ {
+  "id": "LT_028",
+  "src": "launch_trailer",
+  "start": 63.4,
+  "end": 66.43,
+  "dur": 3.03,
+  "desc": "man firing pistol, teal smoky light",
+  "tags": [
+   "gun",
+   "shootout",
+   "action",
+   "character"
+  ],
+  "energy": "action",
+  "use": "yes",
+  "note": ""
+ },
+ {
+  "id": "LT_029",
+  "src": "launch_trailer",
+  "start": 66.43,
+  "end": 67.9,
+  "dur": 1.47,
+  "desc": "couple embrace on balcony at sunset, ocean",
+  "tags": [
+   "couple",
+   "romance",
+   "balcony",
+   "sunset",
+   "ocean"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": ""
+ },
+ {
+  "id": "LT_030",
+  "src": "launch_trailer",
+  "start": 67.9,
+  "end": 72.13,
+  "dur": 4.23,
+  "desc": "man hanging from helicopter skid over night city lights",
+  "tags": [
+   "helicopter",
+   "stunt",
+   "night",
+   "city",
+   "aerial",
+   "action"
+  ],
+  "energy": "action",
+  "use": "yes",
+  "note": ""
+ },
+ {
+  "id": "LT_031",
+  "src": "launch_trailer",
+  "start": 72.13,
+  "end": 73.17,
+  "dur": 1.04,
+  "desc": "Lucia fires rifle on street, burning car behind",
+  "tags": [
+   "lucia",
+   "gun",
+   "rifle",
+   "fire",
+   "shootout",
+   "street",
+   "action"
+  ],
+  "energy": "action",
+  "use": "yes",
+  "note": ""
+ },
+ {
+  "id": "LT_032",
+  "src": "launch_trailer",
+  "start": 73.17,
+  "end": 88.03,
+  "dur": 14.86,
+  "desc": "slow aerial over night Vice City, neon lights",
+  "tags": [
+   "night",
+   "aerial",
+   "skyline",
+   "city",
+   "vice-city",
+   "neon",
+   "iconic"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": ""
+ },
+ {
+  "id": "LT_033",
+  "src": "launch_trailer",
+  "start": 88.03,
+  "end": 90.15,
+  "dur": 2.12,
+  "desc": "PlayStation logo end card",
+  "tags": [
+   "logo",
+   "ps5",
+   "title-card"
+  ],
+  "energy": "calm",
+  "use": "no",
+  "note": "skip"
+ }
+]
