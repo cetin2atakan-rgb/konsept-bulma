@@ -1,0 +1,33 @@
+## FILE
+out/short1.mp4 · 0:57 · 1080x1920 · cut from Video 1 (file-size segment)
+
+## TITLE (selected)
+GTA 6 Is 210 GB? Rockstar Still Won't Say #gta6
+
+## ALTERNATIVES (2)
+Series S Owners Aren't Ready for GTA 6 #gta6
+That 676 GB GTA 6 Screenshot Is Fake #gta6
+
+## DESCRIPTION
+22 days to GTA 6 and there is still no file size on the PlayStation or Xbox store. The 210 GB number is a leak, the 676.7 GB screenshot is fake, and Series S owners have the least room to spare.
+
+All 13 things Rockstar still hasn't told us: [LONG VIDEO LINK]
+
+Leaks are labelled as unconfirmed. Independent fan channel, not affiliated with Rockstar Games or Take-Two. Trailer audio removed.
+
+#gta6 #gtavi #ps5 #xboxseriess
+
+## TAGS (10)
+gta 6, gta 6 file size, gta 6 size, gta 6 210 gb, gta 6 series s, gta 6 storage, gta 6 news, gta 6 release, gta 6 preload, rockstar games
+
+## RELATED VIDEO (YouTube Studio, Shorts edit screen)
+GTA 6: 13 Things Rockstar STILL Hasn't Told Us
+(only selectable once the long video is public)
+
+## PINNED COMMENT
+How much free space do you have right now? Full breakdown of all 13 in the related video above the title.
+
+## UPLOAD NOTES
+- Publish after the long video is public (planned: long video 23:00 TR, Short 24:00 TR, i.e. 16:00 / 17:00 ET on 28 October). "22 days" is correct only on 28 October US time.
+- 210 GB is the PlayStation Game Size account's figure (on screen: LEAK stamp). "364 GB usable" on Series S and "leave 250 GB free" are estimates, not Rockstar numbers.
+- Thumbnail: short1_thumbnail.jpg (1080x1920, Lucia LT_027 + "210 GB?" + UNCONFIRMED, same look as the long video thumbnail). Upload it from the YouTube mobile app (Shorts edit → thumbnail → from gallery). If that option is missing, pick the "676.7 GB / FAKE" frame (~0:20).
