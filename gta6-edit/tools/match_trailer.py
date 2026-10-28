@@ -44,6 +44,7 @@ ap.add_argument("--only", help="use only this trailer src, e.g. launch_trailer")
 ap.add_argument("--captions", default="src/captions.json")
 ap.add_argument("--out", default="src/footage.json")
 ap.add_argument("--avoid", nargs="*", default=[], help="footage.json files of other videos; their shots are picked last")
+ap.add_argument("--pin", nargs="*", default=[], help="SECONDS=SHOT_ID: start this shot at this time, e.g. 0=EXT_162")
 a = ap.parse_args()
 random.seed(a.seed)
 
@@ -72,15 +73,21 @@ def score(shot, text):
         sc -= 100.0        # already used in another video: only once the fresh shots run out
     return sc + random.random() * 0.8
 
+pins = sorted((float(x.split("=")[0]), x.split("=")[1]) for x in a.pin)
+by_id = {s["id"]: s for s in shots}
 used, out, t = set(), [], 0.0
 while t < end:
     win = min(a.every, end - t)
+    nxt = [p for p in pins if t - 0.05 <= p[0] < t + win]
+    if nxt and nxt[0][0] > t + 0.8:
+        win = nxt[0][0] - t          # stop this shot where the pinned one starts
+        nxt = []
     text = words(t, t + win)
     pool = [s for s in shots if s["id"] not in used] or shots
-    best = max(pool, key=lambda s: score(s, text))
+    best = by_id[nxt[0][1]] if nxt else max(pool, key=lambda s: score(s, text))
     used.add(best["id"])
     pad = 0.1 if best.get("frame_accurate") else 0.3   # keep clear of the neighbouring shot's frames
-    dur = min(win, best["dur"] - 2 * pad)
+    dur = best["dur"] - 2 * pad if nxt else min(win, best["dur"] - 2 * pad)   # a pinned shot plays in full
     out.append({"at": round(t, 2), "dur": round(dur, 2), "src": best["src"], "from": round(best["start"] + pad, 2), "id": best["id"], "desc": best["desc"]})
     t += dur
 json.dump(out, open(a.out, "w"), indent=1)
