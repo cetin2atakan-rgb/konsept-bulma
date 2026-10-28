@@ -16,7 +16,7 @@ Full video, all 13 things Rockstar hasn't told us: [UZUN VİDEO LİNKİ]
 ```
 
 ## Uzun videoya yönlendirme
-- YouTube Studio → Short'u düzenle → **Related video / İlgili video** → "13 Things Rockstar STILL Hasn't Told Us About GTA 6". Bağlantı Short'un altında, başlığın üstünde çıkar; son karttaki ↓ ok onu gösterir.
+- YouTube Studio → Short'u düzenle → **Related video / İlgili video** → "GTA 6: 13 Things Rockstar STILL Hasn't Told Us" (Assets.txt başlığı). Bağlantı Short'un altında, başlığın üstünde çıkar; son karttaki ↓ ok onu gösterir.
 - Uzun video yayınlandıktan sonra Short'u yükle (ilgili video seçilebilsin diye).
 - Uzun videonun sabitlenmiş yorumuna Short'u değil, uzun videonun kendi bölümlerini koy; Short → uzun video yönü yeterli.
 
