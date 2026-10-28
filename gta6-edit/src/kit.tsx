@@ -3,7 +3,8 @@ import { interpolate, spring, useCurrentFrame, useVideoConfig } from "remotion";
 import { LIST13 } from "./scenes";
 
 export const C = { pink: "#ff2e88", cyan: "#29e0ff", yellow: "#ffd23f", red: "#ff3d3d", white: "#f7f3ff", dim: "#a99cc8", ink: "#0b0716" };
-const col = (c?: string) => (C as any)[c || "white"] || c;
+const GREEN = "#3dff9a";
+const col = (c?: string) => (c === "green" ? GREEN : (C as any)[c || "white"] || c);
 const FONT = "Oswald, Impact, sans-serif";
 
 // local time helpers (frame 0 = scene start)
@@ -108,16 +109,16 @@ const Store: React.FC<any> = ({ note }) => {
   );
 };
 
-const Post: React.FC<any> = ({ handle, body, stamp, stampAt }) => (
+const Post: React.FC<any> = ({ name = "PlayStation Game Size", handle, body, foot = "leak account · not an official source", stamp, stampAt }) => (
   <Center>
     <Pop>
       <Panel style={{ width: 1100, padding: 50, textAlign: "left" }}>
         <div style={{ display: "flex", alignItems: "center", gap: 24 }}>
           <div style={{ width: 90, height: 90, borderRadius: 45, background: `linear-gradient(135deg,${C.cyan},#3b5bff)` }} />
-          <div><div style={{ fontSize: 40, fontWeight: 700 }}>PlayStation Game Size</div><div style={{ fontSize: 32, color: C.dim }}>{handle}</div></div>
+          <div><div style={{ fontSize: 40, fontWeight: 700 }}>{name}</div><div style={{ fontSize: 32, color: C.dim }}>{handle}</div></div>
         </div>
-        <div style={{ fontSize: 76, fontWeight: 700, marginTop: 30 }}>{body}</div>
-        <div style={{ fontSize: 30, color: C.dim, marginTop: 14 }}>leak account · not an official source</div>
+        <div style={{ fontSize: sizeFor(body, 76) * 1.6 > 76 ? 76 : 56, fontWeight: 700, marginTop: 30 }}>{body}</div>
+        <div style={{ fontSize: 30, color: C.dim, marginTop: 14 }}>{foot}</div>
       </Panel>
     </Pop>
     {stamp && <Stamp text={stamp} at={stampAt} />}
@@ -304,18 +305,18 @@ const Cards: React.FC<any> = ({ title, items }) => (
   </Center>
 );
 
-const Box: React.FC<any> = ({ price, items }) => (
+const Box: React.FC<any> = ({ price, items, label = "COLLECTOR BOX", red = 2 }) => (
   <Center gap={30}>
     <div style={{ display: "flex", gap: 80, alignItems: "center" }}>
       <Pop>
         <div style={{ position: "relative", width: 440, height: 440 }}>
-          <div style={{ position: "absolute", inset: 0, background: "linear-gradient(150deg,#2b1a4a,#120b24)", border: "3px solid #ffffff33", borderRadius: 16, transform: "perspective(900px) rotateY(-18deg)", boxShadow: "0 40px 80px #000c", display: "flex", alignItems: "center", justifyContent: "center", fontSize: 54, fontWeight: 700, color: C.dim }}>COLLECTOR BOX</div>
+          <div style={{ position: "absolute", inset: 0, background: "linear-gradient(150deg,#2b1a4a,#120b24)", border: "3px solid #ffffff33", borderRadius: 16, transform: "perspective(900px) rotateY(-18deg)", boxShadow: "0 40px 80px #000c", display: "flex", alignItems: "center", justifyContent: "center", fontSize: 54, fontWeight: 700, color: C.dim, textAlign: "center", padding: 20 }}>{label}</div>
           <div style={{ position: "absolute", right: -40, top: -30, background: C.yellow, color: C.ink, fontSize: 80, fontWeight: 700, padding: "6px 30px", borderRadius: 14, transform: "rotate(8deg)" }}>{price}</div>
         </div>
       </Pop>
       <div style={{ textAlign: "left" }}>
         {items.map((s: string, i: number) => (
-          <Pop key={i} d={0.5 + i * 1.5}><div style={{ fontSize: 54, margin: "16px 0", color: i === 2 ? C.red : C.white }}>{"• " + s}</div></Pop>
+          <Pop key={i} d={0.5 + i * 1.5}><div style={{ fontSize: 54, margin: "16px 0", color: i === red ? C.red : C.white }}>{"• " + s}</div></Pop>
         ))}
       </div>
     </div>
@@ -414,20 +415,21 @@ const Counter: React.FC<any> = ({ to, prefix, label, xAt, xLabel }) => {
   );
 };
 
-const Timeline: React.FC<any> = ({ dates, recap }) => {
+const Timeline: React.FC<any> = ({ dates, recap, title }) => {
   const t = useT();
   return (
     <Center gap={50}>
-      <Pop><div style={{ fontSize: 60, fontWeight: 700, letterSpacing: 6, color: C.cyan }}>{recap ? "READ THAT ORDER AGAIN" : "THE CALENDAR"}</div></Pop>
+      <Pop><div style={{ fontSize: 60, fontWeight: 700, letterSpacing: 6, color: C.cyan }}>{title ?? (recap ? "READ THAT ORDER AGAIN" : "THE CALENDAR")}</div></Pop>
       <div style={{ position: "relative", width: 1500, height: 420 }}>
         <div style={{ position: "absolute", left: 0, right: 0, top: 120, height: 8, background: "#ffffff33", borderRadius: 4 }} />
         {dates.map((d: any, i: number) => {
           const on = t >= d.at;
-          const c = d.red ? C.red : d.hi ? C.yellow : C.pink;
+          const c = d.ok ? GREEN : d.red ? C.red : d.hi ? C.yellow : C.pink;
+          const wide = dates.length > 3 ? 360 : 460;
           const x = (i + 0.5) / dates.length * 100;
           return (
-            <div key={i} style={{ position: "absolute", left: `${x}%`, top: 0, width: 460, marginLeft: -230, display: "flex", flexDirection: "column", alignItems: "center", opacity: on ? 1 : 0.15, transform: `scale(${on ? 1 : 0.9})` }}>
-              <div style={{ fontSize: 70, fontWeight: 700, color: c, textShadow: on ? glow(c) : "none" }}>{d.d}</div>
+            <div key={i} style={{ position: "absolute", left: `${x}%`, top: 0, width: wide, marginLeft: -wide / 2, display: "flex", flexDirection: "column", alignItems: "center", opacity: on ? 1 : 0.15, transform: `scale(${on ? 1 : 0.9})` }}>
+              <div style={{ fontSize: 70, fontWeight: 700, color: c, textShadow: on ? glow(c) : "none" }}>{d.d}{d.q && t >= d.q ? <span style={{ color: C.yellow }}> ?</span> : null}{d.tick && t >= d.tick ? <span style={{ color: GREEN }}> ✓</span> : null}</div>
               <div style={{ width: 44, height: 44, borderRadius: 22, background: c, margin: "6px 0 26px", boxShadow: on ? glow(c) : "none" }} />
               <div style={{ fontSize: 52, fontWeight: 700 }}>{d.l}</div>
               {d.s && <div style={{ fontSize: 34, color: C.dim, marginTop: 8 }}>{d.s}</div>}
@@ -447,8 +449,124 @@ const Facts: React.FC<any> = ({ items, every }) => (
   </Center>
 );
 
+
+// ---------- Video 2 kinds ----------
+
+// November as a strip of days: circled days, a shaded range with a label, days that light up later.
+const Days: React.FC<any> = ({ title, from = 10, to = 21, marks = [], range, sub, subAt = 1 }) => {
+  const t = useT();
+  const days = Array.from({ length: to - from + 1 }, (_, i) => from + i);
+  return (
+    <Center gap={34}>
+      {title && <Pop><div style={{ fontSize: 60, fontWeight: 700, letterSpacing: 6, color: C.cyan }}>{title}</div></Pop>}
+      <div style={{ position: "relative", display: "flex", gap: 14 }}>
+        {range && t >= (range.at ?? 0) && (
+          <div style={{ position: "absolute", top: -64, height: 330, left: (range.a - from) * 124 - 6, width: (range.b - range.a) * 124 + 122, background: `${col(range.color || "red")}26`, border: `3px dashed ${col(range.color || "red")}`, borderRadius: 18 }}>
+            <div style={{ position: "absolute", bottom: 14, left: 0, right: 0, fontSize: 40, fontWeight: 700, color: col(range.color || "red") }}>{range.label}</div>
+          </div>
+        )}
+        {days.map((d) => {
+          const m = marks.find((x: any) => x.d === d);
+          const on = m && t >= (m.at ?? 0);
+          const c = on ? col(m.color || "pink") : "#ffffff55";
+          return (
+            <div key={d} style={{ width: 110, height: 150, borderRadius: 14, background: on ? `${c}22` : "#ffffff0b", border: on ? `5px solid ${c}` : "2px solid #ffffff22", boxShadow: on ? glow(c) : "none", display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center", transform: `scale(${on ? 1.06 : 1})` }}>
+              <div style={{ fontSize: 24, color: C.dim, letterSpacing: 3 }}>NOV</div>
+              <div style={{ fontSize: 64, fontWeight: 700, color: on ? C.white : "#ffffff66" }}>{d}</div>
+              {on && m.l && <div style={{ position: "absolute", marginTop: m.up ? -250 : 250, fontSize: 36, fontWeight: 700, color: c, width: 240, textAlign: "center" }}>{m.l}</div>}
+            </div>
+          );
+        })}
+      </div>
+      <div style={{ height: 60 }} />
+      {sub && t >= subAt && <Pop d={subAt}><div style={{ fontSize: 54, fontWeight: 700, color: C.yellow, textShadow: glow(C.yellow) }}>{sub}</div></Pop>}
+    </Center>
+  );
+};
+
+// A terms page; one line gets circled, then the date in it zoomed.
+const Terms: React.FC<any> = ({ lines, hi, circleAt = 99, zoomAt = 99, zoom, foot }) => {
+  const t = useT();
+  const z = interpolate(t, [zoomAt, zoomAt + 0.6], [1, 1.3], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
+  const draw = interpolate(t, [circleAt, circleAt + 0.6], [0, 1], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
+  return (
+    <Center gap={26}>
+      <Panel style={{ width: 1350, padding: "40px 56px", textAlign: "left", background: "#f4f1ea", color: "#222", transform: `scale(${z})`, transformOrigin: "50% 72%" }}>
+        <div style={{ fontSize: 28, letterSpacing: 5, color: "#777" }}>PRE-ORDER TERMS · PARAPHRASED</div>
+        {lines.map((l: string, i: number) => (
+          <div key={i} style={{ position: "relative", fontSize: 38, margin: "16px 0", fontFamily: "Georgia, serif", color: i === hi ? "#111" : "#888" }}>
+            {i === hi && zoom && t >= zoomAt ? <>{l.split(zoom)[0]}<b style={{ background: "#ffe36b" }}>{zoom}</b>{l.split(zoom)[1]}</> : l}
+            {i === hi && draw > 0 && (
+              <svg style={{ position: "absolute", left: -24, top: -16, overflow: "visible" }} width="1270" height="82" viewBox="0 0 1270 82">
+                <ellipse cx="635" cy="41" rx="640" ry="44" fill="none" stroke="#e0002a" strokeWidth="6" pathLength={1} strokeDasharray="1" strokeDashoffset={1 - draw} />
+              </svg>
+            )}
+          </div>
+        ))}
+      </Panel>
+      {foot && <Pop d={0.5}><div style={{ fontSize: 34, color: C.dim }}>{foot}</div></Pop>}
+    </Center>
+  );
+};
+
+const Donut: React.FC<any> = ({ pct, label, other }) => {
+  const t = useT();
+  const p = interpolate(t, [0.2, 1.6], [0, pct / 100], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
+  const r = 160, L = 2 * Math.PI * r;
+  return (
+    <Center>
+      <div style={{ display: "flex", alignItems: "center", gap: 90 }}>
+        <svg width="440" height="440" viewBox="0 0 440 440">
+          <circle cx="220" cy="220" r={r} fill="none" stroke="#ffffff1c" strokeWidth="70" />
+          <circle cx="220" cy="220" r={r} fill="none" stroke={C.pink} strokeWidth="70" strokeDasharray={`${L * p} ${L}`} transform="rotate(-90 220 220)" style={{ filter: `drop-shadow(0 0 20px ${C.pink})` }} />
+          <text x="220" y="250" textAnchor="middle" fill="#fff" fontSize="96" fontWeight="700" fontFamily="Oswald">{Math.round(p * 100)}%</text>
+        </svg>
+        <div style={{ textAlign: "left" }}>
+          <Pop d={0.5}><div style={{ fontSize: 72, fontWeight: 700, color: C.pink }}>{label}</div></Pop>
+          <Pop d={1.0}><div style={{ fontSize: 50, color: C.dim, marginTop: 20 }}>{other}</div></Pop>
+        </div>
+      </div>
+    </Center>
+  );
+};
+
+// Title + plain list, one line at a time.
+const List: React.FC<any> = ({ title, items, every = 0.6, start = 0.3, size = 64, sub, subAt }) => {
+  const t = useT();
+  return (
+    <Center gap={18}>
+      {title && <Pop><div style={{ fontSize: 58, fontWeight: 700, letterSpacing: 5, color: C.cyan, marginBottom: 14 }}>{title}</div></Pop>}
+      {items.map((s: string, i: number) => (
+        <Pop key={i} d={start + i * every} from={0.9}><div style={{ fontSize: size, fontWeight: 700 }}>{s}</div></Pop>
+      ))}
+      {sub && t >= subAt && <Pop d={subAt}><div style={{ fontSize: 46, color: C.yellow, marginTop: 20 }}>{sub}</div></Pop>}
+    </Center>
+  );
+};
+
+// Side-by-side option cards, each with what it costs you.
+const Options: React.FC<any> = ({ title, items }) => (
+  <Center gap={34}>
+    {title && <Pop><div style={{ fontSize: 56, fontWeight: 700, letterSpacing: 5, color: C.cyan }}>{title}</div></Pop>}
+    <div style={{ display: "flex", gap: 34 }}>
+      {items.map((it: any, i: number) => (
+        <Pop key={i} d={it.at ?? i * 0.3}>
+          <Panel style={{ width: items.length > 2 ? 520 : 680, minHeight: 380, padding: "36px 30px", display: "flex", flexDirection: "column", gap: 18, border: `3px solid ${col(it.color || "pink")}` }}>
+            <div style={{ fontSize: 30, letterSpacing: 5, color: col(it.color || "pink") }}>{it.k}</div>
+            <div style={{ fontSize: 52, fontWeight: 700, lineHeight: 1.1 }}>{it.t}</div>
+            <div style={{ flex: 1 }} />
+            <div style={{ fontSize: 36, color: C.dim }}>{it.costLabel ?? "You give up"}</div>
+            <div style={{ fontSize: 40, fontWeight: 700, color: C.yellow }}>{it.cost}</div>
+          </Panel>
+        </Pop>
+      ))}
+    </div>
+  </Center>
+);
+
 export const KINDS: Record<string, React.FC<any>> = {
   title: Title, big: Big, chapter: Chapter, store: Store, post: Post, bars: Bars, flash: Flash, list13: List13,
   quote: Quote, strip: Strip, checklist: Checklist, badge: Badge, people: People, cards: Cards, box: Box,
   regions: Regions, rating: Rating, grid: Grid, stations: Stations, counter: Counter, timeline: Timeline, facts: Facts,
+  days: Days, terms: Terms, donut: Donut, list: List, options: Options,
 };

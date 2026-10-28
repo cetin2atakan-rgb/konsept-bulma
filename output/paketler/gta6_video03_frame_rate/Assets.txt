@@ -1,0 +1,56 @@
+## FILE
+gta6-edit/out/video3.mp4 · 9:07 · 1920x1080 · composition Video3 (src/v3/)
+
+## TITLE (selected)
+Why Nobody Will Tell You GTA 6's Frame Rate
+
+## ALTERNATIVES (2)
+You Cannot Buy 60 FPS in GTA 6
+Your $900 PS5 Pro Won't Fix GTA 6's Frame Rate
+
+## THUMBNAIL TEXT
+60 FPS?
+
+## THUMBNAIL BRIEF
+Extended Look police-pursuit frame (EXT_162, sedan speeding, slight motion blur), darkened on the right. Huge "60 FPS?" in white with a hot-pink outline on the right; under it a small red "NOT CONFIRMED" stamp. Optional small "30" in cyan top-right as the only confirmed number. No GTA VI, Rockstar, PlayStation or Digital Foundry logos.
+
+## DESCRIPTION
+There is exactly one GTA 6 frame rate on record: 30 fps on console during development, from Rockstar North's Rob Nelson in a YouTuber interview. No store page, spec sheet or official video lists resolution, frame rate or graphics modes. Here is what was actually said (and what he wouldn't say about 60), what Digital Foundry measured from the official footage, why a $900 PS5 Pro is unlikely to change it, why a 40 fps mode needs both a 120 Hz TV and VRR, and the honest case for 30.
+
+Check tonight: does your TV do 120 Hz, and is VRR on? Tell me what you find.
+
+⏱ Chapters
+0:00 The only frame rate on record
+0:43 The one number, and where it came from
+1:32 What he actually said about 60
+2:16 What the analysts measured
+2:58 Why the PS5 Pro can't save you
+4:03 The badge with nothing behind it
+4:30 40 fps, and the two checks it needs
+5:44 The two-modes leak
+6:14 The engine nobody has confirmed either
+7:06 The honest case for 30
+7:55 How sure anyone can actually be
+
+📚 Sources referenced
+Rob Nelson (Rockstar North) interview with Davy Jones · Digital Foundry analysis of official footage
+PlayStation Store listing ("PS5 Pro Enhanced") · official Extended Look and Launch Trailer ("captured on PS5")
+Aaron Garbut and Phil Hooker on Rockstar's technology · GamesBeat (PC, four sources, unconfirmed)
+
+Leaks and insider reports are labelled as unconfirmed in the video. Quotes on screen marked "paraphrased" are not verbatim.
+
+This is an independent fan channel, not affiliated with Rockstar Games, Take-Two Interactive, Sony, Microsoft or Digital Foundry. Short clips from official Rockstar trailers are used for commentary and news reporting, with trailer audio removed.
+
+## TAGS (15)
+gta 6 frame rate, gta 6 fps, gta 6 60 fps, gta 6 30 fps, gta 6 ps5 pro, gta 6 ps5 pro enhanced, gta 6 40 fps mode, gta 6 120hz, gta 6 vrr, gta 6 digital foundry, gta 6 resolution, gta 6 rage 9, gta 6 pc release, gta 6 news, rockstar games
+
+## PINNED COMMENT
+Two checks, takes a minute: does your TV do 120 Hz, and is VRR switched on? Reply with your TV model and what you found. If a 40 fps mode ever shows up, that setup decides whether you get it.
+
+## UPLOAD NOTES
+- Shelf life: until Rockstar publishes a spec (then beats 1–3 are dead). "22 days" is said twice (hook + payoff): correct on 28 October only.
+- The close promises gameplay on this channel on Nov 19 ("I am recording the game here the day it unlocks"); the end card says "NOV 19 — GAMEPLAY, THIS CHANNEL". Only publish if you will actually post that.
+- Same Rob Nelson 30 fps claim as Video 1: Video 1's on-screen card said "on 60 fps" next to the quote; this video shows the 60 answer separately (AT LAUNCH / AFTER LAUNCH). Verify the interview wording.
+- Not checked from my side: Digital Foundry "1440p/30" and "fractional" CPU gain, "captured on PS5" on both videos, the analyst "bridge too far" quote, the former-producer quote, Garbut/Hooker statement (outlet not named on screen), GamesBeat early 2027.
+- No Red Dead 2 footage is available here; the RDR2 beat uses a text card over GTA 6 trailer footage.
+- On-screen engine card says "RAGE 9 — UNCONFIRMED" as the script does.
