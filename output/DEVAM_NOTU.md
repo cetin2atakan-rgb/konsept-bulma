@@ -21,7 +21,7 @@ Kullanıcı bundan sonra GTA videolarını **burada** render etmemizi istiyor. D
 2. Altyazı zamanları → `src/captions.json` `[{s,e,t}]`. Bu ortamda Whisper/HF modelleri indirilemiyor (HuggingFace engelli). Mevcut video için zamanlar `tools/segs.json`'dan geldi. Yeni videoda: script cümleleri + sesin sessizlik analizi (ffmpeg silencedetect) ile eşle, ya da kullanıcıdan SRT iste.
 3. Kart listesi `src/scenes.ts` (kart türleri `src/kit.tsx`: big, bars, quote, chapter, timeline, store, post, people…). Yeni videoda script'ten üret.
 4. `python tools/match_trailer.py` → `src/footage.json` (3,5 sn'de bir fragman sahnesi; etiket eşleşmesi; tekrar yok; launch trailer +1 öncelik). `--only launch_trailer` seçeneği var.
-5. Render: `npx remotion render src/index.ts Video1 out/video1.mp4 --browser-executable=/opt/pw-browsers/chromium_headless_shell-1243/chrome-headless-shell-linux64/chrome-headless-shell` (8 dk video ≈ 40-60 dk).
+5. Render: `bash tools/render_chunks.sh Video1 out/video1.mp4` (2500 karelik sessiz parçalar + ayrı ses, sonra birleştirir; çökerse tekrar çalıştır, biten parçaları atlar). Tek parça render bu ortamda 2400. karede bellekten çöktü. 8 dk video ≈ 30 dk. İki render'ı aynı anda çalıştırma.
 6. Ölç: `ffmpeg -i out.mp4 -af ebur128 -f null -` → hedef -14/-15 LUFS.
 
 **Fragmanlar** (`public/trailers/`, git'e konmaz, telif):
@@ -32,6 +32,8 @@ Kullanıcı bundan sonra GTA videolarını **burada** render etmemizi istiyor. D
 **Kataloglar:** `trailers/catalog_extended_look.json` (283 sahne, 269 kullanılabilir), `trailers/catalog_launch_trailer.json` (33 sahne, 29 kullanılabilir). `use:"no"` = logo, başlık kartı, siyah kare, kan.
 
 **Kurallar:** Fragman sesi her zaman kapalı (Content ID). Logo ve başlık kartı yok. Kartlar fragmanın üstünde, arka plan karartılmış. Altyazı 58 px.
+
+**28 Ekim durumu:** Extended Look 14 parça halinde yüklendi, birleştirildi (26:46, 60 fps, 720p). Kataloglar `tools/refine_cuts.py` ile kare hassasiyetinde. Video 1 final (`out/video1.mp4`, -15,6 LUFS) ve dikey Short 1 (`src/Short.tsx`, composition `Short1`, `out/short1.mp4`, 57 sn, dosya boyutu bölümü + uzun videoya yönlendiren son kart) render edilip kullanıcıya gönderildi. Short yükleme notu: `output/paketler/gta6_video01_13_things/short1_yukleme.md`. Fragman ve ses dosyaları yeni oturumda yine yok.
 
 **Mevcut video (Video 1):** "13 Things Rockstar STILL Hasn't Told Us About GTA 6", seslendirme 8:06. Kullanıcı Extended Look gelince bu videonun final render'ını bekliyor. Yayından önce doğrulanmamış iddiaları kullanıcıya hatırlat: Stephen Root/AP, Rob Nelson 30 fps (kartta "on 60 fps" yazıyor, çelişki), 34 parçalık albüm, harita "3x/2x/5x" kaynakları. GTA 6 çıkışı 19 Kasım 2026.
 
