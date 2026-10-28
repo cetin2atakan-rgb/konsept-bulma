@@ -30,4 +30,4 @@ How much free space do you have right now? Full breakdown of all 13 in the relat
 ## UPLOAD NOTES
 - Publish after the long video is public (planned: long video 23:00 TR, Short 24:00 TR, i.e. 16:00 / 17:00 ET on 28 October). "22 days" is correct only on 28 October US time.
 - 210 GB is the PlayStation Game Size account's figure (on screen: LEAK stamp). "364 GB usable" on Series S and "leave 250 GB free" are estimates, not Rockstar numbers.
-- Thumbnail: Shorts use a frame from the video; pick the "676.7 GB / FAKE" frame (~0:20) if the app lets you choose.
+- Thumbnail: short1_thumbnail.jpg (1080x1920, Lucia LT_027 + "210 GB?" + UNCONFIRMED, same look as the long video thumbnail). Upload it from the YouTube mobile app (Shorts edit → thumbnail → from gallery). If that option is missing, pick the "676.7 GB / FAKE" frame (~0:20).
