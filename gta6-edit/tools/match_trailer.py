@@ -68,9 +68,9 @@ while t < end:
     pool = [s for s in shots if s["id"] not in used] or shots
     best = max(pool, key=lambda s: score(s, text))
     used.add(best["id"])
-    usable = best["dur"] - 0.6
-    dur = min(win, usable)
-    out.append({"at": round(t, 2), "dur": round(dur, 2), "src": best["src"], "from": round(best["start"] + 0.3, 2), "id": best["id"], "desc": best["desc"]})
+    pad = 0.1 if best.get("frame_accurate") else 0.3   # keep clear of the neighbouring shot's frames
+    dur = min(win, best["dur"] - 2 * pad)
+    out.append({"at": round(t, 2), "dur": round(dur, 2), "src": best["src"], "from": round(best["start"] + pad, 2), "id": best["id"], "desc": best["desc"]})
     t += dur
 json.dump(out, open("src/footage.json", "w"), indent=1)
 print(len(out), "background shots,", len(used), "distinct")
