@@ -5,6 +5,7 @@ import { scenes } from "./scenes";
 import captions from "./captions.json";
 import { loadFonts } from "./fonts";
 import { Footage, SceneWrap, sfx } from "./Video";
+import { V1 } from "./v1";
 
 // Short 1: the file-size segment of Video 1, re-cut vertical (1080x1920), ending on a card that points to the full video.
 // CLIPS are [start, end] in Video 1 seconds; everything inside a clip (VO, cards, footage, sfx) plays in Video 1 time.
@@ -63,7 +64,7 @@ const Cues: React.FC = () => (
 // One clip of Video 1, playing in Video 1 time.
 const Clip: React.FC<{ from: number }> = ({ from }) => (
   <Sequence from={-frames(from)}>
-    <Footage />
+    <Footage footage={V1.footage} />
     <Cards />
     <Captions />
     <Audio src={staticFile("audio/vo.wav")} />

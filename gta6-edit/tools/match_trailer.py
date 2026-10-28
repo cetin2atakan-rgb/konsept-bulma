@@ -6,6 +6,7 @@ by how well its tags match the words being spoken. A shot is never used twice wh
 ones remain. Writes src/footage.json: [{at, dur, src, from}] (seconds).
 
     python tools/match_trailer.py [--every 3.5] [--seed 1] [--only launch_trailer]
+    python tools/match_trailer.py --captions src/v2/captions.json --out src/v2/footage.json --avoid src/footage.json
 """
 import argparse, glob, json, random, re
 
@@ -29,6 +30,10 @@ KEYWORDS = {
     r"car|drive|driving|vehicle": ["car", "driving"],
     r"gun|weapon|shoot": ["gun", "shootout"],
     r"trailer|rockstar|official|confirm": ["iconic", "skyline", "city"],
+    r"preorder|bonus|pack|garage|stanier|outfit|vintage|edition|ultimate|upgrade": ["car", "luxury", "vintage", "convertible", "garage"],
+    r"cheetah|dominator|vehicle|buggy": ["car", "racing", "sports-car", "driving"], r"squalo": ["boat", "jetski", "ocean"],
+    r"business|salon|tattoo|customs|store|shop": ["shop", "street", "nightlife", "city"],
+    r"review|embargo|insider|stream": ["phone", "livestream", "social-media", "dialogue"],
 }
 GENERIC = ["city", "street", "driving", "skyline", "daytime", "vice-city"]
 
@@ -36,13 +41,17 @@ ap = argparse.ArgumentParser()
 ap.add_argument("--every", type=float, default=3.5)
 ap.add_argument("--seed", type=int, default=1)
 ap.add_argument("--only", help="use only this trailer src, e.g. launch_trailer")
+ap.add_argument("--captions", default="src/captions.json")
+ap.add_argument("--out", default="src/footage.json")
+ap.add_argument("--avoid", nargs="*", default=[], help="footage.json files of other videos; their shots are picked last")
 a = ap.parse_args()
 random.seed(a.seed)
 
 shots = []
 for f in sorted(glob.glob("trailers/catalog_*.json")):
     shots += [s for s in json.load(open(f)) if s["use"] == "yes" and s["dur"] >= 1.4 and (not a.only or s["src"] == a.only)]
-caps = json.load(open("src/captions.json"))
+caps = json.load(open(a.captions))
+avoid = {sh["id"] for f in a.avoid for sh in json.load(open(f))}
 end = max(c["e"] for c in caps) + 1.5
 
 def words(t0, t1):
@@ -59,6 +68,8 @@ def score(shot, text):
         sc -= 1.5          # HUD overlays and near-black shots read badly under cards
     if shot["src"] == "launch_trailer":
         sc += 1.0          # cinematic trailer shots look best; prefer them on equal matches
+    if shot["id"] in avoid:
+        sc -= 100.0        # already used in another video: only once the fresh shots run out
     return sc + random.random() * 0.8
 
 used, out, t = set(), [], 0.0
@@ -72,5 +83,5 @@ while t < end:
     dur = min(win, best["dur"] - 2 * pad)
     out.append({"at": round(t, 2), "dur": round(dur, 2), "src": best["src"], "from": round(best["start"] + pad, 2), "id": best["id"], "desc": best["desc"]})
     t += dur
-json.dump(out, open("src/footage.json", "w"), indent=1)
-print(len(out), "background shots,", len(used), "distinct")
+json.dump(out, open(a.out, "w"), indent=1)
+print(len(out), "background shots,", len(used), "distinct,", sum(o["id"] in avoid for o in out), "also in", a.avoid)

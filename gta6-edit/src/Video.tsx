@@ -1,13 +1,16 @@
 import React from "react";
 import { AbsoluteFill, Audio, Loop, OffthreadVideo, Sequence, interpolate, staticFile, useCurrentFrame } from "remotion";
-import footage from "./footage.json";
 import { C, KINDS } from "./kit";
-import { scenes, VO_END } from "./scenes";
-import captions from "./captions.json";
+import { Scene } from "./scenes";
 import { loadFonts } from "./fonts";
 
 const FPS = 30;
-export const TOTAL = Math.round((VO_END + 1.5) * FPS);
+export type Cap = { s: number; e: number; t: string };
+type Shot = { at: number; dur: number; src: string; from: number };
+// Everything that differs between videos. chips: chapter id -> label for the top-left chip
+// (default: "<ch> / 13 · STILL UNCONFIRMED", Video 1's).
+export type VideoData = { scenes: Scene[]; captions: Cap[]; footage: Shot[]; voEnd: number; vo: string; chips?: Record<string, string> };
+export const totalFrames = (d: VideoData) => Math.round((d.voEnd + 1.5) * FPS);
 
 // Vice-City-at-dusk backdrop: sky, striped sun, skyline, palms, moving grid floor. All drawn, no footage.
 const rnd = (i: number) => { const x = Math.sin(i * 127.1) * 43758.5453; return x - Math.floor(x); };
@@ -66,10 +69,9 @@ const Backdrop: React.FC<{ hue: number }> = ({ hue }) => {
 
 // Trailer footage behind the cards (src/footage.json from tools/match_trailer.py).
 // Files live in public/trailers/<src>.mp4 and are never committed. Muted: trailer music is Content-ID bait.
-type Shot = { at: number; dur: number; src: string; from: number };
-export const Footage: React.FC = () => (
+export const Footage: React.FC<{ footage: Shot[] }> = ({ footage }) => (
   <AbsoluteFill>
-    {(footage as Shot[]).map((sh, i) => {
+    {footage.map((sh, i) => {
       const from = Math.round(sh.at * FPS);
       const len = Math.max(1, Math.round(sh.dur * FPS));
       return (
@@ -91,8 +93,11 @@ const Zoom: React.FC<{ len: number; children: React.ReactNode }> = ({ len, child
   return <AbsoluteFill style={{ transform: `scale(${z})` }}>{children}</AbsoluteFill>;
 };
 
-const Chip: React.FC<{ ch?: string }> = ({ ch }) => {
+const Chip: React.FC<{ ch?: string; chips?: Record<string, string> }> = ({ ch, chips }) => {
   if (!ch) return null;
+  if (chips) return chips[ch] ? (
+    <div style={{ position: "absolute", left: 60, top: 50, fontFamily: "Oswald", fontWeight: 700, fontSize: 34, color: C.white, background: "#0b0716cc", border: `2px solid ${C.pink}`, borderRadius: 40, padding: "6px 26px", letterSpacing: 3 }}>{chips[ch]}</div>
+  ) : null;
   return (
     <div style={{ position: "absolute", left: 60, top: 50, fontFamily: "Oswald", fontWeight: 700, fontSize: 34, color: C.white, background: "#0b0716cc", border: `2px solid ${C.pink}`, borderRadius: 40, padding: "6px 26px", letterSpacing: 3 }}>
       <span style={{ color: C.pink }}>{ch}</span> / 13 · STILL UNCONFIRMED
@@ -100,9 +105,9 @@ const Chip: React.FC<{ ch?: string }> = ({ ch }) => {
   );
 };
 
-const Captions: React.FC = () => {
+const Captions: React.FC<{ captions: Cap[] }> = ({ captions }) => {
   const t = useCurrentFrame() / FPS;
-  const c = (captions as { s: number; e: number; t: string }[]).find((x) => t >= x.s - 0.05 && t < x.e + 0.25);
+  const c = captions.find((x) => t >= x.s - 0.05 && t < x.e + 0.25);
   if (!c) return null;
   const text = c.t.charAt(0).toUpperCase() + c.t.slice(1);
   const o = interpolate(t, [c.s - 0.05, c.s + 0.1], [0, 1], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
@@ -119,8 +124,10 @@ export const sfx = (name: string, at: number, vol: number) => (
   </Sequence>
 );
 
-export const GtaVideo: React.FC = () => {
+export const GtaVideo: React.FC<{ data: VideoData }> = ({ data }) => {
   loadFonts();
+  const { scenes, captions, footage, voEnd: VO_END, vo, chips } = data;
+  const TOTAL = totalFrames(data);
   const f = useCurrentFrame();
   const t = f / FPS;
   const idx = scenes.findIndex((s, i) => t >= s.at && (i === scenes.length - 1 || t < scenes[i + 1].at));
@@ -138,7 +145,7 @@ export const GtaVideo: React.FC = () => {
 
   return (
     <AbsoluteFill style={{ background: C.ink }}>
-      {(footage as Shot[]).length ? <Footage /> : <Backdrop hue={hue} />}
+      {footage.length ? <Footage footage={footage} /> : <Backdrop hue={hue} />}
       <AbsoluteFill style={{ opacity: fadeOut }}>
         {scenes.map((s, i) => {
           const from = Math.round(s.at * FPS);
@@ -150,10 +157,10 @@ export const GtaVideo: React.FC = () => {
             </Sequence>
           );
         })}
-        <Chip ch={cur.ch} />
+        <Chip ch={cur.ch} chips={chips} />
       </AbsoluteFill>
-      <Captions />
-      <Audio src={staticFile("audio/vo.wav")} />
+      <Captions captions={captions} />
+      <Audio src={staticFile(vo)} />
       <Loop durationInFrames={32 * FPS}>
         <Audio src={staticFile("sfx/music_bed.wav")} volume={(fr) => 0.13 * interpolate(fr, [0, 30], [0, 1], { extrapolateRight: "clamp" })} />
       </Loop>
