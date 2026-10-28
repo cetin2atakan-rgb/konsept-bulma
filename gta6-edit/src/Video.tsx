@@ -67,7 +67,7 @@ const Backdrop: React.FC<{ hue: number }> = ({ hue }) => {
 // Trailer footage behind the cards (src/footage.json from tools/match_trailer.py).
 // Files live in public/trailers/<src>.mp4 and are never committed. Muted: trailer music is Content-ID bait.
 type Shot = { at: number; dur: number; src: string; from: number };
-const Footage: React.FC = () => (
+export const Footage: React.FC = () => (
   <AbsoluteFill>
     {(footage as Shot[]).map((sh, i) => {
       const from = Math.round(sh.at * FPS);
@@ -113,7 +113,7 @@ const Captions: React.FC = () => {
   );
 };
 
-const sfx = (name: string, at: number, vol: number) => (
+export const sfx = (name: string, at: number, vol: number) => (
   <Sequence key={name + at} from={Math.max(0, Math.round(at * FPS))} durationInFrames={30}>
     <Audio src={staticFile(`sfx/${name}.wav`)} volume={vol} />
   </Sequence>
@@ -163,7 +163,7 @@ export const GtaVideo: React.FC = () => {
 };
 
 // quick zoom-in on enter, slow push while held, fade on exit
-const SceneWrap: React.FC<{ len: number; children: React.ReactNode }> = ({ len, children }) => {
+export const SceneWrap: React.FC<{ len: number; children: React.ReactNode }> = ({ len, children }) => {
   const f = useCurrentFrame();
   const o = interpolate(f, [0, 6, len - 5, len], [0, 1, 1, 0], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
   const s = interpolate(f, [0, len], [1, 1.04]);
