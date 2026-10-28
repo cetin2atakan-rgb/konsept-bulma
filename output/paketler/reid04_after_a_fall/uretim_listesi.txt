@@ -1,0 +1,255 @@
+DR. MARCUS REID SENIOR — VIDEO #4 — URETIM_LISTESI.TXT (Grok görsel üretim promptları, v1.1)
+
+TEMPLATE: chalkboard illustration, dark green-black blackboard, dusty chalk texture, 16:9. Write the following sentence in white chalk handwriting, large, left-aligned, exactly and completely, correct spelling, nothing else written: "[TEXT]" — Below or beside the text, a small simple white and pale-blue chalk sketch related to the sentence: [SKETCH] (schematic, no faces, no extra words).
+
+=== BLOCK 1 — HOOK ===
+img_001.png | TEXT: "If you are seriously injured right now, if you cannot move safely, if you're bleeding heavily," | SKETCH: simple phone icon with emergency symbol
+img_002.png | TEXT: "or if you or someone nearby lost consciousness even briefly during a fall, stop watching and call emergency services first." | SKETCH: phone icon with emergency symbol, stop-hand icon
+img_003.png | TEXT: "Everything in this video is about the quieter signals that show up after the obvious emergency has passed, not a replacement for emergency care in the moment." | SKETCH: small quiet-signal icon (soft wave line) beside a crossed-out emergency icon
+img_004.png | TEXT: "You fall." | SKETCH: simple falling-figure arc
+img_005.png | TEXT: "You catch yourself, or you don't, and a few seconds later you're sitting on the floor, embarrassed more than anything," | SKETCH: figure seated on the floor
+img_006.png | TEXT: "checking yourself over the way almost everyone does: can I move my arms, can I move my legs, does anything feel broken." | SKETCH: body outline with small checkmarks at arms and legs
+img_007.png | TEXT: "If the answer is no, most people stand up, brush it off, and go about their day." | SKETCH: figure standing back up, walking away
+img_008.png | TEXT: "Here's what I need you to understand before we go any further:" | SKETCH: raised hand/pause icon
+img_009.png | TEXT: "that quick self-check, the one almost everyone relies on, misses the warning signs that matter most." | SKETCH: magnifying glass missing small warning marks
+img_010.png | TEXT: "Not because people aren't paying attention, but because the five signals I'm about to walk you through don't show up in the first few minutes at all." | SKETCH: numbered list "5 4 3 2 1" with a clock beside it
+img_011.png | TEXT: "Some of them take hours." | SKETCH: clock icon marked "hours"
+img_012.png | TEXT: "One of them can take days." | SKETCH: calendar icon marked "days"
+img_013.png | TEXT: "I'm Doctor Marcus Reid." | SKETCH: simple name-card banner
+img_014.png | TEXT: "I focus on preventive cardiovascular and geriatric health for adults over fifty, and in two decades of caring for older adults, falls are one of the events I take most seriously," | SKETCH: heart icon with "50+" banner
+img_015.png | TEXT: "precisely because the danger is rarely in the fall itself." | SKETCH: falling-figure icon crossed out as the focus point
+img_016.png | TEXT: "It's in what happens in the hours and days afterward, when nobody is watching anymore." | SKETCH: calendar icon with a clock inside it
+img_017.png | TEXT: "Today we're going through five warning signs after a fall, ranked from the one people most commonly dismiss" | SKETCH: numbered list "5 4 3 2 1"
+img_018.png | TEXT: "to the one combination that quietly does the most long-term damage." | SKETCH: warning-flag icon at the top of a simple scale
+img_019.png | TEXT: "Then I'll give you two protective habits that take almost no time and could change how a fall affects the rest of your year." | SKETCH: two shield icons beside a stopwatch
+img_020.png | TEXT: "Drop a comment right now with the word "yes" if you, or someone you care for, has fallen in the last twelve months." | SKETCH: speech-bubble icon with a pencil
+img_021.png | TEXT: "I read these, and it tells me exactly who this video needs to reach." | SKETCH: eye icon over a comment list
+img_022.png | TEXT: "Let's start the list." | SKETCH: large chalk "5"
+
+=== BLOCK 2 — ITEM #5 ===
+img_023.png | TEXT: "Number five: deciding nothing is broken because you can still walk." | SKETCH: large chalk "5", walking-figure icon
+img_024.png | TEXT: "If you've ever fallen, felt a jolt of pain in your hip or leg, and then tested it by standing and taking a few steps —" | SKETCH: figure on the ground, pain mark at hip, then standing
+img_025.png | TEXT: "and because you could walk, you assumed you were fine — this one is for you." | SKETCH: walking-figure icon with a checkmark
+img_026.png | TEXT: "Here's why that logic feels so convincing." | SKETCH: small logic/checkmark icon
+img_027.png | TEXT: "Walking requires effort and balance, so if your body can still do it, it seems reasonable to think nothing serious happened." | SKETCH: balance-scale icon beside footprints
+img_028.png | TEXT: "For most falls, that reasoning holds up fine." | SKETCH: simple checkmark
+img_029.png | TEXT: "But here's the anatomy behind why it sometimes doesn't." | SKETCH: simple body outline
+img_030.png | TEXT: "Some hip fractures, particularly what are called impacted or non-displaced fractures," | SKETCH: hip-bone outline with a small jammed-fracture line
+img_031.png | TEXT: "occur when the broken ends of the bone stay jammed together rather than separating." | SKETCH: two bone-fragment icons jammed together
+img_032.png | TEXT: "That jammed position can be stable enough to bear some weight for a short time," | SKETCH: hip-bone outline with a weight arrow
+img_033.png | TEXT: "especially with adrenaline still in your system right after a fall." | SKETCH: small adrenaline-drop icon beside a heart
+img_034.png | TEXT: "The bone is broken." | SKETCH: cracked bone-outline icon
+img_035.png | TEXT: "You can still walk." | SKETCH: walking-figure icon
+img_036.png | TEXT: "Both things are true at once." | SKETCH: two icons side by side, equals sign between
+img_037.png | TEXT: "This is consistent with general clinical guidance on hip fractures published in the British Medical Journal," | SKETCH: open-book/journal icon
+img_038.png | TEXT: "which notes that presentation after a fall can vary enormously, and that the ability to bear some weight does not reliably rule out a fracture on its own," | SKETCH: range-bar icon showing wide variation
+img_039.png | TEXT: "especially in older bone that's already lost density." | SKETCH: bone-density icon, thinner/porous texture
+img_040.png | TEXT: "Here's who this matters most for: anyone who felt a distinct jolt or snap of pain at the moment of the fall, even if it faded quickly," | SKETCH: figure with a brief pain-flash icon at the hip
+img_041.png | TEXT: "and even if walking afterward felt mostly normal." | SKETCH: walking-figure icon, neutral
+img_042.png | TEXT: "That combination — a sharp moment of pain followed by the ability to still move — is exactly the pattern that gets waved off." | SKETCH: pain-flash icon followed by a walking-figure icon, both faded/dismissed
+img_043.png | TEXT: "The fix here is simple, and I'll give you the exact guideline after the list." | SKETCH: small shield icon
+img_044.png | TEXT: "But right now you need to hear number four, because this one is about something that gets worse while you're not looking at it." | SKETCH: large chalk "4" with a clock ticking icon
+
+=== BLOCK 3 — ITEM #4 ===
+img_045.png | TEXT: "Number four: a bruise that keeps growing for hours after the fall, instead of settling down." | SKETCH: large chalk "4", bruise icon with growth arrows
+img_046.png | TEXT: "If you've ever fallen, noticed a bruise forming where you hit," | SKETCH: figure with a small bruise mark
+img_047.png | TEXT: "and then watched it get visibly larger or darker over the following hours rather than staying the same size —" | SKETCH: bruise icon growing larger across a small timeline
+img_048.png | TEXT: "this one deserves more attention than most people give it." | SKETCH: magnifying glass over the bruise icon
+img_049.png | TEXT: "Here's why it's easy to dismiss." | SKETCH: small dismiss/shrug icon
+img_050.png | TEXT: "Bruising after a fall is completely normal." | SKETCH: simple bruise icon with a checkmark
+img_051.png | TEXT: "Blood vessels near the surface of the skin break, blood leaks into the surrounding tissue, and you get the familiar purple-blue discoloration." | SKETCH: skin cross-section with small broken-vessel lines
+img_052.png | TEXT: "Everyone expects that." | SKETCH: small checkmark
+img_053.png | TEXT: "What most people don't expect is for a normal bruise to keep expanding well beyond its original size." | SKETCH: bruise icon expanding past a dotted outline
+img_054.png | TEXT: "Here's the anatomy behind the difference." | SKETCH: simple body outline
+img_055.png | TEXT: "A typical bruise results from small vessels near the skin's surface, and the bleeding is limited and self-contained within a few hours." | SKETCH: small contained bruise icon with a clock "few hours"
+img_056.png | TEXT: "A bruise that keeps growing, especially one that becomes firm, tense, or increasingly painful rather than just discolored," | SKETCH: bruise icon with a firmness/tension texture mark
+img_057.png | TEXT: "often means bleeding is continuing underneath the skin, sometimes within the muscle itself, faster than your body can seal it off." | SKETCH: skin and muscle cross-section with ongoing bleeding arrows
+img_058.png | TEXT: "This becomes significantly more important if you take a blood-thinning medication of any kind," | SKETCH: plain pill-bottle outline (no brand)
+img_059.png | TEXT: "because those medications work by slowing exactly the clotting process your body needs to stop that bleeding on its own." | SKETCH: blood-vessel icon with a slowed clotting symbol
+img_060.png | TEXT: "I want to be clear that this next part is basic physiology, not a specific study result: a bruise that would resolve itself in someone not on these medications can reasonably be expected to continue expanding for longer in someone who is, simply because the clotting process it depends on is slower." | SKETCH: two bruise icons side by side, one shrinking, one growing, small honesty-checkmark in the corner
+img_061.png | TEXT: "A continuously expanding bruise, especially one that's becoming tense or hard to the touch, can represent a meaningful amount of blood collecting in one place —" | SKETCH: large bruise icon with a pooling-blood shape beneath
+img_062.png | TEXT: "more than most people realize is possible from a single fall." | SKETCH: surprised-scale icon (simple, no face)
+img_063.png | TEXT: "In rare cases this can be large enough to affect blood pressure or require medical drainage." | SKETCH: blood-pressure cuff icon beside a small drainage symbol
+img_064.png | TEXT: "Here's a simple test you can use at home: trace the edge of the bruise with a pen as soon as you notice it, then check again in two hours." | SKETCH: bruise icon with a pen tracing its outline, clock "2 hours"
+img_065.png | TEXT: "If the bruise has clearly spread beyond that line, or if the area has become hard or increasingly painful rather than simply colored," | SKETCH: bruise icon spreading past the traced line
+img_066.png | TEXT: "that's your signal to get it checked rather than wait it out." | SKETCH: doctor-visit icon (simple cross, no face)
+img_067.png | TEXT: "If you're finding this useful so far, type the number four in the comments." | SKETCH: large chalk "4" with a checkmark
+img_068.png | TEXT: "It takes two seconds, and it tells me you're still with me, because the next three signals matter even more than this one." | SKETCH: forward arrow toward a large "3"
+
+=== BLOCK 4 — ITEM #3 ===
+img_069.png | TEXT: "Number three, and this is the one I most want you to remember: a headache that starts hours or even days after hitting your head, not right away." | SKETCH: large chalk "3", head outline with a delayed-clock icon
+img_070.png | TEXT: "If you've ever bumped your head in a fall, felt mostly fine afterward, and then developed a headache that showed up later rather than immediately —" | SKETCH: head outline, timeline showing headache appearing later
+img_071.png | TEXT: "this is the single most important pattern in this entire video." | SKETCH: star/emphasis icon (simple, no extra words)
+img_072.png | TEXT: "Here's why the delay is so dangerous, and so easy to misread." | SKETCH: question mark over a clock
+img_073.png | TEXT: "Most people assume that if a head injury were serious, it would hurt immediately." | SKETCH: head outline with an immediate-pain flash
+img_074.png | TEXT: "For many head injuries, that's true." | SKETCH: simple checkmark
+img_075.png | TEXT: "But there's a category of bleeding inside the skull — delayed traumatic intracranial hemorrhage, which includes the specific type called a subdural hematoma, bleeding in the space between the brain and its outer covering —" | SKETCH: cross-section of skull and brain with a thin bleeding space highlighted
+img_076.png | TEXT: "that can develop slowly, and take hours or, in some cases, days to produce symptoms." | SKETCH: clock and calendar icons side by side
+img_077.png | TEXT: "Here's the anatomy behind why older adults are specifically more vulnerable to this delayed pattern." | SKETCH: simple brain outline
+img_078.png | TEXT: "As the brain gradually loses some volume with age, it sits slightly looser inside the skull, with more space around it than in a younger brain." | SKETCH: two skull cross-sections compared, older one with more space around the brain
+img_079.png | TEXT: "That extra space means a slow bleed can accumulate for longer before it builds enough pressure to cause symptoms." | SKETCH: skull cross-section with a slowly growing bleed icon
+img_080.png | TEXT: "Younger brains, sitting more snugly, tend to show symptoms faster," | SKETCH: skull cross-section, brain snug against skull
+img_081.png | TEXT: "which paradoxically makes the danger more obvious in younger people and easier to miss in older adults." | SKETCH: two skull icons, one with an obvious warning mark, one without
+img_082.png | TEXT: "A study of emergency department patients on blood-thinning medications who had sustained head trauma specifically examined this delayed pattern," | SKETCH: hospital/emergency cross icon beside a pill-bottle outline
+img_083.png | TEXT: "tracking patients whose initial brain scans were clear." | SKETCH: brain-scan icon with a checkmark
+img_084.png | TEXT: "Researchers found that a meaningful number of these patients went on to develop bleeding that only became visible on a second scan," | SKETCH: two brain-scan icons, first clear, second showing a bleed
+img_085.png | TEXT: "hours after the initial injury and the initial clear result." | SKETCH: clock icon beside the two scans
+img_086.png | TEXT: "This is exactly why the guidance for anyone on blood thinners who hits their head has shifted toward observation over time," | SKETCH: eye/observation icon over a calendar
+img_087.png | TEXT: "not just a single scan right after the fall." | SKETCH: single brain-scan icon crossed out
+img_088.png | TEXT: "This matters most if you take any blood-thinning medication, if you take regular aspirin, or if you're over seventy-five," | SKETCH: pill-bottle outline, age banner "75+"
+img_089.png | TEXT: "because all three factors independently extend that window of risk." | SKETCH: clock icon with an extended arc
+img_090.png | TEXT: "The window I recommend watching is forty-eight to seventy-two hours after any head bump, and the warning signs inside that window are a headache that's worsening rather than improving," | SKETCH: clock marked "48-72 hrs" beside a head outline
+img_091.png | TEXT: "increasing confusion or drowsiness, repeated vomiting, or new weakness on one side of the body." | SKETCH: three small symptom icons in a row
+img_092.png | TEXT: "Any one of these, appearing even two or three days after a head bump that initially seemed fine," | SKETCH: calendar icon with a warning mark on day 2-3
+img_093.png | TEXT: "needs same-day medical attention — not a wait-and-see approach." | SKETCH: doctor-visit icon with "today" label
+img_094.png | TEXT: "Type the number three in the comments if you've bumped your head in a fall before." | SKETCH: large chalk "3" with a checkmark
+img_095.png | TEXT: "The next two signals are about what happens in the days and weeks that follow, and they're just as important." | SKETCH: forward arrow toward a large "2"
+
+=== BLOCK 5 — ITEM #2 ===
+img_096.png | TEXT: "Hit the like button if this list has already changed how you'd handle a fall — it helps this reach the people who need to see it." | SKETCH: thumbs-up icon
+img_097.png | TEXT: "And if you haven't subscribed yet, do it before number one," | SKETCH: bell/subscribe icon
+img_098.png | TEXT: "because the pattern I cover there is the one most falls literature considers the most under-recognized of all." | SKETCH: open-book icon with a hidden/underlined mark
+img_099.png | TEXT: "Number two: new swelling or pain in one leg, showing up in the days after a fall, especially if you've been less active since." | SKETCH: large chalk "2", leg outline with a swelling mark
+img_100.png | TEXT: "This one has a specific mechanism, so I want to walk through it carefully, because it explains something that seems to come out of nowhere." | SKETCH: simple gear/mechanism icon
+img_101.png | TEXT: "Here's the chain of events." | SKETCH: simple chain-link icon
+img_102.png | TEXT: "A fall often leads to some reduction in movement afterward, whether that's from a cast, from soreness, from fear of falling again," | SKETCH: figure resting, small cast icon beside
+img_103.png | TEXT: "or simply from spending more time sitting or lying down than usual." | SKETCH: seated figure icon
+img_104.png | TEXT: "Your leg muscles normally act as a pump, squeezing the veins in your calves every time you move" | SKETCH: calf muscle outline with pump arrows
+img_105.png | TEXT: "and helping blood flow back up toward your heart." | SKETCH: upward arrow from calf to heart
+img_106.png | TEXT: "When that pump slows down for days at a time, blood can pool and clot more easily in the deep veins of the leg —" | SKETCH: calf vein outline with pooling blood dots
+img_107.png | TEXT: "a condition called deep vein thrombosis." | SKETCH: label card "DEEP VEIN THROMBOSIS"
+img_108.png | TEXT: "A population study of adults over seventy specifically measured how much different kinds of post-fall immobility raised this risk." | SKETCH: map/population icon with age banner "70+"
+img_109.png | TEXT: "Fractures carried the highest increase, with the odds of developing a clot roughly twelve times higher in the months afterward." | SKETCH: bone-fracture icon beside a tall risk bar
+img_110.png | TEXT: "But even without a fracture, simply being less mobile at home than usual — no cast, no hospital stay, just moving around less —" | SKETCH: home icon with a seated figure, no cast
+img_111.png | TEXT: "was associated with roughly five times the normal risk." | SKETCH: medium risk bar beside the tall one
+img_112.png | TEXT: "That second number is the one most people never hear, because it doesn't require a broken bone or a hospital admission." | SKETCH: crossed-out hospital icon beside the risk bar
+img_113.png | TEXT: "It just requires sitting more, and moving less, for a week or two after a fall that otherwise seemed minor." | SKETCH: calendar icon marked "1-2 weeks" beside a seated figure
+img_114.png | TEXT: "Here's who this is most relevant for: anyone who, after a fall, noticed one leg becoming swollen, warm, or painful compared to the other, particularly in the calf," | SKETCH: two legs compared, one swollen
+img_115.png | TEXT: "especially if that leg wasn't the one that actually hit the ground." | SKETCH: figure with injury mark on one leg, swelling on the other
+img_116.png | TEXT: "Clots don't always form where the injury happened." | SKETCH: crossed-out injury icon beside a clot icon elsewhere
+img_117.png | TEXT: "They form where blood flow slowed down the most, which is sometimes the uninjured leg that simply isn't being used as much while the injured side recovers." | SKETCH: two legs, slow-flow arrows on the less-used one
+img_118.png | TEXT: "I'm not going to tell you to force yourself back into full activity immediately after a fall —" | SKETCH: crossed-out "full activity now" icon
+img_119.png | TEXT: "that creates its own risks, which we'll get to in a moment." | SKETCH: small warning-flag icon
+img_120.png | TEXT: "The fix here isn't about doing more right away." | SKETCH: crossed-out fast-forward icon
+img_121.png | TEXT: "It's about not doing dramatically less for days at a time without a specific reason to." | SKETCH: balance icon between "too little" and "too much"
+img_122.png | TEXT: "Number one is next, and it's less about a single physical sign and more about a pattern that quietly shapes everything else on this list." | SKETCH: large chalk "1" with a cycle/loop icon
+
+=== BLOCK 6 — ITEM #1 ===
+img_123.png | TEXT: "If you're still with me, type the number two in the comments —" | SKETCH: large chalk "2" with a checkmark
+img_124.png | TEXT: "it tells me you're still here, and honestly, this next part is the one I most wish more of my patients understood before their first fall, not after their third." | SKETCH: speech-bubble icon beside a small calendar with "1st" and "3rd" marks
+img_125.png | TEXT: "Number one: the fear of falling again, and the quiet reduction in activity that follows it, which then raises your risk of falling again." | SKETCH: large chalk "1", cycle/loop icon with a falling-figure mark
+img_126.png | TEXT: "I want to be precise about what I'm describing, because this is the one item on this list that isn't a single moment or a single symptom." | SKETCH: precision/target icon
+img_127.png | TEXT: "It's a cycle, and it starts the instant you fall for the first time." | SKETCH: circular arrow/cycle icon
+img_128.png | TEXT: "Here's how it begins." | SKETCH: simple starting-point icon
+img_129.png | TEXT: "After a fall, it's completely normal to feel less confident on your feet." | SKETCH: standing figure with a small uncertainty wave
+img_130.png | TEXT: "Most people respond to that reduced confidence the same way: they walk less, they avoid stairs," | SKETCH: crossed-out stairs icon
+img_131.png | TEXT: "they stop certain activities they used to do without thinking twice, like gardening or walking to get the mail." | SKETCH: crossed-out gardening icon and mailbox icon
+img_132.png | TEXT: "This feels like caution." | SKETCH: small shield icon
+img_133.png | TEXT: "It feels responsible." | SKETCH: small checkmark
+img_134.png | TEXT: "Here's the anatomy behind why that caution backfires." | SKETCH: simple body outline with a backfire arrow
+img_135.png | TEXT: "Your balance depends on three systems working together: your inner ear, your vision, and crucially, the strength and responsiveness of your leg muscles." | SKETCH: three small icons — inner ear, eye, leg muscle
+img_136.png | TEXT: "Muscle strength, unlike the other two systems, declines specifically when it isn't used," | SKETCH: leg muscle outline fading
+img_137.png | TEXT: "and it declines faster in people over sixty-five than most people expect — measurably within just a few weeks of reduced activity." | SKETCH: downward strength-line graph over "weeks" axis, age banner "65+"
+img_138.png | TEXT: "So the less you move after a fall, the weaker your legs become," | SKETCH: seated figure with a fading leg-muscle icon
+img_139.png | TEXT: "and the weaker your legs become, the less stable you are the next time you're on your feet." | SKETCH: wobbling standing-figure icon
+img_140.png | TEXT: "Researchers who study this pattern in older adults have given it a name: fear of falling," | SKETCH: label card "FEAR OF FALLING"
+img_141.png | TEXT: "and it's been specifically linked to exactly the outcome you'd expect — reduced activity, reduced leg strength, and a measurably higher risk of a second fall within the following year," | SKETCH: cycle icon connecting activity, strength, and a second fall
+img_142.png | TEXT: "even in people who had no new injury or medical change since the first fall." | SKETCH: crossed-out new-injury icon
+img_143.png | TEXT: "Here's why this is the single most dangerous pattern on this list, more than any individual symptom." | SKETCH: warning-flag icon larger than the other symptom icons
+img_144.png | TEXT: "A bruise that keeps growing, a delayed headache, new leg swelling — each of those is a signal your body sends you once, which you can act on once." | SKETCH: three small symptom icons each with a single checkmark
+img_145.png | TEXT: "The fear-of-falling cycle doesn't send a signal at all." | SKETCH: silent/no-signal icon (simple crossed-out bell)
+img_146.png | TEXT: "It just quietly removes capacity, week after week," | SKETCH: calendar icon with a slowly shrinking strength bar
+img_147.png | TEXT: "until a fall that would have been minor a year earlier becomes a serious one." | SKETCH: small fall icon growing into a larger warning icon
+img_148.png | TEXT: "This connects directly back to the very first entry on this list." | SKETCH: arrow looping back to a large chalk "5"
+img_149.png | TEXT: "The reason a fall at home is so often more serious than it looks isn't usually the fall itself." | SKETCH: home icon with a falling-figure silhouette
+img_150.png | TEXT: "In one of the foundational studies on falls in older adults living at home, a nineteen-eighty-one study that's still cited today, researchers found that roughly a quarter of people who experienced a serious fall had died within a year —" | SKETCH: open-book research icon beside a simple pie slice (quarter shaded), small "1981" label
+img_151.png | TEXT: "a death rate five times higher than people of the same age and sex who hadn't fallen in that same study." | SKETCH: two bars compared, one five times taller
+img_152.png | TEXT: "The fall itself rarely killed anyone directly in that research." | SKETCH: crossed-out direct-cause arrow
+img_153.png | TEXT: "What it reflected, and what it set in motion afterward, did." | SKETCH: mirror/reflection icon beside a motion-arrow icon
+img_154.png | TEXT: "I want to be fully honest about what that statistic does and doesn't mean." | SKETCH: honesty/balance icon
+img_155.png | TEXT: "A fall doesn't cause that outcome by itself in most cases." | SKETCH: crossed-out single-cause arrow
+img_156.png | TEXT: "It's frequently a marker of underlying frailty, and it can be the start of exactly the cycle we just described —" | SKETCH: marker/flag icon beside a cycle icon
+img_157.png | TEXT: "less activity, less strength, more risk — compounding over the following months." | SKETCH: three small icons stacking upward into a risk arrow
+img_158.png | TEXT: "That's precisely why what you do in the weeks after a fall matters as much as how the fall itself turned out." | SKETCH: calendar icon with equal weight on two sides of a scale
+img_159.png | TEXT: "Now, the two things that are actively protective — and neither one requires you to ignore caution." | SKETCH: two shield icons
+img_160.png | TEXT: "They require the opposite of ignoring it: using it correctly." | SKETCH: shield icon with a checkmark
+
+=== BLOCK 7 — TWO PROTECTIVE TECHNIQUES ===
+img_161.png | TEXT: "The first protective technique is what I call the forty-eight to seventy-two hour watch window," | SKETCH: numbered "1" beside a clock marked "48-72 hrs"
+img_162.png | TEXT: "and it directly addresses the two delayed signals we covered earlier — the growing bruise and the delayed headache." | SKETCH: bruise icon and head outline side by side
+img_163.png | TEXT: "After any fall involving a hit to the head, or any fall that leaves a bruise larger than the size of your palm," | SKETCH: head outline and a hand-sized bruise icon
+img_164.png | TEXT: "set a simple reminder on your phone or write it on a calendar: forty-eight to seventy-two hours of watching." | SKETCH: phone reminder icon beside a calendar
+img_165.png | TEXT: "During that window, you're specifically checking for four things — a headache that's getting worse rather than better," | SKETCH: four small numbered symptom icons
+img_166.png | TEXT: "new confusion or unusual drowsiness, repeated vomiting, or new weakness on one side of the body." | SKETCH: three more small symptom icons
+img_167.png | TEXT: "None of these are things to track in a journal and mention at your next appointment." | SKETCH: crossed-out notebook icon
+img_168.png | TEXT: "Any one of them, during that window, means same-day medical attention." | SKETCH: doctor-visit icon with "today" label
+img_169.png | TEXT: "This matters most for anyone on a blood-thinning medication, anyone taking regular aspirin, and almost everyone over seventy-five," | SKETCH: pill-bottle outline, age banner "75+"
+img_170.png | TEXT: "because all three extend how long that delayed bleeding risk stays elevated." | SKETCH: clock icon with an extended arc
+img_171.png | TEXT: "It's less critical for a younger, healthier adult with no head impact at all and no medication that affects clotting —" | SKETCH: younger active figure icon, crossed-out pill bottle
+img_172.png | TEXT: "though the growing-bruise check is still worth doing after any significant fall." | SKETCH: bruise icon with a small checkmark
+img_173.png | TEXT: "The second protective technique is a graded return to activity, rather than complete rest," | SKETCH: numbered "2" beside a stepped-arrow icon
+img_174.png | TEXT: "and it directly addresses the fear-of-falling cycle we just spent the last few minutes on." | SKETCH: cycle icon with a checkmark breaking it
+img_175.png | TEXT: "This doesn't mean pushing through pain or ignoring an actual injury." | SKETCH: crossed-out "push through pain" icon
+img_176.png | TEXT: "It means that once any fracture, significant bruising, or head-injury risk has been medically cleared," | SKETCH: three small icons with checkmarks — bone, bruise, head
+img_177.png | TEXT: "the goal shifts specifically to restoring the activity you had before the fall, a little at a time," | SKETCH: stepped-arrow icon rising gradually
+img_178.png | TEXT: "rather than settling into a permanently smaller routine out of caution." | SKETCH: crossed-out shrinking-circle icon
+img_179.png | TEXT: "A structured trial of home-based exercise in women over eighty, tracked over a full year," | SKETCH: home icon with a simple exercise/movement icon, age banner "80+"
+img_180.png | TEXT: "found that the exercise group experienced roughly a third fewer falls per year than a comparison group who received equivalent attention and home visits without the exercise program." | SKETCH: two bars compared, one about a third shorter
+img_181.png | TEXT: "The activity itself was the protective factor, not just general caution." | SKETCH: movement icon with a shield
+img_182.png | TEXT: "Who this is for: almost anyone recovering from a fall who has been cleared of any fracture or serious head injury" | SKETCH: checkmark beside a recovering-figure icon
+img_183.png | TEXT: "and who notices themselves avoiding activities they used to do without a specific physical limitation stopping them." | SKETCH: figure hesitating at a doorway/activity icon
+img_184.png | TEXT: "Who should check with their doctor first: anyone with an unhealed fracture, anyone whose balance has changed suddenly or severely, or anyone with a new neurological symptom —" | SKETCH: three small warning icons — bone, balance, brain
+img_185.png | TEXT: "not because activity is dangerous for most people after a fall, but because the right pace and the right exercises depend on exactly what happened and what's still healing." | SKETCH: doctor-patient speech bubble icon (no faces)
+img_186.png | TEXT: "These two techniques, together, address the two biggest blind spots after a fall:" | SKETCH: two shield icons merging
+img_187.png | TEXT: "the days when a delayed injury can still be developing, and the weeks when fear quietly becomes its own risk factor." | SKETCH: clock and calendar icons side by side
+
+=== BLOCK 8 — TOOLS + WHY YOUR DOCTOR HASN'T TOLD YOU ===
+img_188.png | TEXT: "Let me give you three simple tools you can use starting with your very next fall, however minor it seems." | SKETCH: simple toolbox icon
+img_189.png | TEXT: "Tool one: the pen-outline bruise test we covered earlier." | SKETCH: pen tracing a bruise outline
+img_190.png | TEXT: "Trace any significant bruise with a pen right after you notice it, note the date and time beside it," | SKETCH: bruise icon with a date/time label
+img_191.png | TEXT: "and check again in two hours and again the next morning." | SKETCH: clock icon marked "2 hrs" and a sunrise icon
+img_192.png | TEXT: "Growth beyond that original outline is your signal to get it checked rather than wait." | SKETCH: bruise icon exceeding its traced line
+img_193.png | TEXT: "Tool two: a simple forty-eight to seventy-two hour phone reminder after any head bump, listing the four warning signs —" | SKETCH: phone reminder icon marked "48-72 hrs"
+img_194.png | TEXT: "worsening headache, new confusion or drowsiness, repeated vomiting, new one-sided weakness." | SKETCH: four small symptom icons in a row
+img_195.png | TEXT: "This takes thirty seconds to set and removes the guesswork of trying to remember what to watch for," | SKETCH: stopwatch marked "30 sec"
+img_196.png | TEXT: "three days after the fall itself." | SKETCH: calendar icon marked "day 3"
+img_197.png | TEXT: "Tool three: a one-week activity check-in with yourself." | SKETCH: calendar icon marked "7 days"
+img_198.png | TEXT: "Seven days after any fall, ask honestly whether you're avoiding anything you used to do without a second thought —" | SKETCH: notebook icon with a question mark
+img_199.png | TEXT: "a particular walk, a set of stairs, a specific chair." | SKETCH: three small icons — footprints, stairs, chair
+img_200.png | TEXT: "Naming that avoidance early is the first step to addressing it with deliberate, graded activity before it becomes a permanent habit." | SKETCH: stepped-arrow icon rising from a notebook
+img_201.png | TEXT: "Now, I want to address something honestly." | SKETCH: small honesty/checkmark icon
+img_202.png | TEXT: "Why doesn't a standard medical visit after a fall cover all of this in detail?" | SKETCH: question mark over a clipboard icon
+img_203.png | TEXT: "It's not negligence." | SKETCH: crossed-out blame icon
+img_204.png | TEXT: "It's structural." | SKETCH: simple structure/building-block icon
+img_205.png | TEXT: "When you're seen after a fall, the visit is built around ruling out the immediate emergency:" | SKETCH: clipboard icon with an emergency checkmark
+img_206.png | TEXT: "is anything broken, is there bleeding, is there a head injury requiring an immediate scan." | SKETCH: three small icons — bone, blood drop, brain scan
+img_207.png | TEXT: "That's exactly the right priority for that visit." | SKETCH: checkmark on the clipboard icon
+img_208.png | TEXT: "But a fifteen-minute appointment focused on ruling out an emergency doesn't leave room for a conversation about a bruise that might grow over the next six hours," | SKETCH: clock marked "15 min" with a bruise icon that doesn't fit
+img_209.png | TEXT: "or a headache that might appear three days later, or an activity pattern that might shift over the following month." | SKETCH: calendar icon with a headache and activity icon marked later in the month
+img_210.png | TEXT: "That doesn't mean any of this is speculative." | SKETCH: crossed-out speculation-bubble icon
+img_211.png | TEXT: "The delayed-bleeding research, the immobility and clotting research, and the fear-of-falling research are all well-established in geriatric medicine." | SKETCH: three open-book icons in a row
+img_212.png | TEXT: "They're just not always covered in the moment, when the focus is appropriately on the emergency in front of you." | SKETCH: open-book icon with a gap beside an emergency icon
+img_213.png | TEXT: "By watching this video, you now know what to watch for in the hours and weeks that the initial visit can't cover." | SKETCH: figure standing slightly ahead of a small crowd, forward arrow
+
+=== BLOCK 9 — ONE CHANGE + CTA + TEASE ===
+img_214.png | TEXT: "I'm not asking you to overhaul how you think about every fall starting today." | SKETCH: crossed-out "overhaul everything" icon
+img_215.png | TEXT: "Pick exactly one thing from this video." | SKETCH: single checkmark on a short list
+img_216.png | TEXT: "Maybe it's setting the forty-eight to seventy-two hour reminder after your next head bump, however minor it seems in the moment." | SKETCH: phone reminder icon marked "48-72 hrs"
+img_217.png | TEXT: "Maybe it's doing the pen-outline test the next time you get a significant bruise." | SKETCH: pen tracing a bruise outline
+img_218.png | TEXT: "Maybe it's simply noticing, honestly, whether you've quietly stopped doing something you used to do without thinking about it." | SKETCH: notebook icon with a question mark
+img_219.png | TEXT: "One change." | SKETCH: single checkmark
+img_220.png | TEXT: "The next fall, whenever it happens, however minor it seems." | SKETCH: calendar icon, undated
+img_221.png | TEXT: "Tell me in the comments which one you're committing to —" | SKETCH: speech-bubble icon with a pencil
+img_222.png | TEXT: "I read through these, and it genuinely shapes which signals I cover in more depth in future videos." | SKETCH: eye icon over a comment list
+img_223.png | TEXT: "If someone in your life has fallen recently, even if they insisted they were fine, send them this video." | SKETCH: two simple figures with a small screen-share icon
+img_224.png | TEXT: "The signals in this list specifically show up after everyone has already decided nothing serious happened," | SKETCH: checklist icon with a "nothing happened" label crossed out later
+img_225.png | TEXT: "which makes this exactly the kind of information that's easier to hear from a video than from a worried family member standing over them saying "are you sure you're okay."" | SKETCH: small screen icon versus a speech-bubble icon
+img_226.png | TEXT: "And if you haven't subscribed yet, this is the moment to do it, because next week I'm covering something closely related:" | SKETCH: bell/subscribe icon
+img_227.png | TEXT: "the specific home hazards that cause the most falls in people over sixty-five, and why the most dangerous room in most houses isn't the one most people assume." | SKETCH: simple house icon with one room highlighted
+img_228.png | TEXT: "One more thing before you go: nothing in this video replaces being seen in person if you're genuinely unsure after a fall." | SKETCH: medical cross icon with a "does not replace" note
+img_229.png | TEXT: "If any of the five signals we covered today show up, don't wait to see if they resolve on their own — get it checked the same day." | SKETCH: five small symptom icons beside a doctor-visit "today" icon
+img_230.png | TEXT: "Pay attention to the days after a fall, not just the moment of it." | SKETCH: calendar icon emphasized over a single falling-figure icon
+img_231.png | TEXT: "That's where the real risk usually lives, and it's also exactly where you have the most power to change the outcome." | SKETCH: calendar icon with a shield over it
+img_232.png | TEXT: "I'm Doctor Marcus Reid, and I'll see you in the next one." | SKETCH: simple closing name-card banner
+
+TOPLAM: 232 görsel. Her satır Script.txt'teki cümle/parçayla birebir eşleşir (kısaltma yok, kelime atlanmadı).
