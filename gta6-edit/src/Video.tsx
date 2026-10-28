@@ -1,5 +1,6 @@
 import React from "react";
-import { AbsoluteFill, Audio, Loop, Sequence, interpolate, staticFile, useCurrentFrame } from "remotion";
+import { AbsoluteFill, Audio, Loop, OffthreadVideo, Sequence, interpolate, staticFile, useCurrentFrame } from "remotion";
+import footage from "./footage.json";
 import { C, KINDS } from "./kit";
 import { scenes, VO_END } from "./scenes";
 import captions from "./captions.json";
@@ -63,6 +64,33 @@ const Backdrop: React.FC<{ hue: number }> = ({ hue }) => {
   );
 };
 
+// Trailer footage behind the cards (src/footage.json from tools/match_trailer.py).
+// Files live in public/trailers/<src>.mp4 and are never committed. Muted: trailer music is Content-ID bait.
+type Shot = { at: number; dur: number; src: string; from: number };
+const Footage: React.FC = () => (
+  <AbsoluteFill>
+    {(footage as Shot[]).map((sh, i) => {
+      const from = Math.round(sh.at * FPS);
+      const len = Math.max(1, Math.round(sh.dur * FPS));
+      return (
+        <Sequence key={i} from={from} durationInFrames={len}>
+          <Zoom len={len}>
+            <OffthreadVideo src={staticFile(`trailers/${sh.src}.mp4`)} startFrom={Math.round(sh.from * FPS)} muted style={{ width: "100%", height: "100%", objectFit: "cover" }} />
+          </Zoom>
+        </Sequence>
+      );
+    })}
+    {/* darken so cards and captions stay readable, keep the colour of the footage */}
+    <AbsoluteFill style={{ background: "linear-gradient(180deg, #0b071699 0%, #0b071666 45%, #0b0716cc 100%)" }} />
+    <AbsoluteFill style={{ background: "radial-gradient(ellipse at center, transparent 40%, #000000aa 100%)" }} />
+  </AbsoluteFill>
+);
+const Zoom: React.FC<{ len: number; children: React.ReactNode }> = ({ len, children }) => {
+  const f = useCurrentFrame();
+  const z = interpolate(f, [0, len], [1.03, 1.1]);
+  return <AbsoluteFill style={{ transform: `scale(${z})` }}>{children}</AbsoluteFill>;
+};
+
 const Chip: React.FC<{ ch?: string }> = ({ ch }) => {
   if (!ch) return null;
   return (
@@ -80,7 +108,7 @@ const Captions: React.FC = () => {
   const o = interpolate(t, [c.s - 0.05, c.s + 0.1], [0, 1], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
   return (
     <div style={{ position: "absolute", left: 0, right: 0, bottom: 56, display: "flex", justifyContent: "center", opacity: o }}>
-      <div style={{ maxWidth: 1500, fontFamily: "Oswald", fontWeight: 500, fontSize: 44, lineHeight: 1.25, color: "#fff", background: "#000000b3", padding: "10px 28px", borderRadius: 12, textAlign: "center" }}>{text}</div>
+      <div style={{ maxWidth: 1500, fontFamily: "Oswald", fontWeight: 500, fontSize: 58, lineHeight: 1.2, color: "#fff", background: "#000000b3", padding: "10px 28px", borderRadius: 12, textAlign: "center" }}>{text}</div>
     </div>
   );
 };
@@ -110,7 +138,7 @@ export const GtaVideo: React.FC = () => {
 
   return (
     <AbsoluteFill style={{ background: C.ink }}>
-      <Backdrop hue={hue} />
+      {(footage as Shot[]).length ? <Footage /> : <Backdrop hue={hue} />}
       <AbsoluteFill style={{ opacity: fadeOut }}>
         {scenes.map((s, i) => {
           const from = Math.round(s.at * FPS);
