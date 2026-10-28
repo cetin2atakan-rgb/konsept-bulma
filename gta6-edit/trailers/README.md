@@ -1,8 +1,13 @@
 # Trailer shot catalog
 
 `catalog_extended_look.json` — every shot of the GTA VI Extended Look (26:45), one entry per shot:
-`id, src, start, end, dur` (seconds, ±1 s; frames were sampled at 1 fps), `desc`, `tags`, `energy`
-(calm / tense / action), `use` (`no` = logo, black, title card or gore), `note`.
+`id, src, start, end, dur` (seconds, frame-accurate), `desc`, `tags`, `energy`
+(calm / tense / action), `use` (`no` = logo, black, title card or gore), `note`, `cut_in`
+(`hard` / `black` = real cut or fade edge at `start`; `none` = split inside one long take), `frame_accurate`.
+
+The shots were first cut by eye from 1 fps sheets (±1 s), then snapped to the real cuts with
+`python tools/refine_cuts.py trailers/catalog_<name>.json public/trailers/<name>.mp4`
+(ffmpeg scene + black detection on every frame; Extended Look: 185 boundaries snapped, 97 in-take splits).
 
 `work/EXT_sheet_*.jpg` are the labelled contact sheets the catalog was written from.
 
@@ -22,4 +27,4 @@ Trailer audio is always muted (licensed songs trigger Content ID).
 ## Adding a trailer
 
 Sample it at 1 fps into 6×5 sheets (`ffmpeg -i in.mp4 -vf "fps=1,scale=384:-2,tile=6x5" X_%02d.jpg`),
-run `python tools/segment_sheets.py <dir> <PREFIX> trailers/work`, describe each shot, save as `catalog_<name>.json`.
+run `python tools/segment_sheets.py <dir> <PREFIX> trailers/work`, describe each shot, save as `catalog_<name>.json`, then run `tools/refine_cuts.py` on it.
