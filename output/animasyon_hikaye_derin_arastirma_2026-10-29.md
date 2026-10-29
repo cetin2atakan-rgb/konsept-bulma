@@ -97,6 +97,21 @@ Kodla üretimin avantajı, AI görsel kanallarının zorlandığı şeyler: saya
 - **Neden biz:** Seçim kartları, geri sayım ve skor tabelası kodla kolay ve tutarlı. AI görsel kanalları bunu yapamıyor.
 - **Risk:** Quiz kitlesi genç ve RPM'i düşük olabilir. Konuyu para/hukuk tutarak yetişkin kitleye çekmek gerekiyor.
 
+#### Örnek kanallar (ek tarama, 29 Ekim)
+Mekanik var ve çalışıyor. Ama kanalların hepsi genç kız kitlesine yönelik ("aesthetic interactive game") ve RPM düşük. Para/hukuk konulu yetişkin versiyonu yok.
+
+| Kanal | Abone | Öne çıkanlar | RPM |
+|---|---|---|---|
+| **Cozytee** | 39.8K | "Can You Survive Your K-Pop Debut" 481K, "...Running Away From Strict Parents" 427K, "...a School Lockdown?" 287K, "...an Earthquake Home Alone" 149K. Ocak 2026'dan beri her ay 100K+ video | ~$1.8 |
+| **Scenaura** | 10K | 9 videoda "Billionaire's Wife" 327K, "K-Pop Idol Debut" 331K | ~$2.2 |
+| QuizBun | — | "Can you survive an interview with your Ex-Boyfriend?" 168K | — |
+| Sincerely Kavyaa, Scenorita | — | 30-57K | — |
+| Yetişkin/survival denemeleri (PrimalArk, THE QUIZZES, Yoluos "What Would You Do? 10 Real-Life Scenarios") | — | 17-565 izlenme | — |
+
+**Yapı:** 8-14 dk, "Can You Survive [rol/durum]?" başlığı, ~8-12 seçim. Her seçimde 2-3 kart ve kısa geri sayım; sonuç sahnesinden sonra hikâye devam ediyor. Bazıları "Part 1/2" diye seri yapıyor, ama devam bölümleri 1. bölümün yaklaşık yarısını alıyor (481K → 75K).
+
+**Bizim fırsatımız:** Kanıtlanmış mekanik + yetişkin ABD kitlesi + para/hukuk konusu + gerçek kural. Bu birleşim boş. RPM'nin bu kanalların 3-4 katı olması beklenir. Risk: yetişkin kitlenin videoyu durdurup seçim yapma alışkanlığı henüz kanıtlanmadı. İlk 3 video bunu test eder.
+
 ### ⭐ 3. "How Long You'd Last" kalıbını yetişkin ve pratik alanlara taşımak
 - **Fikir:** Fossil kalıbı aynen kalır, alan yeni ve gerçek rakamlı olur.
 - **Örnek başlıklar:**
