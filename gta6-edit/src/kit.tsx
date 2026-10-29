@@ -490,9 +490,9 @@ const Days: React.FC<any> = ({ title, from = 10, to = 21, marks = [], range, sub
 };
 
 // A terms page; one line gets circled, then the date in it zoomed.
-const Terms: React.FC<any> = ({ lines, hi, circleAt = 99, zoomAt = 99, zoom, foot }) => {
+const Terms: React.FC<any> = ({ lines, hi, circleAt = 99, zoomAt = 99, zoom, foot, zoomScale = 1.3 }) => {
   const t = useT();
-  const z = interpolate(t, [zoomAt, zoomAt + 0.6], [1, 1.3], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
+  const z = interpolate(t, [zoomAt, zoomAt + 0.6], [1, zoomScale], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
   const draw = interpolate(t, [circleAt, circleAt + 0.6], [0, 1], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
   return (
     <Center gap={26}>
