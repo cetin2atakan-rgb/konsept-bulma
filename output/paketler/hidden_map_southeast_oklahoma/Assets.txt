@@ -1,0 +1,62 @@
+## TITLE: Southeast Oklahoma Is Hiding Something Most Americans Never Notice
+## ALTERNATİF (2)
+1. The Oklahoma Mountains That Run the Wrong Way (25 Facts)
+2. 25 Things Most Americans Don't Know About Southeast Oklahoma
+## REGION: Southeast Oklahoma
+## REGION_BBOX: 34.0,-95.65,35.5,-94.3
+## PERSONA_LINE: Walter Hale · retired geography teacher
+## PERSONA_IMG: persona.png
+## MAP_IMG: map_region.png
+
+## DESCRIPTION
+Southeast Oklahoma hides mountains that run east to west, against the grain of almost every other range in America, a Choctaw Nation capitol that outlasted the government it was built for, a cave with more legend than evidence, and a reservoir still argued over in federal court. Retired geography teacher Walter Hale counts down 25 remarkable geographic facts about the Ouachita Mountains, the Kiamichi and Red River valleys, and the Choctaw Nation lands that shape this corner of the state.
+
+⏱ Chapters:
+0:00 Intro
+0:54 Fact 25 — Circus City, USA
+2:44 Fact 24 — The World's Highest Hill
+4:32 Fact 23 — The Storm Lost to the News
+6:14 Fact 22 — A Small Park's Big Shadow
+8:06 Fact 21 — The Lawman's House on the Hill
+9:52 Fact 20 — The Stone Nobody Can Agree On
+11:47 Fact 19 — The Spring the Outlaws Trusted
+13:28 Fact 18 — The Cave of Uncertain Outlaws
+15:17 Fact 17 — The Mound Builders Before the Mound Builders
+17:01 Fact 16 — The School Named for a Dartmouth Founder
+18:45 Fact 15 — Where the Civil War Actually Ended
+20:36 Fact 14 — The Woodpecker's Last Stronghold
+22:26 Fact 13 — The Cold River Below the Dam
+24:14 Fact 12 — The Lake Still Being Fought Over
+26:06 Fact 11 — Oklahoma's Last Untamed River
+28:00 Fact 10 — The Park Named for a Choctaw Citizen
+29:44 Fact 9 — The River Named for a Screaming Bird
+31:34 Fact 8 — The Hills Geologists Still Argue About
+33:23 Fact 7 — The Fault Line Hiding Under the Byway
+35:10 Fact 6 — Fifty-Four Miles With No Snowplows
+36:58 Fact 5 — The Capitol That Outlasted a Nation's Borders
+39:04 Fact 4 — A Capital Named for the Mound Left Behind
+41:32 Fact 3 — The Westernmost Capital of a Vanished Trade Network
+44:01 Fact 2 — The Mountains That Never Erupted
+46:16 Fact 1 — The Mountains Running the Wrong Way
+48:42 Closing
+[NOT: 7471 kelimeden dakikada 150 kelimeyle hesaplandı. Ses farklıysa orantılı kaydır.]
+
+📚 Sources:
+USGS Professional Paper 215 (Ouachita Mountains geology) · Oklahoma Historical Society (okhistory.org) · Choctaw Nation official history (choctawnation.com) · National Park Service / National Register of Historic Places nominations · US Army Corps of Engineers project records · Oklahoma Water Resources Board / NPR StateImpact Oklahoma · USDA Forest Service, Ouachita National Forest · Oklahoma Department of Wildlife Conservation · National Weather Service, Norman, Oklahoma · Sierra Club Oklahoma
+
+Walter Hale is a narrator persona. Illustrations are original drawings based on real geography and may simplify details. Sources: USGS, Oklahoma Historical Society, Choctaw Nation, National Park Service, US Army Corps of Engineers — listed above. Know this region? Tell us what we missed.
+
+## TAGS (15)
+southeast oklahoma, ouachita mountains, oklahoma geography, hidden america, choctaw nation history, talimena scenic drive, robbers cave oklahoma, heavener runestone, spiro mounds, kiamichi river, broken bow lake, oklahoma state parks, oklahoma hidden gems, southeastern oklahoma attractions, hidden map america
+
+## PINNED COMMENT
+"Which fact surprised you most? And if you live in Southeast Oklahoma — what did I miss?"
+
+## THUMBNAIL BRIEF
+persona.png (Walter Hale, waist-up, cream shirt, intrigued/concerned expression, gaze toward camera or toward the landscape) on the left; background uses the Fact 1 landscape image — a cinematic wide shot of the folded, east-west-running Ouachita ridgeline at golden hour. Region name in two lines, serif ExtraBold, cream with a 3-4px charcoal outline, set against a subtle dark scrim/gradient panel, upper right (ensures legibility against a variable golden-hour sky). Below it, a red banner reading "HIDDEN." Small Oklahoma state silhouette as a low-opacity (5-8%) outline near the text block, southeastern corner highlighted — kept subtle so it does not compete with persona, region name, or the HIDDEN banner.
+
+## THUMBNAIL TEXT
+SOUTHEAST OKLAHOMA | HIDDEN
+
+## baslik_kaydi
+2026-10-21 | Southeast Oklahoma Is Hiding Something Most Americans Never Notice | Hidden Map America | America with Amos has not covered this region (closest is their recent "Eastern Oklahoma" video, which is geographically distinct — that covers the Tulsa/Green Country area, not the Ouachita Mountains / Choctaw Nation interior covered here)
