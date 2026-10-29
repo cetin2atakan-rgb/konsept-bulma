@@ -14,6 +14,9 @@ Your $900 PS5 Pro Won't Fix GTA 6's Frame Rate
 ## THUMBNAIL BRIEF
 Extended Look police-pursuit frame (EXT_162, sedan speeding, slight motion blur), darkened on the right. Huge "60 FPS?" in white with a hot-pink outline on the right; under it a small red "NOT CONFIRMED" stamp. Optional small "30" in cyan top-right as the only confirmed number. No GTA VI, Rockstar, PlayStation or Digital Foundry logos.
 
+## THUMBNAIL FILE
+thumbnail.jpg (1280x720): Extended Look pursuit (EXT_162), "30 FPS · ON RECORD" top-left, huge "60 FPS?", red "NOT CONFIRMED".
+
 ## DESCRIPTION
 There is exactly one GTA 6 frame rate on record: 30 fps on console during development, from Rockstar North's Rob Nelson in a YouTuber interview. No store page, spec sheet or official video lists resolution, frame rate or graphics modes. Here is what was actually said (and what he wouldn't say about 60), what Digital Foundry measured from the official footage, why a $900 PS5 Pro is unlikely to change it, why a 40 fps mode needs both a 120 Hz TV and VRR, and the honest case for 30.
 
