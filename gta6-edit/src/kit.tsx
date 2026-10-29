@@ -56,9 +56,14 @@ const Title: React.FC<any> = ({ kicker, text }) => (
   </Center>
 );
 
-const Big: React.FC<any> = ({ value, label, sub, color, stamp, stampAt }) => (
+const Strike: React.FC<{ at: number }> = ({ at }) => {
+  const p = interpolate(useT(), [at, at + 0.35], [0, 1], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
+  return p > 0 ? <div style={{ position: "absolute", left: "-4%", top: "48%", height: 16, width: `${108 * p}%`, background: C.red, transform: "rotate(-6deg)", boxShadow: glow(C.red) }} /> : null;
+};
+
+const Big: React.FC<any> = ({ value, label, sub, color, stamp, stampAt, strikeAt }) => (
   <Center gap={10}>
-    <Pop><div style={{ fontSize: sizeFor(value), fontWeight: 700, lineHeight: 1, color: col(color), textShadow: glow(col(color)), whiteSpace: "nowrap" }}>{value}</div></Pop>
+    <Pop><div style={{ position: "relative", fontSize: sizeFor(value), fontWeight: 700, lineHeight: 1, color: col(color), textShadow: glow(col(color)), whiteSpace: "nowrap" }}>{value}{strikeAt !== undefined && <Strike at={strikeAt} />}</div></Pop>
     {label && <Pop d={0.25}><div style={{ fontSize: 58, fontWeight: 500, letterSpacing: 2, marginTop: 14 }}>{label}</div></Pop>}
     {sub && <Pop d={0.6}><div style={{ fontSize: 42, color: C.dim }}>{sub}</div></Pop>}
     {stamp && <Stamp text={stamp} at={stampAt ?? 1} />}
@@ -77,7 +82,7 @@ const Chapter: React.FC<any> = ({ n, title }) => {
   );
 };
 
-const Store: React.FC<any> = ({ note }) => {
+const Store: React.FC<any> = ({ note, field = "File size" }) => {
   const t = useT();
   const scroll = interpolate(t, [0, 3], [60, 0], { extrapolateRight: "clamp" });
   const blink = Math.floor(t * 2) % 2 === 0;
@@ -97,7 +102,7 @@ const Store: React.FC<any> = ({ note }) => {
           {row("Publisher", "Rockstar Games")}
           {row("Platforms", "PS5 · Xbox Series X|S")}
           <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", padding: "22px 18px", margin: "10px -18px 0", fontSize: 46, border: `3px dashed ${C.yellow}`, borderRadius: 12, color: C.white }}>
-            <span>File size</span>
+            <span>{field}</span>
             <span style={{ width: 220, height: 50, background: "#ffffff10", borderRadius: 6, display: "flex", alignItems: "center", paddingLeft: 12 }}>
               <span style={{ width: 4, height: 40, background: blink ? C.yellow : "transparent" }} />
             </span>
@@ -485,9 +490,9 @@ const Days: React.FC<any> = ({ title, from = 10, to = 21, marks = [], range, sub
 };
 
 // A terms page; one line gets circled, then the date in it zoomed.
-const Terms: React.FC<any> = ({ lines, hi, circleAt = 99, zoomAt = 99, zoom, foot }) => {
+const Terms: React.FC<any> = ({ lines, hi, circleAt = 99, zoomAt = 99, zoom, foot, zoomScale = 1.3 }) => {
   const t = useT();
-  const z = interpolate(t, [zoomAt, zoomAt + 0.6], [1, 1.3], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
+  const z = interpolate(t, [zoomAt, zoomAt + 0.6], [1, zoomScale], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
   const draw = interpolate(t, [circleAt, circleAt + 0.6], [0, 1], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
   return (
     <Center gap={26}>
@@ -531,13 +536,13 @@ const Donut: React.FC<any> = ({ pct, label, other }) => {
 };
 
 // Title + plain list, one line at a time.
-const List: React.FC<any> = ({ title, items, every = 0.6, start = 0.3, size = 64, sub, subAt }) => {
+const List: React.FC<any> = ({ title, items, every = 0.6, start = 0.3, size = 64, sub, subAt, tag, tagDelay = 0.5 }) => {
   const t = useT();
   return (
     <Center gap={18}>
       {title && <Pop><div style={{ fontSize: 58, fontWeight: 700, letterSpacing: 5, color: C.cyan, marginBottom: 14 }}>{title}</div></Pop>}
       {items.map((s: string, i: number) => (
-        <Pop key={i} d={start + i * every} from={0.9}><div style={{ fontSize: size, fontWeight: 700 }}>{s}</div></Pop>
+        <Pop key={i} d={start + i * every} from={0.9}><div style={{ fontSize: size, fontWeight: 700, display: "flex", alignItems: "center", gap: 28, justifyContent: "center" }}>{s}{tag && t >= start + i * every + tagDelay && <span style={{ fontSize: 30, color: C.red, border: `3px solid ${C.red}`, borderRadius: 8, padding: "2px 14px", letterSpacing: 2 }}>{tag}</span>}</div></Pop>
       ))}
       {sub && t >= subAt && <Pop d={subAt}><div style={{ fontSize: 46, color: C.yellow, marginTop: 20 }}>{sub}</div></Pop>}
     </Center>
@@ -564,9 +569,79 @@ const Options: React.FC<any> = ({ title, items }) => (
   </Center>
 );
 
+// ---------- Video 3 kinds ----------
+
+const Clear: React.FC<any> = () => null;
+
+// GPU vs CPU: the CPU box fills up with simulation work until it overflows, then base PS5 vs Pro bars under each box.
+const CpuGpu: React.FC<any> = ({ gpuAt = 0, cpuAt = 0, load = [], barsAt = 99, gpuBarAt = 99, cpuBarAt = 99, fractionalAt = 99, bottleneckAt = 99, verdictAt = 99 }) => {
+  const t = useT();
+  const shown = load.filter((l: any) => t >= l.at);
+  const jam = t >= bottleneckAt;
+  const bar = (label: string, w: number, at: number, c: string) => {
+    const p = interpolate(t, [at, at + 0.9], [0, 1], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
+    return (
+      <div style={{ display: "flex", alignItems: "center", gap: 18, fontSize: 32, marginTop: 10, opacity: t >= at ? 1 : 0 }}>
+        <span style={{ width: 130, textAlign: "right", color: C.dim }}>{label}</span>
+        <div style={{ flex: 1, height: 34, background: "#ffffff12", borderRadius: 8, overflow: "hidden" }}><div style={{ width: `${w * p}%`, height: "100%", background: `linear-gradient(90deg,${c}aa,${c})`, boxShadow: `0 0 20px ${c}88` }} /></div>
+      </div>
+    );
+  };
+  const box = (name: string, sub: string, on: boolean, c: string, body: React.ReactNode, under: React.ReactNode, red = false) => (
+    <div style={{ width: 700, display: "flex", flexDirection: "column", gap: 16 }}>
+      <Panel style={{ height: 360, padding: "26px 30px", textAlign: "left", opacity: on ? 1 : 0.35, border: red ? `5px solid ${C.red}` : on ? `3px solid ${c}` : undefined, boxShadow: red ? glow(C.red) : on ? `0 0 40px ${c}44` : undefined, position: "relative", overflow: "visible" }}>
+        <div style={{ display: "flex", alignItems: "baseline", gap: 18 }}><span style={{ fontSize: 64, fontWeight: 700, color: c }}>{name}</span><span style={{ fontSize: 34, color: C.dim }}>{sub}</span></div>
+        {body}
+        {red && <div style={{ position: "absolute", top: -26, right: 24, background: C.red, color: "#fff", fontSize: 34, fontWeight: 700, padding: "4px 20px", borderRadius: 10, opacity: Math.floor(t * 3) % 2 ? 1 : 0.7 }}>BOTTLENECK</div>}
+      </Panel>
+      <div style={{ minHeight: 120 }}>{under}</div>
+    </div>
+  );
+  return (
+    <Center gap={18}>
+      <div style={{ display: "flex", gap: 60 }}>
+        {box("GPU", "graphics", t >= gpuAt && t < cpuAt + 0.01 || t >= barsAt, C.cyan,
+          <div style={{ fontSize: 38, color: C.white, marginTop: 30, lineHeight: 1.6 }}>Lighting<br />Textures<br />Resolution</div>,
+          t >= barsAt && <>{bar("PS5", 52, gpuBarAt, C.cyan)}{bar("PS5 Pro", 88, gpuBarAt + 0.3, C.cyan)}{t >= gpuBarAt + 0.8 && <div style={{ fontSize: 32, color: C.cyan, marginTop: 8, textAlign: "center" }}>a serious step up</div>}</>)}
+        {box("CPU", "simulation", t >= cpuAt, C.pink,
+          <div style={{ display: "flex", flexWrap: "wrap", gap: 12, marginTop: 22 }}>
+            {shown.map((l: any, i: number) => (
+              <Pop key={i} from={1.4}><div style={{ fontSize: 40, fontWeight: 700, padding: "8px 20px", borderRadius: 10, background: i >= 5 ? `${C.red}44` : `${C.pink}33`, border: `2px solid ${i >= 5 ? C.red : C.pink}`, transform: i >= 5 ? `rotate(${(i % 2 ? 3 : -4)}deg)` : undefined }}>{l.t}</div></Pop>
+            ))}
+          </div>,
+          t >= barsAt && <>{bar("PS5", 80, cpuBarAt, C.pink)}{bar("PS5 Pro", 83, cpuBarAt + 0.3, C.pink)}{t >= fractionalAt && <div style={{ fontSize: 32, color: C.pink, marginTop: 8, textAlign: "center" }}>“fractional” — Digital Foundry</div>}</>,
+          jam)}
+      </div>
+      {t >= verdictAt && <Pop d={verdictAt}><div style={{ fontSize: 60, fontWeight: 700, color: C.yellow, textShadow: glow(C.yellow) }}>Pro = a better-looking 30. Not a 60.</div></Pop>}
+    </Center>
+  );
+};
+
+// Answer table with a confidence label per row, built as spoken; optional one-line end card.
+const Confidence: React.FC<any> = ({ title, rows, endCard, endAt = 99 }) => {
+  const t = useT();
+  return (
+    <>
+      <Center gap={20}>
+        <Pop><div style={{ fontSize: 56, fontWeight: 700, letterSpacing: 5, color: C.cyan }}>{title}</div></Pop>
+        <Panel style={{ width: 1560, padding: "16px 44px", textAlign: "left" }}>
+          {rows.map((r: any, i: number) => (
+            <div key={i} style={{ display: "flex", justifyContent: "space-between", alignItems: "center", padding: "13px 0", borderBottom: i < rows.length - 1 ? "1px solid #ffffff18" : "none", opacity: t >= r.at ? 1 : 0, transform: `translateX(${t >= r.at ? 0 : -30}px)` }}>
+              <span style={{ fontSize: 44, fontWeight: 500 }}>{r.t}</span>
+              <span style={{ fontSize: 36, fontWeight: 700, color: col(r.color), border: `3px solid ${col(r.color)}`, borderRadius: 10, padding: "2px 18px", letterSpacing: 2 }}>{r.c}</span>
+            </div>
+          ))}
+        </Panel>
+      </Center>
+      {endCard && t >= endAt && <div style={{ position: "absolute", left: 60, top: 46, fontFamily: FONT, fontSize: 32, fontWeight: 700, color: C.ink, background: C.yellow, borderRadius: 12, padding: "8px 26px" }}>{endCard}</div>}
+    </>
+  );
+};
+
 export const KINDS: Record<string, React.FC<any>> = {
   title: Title, big: Big, chapter: Chapter, store: Store, post: Post, bars: Bars, flash: Flash, list13: List13,
   quote: Quote, strip: Strip, checklist: Checklist, badge: Badge, people: People, cards: Cards, box: Box,
   regions: Regions, rating: Rating, grid: Grid, stations: Stations, counter: Counter, timeline: Timeline, facts: Facts,
   days: Days, terms: Terms, donut: Donut, list: List, options: Options,
+  clear: Clear, cpugpu: CpuGpu, confidence: Confidence,
 };

@@ -1,0 +1,35 @@
+## FILE
+gta6-edit/out/short3.mp4 · 1:02 · 1080x1920 · composition Short3 (src/shorts.ts)
+Cut: Video 3 3:00–3:51 (why the Pro doesn't fix it: GPU vs CPU diagram) + 3:55–4:02 ("$900 on the half that isn't the bottleneck") + 3 s end card. The "22 days" hook is deliberately left out, so this Short does not go stale.
+
+## TITLE (selected)
+Why a $900 PS5 Pro Won't Give You 60 FPS in GTA 6 #gta6
+
+## ALTERNATIVES (2)
+The PS5 Pro Can't Fix GTA 6's Frame Rate #gta6
+GTA 6 at 30 FPS Is a CPU Problem #gta6
+
+## DESCRIPTION
+Open-world frame rates are usually limited by the CPU — pedestrians, traffic, physics, audio, scripts — not the graphics chip. The PS5 Pro's GPU is a big step up; Digital Foundry called its CPU gain "fractional". So the likely result is a better-looking 30, not a 60.
+
+The only frame rate on record and who actually said it: [LONG VIDEO LINK]
+
+My read, not a Rockstar statement. Independent fan channel, not affiliated with Rockstar Games, Take-Two, Sony or Digital Foundry. Trailer audio removed.
+
+#gta6 #ps5pro #gtavi #60fps
+
+## TAGS (10)
+gta 6, gta 6 ps5 pro, gta 6 60 fps, gta 6 frame rate, gta 6 fps, ps5 pro, gta 6 cpu, gta 6 30 fps, gta 6 news, digital foundry gta 6
+
+## RELATED VIDEO
+Why Nobody Will Tell You GTA 6's Frame Rate (Video 3; only selectable once it is public)
+
+## PINNED COMMENT
+Would you still buy a Pro for GTA 6 if it's 30 fps either way? The full video covers the 40 fps mode and the two TV checks it needs.
+
+## THUMBNAIL
+short3_thumbnail.jpg (1080x1920, Extended Look pursuit EXT_162 + "60 FPS?" + red "PRO WON'T FIX IT"). Upload from the YouTube mobile app.
+
+## UPLOAD NOTES
+- 1:02 long: fine for Shorts (limit is 3 minutes).
+- "Fractional" (Digital Foundry) and the base-vs-Pro bars are qualitative; the video shows no percentages, on purpose (see script notes).

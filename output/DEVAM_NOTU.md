@@ -35,6 +35,12 @@ Kullanıcı bundan sonra GTA videolarını **burada** render etmemizi istiyor. D
 
 **28 Ekim durumu:** Extended Look 14 parça halinde yüklendi, birleştirildi (26:46, 60 fps, 720p). Kataloglar `tools/refine_cuts.py` ile kare hassasiyetinde. Video 1 final (`out/video1.mp4`, -15,6 LUFS) ve dikey Short 1 (`src/Short.tsx`, composition `Short1`, `out/short1.mp4`, 57 sn, dosya boyutu bölümü + uzun videoya yönlendiren son kart) render edilip kullanıcıya gönderildi. Short yükleme notu: `output/paketler/gta6_video01_13_things/short1_yukleme.md`. Fragman ve ses dosyaları yeni oturumda yine yok.
 
+**28-29 Ekim: Video 2 ve 3 de render edildi ve gönderildi.** Proje artık çok videolu: her videonun verisi `src/v1.ts`, `src/v2/`, `src/v3/` (scenes + captions.json + footage.json), composition'lar `Video1/Video2/Video3/Short1` (`src/Root.tsx`). Ses dosyaları `public/audio/vo.wav`, `vo2.wav`, `vo3.wav` (git'te yok).
+- **Altyazı zamanlaması artık otomatik:** `pip install pocketsphinx` (PyPI açık, model paketin içinde) → senaryodaki `> ` satırlarını `tools/vN/vo_script.txt` yap → `python3 tools/align_script.py vo16.wav tools/vN/vo_script.txt tools/vN/words.json` (16 kHz mono wav) → `tools/vN/captions_vN.py` (ekranda rakam gösteren DISPLAY listesi) → `src/vN/captions.json`. Video 2 ve 3'te tüm kelimeler hizalandı, sessizlik noktalarıyla örtüşüyor.
+- Fragman eşleme: `python tools/match_trailer.py --captions src/vN/captions.json --out src/vN/footage.json --avoid src/v(N-1)/footage.json --every 4.0 --pin 0=EXT_162`.
+- Render: `bash /home/user/konsept-bulma/gta6-edit/tools/render_chunks.sh VideoN out/videoN.mp4` (mutlak yol kullan). Render sürerken `src/`'ye dokunma: her parça kodu yeniden derliyor.
+- Paketler: `output/paketler/gta6_video02_preload_trap/`, `output/paketler/gta6_video03_frame_rate/` (Assets.txt + script.md).
+
 **Mevcut video (Video 1):** "13 Things Rockstar STILL Hasn't Told Us About GTA 6", seslendirme 8:06. Kullanıcı Extended Look gelince bu videonun final render'ını bekliyor. Yayından önce doğrulanmamış iddiaları kullanıcıya hatırlat: Stephen Root/AP, Rob Nelson 30 fps (kartta "on 60 fps" yazıyor, çelişki), 34 parçalık albüm, harita "3x/2x/5x" kaynakları. GTA 6 çıkışı 19 Kasım 2026.
 
 ## 3. Diğer açık işler
