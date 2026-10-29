@@ -1,0 +1,71 @@
+## TITLE: Texas Panhandle Is Hiding Something Most Americans Never Notice
+## ALTERNATİF (2)
+1. 25 Things Hiding in the Texas Panhandle That Most Drivers Never Notice
+2. The Texas Panhandle Has an 800-Foot Canyon Most Drivers Never See
+## REGION: Texas Panhandle
+## REGION_BBOX: 34.0,-103.0,36.5,-100.0
+## PERSONA_LINE: Walter Hale · retired geography teacher
+## PERSONA_IMG: persona.png
+## MAP_IMG: map_region.png
+
+## DESCRIPTION
+The Texas Panhandle looks flat and empty from the interstate — but it's hiding the only plant in America that assembles nuclear weapons, a canyon deeper than you'd ever guess, and a fence line that once paid for Texas's entire state capitol. Retired geography teacher Walter Hale counts down 25 remarkable geographic facts about the Texas Panhandle, from the Ogallala Aquifer running dry beneath the wheat fields to Palo Duro Canyon hiding in plain sight behind the Caprock Escarpment.
+
+⏱ Chapters:
+0:00 Intro
+1:46 Fact 25 — A Refuge Where the Lake Mostly Isn't There
+3:36 Fact 24 — The Park the Depression Built by Hand
+5:18 Fact 23 — The Town Built to Ship Cattle, Not Raise Them
+7:07 Fact 22 — The Town That Hired a Man to Blow Up the Sky
+8:50 Fact 21 — The Town That Grew from Nothing in Ninety Days
+10:26 Fact 20 — The Last Herd of a Vanished Kind of Bison
+11:59 Fact 19 — Texas's Largest History Museum, Built Beside a College Campus
+13:46 Fact 18 — The Rancher Who Brought Cattle Into a Canyon Nobody Else Wanted
+15:30 Fact 17 — The Restaurant That Will Feed You for Free If You Lose Fast Enough
+17:02 Fact 16 — A Play Performed Inside the Canyon Itself
+18:34 Fact 15 — The Rock Tower That Explains the Whole Canyon
+20:12 Fact 14 — The Reservoir Named After a Man Who Never Saw It Finished
+22:06 Fact 13 — Kit Carson's Last Fight, Fought to a Draw
+23:31 Fact 12 — The Buffalo Hunters Who Would Not Be Driven Off
+24:58 Fact 11 — The Morning the Army Found the Canyon Floor
+26:31 Fact 10 — The Plain So Flat Travelers Had to Stake Their Way Across It
+28:08 Fact 9 — The Gas Station Famous Enough to Star in a Cartoon
+29:34 Fact 8 — Ten Cadillacs Buried Nose-First in a Wheat Field
+31:05 Fact 7 — The City That Once Made Nearly All the World's Helium
+32:48 Fact 6 — The Underground Ocean Running Out Beneath the Wheat
+35:08 Fact 5 — The Quarry That Supplied Toolmakers a Thousand Miles Away
+37:20 Fact 4 — The Plant the Neighbors Called the Soap Factory
+39:24 Fact 3 — The Fence Built to Pay for a State Capitol
+41:38 Fact 2 — The Second-Largest Canyon in the Country, Hiding in Plain Sight
+44:06 Fact 1 — The Step Most Drivers Never Notice They Crossed
+46:59 Closing
+[NOT: Zamanlar script kelime sayısından dakikada 150 kelimeyle hesaplandı (toplam ~48 dk). Ses hızı farklıysa, son sesin süresine göre orantılı kaydır; yüklemeden önce birkaç bölüm başını videoda kontrol et.]
+
+📚 Sources:
+National Park Service — Alibates Flint Quarries National Monument (nps.gov/alfl)
+National Park Service — Lake Meredith National Recreation Area (nps.gov/lamr)
+US Department of Energy / NNSA — Pantex Plant history (pantex.energy.gov)
+Texas Parks and Wildlife Department — Palo Duro Canyon State Park history and geology (tpwd.texas.gov)
+Texas Parks and Wildlife Department — Texas State Bison Herd, Caprock Canyons
+Texas Water Development Board — Report R248, Panhandle irrigation and Ogallala Aquifer history
+Texas Historical Commission — Historical marker database, Amarillo / Panhandle entries
+Encyclopaedia Britannica — Caprock Escarpment
+Texas Tech University Southwest Collection — XIT Ranch archival guide
+US Bureau of Reclamation — Canadian River Project overview
+
+Walter Hale is a narrator persona. Illustrations are original drawings based on real geography and may simplify details. Sources: National Park Service, Texas Parks and Wildlife Department, Texas Water Development Board, Encyclopaedia Britannica — listed above. Know this region? Tell us what we missed.
+
+## TAGS (15)
+texas panhandle, amarillo texas, palo duro canyon, caprock escarpment, texas geography, hidden america, big texan steak ranch, xit ranch history, pantex plant, ogallala aquifer, texas road trip, cadillac ranch, route 66 texas, llano estacado, hidden map america
+
+## PINNED COMMENT
+"Which fact surprised you most? And if you live in the Texas Panhandle — what did I miss?"
+
+## THUMBNAIL BRIEF
+persona.png (Walter Hale, waist-up, cream shirt) on the left; background uses a Palo Duro Canyon rim shot (Fact 2 visual) with the layered red and orange hoodoo rock clearly visible, not a generic canyon wall — this is the detail that differentiates it from stock canyon thumbnails; region word "PANHANDLE" in one line, serif ExtraBold, cream color, upper right; below it a red banner reading "HIDDEN"; small Texas state silhouette with Panhandle highlighted, bottom right corner.
+
+## THUMBNAIL TEXT
+PANHANDLE | HIDDEN
+
+## baslik_kaydi
+2026-10-21 | Texas Panhandle Is Hiding Something Most Americans Never Notice | Hidden Map America | region not yet covered by America with Amos (checked 2026-10-19 research) | next region planned: Hill Country

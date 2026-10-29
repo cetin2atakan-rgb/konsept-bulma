@@ -1,0 +1,46 @@
+## TITLE: Why Are Airplane Windows Rounded Instead of Square?
+
+## ALTERNATİF (2)
+1. What Really Caused the de Havilland Comet to Fall Apart in Midair?
+2. The Forgotten Crashes That Rounded Every Airplane Window on Earth
+
+## DESCRIPTION
+Every airplane window you have ever flown past is rounded or oval, and that was not a design choice, it was a lesson learned the hard way in the early 1950s. This video traces the de Havilland Comet accidents of 1954, the Farnborough water-tank test that found the real cause, and the metal fatigue problem that quietly reshaped every pressurized aircraft built since.
+
+⏱ Chapters
+0:00 Why every airplane window is rounded
+1:02 It's not aerodynamics
+3:04 The Comet and the 1954 accidents
+11:21 Stress concentration and metal fatigue
+16:36 What if nobody had found the cause?
+19:58 The evidence on your next flight
+23:33 The same lesson in ships, trains and phones
+[NOT: 3.859 kelimeden dakikada 150 kelimeyle hesaplandı (~25,7 dk). Ses farklıysa orantılı kaydır.]
+
+📚 Sources (see full list with confidence ratings in kaynaklar.md)
+- FAA Lessons Learned database, de Havilland DH-106 Comet 1 accident summaries
+- Aviation Safety Network accident records for G-ALYP, G-ALYY and G-ALYV
+- Aerossurance, "Common Comet Misconceptions and Collaborative Contribution to Safety"
+- Aeroxplorer, reporting on the Comet accident investigation and the window-shape misconception
+- Wikipedia summaries of BOAC Flight 781 and South African Airways Flight 201, cross-checked against the above
+- IMechE reader correspondence from a Royal Aircraft Establishment investigation team member
+
+Diagrams and illustrations are original. Sources are listed above. If you know a detail we missed, say it in the comments — corrections are welcome.
+
+## TAGS (15)
+airplane windows explained, why airplane windows are round, de havilland comet, comet airplane crash, metal fatigue explained, stress concentration, aviation history, engineering explained, weird history, aircraft design history, airplane engineering, how things are built, jet age history, aviation disaster investigation, built that way
+
+## PINNED COMMENT
+What is the strangest small engineering detail you have ever noticed on an airplane? Tell us in the comments below. Corrections welcome; we update the description when a detail needs fixing.
+
+## END SCREEN
+Point to the nearest matching stock video in the "built that way" catalog about a different small engineering or design decision that quietly reshaped an entire industry (for example, a standards or structural-fatigue topic). If no closer match exists yet, point to the most recent published video in the channel.
+
+## THUMBNAIL BRIEF
+Dark slate background (#1C2228). A single large technical line-drawing of an oval airplane window frame, shown head-on, rendered in thin white outline with one teal accent line (#2FB8B0) tracing the curve of the frame. No face, no cabin interior, no logo. Clean, high contrast, legible at small size.
+
+## THUMBNAIL TEXT
+Why Round, Not Square?
+
+## baslik_kaydi
+baslik_kaydi: "Why Are Airplane Windows Rounded Instead of Square?" | sinif: Ulasim | tarih: 2026-10-21 | durum: taslak_tamamlandi

@@ -1,0 +1,94 @@
+"""Pick trailer shots for the background, timed to the voiceover.
+
+Reads the shot catalogs in trailers/catalog_*.json and the VO captions (src/captions.json:
+[{s, e, t}] in seconds), cuts a new background shot every ~3.5 s, and scores each catalog shot
+by how well its tags match the words being spoken. A shot is never used twice while unused
+ones remain. Writes src/footage.json: [{at, dur, src, from}] (seconds).
+
+    python tools/match_trailer.py [--every 3.5] [--seed 1] [--only launch_trailer]
+    python tools/match_trailer.py --captions src/v2/captions.json --out src/v2/footage.json --avoid src/footage.json
+"""
+import argparse, glob, json, random, re
+
+# spoken word -> catalog tags it should pull in (weight 3); generic fallbacks score lower
+KEYWORDS = {
+    r"\bmap|leonida|world|square miles|bigger|size of|everglades|keys\b": ["aerial", "skyline", "city", "vice-city", "swamp", "everglades", "keys", "map"],
+    r"\bfile size|install|gb\b|gigs?|storage|download|console|ps5|xbox|pro\b|enhanced": ["gameplay", "driving", "hud", "traffic", "city"],
+    r"frame|fps|30|60|performance|smooth": ["driving", "chase", "racing", "traffic", "gameplay"],
+    r"lucia": ["lucia"], r"jason": ["jason"],
+    r"voice|cast|actor|actress|cameo|celebrit|plays|role": ["character", "closeup", "dialogue", "characters"],
+    r"radio|music|station|album|song|track|artist": ["car", "driving", "nightclub", "party", "neon", "convertible"],
+    r"online|multiplayer|players|friends": ["party", "crowd", "racing", "activities", "friends"],
+    r"budget|money|billion|million|cost|price|\$|dollars|paid": ["money", "luxury", "heist", "duffel-bag", "jewelry-store"],
+    r"release|november|launch|date|delay|pre-?order|days? left|days? from": ["skyline", "sunset", "iconic", "night"],
+    r"\bpc\b|computer": ["skyline", "aerial", "night"],
+    r"police|cops|wanted|crime|robber|heist|steal": ["robbery", "police", "heist", "chase", "shootout"],
+    r"social media|phone|influencer|stream|viral|post": ["phone", "social-media", "livestream"],
+    r"beach|vice city|miami|ocean|boat": ["beach", "vice-city", "ocean", "boat", "jetski"],
+    r"mission|story|campaign|gives|boss": ["dialogue", "characters", "heist", "deal"],
+    r"night|club|party": ["nightclub", "party", "night", "neon"],
+    r"car|drive|driving|vehicle": ["car", "driving"],
+    r"gun|weapon|shoot": ["gun", "shootout"],
+    r"trailer|rockstar|official|confirm": ["iconic", "skyline", "city"],
+    r"preorder|bonus|pack|garage|stanier|outfit|vintage|edition|ultimate|upgrade": ["car", "luxury", "vintage", "convertible", "garage"],
+    r"cheetah|dominator|vehicle|buggy": ["car", "racing", "sports-car", "driving"], r"squalo": ["boat", "jetski", "ocean"],
+    r"business|salon|tattoo|customs|store|shop": ["shop", "street", "nightlife", "city"],
+    r"review|embargo|insider|stream": ["phone", "livestream", "social-media", "dialogue"],
+}
+GENERIC = ["city", "street", "driving", "skyline", "daytime", "vice-city"]
+
+ap = argparse.ArgumentParser()
+ap.add_argument("--every", type=float, default=3.5)
+ap.add_argument("--seed", type=int, default=1)
+ap.add_argument("--only", help="use only this trailer src, e.g. launch_trailer")
+ap.add_argument("--captions", default="src/captions.json")
+ap.add_argument("--out", default="src/footage.json")
+ap.add_argument("--avoid", nargs="*", default=[], help="footage.json files of other videos; their shots are picked last")
+ap.add_argument("--pin", nargs="*", default=[], help="SECONDS=SHOT_ID: start this shot at this time, e.g. 0=EXT_162")
+a = ap.parse_args()
+random.seed(a.seed)
+
+shots = []
+for f in sorted(glob.glob("trailers/catalog_*.json")):
+    shots += [s for s in json.load(open(f)) if s["use"] == "yes" and s["dur"] >= 1.4 and (not a.only or s["src"] == a.only)]
+caps = json.load(open(a.captions))
+avoid = {sh["id"] for f in a.avoid for sh in json.load(open(f))}
+end = max(c["e"] for c in caps) + 1.5
+
+def words(t0, t1):
+    return " ".join(c["t"] for c in caps if c["e"] > t0 and c["s"] < t1).lower()
+
+def score(shot, text):
+    tags = set(shot["tags"])
+    sc = 0.0
+    for pat, want in KEYWORDS.items():
+        if re.search(pat, text):
+            sc += 3 * len(tags & set(want))
+    sc += 0.5 * len(tags & set(GENERIC))
+    if "gameplay-ui" in tags or "dark" in tags:
+        sc -= 1.5          # HUD overlays and near-black shots read badly under cards
+    if shot["src"] == "launch_trailer":
+        sc += 1.0          # cinematic trailer shots look best; prefer them on equal matches
+    if shot["id"] in avoid:
+        sc -= 100.0        # already used in another video: only once the fresh shots run out
+    return sc + random.random() * 0.8
+
+pins = sorted((float(x.split("=")[0]), x.split("=")[1]) for x in a.pin)
+by_id = {s["id"]: s for s in shots}
+used, out, t = set(), [], 0.0
+while t < end:
+    win = min(a.every, end - t)
+    nxt = [p for p in pins if t - 0.05 <= p[0] < t + win]
+    if nxt and nxt[0][0] > t + 0.8:
+        win = nxt[0][0] - t          # stop this shot where the pinned one starts
+        nxt = []
+    text = words(t, t + win)
+    pool = [s for s in shots if s["id"] not in used] or shots
+    best = by_id[nxt[0][1]] if nxt else max(pool, key=lambda s: score(s, text))
+    used.add(best["id"])
+    pad = 0.1 if best.get("frame_accurate") else 0.3   # keep clear of the neighbouring shot's frames
+    dur = best["dur"] - 2 * pad if nxt else min(win, best["dur"] - 2 * pad)   # a pinned shot plays in full
+    out.append({"at": round(t, 2), "dur": round(dur, 2), "src": best["src"], "from": round(best["start"] + pad, 2), "id": best["id"], "desc": best["desc"]})
+    t += dur
+json.dump(out, open(a.out, "w"), indent=1)
+print(len(out), "background shots,", len(used), "distinct,", sum(o["id"] in avoid for o in out), "also in", a.avoid)

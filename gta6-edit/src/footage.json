@@ -1,0 +1,1338 @@
+[
+ {
+  "at": 0.0,
+  "dur": 1.73,
+  "src": "launch_trailer",
+  "from": 46.43,
+  "id": "LT_021",
+  "desc": "police cars spin out on sunny Vice City street, palms"
+ },
+ {
+  "at": 1.73,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 525.1,
+  "id": "EXT_088",
+  "desc": "driving convertible on wide boulevard, traffic"
+ },
+ {
+  "at": 5.23,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 503.1,
+  "id": "EXT_086",
+  "desc": "driving red convertible beside a tanker truck, minimap (driving gameplay)"
+ },
+ {
+  "at": 8.73,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 767.1,
+  "id": "EXT_132",
+  "desc": "driving sedan toward high-rises"
+ },
+ {
+  "at": 12.23,
+  "dur": 3.5,
+  "src": "launch_trailer",
+  "from": 73.27,
+  "id": "LT_032",
+  "desc": "slow aerial over night Vice City, neon lights"
+ },
+ {
+  "at": 15.73,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 1542.23,
+  "id": "EXT_271",
+  "desc": "night skyline of Vice City, neon towers (aerial)"
+ },
+ {
+  "at": 19.23,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 740.1,
+  "id": "EXT_129",
+  "desc": "wide city view from rooftop, high-rises, helicopter"
+ },
+ {
+  "at": 22.73,
+  "dur": 2.73,
+  "src": "extended_look",
+  "from": 1567.3,
+  "id": "EXT_279",
+  "desc": "sunset over Vice City skyline (golden)"
+ },
+ {
+  "at": 25.47,
+  "dur": 2.67,
+  "src": "extended_look",
+  "from": 476.1,
+  "id": "EXT_082",
+  "desc": "sunny city: apartment block, palms, high-rises, street"
+ },
+ {
+  "at": 28.13,
+  "dur": 1.8,
+  "src": "extended_look",
+  "from": 568.27,
+  "id": "EXT_098",
+  "desc": "aerial over rooftop bar and city blocks, ocean in distance"
+ },
+ {
+  "at": 29.93,
+  "dur": 1.5,
+  "src": "extended_look",
+  "from": 1211.4,
+  "id": "EXT_213",
+  "desc": "purple-lit skyscraper at night, low angle"
+ },
+ {
+  "at": 31.43,
+  "dur": 1.7,
+  "src": "launch_trailer",
+  "from": 39.9,
+  "id": "LT_018",
+  "desc": "Jason and Lucia leaning on red muscle car by shipping containers, sunset (iconic)"
+ },
+ {
+  "at": 33.13,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 1204.1,
+  "id": "EXT_212",
+  "desc": "SUV driving across bridge at night, skyline lights"
+ },
+ {
+  "at": 36.63,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 669.33,
+  "id": "EXT_116",
+  "desc": "two men face off on rooftop at sunset, city skyline"
+ },
+ {
+  "at": 40.13,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 777.1,
+  "id": "EXT_133",
+  "desc": "driving sedan on highway, highway signs, towers"
+ },
+ {
+  "at": 43.63,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 514.1,
+  "id": "EXT_087",
+  "desc": "driving convertible through intersection, highway overpass, skyline"
+ },
+ {
+  "at": 47.13,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 1116.63,
+  "id": "EXT_196",
+  "desc": "night drive in red convertible, city lights"
+ },
+ {
+  "at": 50.63,
+  "dur": 1.27,
+  "src": "launch_trailer",
+  "from": 25.83,
+  "id": "LT_009",
+  "desc": "Lucia leaning out of red convertible, Jason driving in sunglasses, towers behind (iconic)"
+ },
+ {
+  "at": 51.9,
+  "dur": 2.53,
+  "src": "extended_look",
+  "from": 377.33,
+  "id": "EXT_062",
+  "desc": "sunny city street, woman jogging past parked pickup, high-rises, palms"
+ },
+ {
+  "at": 54.44,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 934.1,
+  "id": "EXT_163",
+  "desc": "sedan races down palm boulevard, cars swerving"
+ },
+ {
+  "at": 57.94,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 921.2,
+  "id": "EXT_161",
+  "desc": "sedan drives out onto street past storefronts, minimap"
+ },
+ {
+  "at": 61.44,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 757.1,
+  "id": "EXT_131",
+  "desc": "driving sedan, palm-lined road, sun flare"
+ },
+ {
+  "at": 64.94,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 974.03,
+  "id": "EXT_168",
+  "desc": "brown van drives along waterfront street, stop sign, flowers, bay"
+ },
+ {
+  "at": 68.44,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 927.03,
+  "id": "EXT_162",
+  "desc": "sedan speeding through residential street, police pursuit icons"
+ },
+ {
+  "at": 71.94,
+  "dur": 1.7,
+  "src": "launch_trailer",
+  "from": 54.63,
+  "id": "LT_023",
+  "desc": "biplane with pink smoke flies over crowded beach, high-rises"
+ },
+ {
+  "at": 73.64,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 732.57,
+  "id": "EXT_128",
+  "desc": "two men on rooftop overlooking city, helicopter in sky"
+ },
+ {
+  "at": 77.14,
+  "dur": 2.8,
+  "src": "extended_look",
+  "from": 536.23,
+  "id": "EXT_089",
+  "desc": "person climbing on bridge railing, high-rise behind (stunt / world detail)"
+ },
+ {
+  "at": 79.94,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 747.6,
+  "id": "EXT_130",
+  "desc": "driving grey sedan on waterfront road, sunlight, minimap"
+ },
+ {
+  "at": 83.44,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 1059.23,
+  "id": "EXT_187",
+  "desc": "street race: white race car with livery, lap counter HUD"
+ },
+ {
+  "at": 86.94,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 985.1,
+  "id": "EXT_169",
+  "desc": "aerial: neighborhood with tennis courts, beach town, high-rises in distance"
+ },
+ {
+  "at": 90.44,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 1112.23,
+  "id": "EXT_195",
+  "desc": "dirt bike race through hills, lap/time HUD"
+ },
+ {
+  "at": 93.94,
+  "dur": 1.7,
+  "src": "extended_look",
+  "from": 1042.43,
+  "id": "EXT_182",
+  "desc": "jet ski at sunset across bay, skyline"
+ },
+ {
+  "at": 95.64,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 837.5,
+  "id": "EXT_142",
+  "desc": "police helicopter over street, high-rises, police lights on minimap"
+ },
+ {
+  "at": 99.14,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 940.7,
+  "id": "EXT_164",
+  "desc": "police cruiser close behind (POLICE livery), pursuit"
+ },
+ {
+  "at": 102.64,
+  "dur": 2.57,
+  "src": "extended_look",
+  "from": 947.33,
+  "id": "EXT_165",
+  "desc": "sedan escapes past parking structure"
+ },
+ {
+  "at": 105.2,
+  "dur": 1.9,
+  "src": "extended_look",
+  "from": 1046.37,
+  "id": "EXT_184",
+  "desc": "kayaking in harbor, high-rises behind"
+ },
+ {
+  "at": 107.1,
+  "dur": 3.13,
+  "src": "extended_look",
+  "from": 1219.73,
+  "id": "EXT_217",
+  "desc": "street race through industrial area at dusk"
+ },
+ {
+  "at": 110.24,
+  "dur": 3.5,
+  "src": "launch_trailer",
+  "from": 2.13,
+  "id": "LT_002",
+  "desc": "The Keys roadside sign with heron and fish, sunny"
+ },
+ {
+  "at": 113.74,
+  "dur": 3.5,
+  "src": "launch_trailer",
+  "from": 68.0,
+  "id": "LT_030",
+  "desc": "man hanging from helicopter skid over night city lights"
+ },
+ {
+  "at": 117.24,
+  "dur": 2.17,
+  "src": "extended_look",
+  "from": 366.73,
+  "id": "EXT_060",
+  "desc": "red classic muscle car with Jason and Lucia drives out of lot"
+ },
+ {
+  "at": 119.4,
+  "dur": 2.27,
+  "src": "extended_look",
+  "from": 1014.63,
+  "id": "EXT_173",
+  "desc": "street view from van, motorcyclist, parked cars"
+ },
+ {
+  "at": 121.67,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 885.1,
+  "id": "EXT_152",
+  "desc": "woman driver at wheel in dark car"
+ },
+ {
+  "at": 125.17,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 791.57,
+  "id": "EXT_135",
+  "desc": "Jason driving, Lucia passenger, close"
+ },
+ {
+  "at": 128.67,
+  "dur": 2.73,
+  "src": "extended_look",
+  "from": 831.1,
+  "id": "EXT_140",
+  "desc": "car interior looking out at street"
+ },
+ {
+  "at": 131.4,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 844.03,
+  "id": "EXT_143",
+  "desc": "man on foot fires rifle at police cars on street (gameplay shootout)"
+ },
+ {
+  "at": 134.9,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 586.1,
+  "id": "EXT_101",
+  "desc": "man in black and woman in pink walk hand-in-hand onto sunny rooftop bar, skyline"
+ },
+ {
+  "at": 138.4,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 596.1,
+  "id": "EXT_102",
+  "desc": "rooftop bar walk, balloons, skyline"
+ },
+ {
+  "at": 141.9,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 492.1,
+  "id": "EXT_085",
+  "desc": "red convertible parked under building, minimap visible (gameplay)"
+ },
+ {
+  "at": 145.4,
+  "dur": 2.93,
+  "src": "extended_look",
+  "from": 902.77,
+  "id": "EXT_157",
+  "desc": "mustached man close talking"
+ },
+ {
+  "at": 148.34,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 1124.97,
+  "id": "EXT_197",
+  "desc": "skydiver freefalling over island city and canals"
+ },
+ {
+  "at": 151.84,
+  "dur": 1.9,
+  "src": "extended_look",
+  "from": 1230.2,
+  "id": "EXT_220",
+  "desc": "top-down night: building with rainbow neon sign"
+ },
+ {
+  "at": 153.74,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 289.1,
+  "id": "EXT_045",
+  "desc": "gunfight, sparks hitting wall, enemy at end of corridor"
+ },
+ {
+  "at": 157.24,
+  "dur": 1.83,
+  "src": "extended_look",
+  "from": 1139.1,
+  "id": "EXT_199",
+  "desc": "top-down aerial: beach, resort, city blocks"
+ },
+ {
+  "at": 159.07,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 1130.63,
+  "id": "EXT_198",
+  "desc": "parachute opening over skyline"
+ },
+ {
+  "at": 162.57,
+  "dur": 1.6,
+  "src": "extended_look",
+  "from": 714.53,
+  "id": "EXT_122",
+  "desc": "Lucia in red bandana mask and partner in masks outside store, low angle (iconic robbery)"
+ },
+ {
+  "at": 164.17,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 1010.63,
+  "id": "EXT_172",
+  "desc": "Lucia close in grey crop hoodie, Jason behind, Leonida mural"
+ },
+ {
+  "at": 167.67,
+  "dur": 2.53,
+  "src": "launch_trailer",
+  "from": 41.8,
+  "id": "LT_019",
+  "desc": "hand on safe dial/vault door close-up (heist)"
+ },
+ {
+  "at": 170.2,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 1077.43,
+  "id": "EXT_189",
+  "desc": "jewelry store robbery, people on floor, armed robber"
+ },
+ {
+  "at": 173.7,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 1017.1,
+  "id": "EXT_174",
+  "desc": "Jason and Lucia by tiled wall, WARNING cameras sign"
+ },
+ {
+  "at": 177.2,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 787.33,
+  "id": "EXT_134",
+  "desc": "Jason and Lucia in car looking at phone, billboard outside"
+ },
+ {
+  "at": 180.7,
+  "dur": 1.7,
+  "src": "launch_trailer",
+  "from": 44.53,
+  "id": "LT_020",
+  "desc": "woman dancing in pink nightclub lights"
+ },
+ {
+  "at": 182.4,
+  "dur": 2.37,
+  "src": "extended_look",
+  "from": 1056.67,
+  "id": "EXT_186",
+  "desc": "nightclub dance floor, pink/purple lights, dancers"
+ },
+ {
+  "at": 184.77,
+  "dur": 1.87,
+  "src": "extended_look",
+  "from": 897.97,
+  "id": "EXT_155",
+  "desc": "mustached man with glasses close, car interior"
+ },
+ {
+  "at": 186.63,
+  "dur": 1.77,
+  "src": "extended_look",
+  "from": 1561.4,
+  "id": "EXT_277",
+  "desc": "tattooed man at night club bar, blue/red light"
+ },
+ {
+  "at": 188.4,
+  "dur": 2.1,
+  "src": "launch_trailer",
+  "from": 11.37,
+  "id": "LT_005",
+  "desc": "bearded man in tank top on phone at boatyard"
+ },
+ {
+  "at": 190.5,
+  "dur": 2.8,
+  "src": "launch_trailer",
+  "from": 6.43,
+  "id": "LT_003",
+  "desc": "bearded man polishing a boat hull with buffer"
+ },
+ {
+  "at": 193.3,
+  "dur": 3.4,
+  "src": "extended_look",
+  "from": 716.33,
+  "id": "EXT_123",
+  "desc": "masked duo close low angle, confident"
+ },
+ {
+  "at": 196.7,
+  "dur": 1.37,
+  "src": "launch_trailer",
+  "from": 27.3,
+  "id": "LT_010",
+  "desc": "armed men wading through swamp at sunset, mangroves"
+ },
+ {
+  "at": 198.07,
+  "dur": 1.73,
+  "src": "launch_trailer",
+  "from": 9.43,
+  "id": "LT_004",
+  "desc": "man works on boat in dry dock, sunlit marina"
+ },
+ {
+  "at": 199.8,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 879.07,
+  "id": "EXT_151",
+  "desc": "getaway car interior, mustached man and masked partner"
+ },
+ {
+  "at": 203.3,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 996.83,
+  "id": "EXT_170",
+  "desc": "Lucia meets man with bag on sunny sidewalk, man in leather jacket"
+ },
+ {
+  "at": 206.8,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 362.33,
+  "id": "EXT_059",
+  "desc": "daytime: Jason walks to red classic car in sunny strip-mall lot, eagle/flag mural, palm trees"
+ },
+ {
+  "at": 210.3,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 299.53,
+  "id": "EXT_047",
+  "desc": "Jason and Lucia in graffiti hallway, tense"
+ },
+ {
+  "at": 213.8,
+  "dur": 2.4,
+  "src": "extended_look",
+  "from": 541.5,
+  "id": "EXT_091",
+  "desc": "man filming himself with phone outside liquor store (social media / vlogger NPC)"
+ },
+ {
+  "at": 216.2,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 1089.37,
+  "id": "EXT_191",
+  "desc": "man with phone filming woman on sidewalk (social media, content creator)"
+ },
+ {
+  "at": 219.7,
+  "dur": 2.93,
+  "src": "extended_look",
+  "from": 1027.3,
+  "id": "EXT_177",
+  "desc": "airboat speeding through green swamp, cypress trees (Everglades)"
+ },
+ {
+  "at": 222.63,
+  "dur": 2.63,
+  "src": "extended_look",
+  "from": 1105.9,
+  "id": "EXT_193",
+  "desc": "crowded beach with yellow umbrellas, sunbathers"
+ },
+ {
+  "at": 225.27,
+  "dur": 2.03,
+  "src": "extended_look",
+  "from": 1545.93,
+  "id": "EXT_272",
+  "desc": "aerial luxury tower with rooftop pool and sculpture"
+ },
+ {
+  "at": 227.3,
+  "dur": 2.83,
+  "src": "extended_look",
+  "from": 1030.43,
+  "id": "EXT_178",
+  "desc": "man in tank top under stilt house, basketball hoop (Keys/fishing village)"
+ },
+ {
+  "at": 230.14,
+  "dur": 1.33,
+  "src": "launch_trailer",
+  "from": 35.93,
+  "id": "LT_015",
+  "desc": "woman silhouette by sunlit window, warm light"
+ },
+ {
+  "at": 231.47,
+  "dur": 1.23,
+  "src": "launch_trailer",
+  "from": 56.53,
+  "id": "LT_024",
+  "desc": "muscular tattooed man working out in gym"
+ },
+ {
+  "at": 232.7,
+  "dur": 1.23,
+  "src": "launch_trailer",
+  "from": 33.1,
+  "id": "LT_013",
+  "desc": "armed figure crouched under neon-lit overpass at night, smoke"
+ },
+ {
+  "at": 233.94,
+  "dur": 1.2,
+  "src": "launch_trailer",
+  "from": 34.53,
+  "id": "LT_014",
+  "desc": "silhouette through porthole/round window, debris flying (heist)"
+ },
+ {
+  "at": 235.14,
+  "dur": 1.23,
+  "src": "launch_trailer",
+  "from": 38.47,
+  "id": "LT_017",
+  "desc": "person on car roof racing under plane at dusk, airport"
+ },
+ {
+  "at": 236.37,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 642.5,
+  "id": "EXT_111",
+  "desc": "rooftop restaurant table: couple, older man in floral shirt, cocktails"
+ },
+ {
+  "at": 239.87,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 56.1,
+  "id": "EXT_007",
+  "desc": "hallway: man in bucket hat and big guy in gold chain"
+ },
+ {
+  "at": 243.37,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 76.1,
+  "id": "EXT_009",
+  "desc": "graffiti wall, Jason talks to residents"
+ },
+ {
+  "at": 246.87,
+  "dur": 1.27,
+  "src": "launch_trailer",
+  "from": 66.53,
+  "id": "LT_029",
+  "desc": "couple embrace on balcony at sunset, ocean"
+ },
+ {
+  "at": 248.14,
+  "dur": 1.2,
+  "src": "launch_trailer",
+  "from": 57.97,
+  "id": "LT_025",
+  "desc": "man in vest lounging, eating on couch (character)"
+ },
+ {
+  "at": 249.34,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 1067.4,
+  "id": "EXT_188",
+  "desc": "woman at repair shop storefront, pawn shop signs, NPCs"
+ },
+ {
+  "at": 252.84,
+  "dur": 3.07,
+  "src": "launch_trailer",
+  "from": 59.37,
+  "id": "LT_026",
+  "desc": "tactical woman with braids and vest, explosion behind at night"
+ },
+ {
+  "at": 255.9,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 386.83,
+  "id": "EXT_066",
+  "desc": "woman lying on pink bed scrolling phone"
+ },
+ {
+  "at": 259.4,
+  "dur": 2.9,
+  "src": "extended_look",
+  "from": 231.3,
+  "id": "EXT_033",
+  "desc": "red duffel bag on floor, close-up"
+ },
+ {
+  "at": 262.3,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 1258.03,
+  "id": "EXT_224",
+  "desc": "exclusive party: guests in suits, neon, balloons"
+ },
+ {
+  "at": 265.8,
+  "dur": 3.23,
+  "src": "extended_look",
+  "from": 1570.23,
+  "id": "EXT_280",
+  "desc": "friends partying on a boat, drinks, sea"
+ },
+ {
+  "at": 269.04,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 1215.17,
+  "id": "EXT_215",
+  "desc": "night pool party, glowing pool, crowd"
+ },
+ {
+  "at": 272.54,
+  "dur": 2.07,
+  "src": "extended_look",
+  "from": 539.23,
+  "id": "EXT_090",
+  "desc": "night street: woman in red sports car, pedestrian falls, neon"
+ },
+ {
+  "at": 274.6,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 14.1,
+  "id": "EXT_003",
+  "desc": "Jason meets shirtless gang member with towel and crew in graffiti breezeway"
+ },
+ {
+  "at": 278.1,
+  "dur": 2.77,
+  "src": "extended_look",
+  "from": 548.77,
+  "id": "EXT_094",
+  "desc": "night street, burning cars, armed people"
+ },
+ {
+  "at": 280.87,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 1194.5,
+  "id": "EXT_210",
+  "desc": "night waterfront, woman walks toward group"
+ },
+ {
+  "at": 284.37,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 35.1,
+  "id": "EXT_005",
+  "desc": "crew walks off through breezeway, people loitering, man slumped on bench"
+ },
+ {
+  "at": 287.87,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 1241.1,
+  "id": "EXT_222",
+  "desc": "night arrival at neon-lit venue entrance, guests"
+ },
+ {
+  "at": 291.37,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 1084.3,
+  "id": "EXT_190",
+  "desc": "cyclist on street at sunset, traffic lights"
+ },
+ {
+  "at": 294.87,
+  "dur": 2.83,
+  "src": "launch_trailer",
+  "from": 63.5,
+  "id": "LT_028",
+  "desc": "man firing pistol, teal smoky light"
+ },
+ {
+  "at": 297.7,
+  "dur": 2.83,
+  "src": "extended_look",
+  "from": 1223.07,
+  "id": "EXT_218",
+  "desc": "packed nightclub dance floor, purple lights"
+ },
+ {
+  "at": 300.54,
+  "dur": 1.63,
+  "src": "extended_look",
+  "from": 1386.2,
+  "id": "EXT_237",
+  "desc": "high-angle: crowded luxury party, lights"
+ },
+ {
+  "at": 302.17,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 562.23,
+  "id": "EXT_097",
+  "desc": "rooftop/backyard party, pool float, people sunbathing"
+ },
+ {
+  "at": 305.67,
+  "dur": 1.53,
+  "src": "extended_look",
+  "from": 1548.17,
+  "id": "EXT_273",
+  "desc": "men fishing from boat on bay"
+ },
+ {
+  "at": 307.2,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 1371.5,
+  "id": "EXT_235",
+  "desc": "blue-lit party hall with stairs, guests dancing"
+ },
+ {
+  "at": 310.7,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 1249.1,
+  "id": "EXT_223",
+  "desc": "man walks up candle-lined carpet into party"
+ },
+ {
+  "at": 314.2,
+  "dur": 3.13,
+  "src": "extended_look",
+  "from": 199.1,
+  "id": "EXT_025",
+  "desc": "man drops red duffel bag by table"
+ },
+ {
+  "at": 317.34,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 1278.17,
+  "id": "EXT_226",
+  "desc": "group of women and man talking at party"
+ },
+ {
+  "at": 320.84,
+  "dur": 1.87,
+  "src": "extended_look",
+  "from": 1213.1,
+  "id": "EXT_214",
+  "desc": "night party: woman dancing by car, neon"
+ },
+ {
+  "at": 322.7,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 1549.9,
+  "id": "EXT_274",
+  "desc": "strip-club style bar, neon, dancer arms"
+ },
+ {
+  "at": 326.2,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 481.0,
+  "id": "EXT_084",
+  "desc": "man walks to red convertible in leafy parking area"
+ },
+ {
+  "at": 329.7,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 1200.1,
+  "id": "EXT_211",
+  "desc": "dark car interior at night"
+ },
+ {
+  "at": 333.2,
+  "dur": 2.77,
+  "src": "extended_look",
+  "from": 876.1,
+  "id": "EXT_150",
+  "desc": "street with burning wrecks and police cars, bus"
+ },
+ {
+  "at": 335.97,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 1048.47,
+  "id": "EXT_185",
+  "desc": "night club entrance, bouncers in green light"
+ },
+ {
+  "at": 339.47,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 1270.97,
+  "id": "EXT_225",
+  "desc": "woman in sequin dress at party, close"
+ },
+ {
+  "at": 342.97,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 1232.3,
+  "id": "EXT_221",
+  "desc": "dark: woman exits car at night"
+ },
+ {
+  "at": 346.47,
+  "dur": 2.13,
+  "src": "extended_look",
+  "from": 1040.1,
+  "id": "EXT_181",
+  "desc": "woman diving into turquoise ocean, beach town behind"
+ },
+ {
+  "at": 348.6,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 1226.1,
+  "id": "EXT_219",
+  "desc": "woman holding drink above club dance floor, DRINK prompt"
+ },
+ {
+  "at": 352.1,
+  "dur": 2.9,
+  "src": "extended_look",
+  "from": 918.1,
+  "id": "EXT_160",
+  "desc": "car drives out of alley into sunlight"
+ },
+ {
+  "at": 355.0,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 905.9,
+  "id": "EXT_158",
+  "desc": "car drives into dark garage tunnel"
+ },
+ {
+  "at": 358.5,
+  "dur": 2.8,
+  "src": "extended_look",
+  "from": 857.1,
+  "id": "EXT_145",
+  "desc": "police car (832) crashes into pole after gunfire"
+ },
+ {
+  "at": 361.3,
+  "dur": 1.8,
+  "src": "extended_look",
+  "from": 1455.1,
+  "id": "EXT_249",
+  "desc": "woman silhouette at door, blue light"
+ },
+ {
+  "at": 363.1,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 961.1,
+  "id": "EXT_167",
+  "desc": "parking garage: man loads bag into brown van"
+ },
+ {
+  "at": 366.6,
+  "dur": 2.73,
+  "src": "extended_look",
+  "from": 648.03,
+  "id": "EXT_112",
+  "desc": "rooftop table conversation, bald man in sunglasses"
+ },
+ {
+  "at": 369.34,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 1161.7,
+  "id": "EXT_205",
+  "desc": "lounge conversation, jets outside"
+ },
+ {
+  "at": 372.84,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 1447.87,
+  "id": "EXT_247",
+  "desc": "woman silhouette crouches in blue-lit room"
+ },
+ {
+  "at": 376.34,
+  "dur": 2.0,
+  "src": "extended_look",
+  "from": 1025.1,
+  "id": "EXT_176",
+  "desc": "colorful cartoon mural, people hanging out on sidewalk"
+ },
+ {
+  "at": 378.34,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 636.73,
+  "id": "EXT_110",
+  "desc": "rooftop bar sign (fictional brand), patrons at bar"
+ },
+ {
+  "at": 381.84,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 1021.1,
+  "id": "EXT_175",
+  "desc": "Lucia walks away along tiled wall"
+ },
+ {
+  "at": 385.34,
+  "dur": 2.2,
+  "src": "extended_look",
+  "from": 617.17,
+  "id": "EXT_104",
+  "desc": "men in floral shirts grab an old woman by a public locker sign (mugging)"
+ },
+ {
+  "at": 387.54,
+  "dur": 1.57,
+  "src": "extended_look",
+  "from": 547.0,
+  "id": "EXT_093",
+  "desc": "bearded man in sunglasses with assault rifle, woman beside, palms (low angle)"
+ },
+ {
+  "at": 389.1,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 551.73,
+  "id": "EXT_095",
+  "desc": "motel parking lot, man in tank top, residents"
+ },
+ {
+  "at": 392.6,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 1457.1,
+  "id": "EXT_250",
+  "desc": "woman silhouette walks into bright stairwell"
+ },
+ {
+  "at": 396.1,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 1148.6,
+  "id": "EXT_202",
+  "desc": "airport lounge wide, people walking"
+ },
+ {
+  "at": 399.6,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 853.1,
+  "id": "EXT_144",
+  "desc": "man fires at police car in alley"
+ },
+ {
+  "at": 403.1,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 650.97,
+  "id": "EXT_113",
+  "desc": "rooftop table group talk"
+ },
+ {
+  "at": 406.6,
+  "dur": 2.03,
+  "src": "extended_look",
+  "from": 1510.37,
+  "id": "EXT_264",
+  "desc": "man moves through office kitchen with gun"
+ },
+ {
+  "at": 408.64,
+  "dur": 1.83,
+  "src": "extended_look",
+  "from": 478.97,
+  "id": "EXT_083",
+  "desc": "woman in pink dress at glass door, man over-shoulder"
+ },
+ {
+  "at": 410.47,
+  "dur": 1.53,
+  "src": "extended_look",
+  "from": 222.93,
+  "id": "EXT_030",
+  "desc": "two gang men in tank tops, close"
+ },
+ {
+  "at": 412.0,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 1388.03,
+  "id": "EXT_238",
+  "desc": "older man in tuxedo and sunglasses, woman beside (rich villain type)"
+ },
+ {
+  "at": 415.5,
+  "dur": 3.27,
+  "src": "extended_look",
+  "from": 834.03,
+  "id": "EXT_141",
+  "desc": "masked man with rifle leaning out of car window (drive-by)"
+ },
+ {
+  "at": 418.77,
+  "dur": 1.83,
+  "src": "extended_look",
+  "from": 864.1,
+  "id": "EXT_147",
+  "desc": "running with rifle past hedges"
+ },
+ {
+  "at": 420.6,
+  "dur": 2.07,
+  "src": "extended_look",
+  "from": 1508.1,
+  "id": "EXT_263",
+  "desc": "shotgun aimed in dark office"
+ },
+ {
+  "at": 422.67,
+  "dur": 1.8,
+  "src": "extended_look",
+  "from": 436.1,
+  "id": "EXT_074",
+  "desc": "man looks into open fridge full of drinks"
+ },
+ {
+  "at": 424.47,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 189.1,
+  "id": "EXT_024",
+  "desc": "boss talking, smoky lab"
+ },
+ {
+  "at": 427.97,
+  "dur": 2.13,
+  "src": "extended_look",
+  "from": 248.77,
+  "id": "EXT_038",
+  "desc": "fight breaks out in room, scuffle"
+ },
+ {
+  "at": 430.1,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 691.8,
+  "id": "EXT_118",
+  "desc": "golden-hour shootout in parking lot, men firing pistols"
+ },
+ {
+  "at": 433.6,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 818.07,
+  "id": "EXT_138",
+  "desc": "bearded man in sunglasses in back seat"
+ },
+ {
+  "at": 437.1,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 804.9,
+  "id": "EXT_137",
+  "desc": "Lucia in back seat looking at Jason"
+ },
+ {
+  "at": 440.6,
+  "dur": 2.7,
+  "src": "extended_look",
+  "from": 544.1,
+  "id": "EXT_092",
+  "desc": "crowd fight / brawl in back lot"
+ },
+ {
+  "at": 443.3,
+  "dur": 2.87,
+  "src": "extended_look",
+  "from": 236.8,
+  "id": "EXT_035",
+  "desc": "boss holding something, glances aside"
+ },
+ {
+  "at": 446.17,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 1183.07,
+  "id": "EXT_209",
+  "desc": "night hug, cars behind"
+ },
+ {
+  "at": 449.67,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 866.13,
+  "id": "EXT_148",
+  "desc": "firing down alley at car"
+ },
+ {
+  "at": 453.17,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 1469.8,
+  "id": "EXT_254",
+  "desc": "man enters door marked 26"
+ },
+ {
+  "at": 456.67,
+  "dur": 2.8,
+  "src": "extended_look",
+  "from": 1498.1,
+  "id": "EXT_261",
+  "desc": "man in tan coat peeks around office corner"
+ },
+ {
+  "at": 459.47,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 1492.1,
+  "id": "EXT_260",
+  "desc": "dark open-plan office, city lights"
+ },
+ {
+  "at": 462.97,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 1153.47,
+  "id": "EXT_203",
+  "desc": "blonde woman with pearl necklace smiling, private jets outside"
+ },
+ {
+  "at": 466.47,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 1479.0,
+  "id": "EXT_257",
+  "desc": "men in white suits in office, monitors"
+ },
+ {
+  "at": 469.97,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 454.1,
+  "id": "EXT_078",
+  "desc": "TV switches to forest nature scene"
+ },
+ {
+  "at": 473.47,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 703.13,
+  "id": "EXT_120",
+  "desc": "man in jacket enters convenience store, shelves, clerk"
+ },
+ {
+  "at": 476.97,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 1285.5,
+  "id": "EXT_227",
+  "desc": "man in olive suit passes woman in red by elevator"
+ },
+ {
+  "at": 480.47,
+  "dur": 3.5,
+  "src": "extended_look",
+  "from": 1173.17,
+  "id": "EXT_208",
+  "desc": "night: man and woman embrace on tarmac/waterfront"
+ },
+ {
+  "at": 483.97,
+  "dur": 2.0,
+  "src": "extended_look",
+  "from": 4.0,
+  "id": "EXT_002",
+  "desc": "Jason and Lucia walk at night toward a lit apartment-complex breezeway, gang members waiting"
+ }
+]

@@ -1,0 +1,5451 @@
+[
+ {
+  "id": "EXT_001",
+  "src": "extended_look",
+  "start": 0.0,
+  "end": 3.9,
+  "dur": 3.9,
+  "desc": "Rockstar logo on black, age-rating overlay top-left",
+  "tags": [
+   "logo",
+   "intro",
+   "rockstar"
+  ],
+  "energy": "calm",
+  "use": "no",
+  "note": "skip",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_002",
+  "src": "extended_look",
+  "start": 3.9,
+  "end": 14.0,
+  "dur": 10.1,
+  "desc": "Jason and Lucia walk at night toward a lit apartment-complex breezeway, gang members waiting",
+  "tags": [
+   "jason",
+   "lucia",
+   "night",
+   "walking",
+   "apartment",
+   "gang"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "black",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_003",
+  "src": "extended_look",
+  "start": 14.0,
+  "end": 24.0,
+  "dur": 10.0,
+  "desc": "Jason meets shirtless gang member with towel and crew in graffiti breezeway",
+  "tags": [
+   "jason",
+   "lucia",
+   "gang",
+   "meeting",
+   "night",
+   "dialogue"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_004",
+  "src": "extended_look",
+  "start": 24.0,
+  "end": 35.0,
+  "dur": 11.0,
+  "desc": "Jason faces gang leader and red-shirt guy, Lucia watches",
+  "tags": [
+   "jason",
+   "lucia",
+   "gang",
+   "standoff",
+   "dialogue"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_005",
+  "src": "extended_look",
+  "start": 35.0,
+  "end": 45.0,
+  "dur": 10.0,
+  "desc": "crew walks off through breezeway, people loitering, man slumped on bench",
+  "tags": [
+   "jason",
+   "lucia",
+   "gang",
+   "night",
+   "street-life"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_006",
+  "src": "extended_look",
+  "start": 45.0,
+  "end": 56.0,
+  "dur": 11.0,
+  "desc": "Jason and Lucia enter bare tiled apartment hallway",
+  "tags": [
+   "jason",
+   "lucia",
+   "interior",
+   "hallway",
+   "walking"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_007",
+  "src": "extended_look",
+  "start": 56.0,
+  "end": 66.0,
+  "dur": 10.0,
+  "desc": "hallway: man in bucket hat and big guy in gold chain",
+  "tags": [
+   "jason",
+   "gang",
+   "hallway",
+   "characters",
+   "dialogue"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_008",
+  "src": "extended_look",
+  "start": 66.0,
+  "end": 76.0,
+  "dur": 10.0,
+  "desc": "group conversation in red-walled hallway",
+  "tags": [
+   "jason",
+   "lucia",
+   "gang",
+   "dialogue",
+   "interior"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_009",
+  "src": "extended_look",
+  "start": 76.0,
+  "end": 87.0,
+  "dur": 11.0,
+  "desc": "graffiti wall, Jason talks to residents",
+  "tags": [
+   "jason",
+   "graffiti",
+   "interior",
+   "dialogue"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_010",
+  "src": "extended_look",
+  "start": 87.0,
+  "end": 97.0,
+  "dur": 10.0,
+  "desc": "over-shoulder: big guy with gold chains checks phone",
+  "tags": [
+   "jason",
+   "phone",
+   "gang",
+   "closeup"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_011",
+  "src": "extended_look",
+  "start": 97.0,
+  "end": 108.0,
+  "dur": 11.0,
+  "desc": "big guy texting, close over-shoulder",
+  "tags": [
+   "phone",
+   "gang",
+   "closeup"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_012",
+  "src": "extended_look",
+  "start": 108.0,
+  "end": 117.0,
+  "dur": 9.0,
+  "desc": "Jason walks through dim room with people at table",
+  "tags": [
+   "jason",
+   "interior",
+   "walking",
+   "apartment"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_013",
+  "src": "extended_look",
+  "start": 117.0,
+  "end": 127.0,
+  "dur": 10.0,
+  "desc": "Jason in corridor, long dark hallway ahead",
+  "tags": [
+   "jason",
+   "hallway",
+   "walking",
+   "interior"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_014",
+  "src": "extended_look",
+  "start": 127.0,
+  "end": 136.0,
+  "dur": 9.0,
+  "desc": "Jason at a door with KNOCK prompt (gameplay UI)",
+  "tags": [
+   "jason",
+   "door",
+   "gameplay-ui",
+   "interior"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_015",
+  "src": "extended_look",
+  "start": 136.0,
+  "end": 146.0,
+  "dur": 10.0,
+  "desc": "door opens, man peeks out, over-shoulder",
+  "tags": [
+   "jason",
+   "door",
+   "dialogue"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_016",
+  "src": "extended_look",
+  "start": 146.0,
+  "end": 156.0,
+  "dur": 10.0,
+  "desc": "dark doorway close over-shoulder",
+  "tags": [
+   "jason",
+   "dark",
+   "door"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_017",
+  "src": "extended_look",
+  "start": 156.0,
+  "end": 159.0,
+  "dur": 3.0,
+  "desc": "view into a lit back room with a table (drug lab)",
+  "tags": [
+   "interior",
+   "drug-lab",
+   "reveal"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_018",
+  "src": "extended_look",
+  "start": 159.0,
+  "end": 162.4,
+  "dur": 3.4,
+  "desc": "figure at lit table in smoky lab",
+  "tags": [
+   "drug-lab",
+   "interior",
+   "smoke"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_019",
+  "src": "extended_look",
+  "start": 162.4,
+  "end": 164.5,
+  "dur": 2.1,
+  "desc": "Jason and Lucia inside the lab, Jason looks around",
+  "tags": [
+   "jason",
+   "lucia",
+   "drug-lab",
+   "interior"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_020",
+  "src": "extended_look",
+  "start": 164.5,
+  "end": 171.9,
+  "dur": 7.4,
+  "desc": "Jason, Lucia and tattooed dreadlocked man talk",
+  "tags": [
+   "jason",
+   "lucia",
+   "dreadlocks-man",
+   "drug-lab",
+   "dialogue"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_021",
+  "src": "extended_look",
+  "start": 171.9,
+  "end": 174.8,
+  "dur": 2.9,
+  "desc": "close-up: gloved hands cooking drugs, pots and boxes",
+  "tags": [
+   "drug-lab",
+   "cooking",
+   "closeup",
+   "detail"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_022",
+  "src": "extended_look",
+  "start": 174.8,
+  "end": 179.933,
+  "dur": 5.133,
+  "desc": "dreadlocked tattooed boss with gold chains talks, lab workers behind",
+  "tags": [
+   "dreadlocks-man",
+   "drug-lab",
+   "dialogue",
+   "character"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_023",
+  "src": "extended_look",
+  "start": 179.933,
+  "end": 189.0,
+  "dur": 9.067,
+  "desc": "boss closer, workers in underwear behind",
+  "tags": [
+   "dreadlocks-man",
+   "drug-lab",
+   "dialogue"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_024",
+  "src": "extended_look",
+  "start": 189.0,
+  "end": 199.0,
+  "dur": 10.0,
+  "desc": "boss talking, smoky lab",
+  "tags": [
+   "dreadlocks-man",
+   "drug-lab",
+   "dialogue"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_025",
+  "src": "extended_look",
+  "start": 199.0,
+  "end": 202.333,
+  "dur": 3.333,
+  "desc": "man drops red duffel bag by table",
+  "tags": [
+   "duffel-bag",
+   "money",
+   "drug-lab",
+   "deal"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_026",
+  "src": "extended_look",
+  "start": 202.333,
+  "end": 212.467,
+  "dur": 10.134,
+  "desc": "Lucia and Jason stand in dim room, Lucia looks wary",
+  "tags": [
+   "lucia",
+   "jason",
+   "closeup",
+   "tense",
+   "interior"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_027",
+  "src": "extended_look",
+  "start": 212.467,
+  "end": 215.667,
+  "dur": 3.2,
+  "desc": "masked lab workers cooking in smoke",
+  "tags": [
+   "drug-lab",
+   "workers",
+   "smoke"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_028",
+  "src": "extended_look",
+  "start": 215.667,
+  "end": 220.0,
+  "dur": 4.333,
+  "desc": "boss with Jason and Lucia in background",
+  "tags": [
+   "dreadlocks-man",
+   "jason",
+   "lucia",
+   "dialogue"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_029",
+  "src": "extended_look",
+  "start": 220.0,
+  "end": 222.833,
+  "dur": 2.833,
+  "desc": "close-up phone ringing on table, incoming call",
+  "tags": [
+   "phone",
+   "call",
+   "closeup",
+   "detail"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_030",
+  "src": "extended_look",
+  "start": 222.833,
+  "end": 224.567,
+  "dur": 1.734,
+  "desc": "two gang men in tank tops, close",
+  "tags": [
+   "gang",
+   "closeup",
+   "characters"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_031",
+  "src": "extended_look",
+  "start": 224.567,
+  "end": 227.8,
+  "dur": 3.233,
+  "desc": "dark close-up, hands/movement",
+  "tags": [
+   "dark",
+   "action"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_032",
+  "src": "extended_look",
+  "start": 227.8,
+  "end": 231.2,
+  "dur": 3.4,
+  "desc": "lab from behind silhouette, smoke",
+  "tags": [
+   "drug-lab",
+   "smoke",
+   "silhouette"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_033",
+  "src": "extended_look",
+  "start": 231.2,
+  "end": 234.3,
+  "dur": 3.1,
+  "desc": "red duffel bag on floor, close-up",
+  "tags": [
+   "duffel-bag",
+   "money",
+   "detail",
+   "closeup"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_034",
+  "src": "extended_look",
+  "start": 234.3,
+  "end": 236.7,
+  "dur": 2.4,
+  "desc": "tattooed arm reaches for door handle in dark",
+  "tags": [
+   "door",
+   "hand",
+   "closeup",
+   "dark"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_035",
+  "src": "extended_look",
+  "start": 236.7,
+  "end": 239.767,
+  "dur": 3.067,
+  "desc": "boss holding something, glances aside",
+  "tags": [
+   "dreadlocks-man",
+   "closeup"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_036",
+  "src": "extended_look",
+  "start": 239.767,
+  "end": 244.4,
+  "dur": 4.633,
+  "desc": "dark hallway, figure in shadows",
+  "tags": [
+   "hallway",
+   "dark",
+   "stealth"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_037",
+  "src": "extended_look",
+  "start": 244.4,
+  "end": 248.667,
+  "dur": 4.267,
+  "desc": "long dark corridor, people lying on floor",
+  "tags": [
+   "hallway",
+   "dark",
+   "aftermath"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_038",
+  "src": "extended_look",
+  "start": 248.667,
+  "end": 251.0,
+  "dur": 2.333,
+  "desc": "fight breaks out in room, scuffle",
+  "tags": [
+   "fight",
+   "action",
+   "interior"
+  ],
+  "energy": "action",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_039",
+  "src": "extended_look",
+  "start": 251.0,
+  "end": 253.0,
+  "dur": 2.0,
+  "desc": "muzzle flash / shot fired in dark room",
+  "tags": [
+   "gunfire",
+   "shootout",
+   "action",
+   "dark"
+  ],
+  "energy": "action",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_040",
+  "src": "extended_look",
+  "start": 253.0,
+  "end": 259.0,
+  "dur": 6.0,
+  "desc": "smoky room after shooting, lamp light",
+  "tags": [
+   "aftermath",
+   "interior",
+   "smoke"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_041",
+  "src": "extended_look",
+  "start": 259.0,
+  "end": 268.0,
+  "dur": 9.0,
+  "desc": "Jason with red duffel moves through dark cluttered room",
+  "tags": [
+   "jason",
+   "duffel-bag",
+   "escape",
+   "interior",
+   "dark"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_042",
+  "src": "extended_look",
+  "start": 268.0,
+  "end": 274.0,
+  "dur": 6.0,
+  "desc": "Jason with bag runs through a door into bright hallway",
+  "tags": [
+   "jason",
+   "duffel-bag",
+   "escape",
+   "running"
+  ],
+  "energy": "action",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_043",
+  "src": "extended_look",
+  "start": 274.0,
+  "end": 284.0,
+  "dur": 10.0,
+  "desc": "Jason with rifle covers corridor (third-person shooter)",
+  "tags": [
+   "jason",
+   "gun",
+   "rifle",
+   "shootout",
+   "gameplay",
+   "corridor"
+  ],
+  "energy": "action",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_044",
+  "src": "extended_look",
+  "start": 284.0,
+  "end": 289.0,
+  "dur": 5.0,
+  "desc": "Jason aims rifle down long corridor",
+  "tags": [
+   "jason",
+   "gun",
+   "shootout",
+   "gameplay",
+   "corridor"
+  ],
+  "energy": "action",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_045",
+  "src": "extended_look",
+  "start": 289.0,
+  "end": 294.167,
+  "dur": 5.167,
+  "desc": "gunfight, sparks hitting wall, enemy at end of corridor",
+  "tags": [
+   "jason",
+   "shootout",
+   "gunfire",
+   "action",
+   "gameplay"
+  ],
+  "energy": "action",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_046",
+  "src": "extended_look",
+  "start": 294.167,
+  "end": 299.433,
+  "dur": 5.266,
+  "desc": "Jason and Lucia rush through graffiti hallway",
+  "tags": [
+   "jason",
+   "lucia",
+   "escape",
+   "running",
+   "graffiti"
+  ],
+  "energy": "action",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_047",
+  "src": "extended_look",
+  "start": 299.433,
+  "end": 303.433,
+  "dur": 4.0,
+  "desc": "Jason and Lucia in graffiti hallway, tense",
+  "tags": [
+   "jason",
+   "lucia",
+   "escape",
+   "graffiti"
+  ],
+  "energy": "action",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_048",
+  "src": "extended_look",
+  "start": 303.433,
+  "end": 310.033,
+  "dur": 6.6,
+  "desc": "green-lit room, armed enemies, shootout",
+  "tags": [
+   "shootout",
+   "gunfire",
+   "enemies",
+   "gameplay"
+  ],
+  "energy": "action",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_049",
+  "src": "extended_look",
+  "start": 310.033,
+  "end": 318.267,
+  "dur": 8.234,
+  "desc": "Jason and Lucia close, graffiti wall behind",
+  "tags": [
+   "jason",
+   "lucia",
+   "closeup",
+   "escape"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": "",
+  "cut_in": "black",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_050",
+  "src": "extended_look",
+  "start": 318.267,
+  "end": 321.633,
+  "dur": 3.366,
+  "desc": "near-black frame (transition)",
+  "tags": [
+   "dark",
+   "transition"
+  ],
+  "energy": "calm",
+  "use": "no",
+  "note": "skip",
+  "cut_in": "black",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_051",
+  "src": "extended_look",
+  "start": 321.633,
+  "end": 325.0,
+  "dur": 3.367,
+  "desc": "Jason runs down pale green hallway with bag",
+  "tags": [
+   "jason",
+   "duffel-bag",
+   "escape",
+   "running",
+   "hallway"
+  ],
+  "energy": "action",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_052",
+  "src": "extended_look",
+  "start": 325.0,
+  "end": 328.0,
+  "dur": 3.0,
+  "desc": "Jason in hallway toward a door",
+  "tags": [
+   "jason",
+   "escape",
+   "hallway"
+  ],
+  "energy": "action",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_053",
+  "src": "extended_look",
+  "start": 328.0,
+  "end": 337.0,
+  "dur": 9.0,
+  "desc": "dark apartment room",
+  "tags": [
+   "dark",
+   "interior"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_054",
+  "src": "extended_look",
+  "start": 337.0,
+  "end": 347.0,
+  "dur": 10.0,
+  "desc": "candle-lit apartment room, Jason passes through",
+  "tags": [
+   "jason",
+   "interior",
+   "candles",
+   "escape"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_055",
+  "src": "extended_look",
+  "start": 347.0,
+  "end": 351.0,
+  "dur": 4.0,
+  "desc": "dark blurry fast motion",
+  "tags": [
+   "dark",
+   "motion",
+   "transition"
+  ],
+  "energy": "action",
+  "use": "no",
+  "note": "skip",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_056",
+  "src": "extended_look",
+  "start": 351.0,
+  "end": 355.833,
+  "dur": 4.833,
+  "desc": "dark blurry fast motion",
+  "tags": [
+   "dark",
+   "motion",
+   "transition"
+  ],
+  "energy": "action",
+  "use": "no",
+  "note": "skip",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_057",
+  "src": "extended_look",
+  "start": 355.833,
+  "end": 357.7,
+  "dur": 1.867,
+  "desc": "black frame",
+  "tags": [
+   "black",
+   "transition"
+  ],
+  "energy": "calm",
+  "use": "no",
+  "note": "skip",
+  "cut_in": "black",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_058",
+  "src": "extended_look",
+  "start": 357.7,
+  "end": 362.233,
+  "dur": 4.533,
+  "desc": "title card ROCKSTAR GAMES PRESENTS",
+  "tags": [
+   "title-card",
+   "rockstar",
+   "text"
+  ],
+  "energy": "calm",
+  "use": "no",
+  "note": "skip",
+  "cut_in": "black",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_059",
+  "src": "extended_look",
+  "start": 362.233,
+  "end": 366.633,
+  "dur": 4.4,
+  "desc": "daytime: Jason walks to red classic car in sunny strip-mall lot, eagle/flag mural, palm trees",
+  "tags": [
+   "jason",
+   "car",
+   "daytime",
+   "vice-city",
+   "street",
+   "mural",
+   "muscle-car"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_060",
+  "src": "extended_look",
+  "start": 366.633,
+  "end": 369.0,
+  "dur": 2.367,
+  "desc": "red classic muscle car with Jason and Lucia drives out of lot",
+  "tags": [
+   "jason",
+   "lucia",
+   "car",
+   "driving",
+   "daytime",
+   "muscle-car"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_061",
+  "src": "extended_look",
+  "start": 369.0,
+  "end": 377.233,
+  "dur": 8.233,
+  "desc": "official VI logo on dark (trademark - avoid)",
+  "tags": [
+   "logo",
+   "title-card"
+  ],
+  "energy": "calm",
+  "use": "no",
+  "note": "skip",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_062",
+  "src": "extended_look",
+  "start": 377.233,
+  "end": 379.967,
+  "dur": 2.734,
+  "desc": "sunny city street, woman jogging past parked pickup, high-rises, palms",
+  "tags": [
+   "vice-city",
+   "street",
+   "daytime",
+   "city",
+   "pedestrians",
+   "traffic"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_063",
+  "src": "extended_look",
+  "start": 379.967,
+  "end": 381.767,
+  "dur": 1.8,
+  "desc": "close-up fridge door with photos and sticky notes",
+  "tags": [
+   "apartment",
+   "detail",
+   "fridge",
+   "interior"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_064",
+  "src": "extended_look",
+  "start": 381.767,
+  "end": 384.267,
+  "dur": 2.5,
+  "desc": "top-down: pink apartment, zebra rug, toys (Lucia-style home)",
+  "tags": [
+   "apartment",
+   "interior",
+   "pink",
+   "topdown"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_065",
+  "src": "extended_look",
+  "start": 384.267,
+  "end": 386.733,
+  "dur": 2.466,
+  "desc": "man in tank top and woman argue in pink apartment",
+  "tags": [
+   "apartment",
+   "couple",
+   "dialogue",
+   "interior",
+   "pink"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_066",
+  "src": "extended_look",
+  "start": 386.733,
+  "end": 401.0,
+  "dur": 14.267,
+  "desc": "woman lying on pink bed scrolling phone",
+  "tags": [
+   "phone",
+   "social-media",
+   "woman",
+   "bed",
+   "apartment"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_067",
+  "src": "extended_look",
+  "start": 401.0,
+  "end": 408.867,
+  "dur": 7.867,
+  "desc": "woman in pink-curtained room with neon lights holds item",
+  "tags": [
+   "woman",
+   "apartment",
+   "neon",
+   "interior"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_068",
+  "src": "extended_look",
+  "start": 408.867,
+  "end": 415.367,
+  "dur": 6.5,
+  "desc": "man in black shirt in teal room with vanity mirror lights, neon flamingo",
+  "tags": [
+   "man",
+   "apartment",
+   "neon",
+   "flamingo",
+   "interior"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_069",
+  "src": "extended_look",
+  "start": 415.367,
+  "end": 417.0,
+  "dur": 1.633,
+  "desc": "woman walks through room, man over-shoulder",
+  "tags": [
+   "woman",
+   "man",
+   "apartment",
+   "interior"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_070",
+  "src": "extended_look",
+  "start": 417.0,
+  "end": 423.0,
+  "dur": 6.0,
+  "desc": "over-shoulder dark man near mirror",
+  "tags": [
+   "man",
+   "apartment",
+   "interior"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_071",
+  "src": "extended_look",
+  "start": 423.0,
+  "end": 430.0,
+  "dur": 7.0,
+  "desc": "man walks into dark room, gameplay prompt bottom-right",
+  "tags": [
+   "man",
+   "gameplay-ui",
+   "interior"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_072",
+  "src": "extended_look",
+  "start": 430.0,
+  "end": 433.0,
+  "dur": 3.0,
+  "desc": "man walks through pink apartment living room",
+  "tags": [
+   "man",
+   "apartment",
+   "pink",
+   "walking",
+   "interior"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_073",
+  "src": "extended_look",
+  "start": 433.0,
+  "end": 436.0,
+  "dur": 3.0,
+  "desc": "man opens fridge in kitchen",
+  "tags": [
+   "man",
+   "kitchen",
+   "fridge",
+   "interior"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_074",
+  "src": "extended_look",
+  "start": 436.0,
+  "end": 438.0,
+  "dur": 2.0,
+  "desc": "man looks into open fridge full of drinks",
+  "tags": [
+   "fridge",
+   "food",
+   "detail",
+   "interactive",
+   "gameplay"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_075",
+  "src": "extended_look",
+  "start": 438.0,
+  "end": 442.5,
+  "dur": 4.5,
+  "desc": "man at kitchen table, DRINK prompt (interactive gameplay)",
+  "tags": [
+   "gameplay-ui",
+   "interactive",
+   "kitchen",
+   "drink"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_076",
+  "src": "extended_look",
+  "start": 442.5,
+  "end": 447.467,
+  "dur": 4.967,
+  "desc": "TV showing weird cartoon creature (in-game TV)",
+  "tags": [
+   "tv",
+   "cartoon",
+   "in-game-media",
+   "parody"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_077",
+  "src": "extended_look",
+  "start": 447.467,
+  "end": 454.0,
+  "dur": 6.533,
+  "desc": "TV cartoon: lumpy creature on legs",
+  "tags": [
+   "tv",
+   "cartoon",
+   "in-game-media",
+   "parody"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_078",
+  "src": "extended_look",
+  "start": 454.0,
+  "end": 461.833,
+  "dur": 7.833,
+  "desc": "TV switches to forest nature scene",
+  "tags": [
+   "tv",
+   "nature",
+   "in-game-media"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_079",
+  "src": "extended_look",
+  "start": 461.833,
+  "end": 464.9,
+  "dur": 3.067,
+  "desc": "fullscreen cartoon forest animals: boar, squirrel, birds (in-game show)",
+  "tags": [
+   "cartoon",
+   "animals",
+   "in-game-media",
+   "parody",
+   "nature"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_080",
+  "src": "extended_look",
+  "start": 464.9,
+  "end": 468.033,
+  "dur": 3.133,
+  "desc": "cartoon stag and rabbits close (in-game show)",
+  "tags": [
+   "cartoon",
+   "animals",
+   "in-game-media",
+   "parody"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_081",
+  "src": "extended_look",
+  "start": 468.033,
+  "end": 476.0,
+  "dur": 7.967,
+  "desc": "cartoon giant meat burger on table (in-game ad parody)",
+  "tags": [
+   "cartoon",
+   "food",
+   "in-game-media",
+   "parody",
+   "ad"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_082",
+  "src": "extended_look",
+  "start": 476.0,
+  "end": 478.867,
+  "dur": 2.867,
+  "desc": "sunny city: apartment block, palms, high-rises, street",
+  "tags": [
+   "vice-city",
+   "city",
+   "daytime",
+   "buildings",
+   "skyline"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_083",
+  "src": "extended_look",
+  "start": 478.867,
+  "end": 480.9,
+  "dur": 2.033,
+  "desc": "woman in pink dress at glass door, man over-shoulder",
+  "tags": [
+   "woman",
+   "door",
+   "character",
+   "daytime"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_084",
+  "src": "extended_look",
+  "start": 480.9,
+  "end": 492.0,
+  "dur": 11.1,
+  "desc": "man walks to red convertible in leafy parking area",
+  "tags": [
+   "man",
+   "car",
+   "convertible",
+   "daytime",
+   "parking"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_085",
+  "src": "extended_look",
+  "start": 492.0,
+  "end": 503.0,
+  "dur": 11.0,
+  "desc": "red convertible parked under building, minimap visible (gameplay)",
+  "tags": [
+   "car",
+   "convertible",
+   "gameplay",
+   "minimap"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_086",
+  "src": "extended_look",
+  "start": 503.0,
+  "end": 514.0,
+  "dur": 11.0,
+  "desc": "driving red convertible beside a tanker truck, minimap (driving gameplay)",
+  "tags": [
+   "car",
+   "driving",
+   "gameplay",
+   "convertible",
+   "traffic",
+   "minimap"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_087",
+  "src": "extended_look",
+  "start": 514.0,
+  "end": 525.0,
+  "dur": 11.0,
+  "desc": "driving convertible through intersection, highway overpass, skyline",
+  "tags": [
+   "car",
+   "driving",
+   "gameplay",
+   "city",
+   "skyline",
+   "highway"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_088",
+  "src": "extended_look",
+  "start": 525.0,
+  "end": 536.133,
+  "dur": 11.133,
+  "desc": "driving convertible on wide boulevard, traffic",
+  "tags": [
+   "car",
+   "driving",
+   "gameplay",
+   "traffic",
+   "city"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_089",
+  "src": "extended_look",
+  "start": 536.133,
+  "end": 539.133,
+  "dur": 3.0,
+  "desc": "person climbing on bridge railing, high-rise behind (stunt / world detail)",
+  "tags": [
+   "bridge",
+   "city",
+   "stunt",
+   "world-detail",
+   "skyline"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_090",
+  "src": "extended_look",
+  "start": 539.133,
+  "end": 541.4,
+  "dur": 2.267,
+  "desc": "night street: woman in red sports car, pedestrian falls, neon",
+  "tags": [
+   "night",
+   "car",
+   "sportscar",
+   "neon",
+   "street",
+   "chaos"
+  ],
+  "energy": "action",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_091",
+  "src": "extended_look",
+  "start": 541.4,
+  "end": 544.0,
+  "dur": 2.6,
+  "desc": "man filming himself with phone outside liquor store (social media / vlogger NPC)",
+  "tags": [
+   "phone",
+   "social-media",
+   "npc",
+   "vlogger",
+   "street",
+   "daytime"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_092",
+  "src": "extended_look",
+  "start": 544.0,
+  "end": 546.9,
+  "dur": 2.9,
+  "desc": "crowd fight / brawl in back lot",
+  "tags": [
+   "fight",
+   "crowd",
+   "brawl",
+   "chaos",
+   "npc"
+  ],
+  "energy": "action",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_093",
+  "src": "extended_look",
+  "start": 546.9,
+  "end": 548.667,
+  "dur": 1.767,
+  "desc": "bearded man in sunglasses with assault rifle, woman beside, palms (low angle)",
+  "tags": [
+   "gun",
+   "rifle",
+   "character",
+   "daytime",
+   "threat"
+  ],
+  "energy": "action",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_094",
+  "src": "extended_look",
+  "start": 548.667,
+  "end": 551.633,
+  "dur": 2.966,
+  "desc": "night street, burning cars, armed people",
+  "tags": [
+   "night",
+   "fire",
+   "chaos",
+   "street",
+   "crime"
+  ],
+  "energy": "action",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_095",
+  "src": "extended_look",
+  "start": 551.633,
+  "end": 558.133,
+  "dur": 6.5,
+  "desc": "motel parking lot, man in tank top, residents",
+  "tags": [
+   "motel",
+   "daytime",
+   "street-life",
+   "npc"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_096",
+  "src": "extended_look",
+  "start": 558.133,
+  "end": 562.133,
+  "dur": 4.0,
+  "desc": "woman hosing/spraying in rundown room",
+  "tags": [
+   "interior",
+   "npc",
+   "world-detail"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_097",
+  "src": "extended_look",
+  "start": 562.133,
+  "end": 568.167,
+  "dur": 6.034,
+  "desc": "rooftop/backyard party, pool float, people sunbathing",
+  "tags": [
+   "party",
+   "backyard",
+   "daytime",
+   "npc",
+   "world-detail"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_098",
+  "src": "extended_look",
+  "start": 568.167,
+  "end": 570.167,
+  "dur": 2.0,
+  "desc": "aerial over rooftop bar and city blocks, ocean in distance",
+  "tags": [
+   "aerial",
+   "city",
+   "rooftop",
+   "skyline",
+   "daytime"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_099",
+  "src": "extended_look",
+  "start": 570.167,
+  "end": 578.0,
+  "dur": 7.833,
+  "desc": "woman in pink dress and sunglasses in elevator, man over-shoulder",
+  "tags": [
+   "elevator",
+   "woman",
+   "interior",
+   "character"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_100",
+  "src": "extended_look",
+  "start": 578.0,
+  "end": 586.0,
+  "dur": 8.0,
+  "desc": "elevator ride, woman leaning on wall",
+  "tags": [
+   "elevator",
+   "woman",
+   "interior"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_101",
+  "src": "extended_look",
+  "start": 586.0,
+  "end": 596.0,
+  "dur": 10.0,
+  "desc": "man in black and woman in pink walk hand-in-hand onto sunny rooftop bar, skyline",
+  "tags": [
+   "rooftop",
+   "bar",
+   "couple",
+   "daytime",
+   "skyline",
+   "luxury"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_102",
+  "src": "extended_look",
+  "start": 596.0,
+  "end": 606.0,
+  "dur": 10.0,
+  "desc": "rooftop bar walk, balloons, skyline",
+  "tags": [
+   "rooftop",
+   "bar",
+   "daytime",
+   "skyline",
+   "luxury"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_103",
+  "src": "extended_look",
+  "start": 606.0,
+  "end": 617.067,
+  "dur": 11.067,
+  "desc": "rooftop bar crowd, women at bar",
+  "tags": [
+   "rooftop",
+   "bar",
+   "party",
+   "npc",
+   "luxury"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_104",
+  "src": "extended_look",
+  "start": 617.067,
+  "end": 619.467,
+  "dur": 2.4,
+  "desc": "men in floral shirts grab an old woman by a public locker sign (mugging)",
+  "tags": [
+   "crime",
+   "robbery",
+   "street",
+   "npc",
+   "chaos"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_105",
+  "src": "extended_look",
+  "start": 619.467,
+  "end": 621.967,
+  "dur": 2.5,
+  "desc": "dark interior, people at monitors, figure entering",
+  "tags": [
+   "interior",
+   "dark",
+   "surveillance",
+   "crime"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_106",
+  "src": "extended_look",
+  "start": 621.967,
+  "end": 629.9,
+  "dur": 7.933,
+  "desc": "dark close-up woman with bob hair and man in cap",
+  "tags": [
+   "characters",
+   "dark",
+   "closeup",
+   "crime"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_107",
+  "src": "extended_look",
+  "start": 629.9,
+  "end": 633.6,
+  "dur": 3.7,
+  "desc": "security monitors/CCTV desk, man slumped",
+  "tags": [
+   "surveillance",
+   "cctv",
+   "monitors",
+   "crime",
+   "interior"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_108",
+  "src": "extended_look",
+  "start": 633.6,
+  "end": 635.0,
+  "dur": 1.4,
+  "desc": "body lying on floor in murky water/dust",
+  "tags": [
+   "aftermath",
+   "body",
+   "dark"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_109",
+  "src": "extended_look",
+  "start": 635.0,
+  "end": 636.633,
+  "dur": 1.633,
+  "desc": "man lying on floor, dim",
+  "tags": [
+   "aftermath",
+   "body",
+   "dark"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_110",
+  "src": "extended_look",
+  "start": 636.633,
+  "end": 642.4,
+  "dur": 5.767,
+  "desc": "rooftop bar sign (fictional brand), patrons at bar",
+  "tags": [
+   "rooftop",
+   "bar",
+   "sign",
+   "brand-parody",
+   "daytime"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_111",
+  "src": "extended_look",
+  "start": 642.4,
+  "end": 647.933,
+  "dur": 5.533,
+  "desc": "rooftop restaurant table: couple, older man in floral shirt, cocktails",
+  "tags": [
+   "rooftop",
+   "restaurant",
+   "characters",
+   "luxury",
+   "dialogue"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_112",
+  "src": "extended_look",
+  "start": 647.933,
+  "end": 650.867,
+  "dur": 2.934,
+  "desc": "rooftop table conversation, bald man in sunglasses",
+  "tags": [
+   "rooftop",
+   "restaurant",
+   "dialogue",
+   "luxury"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_113",
+  "src": "extended_look",
+  "start": 650.867,
+  "end": 656.9,
+  "dur": 6.033,
+  "desc": "rooftop table group talk",
+  "tags": [
+   "rooftop",
+   "restaurant",
+   "dialogue"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_114",
+  "src": "extended_look",
+  "start": 656.9,
+  "end": 660.567,
+  "dur": 3.667,
+  "desc": "rooftop table, man leans in",
+  "tags": [
+   "rooftop",
+   "restaurant",
+   "dialogue"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_115",
+  "src": "extended_look",
+  "start": 660.567,
+  "end": 669.233,
+  "dur": 8.666,
+  "desc": "woman in floral dress walks away from table",
+  "tags": [
+   "rooftop",
+   "restaurant",
+   "npc"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_116",
+  "src": "extended_look",
+  "start": 669.233,
+  "end": 683.367,
+  "dur": 14.134,
+  "desc": "two men face off on rooftop at sunset, city skyline",
+  "tags": [
+   "rooftop",
+   "skyline",
+   "sunset",
+   "standoff",
+   "dialogue"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_117",
+  "src": "extended_look",
+  "start": 683.367,
+  "end": 691.7,
+  "dur": 8.333,
+  "desc": "man by glass door, man in leather jacket (robbery prep)",
+  "tags": [
+   "robbery",
+   "characters",
+   "interior"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_118",
+  "src": "extended_look",
+  "start": 691.7,
+  "end": 699.167,
+  "dur": 7.467,
+  "desc": "golden-hour shootout in parking lot, men firing pistols",
+  "tags": [
+   "shootout",
+   "gunfire",
+   "action",
+   "sunset",
+   "parking"
+  ],
+  "energy": "action",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_119",
+  "src": "extended_look",
+  "start": 699.167,
+  "end": 703.033,
+  "dur": 3.866,
+  "desc": "masked man at tool bench in garage",
+  "tags": [
+   "robbery",
+   "mask",
+   "garage",
+   "prep"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_120",
+  "src": "extended_look",
+  "start": 703.033,
+  "end": 710.967,
+  "dur": 7.934,
+  "desc": "man in jacket enters convenience store, shelves, clerk",
+  "tags": [
+   "convenience-store",
+   "robbery",
+   "interior",
+   "shop"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_121",
+  "src": "extended_look",
+  "start": 710.967,
+  "end": 714.433,
+  "dur": 3.466,
+  "desc": "robber forces clerk behind counter in store",
+  "tags": [
+   "robbery",
+   "convenience-store",
+   "crime",
+   "action"
+  ],
+  "energy": "action",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_122",
+  "src": "extended_look",
+  "start": 714.433,
+  "end": 716.233,
+  "dur": 1.8,
+  "desc": "Lucia in red bandana mask and partner in masks outside store, low angle (iconic robbery)",
+  "tags": [
+   "lucia",
+   "jason",
+   "robbery",
+   "mask",
+   "bandana",
+   "daytime",
+   "iconic"
+  ],
+  "energy": "action",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_123",
+  "src": "extended_look",
+  "start": 716.233,
+  "end": 719.833,
+  "dur": 3.6,
+  "desc": "masked duo close low angle, confident",
+  "tags": [
+   "lucia",
+   "jason",
+   "robbery",
+   "mask",
+   "bandana",
+   "iconic"
+  ],
+  "energy": "action",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_124",
+  "src": "extended_look",
+  "start": 719.833,
+  "end": 723.6,
+  "dur": 3.767,
+  "desc": "robber vaults over store counter",
+  "tags": [
+   "robbery",
+   "convenience-store",
+   "action"
+  ],
+  "energy": "action",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_125",
+  "src": "extended_look",
+  "start": 723.6,
+  "end": 726.333,
+  "dur": 2.733,
+  "desc": "man walks through store toward exit, shelves",
+  "tags": [
+   "convenience-store",
+   "robbery",
+   "interior"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_126",
+  "src": "extended_look",
+  "start": 726.333,
+  "end": 728.967,
+  "dur": 2.634,
+  "desc": "masked Lucia in car, raising arm",
+  "tags": [
+   "lucia",
+   "mask",
+   "car",
+   "robbery",
+   "escape"
+  ],
+  "energy": "action",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_127",
+  "src": "extended_look",
+  "start": 728.967,
+  "end": 732.467,
+  "dur": 3.5,
+  "desc": "store owner fires shotgun at gas station door",
+  "tags": [
+   "gun",
+   "shotgun",
+   "gas-station",
+   "shootout",
+   "action"
+  ],
+  "energy": "action",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_128",
+  "src": "extended_look",
+  "start": 732.467,
+  "end": 740.0,
+  "dur": 7.533,
+  "desc": "two men on rooftop overlooking city, helicopter in sky",
+  "tags": [
+   "rooftop",
+   "skyline",
+   "city",
+   "helicopter",
+   "dialogue"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_129",
+  "src": "extended_look",
+  "start": 740.0,
+  "end": 747.5,
+  "dur": 7.5,
+  "desc": "wide city view from rooftop, high-rises, helicopter",
+  "tags": [
+   "city",
+   "skyline",
+   "aerial",
+   "daytime",
+   "vice-city"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_130",
+  "src": "extended_look",
+  "start": 747.5,
+  "end": 757.0,
+  "dur": 9.5,
+  "desc": "driving grey sedan on waterfront road, sunlight, minimap",
+  "tags": [
+   "car",
+   "driving",
+   "gameplay",
+   "waterfront",
+   "sunset",
+   "minimap"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_131",
+  "src": "extended_look",
+  "start": 757.0,
+  "end": 767.0,
+  "dur": 10.0,
+  "desc": "driving sedan, palm-lined road, sun flare",
+  "tags": [
+   "car",
+   "driving",
+   "gameplay",
+   "palms",
+   "sunset"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_132",
+  "src": "extended_look",
+  "start": 767.0,
+  "end": 777.0,
+  "dur": 10.0,
+  "desc": "driving sedan toward high-rises",
+  "tags": [
+   "car",
+   "driving",
+   "gameplay",
+   "city",
+   "skyline"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_133",
+  "src": "extended_look",
+  "start": 777.0,
+  "end": 787.233,
+  "dur": 10.233,
+  "desc": "driving sedan on highway, highway signs, towers",
+  "tags": [
+   "car",
+   "driving",
+   "highway",
+   "gameplay",
+   "city"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_134",
+  "src": "extended_look",
+  "start": 787.233,
+  "end": 791.467,
+  "dur": 4.234,
+  "desc": "Jason and Lucia in car looking at phone, billboard outside",
+  "tags": [
+   "jason",
+   "lucia",
+   "car",
+   "phone",
+   "dialogue"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_135",
+  "src": "extended_look",
+  "start": 791.467,
+  "end": 803.233,
+  "dur": 11.766,
+  "desc": "Jason driving, Lucia passenger, close",
+  "tags": [
+   "jason",
+   "lucia",
+   "car",
+   "driving",
+   "closeup",
+   "dialogue"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_136",
+  "src": "extended_look",
+  "start": 803.233,
+  "end": 804.8,
+  "dur": 1.567,
+  "desc": "car interior dark, Jason and Lucia",
+  "tags": [
+   "jason",
+   "lucia",
+   "car",
+   "dialogue"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_137",
+  "src": "extended_look",
+  "start": 804.8,
+  "end": 817.967,
+  "dur": 13.167,
+  "desc": "Lucia in back seat looking at Jason",
+  "tags": [
+   "lucia",
+   "car",
+   "closeup",
+   "dialogue"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_138",
+  "src": "extended_look",
+  "start": 817.967,
+  "end": 827.0,
+  "dur": 9.033,
+  "desc": "bearded man in sunglasses in back seat",
+  "tags": [
+   "car",
+   "character",
+   "dialogue"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_139",
+  "src": "extended_look",
+  "start": 827.0,
+  "end": 831.0,
+  "dur": 4.0,
+  "desc": "car interior, masked figure, motion",
+  "tags": [
+   "car",
+   "mask",
+   "robbery",
+   "motion"
+  ],
+  "energy": "action",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_140",
+  "src": "extended_look",
+  "start": 831.0,
+  "end": 833.933,
+  "dur": 2.933,
+  "desc": "car interior looking out at street",
+  "tags": [
+   "car",
+   "driving",
+   "interior"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_141",
+  "src": "extended_look",
+  "start": 833.933,
+  "end": 837.4,
+  "dur": 3.467,
+  "desc": "masked man with rifle leaning out of car window (drive-by)",
+  "tags": [
+   "car",
+   "gun",
+   "rifle",
+   "mask",
+   "shootout",
+   "chase"
+  ],
+  "energy": "action",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_142",
+  "src": "extended_look",
+  "start": 837.4,
+  "end": 843.933,
+  "dur": 6.533,
+  "desc": "police helicopter over street, high-rises, police lights on minimap",
+  "tags": [
+   "police",
+   "helicopter",
+   "chase",
+   "city",
+   "wanted"
+  ],
+  "energy": "action",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_143",
+  "src": "extended_look",
+  "start": 843.933,
+  "end": 853.0,
+  "dur": 9.067,
+  "desc": "man on foot fires rifle at police cars on street (gameplay shootout)",
+  "tags": [
+   "shootout",
+   "police",
+   "gun",
+   "gameplay",
+   "street",
+   "wanted"
+  ],
+  "energy": "action",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_144",
+  "src": "extended_look",
+  "start": 853.0,
+  "end": 857.0,
+  "dur": 4.0,
+  "desc": "man fires at police car in alley",
+  "tags": [
+   "shootout",
+   "police",
+   "gun",
+   "gameplay"
+  ],
+  "energy": "action",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_145",
+  "src": "extended_look",
+  "start": 857.0,
+  "end": 860.0,
+  "dur": 3.0,
+  "desc": "police car (832) crashes into pole after gunfire",
+  "tags": [
+   "police",
+   "crash",
+   "car",
+   "shootout",
+   "action"
+  ],
+  "energy": "action",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_146",
+  "src": "extended_look",
+  "start": 860.0,
+  "end": 864.0,
+  "dur": 4.0,
+  "desc": "man aims rifle down residential street",
+  "tags": [
+   "shootout",
+   "gun",
+   "gameplay",
+   "residential"
+  ],
+  "energy": "action",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_147",
+  "src": "extended_look",
+  "start": 864.0,
+  "end": 866.033,
+  "dur": 2.033,
+  "desc": "running with rifle past hedges",
+  "tags": [
+   "shootout",
+   "gun",
+   "running",
+   "gameplay"
+  ],
+  "energy": "action",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_148",
+  "src": "extended_look",
+  "start": 866.033,
+  "end": 871.333,
+  "dur": 5.3,
+  "desc": "firing down alley at car",
+  "tags": [
+   "shootout",
+   "gun",
+   "gameplay",
+   "alley"
+  ],
+  "energy": "action",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_149",
+  "src": "extended_look",
+  "start": 871.333,
+  "end": 876.0,
+  "dur": 4.667,
+  "desc": "dark sedan pulls up (getaway car)",
+  "tags": [
+   "car",
+   "getaway",
+   "escape"
+  ],
+  "energy": "action",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_150",
+  "src": "extended_look",
+  "start": 876.0,
+  "end": 878.967,
+  "dur": 2.967,
+  "desc": "street with burning wrecks and police cars, bus",
+  "tags": [
+   "chaos",
+   "fire",
+   "police",
+   "street",
+   "aftermath"
+  ],
+  "energy": "action",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_151",
+  "src": "extended_look",
+  "start": 878.967,
+  "end": 885.0,
+  "dur": 6.033,
+  "desc": "getaway car interior, mustached man and masked partner",
+  "tags": [
+   "car",
+   "getaway",
+   "characters",
+   "dialogue"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_152",
+  "src": "extended_look",
+  "start": 885.0,
+  "end": 891.733,
+  "dur": 6.733,
+  "desc": "woman driver at wheel in dark car",
+  "tags": [
+   "car",
+   "driving",
+   "woman",
+   "getaway"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_153",
+  "src": "extended_look",
+  "start": 891.733,
+  "end": 895.367,
+  "dur": 3.634,
+  "desc": "car interior, men in back, light ahead",
+  "tags": [
+   "car",
+   "getaway",
+   "characters"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_154",
+  "src": "extended_look",
+  "start": 895.367,
+  "end": 897.867,
+  "dur": 2.5,
+  "desc": "curly-haired woman driver looks back, close",
+  "tags": [
+   "car",
+   "woman",
+   "closeup",
+   "getaway"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_155",
+  "src": "extended_look",
+  "start": 897.867,
+  "end": 899.933,
+  "dur": 2.066,
+  "desc": "mustached man with glasses close, car interior",
+  "tags": [
+   "car",
+   "character",
+   "closeup",
+   "dialogue"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_156",
+  "src": "extended_look",
+  "start": 899.933,
+  "end": 902.667,
+  "dur": 2.734,
+  "desc": "woman driver close",
+  "tags": [
+   "car",
+   "woman",
+   "closeup"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_157",
+  "src": "extended_look",
+  "start": 902.667,
+  "end": 905.8,
+  "dur": 3.133,
+  "desc": "mustached man close talking",
+  "tags": [
+   "car",
+   "character",
+   "closeup",
+   "dialogue"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_158",
+  "src": "extended_look",
+  "start": 905.8,
+  "end": 914.0,
+  "dur": 8.2,
+  "desc": "car drives into dark garage tunnel",
+  "tags": [
+   "car",
+   "garage",
+   "tunnel",
+   "escape"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_159",
+  "src": "extended_look",
+  "start": 914.0,
+  "end": 918.0,
+  "dur": 4.0,
+  "desc": "car exits bright garage tunnel",
+  "tags": [
+   "car",
+   "garage",
+   "escape"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_160",
+  "src": "extended_look",
+  "start": 918.0,
+  "end": 921.1,
+  "dur": 3.1,
+  "desc": "car drives out of alley into sunlight",
+  "tags": [
+   "car",
+   "escape",
+   "alley",
+   "daytime"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_161",
+  "src": "extended_look",
+  "start": 921.1,
+  "end": 926.933,
+  "dur": 5.833,
+  "desc": "sedan drives out onto street past storefronts, minimap",
+  "tags": [
+   "car",
+   "driving",
+   "gameplay",
+   "street",
+   "daytime"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_162",
+  "src": "extended_look",
+  "start": 926.933,
+  "end": 934.0,
+  "dur": 7.067,
+  "desc": "sedan speeding through residential street, police pursuit icons",
+  "tags": [
+   "car",
+   "chase",
+   "driving",
+   "gameplay",
+   "police"
+  ],
+  "energy": "action",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_163",
+  "src": "extended_look",
+  "start": 934.0,
+  "end": 940.6,
+  "dur": 6.6,
+  "desc": "sedan races down palm boulevard, cars swerving",
+  "tags": [
+   "car",
+   "chase",
+   "driving",
+   "gameplay",
+   "traffic"
+  ],
+  "energy": "action",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_164",
+  "src": "extended_look",
+  "start": 940.6,
+  "end": 947.233,
+  "dur": 6.633,
+  "desc": "police cruiser close behind (POLICE livery), pursuit",
+  "tags": [
+   "police",
+   "car",
+   "chase",
+   "city"
+  ],
+  "energy": "action",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_165",
+  "src": "extended_look",
+  "start": 947.233,
+  "end": 950.0,
+  "dur": 2.767,
+  "desc": "sedan escapes past parking structure",
+  "tags": [
+   "car",
+   "chase",
+   "escape",
+   "gameplay"
+  ],
+  "energy": "action",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_166",
+  "src": "extended_look",
+  "start": 950.0,
+  "end": 961.0,
+  "dur": 11.0,
+  "desc": "weapon wheel UI overlay, money counter top-right (gameplay menu)",
+  "tags": [
+   "gameplay-ui",
+   "weapon-wheel",
+   "menu",
+   "hud"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_167",
+  "src": "extended_look",
+  "start": 961.0,
+  "end": 973.933,
+  "dur": 12.933,
+  "desc": "parking garage: man loads bag into brown van",
+  "tags": [
+   "van",
+   "garage",
+   "heist",
+   "bag"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_168",
+  "src": "extended_look",
+  "start": 973.933,
+  "end": 985.0,
+  "dur": 11.067,
+  "desc": "brown van drives along waterfront street, stop sign, flowers, bay",
+  "tags": [
+   "van",
+   "driving",
+   "waterfront",
+   "daytime",
+   "gameplay"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_169",
+  "src": "extended_look",
+  "start": 985.0,
+  "end": 996.733,
+  "dur": 11.733,
+  "desc": "aerial: neighborhood with tennis courts, beach town, high-rises in distance",
+  "tags": [
+   "aerial",
+   "city",
+   "neighborhood",
+   "daytime",
+   "map",
+   "vice-city"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_170",
+  "src": "extended_look",
+  "start": 996.733,
+  "end": 1005.433,
+  "dur": 8.7,
+  "desc": "Lucia meets man with bag on sunny sidewalk, man in leather jacket",
+  "tags": [
+   "lucia",
+   "deal",
+   "bag",
+   "street",
+   "daytime",
+   "dialogue"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_171",
+  "src": "extended_look",
+  "start": 1005.433,
+  "end": 1010.533,
+  "dur": 5.1,
+  "desc": "Lucia and Jason walk beside van in alley, purple tile wall",
+  "tags": [
+   "lucia",
+   "jason",
+   "van",
+   "alley",
+   "walking"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_172",
+  "src": "extended_look",
+  "start": 1010.533,
+  "end": 1014.533,
+  "dur": 4.0,
+  "desc": "Lucia close in grey crop hoodie, Jason behind, Leonida mural",
+  "tags": [
+   "lucia",
+   "jason",
+   "closeup",
+   "mural",
+   "leonida",
+   "iconic"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_173",
+  "src": "extended_look",
+  "start": 1014.533,
+  "end": 1017.0,
+  "dur": 2.467,
+  "desc": "street view from van, motorcyclist, parked cars",
+  "tags": [
+   "street",
+   "van",
+   "traffic",
+   "daytime"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_174",
+  "src": "extended_look",
+  "start": 1017.0,
+  "end": 1021.0,
+  "dur": 4.0,
+  "desc": "Jason and Lucia by tiled wall, WARNING cameras sign",
+  "tags": [
+   "jason",
+   "lucia",
+   "street",
+   "daytime"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_175",
+  "src": "extended_look",
+  "start": 1021.0,
+  "end": 1025.0,
+  "dur": 4.0,
+  "desc": "Lucia walks away along tiled wall",
+  "tags": [
+   "lucia",
+   "walking",
+   "street"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_176",
+  "src": "extended_look",
+  "start": 1025.0,
+  "end": 1027.2,
+  "dur": 2.2,
+  "desc": "colorful cartoon mural, people hanging out on sidewalk",
+  "tags": [
+   "street",
+   "mural",
+   "street-art",
+   "npc",
+   "daytime"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_177",
+  "src": "extended_look",
+  "start": 1027.2,
+  "end": 1030.333,
+  "dur": 3.133,
+  "desc": "airboat speeding through green swamp, cypress trees (Everglades)",
+  "tags": [
+   "airboat",
+   "swamp",
+   "everglades",
+   "nature",
+   "boat",
+   "leonida"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_178",
+  "src": "extended_look",
+  "start": 1030.333,
+  "end": 1033.367,
+  "dur": 3.034,
+  "desc": "man in tank top under stilt house, basketball hoop (Keys/fishing village)",
+  "tags": [
+   "stilt-house",
+   "village",
+   "npc",
+   "daytime",
+   "keys"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_179",
+  "src": "extended_look",
+  "start": 1033.367,
+  "end": 1036.033,
+  "dur": 2.666,
+  "desc": "underwater: diver silhouette in blue water",
+  "tags": [
+   "underwater",
+   "diving",
+   "ocean",
+   "nature"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_180",
+  "src": "extended_look",
+  "start": 1036.033,
+  "end": 1040.0,
+  "dur": 3.967,
+  "desc": "woman lifting barbell (prison/gym workout)",
+  "tags": [
+   "gym",
+   "workout",
+   "lucia",
+   "barbell"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_181",
+  "src": "extended_look",
+  "start": 1040.0,
+  "end": 1042.333,
+  "dur": 2.333,
+  "desc": "woman diving into turquoise ocean, beach town behind",
+  "tags": [
+   "ocean",
+   "swimming",
+   "beach",
+   "nature",
+   "activities"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_182",
+  "src": "extended_look",
+  "start": 1042.333,
+  "end": 1044.233,
+  "dur": 1.9,
+  "desc": "jet ski at sunset across bay, skyline",
+  "tags": [
+   "jetski",
+   "water",
+   "sunset",
+   "activities",
+   "skyline",
+   "gameplay"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_183",
+  "src": "extended_look",
+  "start": 1044.233,
+  "end": 1046.267,
+  "dur": 2.034,
+  "desc": "binoculars view: woman in window (scope/zoom UI)",
+  "tags": [
+   "binoculars",
+   "gameplay-ui",
+   "spy",
+   "stealth"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_184",
+  "src": "extended_look",
+  "start": 1046.267,
+  "end": 1048.367,
+  "dur": 2.1,
+  "desc": "kayaking in harbor, high-rises behind",
+  "tags": [
+   "kayak",
+   "water",
+   "activities",
+   "skyline",
+   "gameplay"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_185",
+  "src": "extended_look",
+  "start": 1048.367,
+  "end": 1056.567,
+  "dur": 8.2,
+  "desc": "night club entrance, bouncers in green light",
+  "tags": [
+   "nightclub",
+   "night",
+   "club",
+   "bouncers"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_186",
+  "src": "extended_look",
+  "start": 1056.567,
+  "end": 1059.133,
+  "dur": 2.566,
+  "desc": "nightclub dance floor, pink/purple lights, dancers",
+  "tags": [
+   "nightclub",
+   "party",
+   "dancing",
+   "neon",
+   "night"
+  ],
+  "energy": "action",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_187",
+  "src": "extended_look",
+  "start": 1059.133,
+  "end": 1067.3,
+  "dur": 8.167,
+  "desc": "street race: white race car with livery, lap counter HUD",
+  "tags": [
+   "racing",
+   "race",
+   "car",
+   "gameplay",
+   "hud",
+   "activities"
+  ],
+  "energy": "action",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_188",
+  "src": "extended_look",
+  "start": 1067.3,
+  "end": 1077.333,
+  "dur": 10.033,
+  "desc": "woman at repair shop storefront, pawn shop signs, NPCs",
+  "tags": [
+   "street",
+   "shop",
+   "npc",
+   "daytime",
+   "world-detail"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_189",
+  "src": "extended_look",
+  "start": 1077.333,
+  "end": 1084.2,
+  "dur": 6.867,
+  "desc": "jewelry store robbery, people on floor, armed robber",
+  "tags": [
+   "robbery",
+   "jewelry-store",
+   "heist",
+   "crime",
+   "action"
+  ],
+  "energy": "action",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_190",
+  "src": "extended_look",
+  "start": 1084.2,
+  "end": 1089.267,
+  "dur": 5.067,
+  "desc": "cyclist on street at sunset, traffic lights",
+  "tags": [
+   "bicycle",
+   "street",
+   "sunset",
+   "npc",
+   "activities"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_191",
+  "src": "extended_look",
+  "start": 1089.267,
+  "end": 1101.333,
+  "dur": 12.066,
+  "desc": "man with phone filming woman on sidewalk (social media, content creator)",
+  "tags": [
+   "social-media",
+   "phone",
+   "filming",
+   "street",
+   "npc"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_192",
+  "src": "extended_look",
+  "start": 1101.333,
+  "end": 1105.8,
+  "dur": 4.467,
+  "desc": "car with live-stream chat overlay on screen (in-game livestream)",
+  "tags": [
+   "livestream",
+   "social-media",
+   "car",
+   "gameplay-ui",
+   "street"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_193",
+  "src": "extended_look",
+  "start": 1105.8,
+  "end": 1108.633,
+  "dur": 2.833,
+  "desc": "crowded beach with yellow umbrellas, sunbathers",
+  "tags": [
+   "beach",
+   "daytime",
+   "crowd",
+   "vice-city",
+   "tourism"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_194",
+  "src": "extended_look",
+  "start": 1108.633,
+  "end": 1112.133,
+  "dur": 3.5,
+  "desc": "woman aiming rifle in courtyard, TARGETS REMAINING HUD (shooting range challenge)",
+  "tags": [
+   "gun",
+   "rifle",
+   "challenge",
+   "gameplay-ui",
+   "activities"
+  ],
+  "energy": "action",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_195",
+  "src": "extended_look",
+  "start": 1112.133,
+  "end": 1116.533,
+  "dur": 4.4,
+  "desc": "dirt bike race through hills, lap/time HUD",
+  "tags": [
+   "dirtbike",
+   "racing",
+   "offroad",
+   "gameplay",
+   "activities"
+  ],
+  "energy": "action",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_196",
+  "src": "extended_look",
+  "start": 1116.533,
+  "end": 1124.867,
+  "dur": 8.334,
+  "desc": "night drive in red convertible, city lights",
+  "tags": [
+   "car",
+   "driving",
+   "night",
+   "convertible",
+   "city"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_197",
+  "src": "extended_look",
+  "start": 1124.867,
+  "end": 1130.533,
+  "dur": 5.666,
+  "desc": "skydiver freefalling over island city and canals",
+  "tags": [
+   "skydiving",
+   "aerial",
+   "activities",
+   "city",
+   "canals"
+  ],
+  "energy": "action",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_198",
+  "src": "extended_look",
+  "start": 1130.533,
+  "end": 1139.0,
+  "dur": 8.467,
+  "desc": "parachute opening over skyline",
+  "tags": [
+   "parachute",
+   "skydiving",
+   "aerial",
+   "skyline",
+   "activities"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_199",
+  "src": "extended_look",
+  "start": 1139.0,
+  "end": 1141.033,
+  "dur": 2.033,
+  "desc": "top-down aerial: beach, resort, city blocks",
+  "tags": [
+   "aerial",
+   "topdown",
+   "beach",
+   "city",
+   "map"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_200",
+  "src": "extended_look",
+  "start": 1141.033,
+  "end": 1144.667,
+  "dur": 3.634,
+  "desc": "two men on couch drinking, sports jersey (hanging out)",
+  "tags": [
+   "friends",
+   "couch",
+   "drinking",
+   "interior",
+   "npc"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_201",
+  "src": "extended_look",
+  "start": 1144.667,
+  "end": 1148.5,
+  "dur": 3.833,
+  "desc": "blonde woman in airport lounge, planes outside",
+  "tags": [
+   "airport",
+   "lounge",
+   "luxury",
+   "woman",
+   "character"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_202",
+  "src": "extended_look",
+  "start": 1148.5,
+  "end": 1153.367,
+  "dur": 4.867,
+  "desc": "airport lounge wide, people walking",
+  "tags": [
+   "airport",
+   "lounge",
+   "luxury",
+   "interior"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_203",
+  "src": "extended_look",
+  "start": 1153.367,
+  "end": 1158.267,
+  "dur": 4.9,
+  "desc": "blonde woman with pearl necklace smiling, private jets outside",
+  "tags": [
+   "airport",
+   "luxury",
+   "woman",
+   "closeup",
+   "private-jet"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_204",
+  "src": "extended_look",
+  "start": 1158.267,
+  "end": 1161.6,
+  "dur": 3.333,
+  "desc": "woman greets man in suit and woman in black, airport lounge",
+  "tags": [
+   "airport",
+   "luxury",
+   "meeting",
+   "dialogue"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_205",
+  "src": "extended_look",
+  "start": 1161.6,
+  "end": 1167.567,
+  "dur": 5.967,
+  "desc": "lounge conversation, jets outside",
+  "tags": [
+   "airport",
+   "luxury",
+   "dialogue"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_206",
+  "src": "extended_look",
+  "start": 1167.567,
+  "end": 1171.167,
+  "dur": 3.6,
+  "desc": "blonde woman close, plane taxiing behind",
+  "tags": [
+   "airport",
+   "luxury",
+   "woman",
+   "closeup"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_207",
+  "src": "extended_look",
+  "start": 1171.167,
+  "end": 1173.067,
+  "dur": 1.9,
+  "desc": "waiter serves drinks to group in lounge",
+  "tags": [
+   "airport",
+   "luxury",
+   "drinks",
+   "dialogue"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_208",
+  "src": "extended_look",
+  "start": 1173.067,
+  "end": 1182.967,
+  "dur": 9.9,
+  "desc": "night: man and woman embrace on tarmac/waterfront",
+  "tags": [
+   "night",
+   "couple",
+   "romance",
+   "waterfront"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_209",
+  "src": "extended_look",
+  "start": 1182.967,
+  "end": 1194.4,
+  "dur": 11.433,
+  "desc": "night hug, cars behind",
+  "tags": [
+   "night",
+   "couple",
+   "characters"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_210",
+  "src": "extended_look",
+  "start": 1194.4,
+  "end": 1200.0,
+  "dur": 5.6,
+  "desc": "night waterfront, woman walks toward group",
+  "tags": [
+   "night",
+   "waterfront",
+   "characters"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_211",
+  "src": "extended_look",
+  "start": 1200.0,
+  "end": 1204.0,
+  "dur": 4.0,
+  "desc": "dark car interior at night",
+  "tags": [
+   "night",
+   "car",
+   "interior"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_212",
+  "src": "extended_look",
+  "start": 1204.0,
+  "end": 1211.3,
+  "dur": 7.3,
+  "desc": "SUV driving across bridge at night, skyline lights",
+  "tags": [
+   "night",
+   "car",
+   "driving",
+   "bridge",
+   "skyline",
+   "gameplay"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_213",
+  "src": "extended_look",
+  "start": 1211.3,
+  "end": 1213.0,
+  "dur": 1.7,
+  "desc": "purple-lit skyscraper at night, low angle",
+  "tags": [
+   "night",
+   "skyline",
+   "neon",
+   "skyscraper",
+   "city",
+   "vice-city"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_214",
+  "src": "extended_look",
+  "start": 1213.0,
+  "end": 1215.067,
+  "dur": 2.067,
+  "desc": "night party: woman dancing by car, neon",
+  "tags": [
+   "night",
+   "party",
+   "neon",
+   "dancing"
+  ],
+  "energy": "action",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_215",
+  "src": "extended_look",
+  "start": 1215.067,
+  "end": 1218.8,
+  "dur": 3.733,
+  "desc": "night pool party, glowing pool, crowd",
+  "tags": [
+   "night",
+   "party",
+   "pool",
+   "neon",
+   "crowd"
+  ],
+  "energy": "action",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_216",
+  "src": "extended_look",
+  "start": 1218.8,
+  "end": 1219.633,
+  "dur": 0.833,
+  "desc": "street race at sunset, tuned car with underglow, progress HUD",
+  "tags": [
+   "racing",
+   "street-race",
+   "car",
+   "sunset",
+   "gameplay",
+   "hud"
+  ],
+  "energy": "action",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_217",
+  "src": "extended_look",
+  "start": 1219.633,
+  "end": 1222.967,
+  "dur": 3.334,
+  "desc": "street race through industrial area at dusk",
+  "tags": [
+   "racing",
+   "street-race",
+   "car",
+   "dusk",
+   "gameplay"
+  ],
+  "energy": "action",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_218",
+  "src": "extended_look",
+  "start": 1222.967,
+  "end": 1226.0,
+  "dur": 3.033,
+  "desc": "packed nightclub dance floor, purple lights",
+  "tags": [
+   "nightclub",
+   "party",
+   "dancing",
+   "crowd",
+   "neon"
+  ],
+  "energy": "action",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_219",
+  "src": "extended_look",
+  "start": 1226.0,
+  "end": 1230.1,
+  "dur": 4.1,
+  "desc": "woman holding drink above club dance floor, DRINK prompt",
+  "tags": [
+   "nightclub",
+   "party",
+   "gameplay-ui",
+   "drink"
+  ],
+  "energy": "action",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_220",
+  "src": "extended_look",
+  "start": 1230.1,
+  "end": 1232.2,
+  "dur": 2.1,
+  "desc": "top-down night: building with rainbow neon sign",
+  "tags": [
+   "night",
+   "aerial",
+   "neon",
+   "city"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_221",
+  "src": "extended_look",
+  "start": 1232.2,
+  "end": 1241.0,
+  "dur": 8.8,
+  "desc": "dark: woman exits car at night",
+  "tags": [
+   "night",
+   "car",
+   "arrival",
+   "dark"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_222",
+  "src": "extended_look",
+  "start": 1241.0,
+  "end": 1249.0,
+  "dur": 8.0,
+  "desc": "night arrival at neon-lit venue entrance, guests",
+  "tags": [
+   "night",
+   "party",
+   "venue",
+   "neon",
+   "arrival",
+   "luxury"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_223",
+  "src": "extended_look",
+  "start": 1249.0,
+  "end": 1257.933,
+  "dur": 8.933,
+  "desc": "man walks up candle-lined carpet into party",
+  "tags": [
+   "party",
+   "luxury",
+   "candles",
+   "entrance",
+   "night"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_224",
+  "src": "extended_look",
+  "start": 1257.933,
+  "end": 1270.867,
+  "dur": 12.934,
+  "desc": "exclusive party: guests in suits, neon, balloons",
+  "tags": [
+   "party",
+   "luxury",
+   "guests",
+   "neon",
+   "night"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_225",
+  "src": "extended_look",
+  "start": 1270.867,
+  "end": 1278.067,
+  "dur": 7.2,
+  "desc": "woman in sequin dress at party, close",
+  "tags": [
+   "party",
+   "luxury",
+   "woman",
+   "neon"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_226",
+  "src": "extended_look",
+  "start": 1278.067,
+  "end": 1285.4,
+  "dur": 7.333,
+  "desc": "group of women and man talking at party",
+  "tags": [
+   "party",
+   "luxury",
+   "dialogue",
+   "guests"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_227",
+  "src": "extended_look",
+  "start": 1285.4,
+  "end": 1296.0,
+  "dur": 10.6,
+  "desc": "man in olive suit passes woman in red by elevator",
+  "tags": [
+   "elevator",
+   "party",
+   "man",
+   "interior",
+   "stealth"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_228",
+  "src": "extended_look",
+  "start": 1296.0,
+  "end": 1307.0,
+  "dur": 11.0,
+  "desc": "man waits at elevator door",
+  "tags": [
+   "elevator",
+   "stealth",
+   "interior"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_229",
+  "src": "extended_look",
+  "start": 1307.0,
+  "end": 1318.0,
+  "dur": 11.0,
+  "desc": "man walks into dark room",
+  "tags": [
+   "stealth",
+   "dark",
+   "interior"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_230",
+  "src": "extended_look",
+  "start": 1318.0,
+  "end": 1329.0,
+  "dur": 11.0,
+  "desc": "man sneaks through dim hallway with doors",
+  "tags": [
+   "stealth",
+   "hallway",
+   "dark",
+   "heist"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_231",
+  "src": "extended_look",
+  "start": 1329.0,
+  "end": 1339.0,
+  "dur": 10.0,
+  "desc": "dark office overlooking party, people at desk with laptop",
+  "tags": [
+   "office",
+   "stealth",
+   "laptop",
+   "dark",
+   "heist"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_232",
+  "src": "extended_look",
+  "start": 1339.0,
+  "end": 1350.0,
+  "dur": 11.0,
+  "desc": "dark office, men by window",
+  "tags": [
+   "office",
+   "stealth",
+   "dark"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_233",
+  "src": "extended_look",
+  "start": 1350.0,
+  "end": 1360.0,
+  "dur": 10.0,
+  "desc": "dark office, figures by desk",
+  "tags": [
+   "office",
+   "stealth",
+   "dark"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_234",
+  "src": "extended_look",
+  "start": 1360.0,
+  "end": 1371.4,
+  "dur": 11.4,
+  "desc": "dark office, laptop glow",
+  "tags": [
+   "office",
+   "laptop",
+   "stealth",
+   "dark"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_235",
+  "src": "extended_look",
+  "start": 1371.4,
+  "end": 1376.367,
+  "dur": 4.967,
+  "desc": "blue-lit party hall with stairs, guests dancing",
+  "tags": [
+   "party",
+   "luxury",
+   "blue",
+   "dancing",
+   "mansion"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_236",
+  "src": "extended_look",
+  "start": 1376.367,
+  "end": 1386.1,
+  "dur": 9.733,
+  "desc": "blue party, guests on staircase",
+  "tags": [
+   "party",
+   "luxury",
+   "staircase",
+   "guests"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_237",
+  "src": "extended_look",
+  "start": 1386.1,
+  "end": 1387.933,
+  "dur": 1.833,
+  "desc": "high-angle: crowded luxury party, lights",
+  "tags": [
+   "party",
+   "luxury",
+   "crowd",
+   "aerial-interior"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_238",
+  "src": "extended_look",
+  "start": 1387.933,
+  "end": 1392.5,
+  "dur": 4.567,
+  "desc": "older man in tuxedo and sunglasses, woman beside (rich villain type)",
+  "tags": [
+   "party",
+   "luxury",
+   "character",
+   "tuxedo",
+   "closeup"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_239",
+  "src": "extended_look",
+  "start": 1392.5,
+  "end": 1402.0,
+  "dur": 9.5,
+  "desc": "dark: two men grappling / scuffle",
+  "tags": [
+   "fight",
+   "dark",
+   "action"
+  ],
+  "energy": "action",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_240",
+  "src": "extended_look",
+  "start": 1402.0,
+  "end": 1411.0,
+  "dur": 9.0,
+  "desc": "dim room, figure crouched by equipment",
+  "tags": [
+   "stealth",
+   "dark",
+   "heist"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_241",
+  "src": "extended_look",
+  "start": 1411.0,
+  "end": 1421.0,
+  "dur": 10.0,
+  "desc": "dark room, man looks at city through window",
+  "tags": [
+   "stealth",
+   "dark",
+   "night",
+   "heist"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_242",
+  "src": "extended_look",
+  "start": 1421.0,
+  "end": 1430.467,
+  "dur": 9.467,
+  "desc": "man reads phone text from Lucia: GUYS EVERYWHERE (in-game messaging UI)",
+  "tags": [
+   "phone",
+   "text-message",
+   "lucia",
+   "gameplay-ui",
+   "heist"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_243",
+  "src": "extended_look",
+  "start": 1430.467,
+  "end": 1438.167,
+  "dur": 7.7,
+  "desc": "guard in white hazmat suit with gun, blue light, Lucia text overlay",
+  "tags": [
+   "guard",
+   "hazmat",
+   "heist",
+   "gun",
+   "gameplay-ui"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_244",
+  "src": "extended_look",
+  "start": 1438.167,
+  "end": 1443.333,
+  "dur": 5.166,
+  "desc": "hazmat guard with radio, close",
+  "tags": [
+   "guard",
+   "hazmat",
+   "heist",
+   "closeup"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_245",
+  "src": "extended_look",
+  "start": 1443.333,
+  "end": 1445.0,
+  "dur": 1.667,
+  "desc": "body in white suit on floor in blood (top view) - violent",
+  "tags": [
+   "body",
+   "blood",
+   "violent",
+   "aftermath"
+  ],
+  "energy": "tense",
+  "use": "no",
+  "note": "avoid-gore",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_246",
+  "src": "extended_look",
+  "start": 1445.0,
+  "end": 1447.767,
+  "dur": 2.767,
+  "desc": "bloody body close-up - violent",
+  "tags": [
+   "body",
+   "blood",
+   "violent",
+   "gore"
+  ],
+  "energy": "tense",
+  "use": "no",
+  "note": "avoid-gore",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_247",
+  "src": "extended_look",
+  "start": 1447.767,
+  "end": 1453.0,
+  "dur": 5.233,
+  "desc": "woman silhouette crouches in blue-lit room",
+  "tags": [
+   "stealth",
+   "woman",
+   "silhouette",
+   "heist",
+   "blue"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_248",
+  "src": "extended_look",
+  "start": 1453.0,
+  "end": 1455.0,
+  "dur": 2.0,
+  "desc": "woman sneaks through dark doorway",
+  "tags": [
+   "stealth",
+   "woman",
+   "heist",
+   "dark"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_249",
+  "src": "extended_look",
+  "start": 1455.0,
+  "end": 1457.0,
+  "dur": 2.0,
+  "desc": "woman silhouette at door, blue light",
+  "tags": [
+   "stealth",
+   "woman",
+   "heist",
+   "silhouette"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_250",
+  "src": "extended_look",
+  "start": 1457.0,
+  "end": 1462.233,
+  "dur": 5.233,
+  "desc": "woman silhouette walks into bright stairwell",
+  "tags": [
+   "stealth",
+   "woman",
+   "silhouette",
+   "heist"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_251",
+  "src": "extended_look",
+  "start": 1462.233,
+  "end": 1464.467,
+  "dur": 2.234,
+  "desc": "man in white suit tumbles down stairs (takedown)",
+  "tags": [
+   "fight",
+   "takedown",
+   "stairs",
+   "action"
+  ],
+  "energy": "action",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_252",
+  "src": "extended_look",
+  "start": 1464.467,
+  "end": 1467.0,
+  "dur": 2.533,
+  "desc": "man in white suit on stairs",
+  "tags": [
+   "stairs",
+   "guard",
+   "action"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_253",
+  "src": "extended_look",
+  "start": 1467.0,
+  "end": 1469.7,
+  "dur": 2.7,
+  "desc": "man crawling on floor injured",
+  "tags": [
+   "fight",
+   "aftermath",
+   "injured"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_254",
+  "src": "extended_look",
+  "start": 1469.7,
+  "end": 1474.0,
+  "dur": 4.3,
+  "desc": "man enters door marked 26",
+  "tags": [
+   "door",
+   "heist",
+   "interior"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_255",
+  "src": "extended_look",
+  "start": 1474.0,
+  "end": 1476.0,
+  "dur": 2.0,
+  "desc": "black/dark frame",
+  "tags": [
+   "dark",
+   "transition"
+  ],
+  "energy": "calm",
+  "use": "no",
+  "note": "skip",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_256",
+  "src": "extended_look",
+  "start": 1476.0,
+  "end": 1478.9,
+  "dur": 2.9,
+  "desc": "dark figure moving",
+  "tags": [
+   "dark",
+   "stealth"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": "",
+  "cut_in": "black",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_257",
+  "src": "extended_look",
+  "start": 1478.9,
+  "end": 1486.0,
+  "dur": 7.1,
+  "desc": "men in white suits in office, monitors",
+  "tags": [
+   "office",
+   "heist",
+   "guards",
+   "monitors"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_258",
+  "src": "extended_look",
+  "start": 1486.0,
+  "end": 1488.0,
+  "dur": 2.0,
+  "desc": "dark office, body on floor, light beam",
+  "tags": [
+   "office",
+   "dark",
+   "aftermath",
+   "heist"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_259",
+  "src": "extended_look",
+  "start": 1488.0,
+  "end": 1492.0,
+  "dur": 4.0,
+  "desc": "man crouches in dark office (stealth)",
+  "tags": [
+   "stealth",
+   "office",
+   "dark",
+   "heist"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_260",
+  "src": "extended_look",
+  "start": 1492.0,
+  "end": 1498.0,
+  "dur": 6.0,
+  "desc": "dark open-plan office, city lights",
+  "tags": [
+   "office",
+   "dark",
+   "night",
+   "heist"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_261",
+  "src": "extended_look",
+  "start": 1498.0,
+  "end": 1501.0,
+  "dur": 3.0,
+  "desc": "man in tan coat peeks around office corner",
+  "tags": [
+   "stealth",
+   "office",
+   "heist",
+   "night"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_262",
+  "src": "extended_look",
+  "start": 1501.0,
+  "end": 1508.0,
+  "dur": 7.0,
+  "desc": "dark office interior, gameplay prompt",
+  "tags": [
+   "office",
+   "stealth",
+   "gameplay-ui",
+   "dark"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_263",
+  "src": "extended_look",
+  "start": 1508.0,
+  "end": 1510.267,
+  "dur": 2.267,
+  "desc": "shotgun aimed in dark office",
+  "tags": [
+   "gun",
+   "shotgun",
+   "shootout",
+   "office"
+  ],
+  "energy": "action",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_264",
+  "src": "extended_look",
+  "start": 1510.267,
+  "end": 1512.5,
+  "dur": 2.233,
+  "desc": "man moves through office kitchen with gun",
+  "tags": [
+   "shootout",
+   "office",
+   "gun",
+   "heist"
+  ],
+  "energy": "action",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_265",
+  "src": "extended_look",
+  "start": 1512.5,
+  "end": 1517.0,
+  "dur": 4.5,
+  "desc": "dark office corridor, guards",
+  "tags": [
+   "office",
+   "guards",
+   "shootout"
+  ],
+  "energy": "action",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_266",
+  "src": "extended_look",
+  "start": 1517.0,
+  "end": 1520.0,
+  "dur": 3.0,
+  "desc": "split-screen style: man fights guard in office",
+  "tags": [
+   "fight",
+   "office",
+   "guards",
+   "action"
+  ],
+  "energy": "action",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_267",
+  "src": "extended_look",
+  "start": 1520.0,
+  "end": 1523.133,
+  "dur": 3.133,
+  "desc": "man bursts through door into lit room",
+  "tags": [
+   "door",
+   "breach",
+   "office",
+   "action"
+  ],
+  "energy": "action",
+  "use": "yes",
+  "note": "",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_268",
+  "src": "extended_look",
+  "start": 1523.133,
+  "end": 1534.633,
+  "dur": 11.5,
+  "desc": "two people wrestling on floor",
+  "tags": [
+   "fight",
+   "brawl",
+   "action"
+  ],
+  "energy": "action",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_269",
+  "src": "extended_look",
+  "start": 1534.633,
+  "end": 1538.433,
+  "dur": 3.8,
+  "desc": "man running past yellow barrier",
+  "tags": [
+   "running",
+   "escape",
+   "action"
+  ],
+  "energy": "action",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_270",
+  "src": "extended_look",
+  "start": 1538.433,
+  "end": 1542.133,
+  "dur": 3.7,
+  "desc": "black frame",
+  "tags": [
+   "black",
+   "transition"
+  ],
+  "energy": "calm",
+  "use": "no",
+  "note": "skip",
+  "cut_in": "black",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_271",
+  "src": "extended_look",
+  "start": 1542.133,
+  "end": 1545.833,
+  "dur": 3.7,
+  "desc": "night skyline of Vice City, neon towers (aerial)",
+  "tags": [
+   "night",
+   "skyline",
+   "aerial",
+   "city",
+   "neon",
+   "vice-city",
+   "iconic"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "black",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_272",
+  "src": "extended_look",
+  "start": 1545.833,
+  "end": 1548.067,
+  "dur": 2.234,
+  "desc": "aerial luxury tower with rooftop pool and sculpture",
+  "tags": [
+   "aerial",
+   "luxury",
+   "pool",
+   "skyscraper",
+   "daytime"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_273",
+  "src": "extended_look",
+  "start": 1548.067,
+  "end": 1549.8,
+  "dur": 1.733,
+  "desc": "men fishing from boat on bay",
+  "tags": [
+   "fishing",
+   "boat",
+   "water",
+   "activities",
+   "daytime"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_274",
+  "src": "extended_look",
+  "start": 1549.8,
+  "end": 1553.733,
+  "dur": 3.933,
+  "desc": "strip-club style bar, neon, dancer arms",
+  "tags": [
+   "nightclub",
+   "neon",
+   "bar",
+   "night"
+  ],
+  "energy": "action",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_275",
+  "src": "extended_look",
+  "start": 1553.733,
+  "end": 1557.6,
+  "dur": 3.867,
+  "desc": "bikers/locals drinking at outdoor table by motel",
+  "tags": [
+   "bar",
+   "locals",
+   "motel",
+   "drinking",
+   "npc"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_276",
+  "src": "extended_look",
+  "start": 1557.6,
+  "end": 1561.3,
+  "dur": 3.7,
+  "desc": "dark night shot, vehicle in fog",
+  "tags": [
+   "night",
+   "dark",
+   "vehicle"
+  ],
+  "energy": "tense",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_277",
+  "src": "extended_look",
+  "start": 1561.3,
+  "end": 1563.267,
+  "dur": 1.967,
+  "desc": "tattooed man at night club bar, blue/red light",
+  "tags": [
+   "nightclub",
+   "tattoo",
+   "character",
+   "neon"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_278",
+  "src": "extended_look",
+  "start": 1563.267,
+  "end": 1567.2,
+  "dur": 3.933,
+  "desc": "seaplane propeller close-up over water",
+  "tags": [
+   "seaplane",
+   "plane",
+   "propeller",
+   "water",
+   "vehicle"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_279",
+  "src": "extended_look",
+  "start": 1567.2,
+  "end": 1570.133,
+  "dur": 2.933,
+  "desc": "sunset over Vice City skyline (golden)",
+  "tags": [
+   "sunset",
+   "skyline",
+   "city",
+   "vice-city",
+   "iconic"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_280",
+  "src": "extended_look",
+  "start": 1570.133,
+  "end": 1573.567,
+  "dur": 3.434,
+  "desc": "friends partying on a boat, drinks, sea",
+  "tags": [
+   "boat",
+   "party",
+   "friends",
+   "ocean",
+   "daytime"
+  ],
+  "energy": "calm",
+  "use": "yes",
+  "note": "",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_281",
+  "src": "extended_look",
+  "start": 1573.567,
+  "end": 1584.0,
+  "dur": 10.433,
+  "desc": "official GTA VI logo card (trademark - avoid)",
+  "tags": [
+   "logo",
+   "title-card"
+  ],
+  "energy": "calm",
+  "use": "no",
+  "note": "skip",
+  "cut_in": "hard",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_282",
+  "src": "extended_look",
+  "start": 1584.0,
+  "end": 1594.0,
+  "dur": 10.0,
+  "desc": "release date text fading in on dark",
+  "tags": [
+   "title-card",
+   "release-date",
+   "text"
+  ],
+  "energy": "calm",
+  "use": "no",
+  "note": "skip",
+  "cut_in": "none",
+  "frame_accurate": true
+ },
+ {
+  "id": "EXT_283",
+  "src": "extended_look",
+  "start": 1594.0,
+  "end": 1606.05,
+  "dur": 12.05,
+  "desc": "NOVEMBER 19, 2026 PRE-ORDER NOW end card",
+  "tags": [
+   "title-card",
+   "release-date",
+   "preorder",
+   "text"
+  ],
+  "energy": "calm",
+  "use": "no",
+  "note": "skip",
+  "cut_in": "none",
+  "frame_accurate": true
+ }
+]

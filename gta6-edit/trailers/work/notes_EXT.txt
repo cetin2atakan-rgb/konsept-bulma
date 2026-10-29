@@ -1,0 +1,283 @@
+EXT_001|Rockstar logo on black, age-rating overlay top-left|logo,intro,rockstar|calm|skip
+EXT_002|Jason and Lucia walk at night toward a lit apartment-complex breezeway, gang members waiting|jason,lucia,night,walking,apartment,gang|calm|
+EXT_003|Jason meets shirtless gang member with towel and crew in graffiti breezeway|jason,lucia,gang,meeting,night,dialogue|calm|
+EXT_004|Jason faces gang leader and red-shirt guy, Lucia watches|jason,lucia,gang,standoff,dialogue|tense|
+EXT_005|crew walks off through breezeway, people loitering, man slumped on bench|jason,lucia,gang,night,street-life|calm|
+EXT_006|Jason and Lucia enter bare tiled apartment hallway|jason,lucia,interior,hallway,walking|calm|
+EXT_007|hallway: man in bucket hat and big guy in gold chain|jason,gang,hallway,characters,dialogue|calm|
+EXT_008|group conversation in red-walled hallway|jason,lucia,gang,dialogue,interior|calm|
+EXT_009|graffiti wall, Jason talks to residents|jason,graffiti,interior,dialogue|calm|
+EXT_010|over-shoulder: big guy with gold chains checks phone|jason,phone,gang,closeup|calm|
+EXT_011|big guy texting, close over-shoulder|phone,gang,closeup|calm|
+EXT_012|Jason walks through dim room with people at table|jason,interior,walking,apartment|calm|
+EXT_013|Jason in corridor, long dark hallway ahead|jason,hallway,walking,interior|calm|
+EXT_014|Jason at a door with KNOCK prompt (gameplay UI)|jason,door,gameplay-ui,interior|calm|
+EXT_015|door opens, man peeks out, over-shoulder|jason,door,dialogue|tense|
+EXT_016|dark doorway close over-shoulder|jason,dark,door|tense|
+EXT_017|view into a lit back room with a table (drug lab)|interior,drug-lab,reveal|tense|
+EXT_018|figure at lit table in smoky lab|drug-lab,interior,smoke|tense|
+EXT_019|Jason and Lucia inside the lab, Jason looks around|jason,lucia,drug-lab,interior|tense|
+EXT_020|Jason, Lucia and tattooed dreadlocked man talk|jason,lucia,dreadlocks-man,drug-lab,dialogue|tense|
+EXT_021|close-up: gloved hands cooking drugs, pots and boxes|drug-lab,cooking,closeup,detail|calm|
+EXT_022|dreadlocked tattooed boss with gold chains talks, lab workers behind|dreadlocks-man,drug-lab,dialogue,character|tense|
+EXT_023|boss closer, workers in underwear behind|dreadlocks-man,drug-lab,dialogue|tense|
+EXT_024|boss talking, smoky lab|dreadlocks-man,drug-lab,dialogue|tense|
+EXT_025|man drops red duffel bag by table|duffel-bag,money,drug-lab,deal|tense|
+EXT_026|Lucia and Jason stand in dim room, Lucia looks wary|lucia,jason,closeup,tense,interior|tense|
+EXT_027|masked lab workers cooking in smoke|drug-lab,workers,smoke|calm|
+EXT_028|boss with Jason and Lucia in background|dreadlocks-man,jason,lucia,dialogue|tense|
+EXT_029|close-up phone ringing on table, incoming call|phone,call,closeup,detail|tense|
+EXT_030|two gang men in tank tops, close|gang,closeup,characters|tense|
+EXT_031|dark close-up, hands/movement|dark,action|tense|
+EXT_032|lab from behind silhouette, smoke|drug-lab,smoke,silhouette|tense|
+EXT_033|red duffel bag on floor, close-up|duffel-bag,money,detail,closeup|tense|
+EXT_034|tattooed arm reaches for door handle in dark|door,hand,closeup,dark|tense|
+EXT_035|boss holding something, glances aside|dreadlocks-man,closeup|tense|
+EXT_036|dark hallway, figure in shadows|hallway,dark,stealth|tense|
+EXT_037|long dark corridor, people lying on floor|hallway,dark,aftermath|tense|
+EXT_038|fight breaks out in room, scuffle|fight,action,interior|action|
+EXT_039|muzzle flash / shot fired in dark room|gunfire,shootout,action,dark|action|
+EXT_040|smoky room after shooting, lamp light|aftermath,interior,smoke|tense|
+EXT_041|Jason with red duffel moves through dark cluttered room|jason,duffel-bag,escape,interior,dark|tense|
+EXT_042|Jason with bag runs through a door into bright hallway|jason,duffel-bag,escape,running|action|
+EXT_043|Jason with rifle covers corridor (third-person shooter)|jason,gun,rifle,shootout,gameplay,corridor|action|
+EXT_044|Jason aims rifle down long corridor|jason,gun,shootout,gameplay,corridor|action|
+EXT_045|gunfight, sparks hitting wall, enemy at end of corridor|jason,shootout,gunfire,action,gameplay|action|
+EXT_046|Jason and Lucia rush through graffiti hallway|jason,lucia,escape,running,graffiti|action|
+EXT_047|Jason and Lucia in graffiti hallway, tense|jason,lucia,escape,graffiti|action|
+EXT_048|green-lit room, armed enemies, shootout|shootout,gunfire,enemies,gameplay|action|
+EXT_049|Jason and Lucia close, graffiti wall behind|jason,lucia,closeup,escape|tense|
+EXT_050|near-black frame (transition)|dark,transition|calm|skip
+EXT_051|Jason runs down pale green hallway with bag|jason,duffel-bag,escape,running,hallway|action|
+EXT_052|Jason in hallway toward a door|jason,escape,hallway|action|
+EXT_053|dark apartment room|dark,interior|tense|
+EXT_054|candle-lit apartment room, Jason passes through|jason,interior,candles,escape|tense|
+EXT_055|dark blurry fast motion|dark,motion,transition|action|skip
+EXT_056|dark blurry fast motion|dark,motion,transition|action|skip
+EXT_057|black frame|black,transition|calm|skip
+EXT_058|title card ROCKSTAR GAMES PRESENTS|title-card,rockstar,text|calm|skip
+EXT_059|daytime: Jason walks to red classic car in sunny strip-mall lot, eagle/flag mural, palm trees|jason,car,daytime,vice-city,street,mural,muscle-car|calm|
+EXT_060|red classic muscle car with Jason and Lucia drives out of lot|jason,lucia,car,driving,daytime,muscle-car|calm|
+EXT_061|official VI logo on dark (trademark - avoid)|logo,title-card|calm|skip
+EXT_062|sunny city street, woman jogging past parked pickup, high-rises, palms|vice-city,street,daytime,city,pedestrians,traffic|calm|
+EXT_063|close-up fridge door with photos and sticky notes|apartment,detail,fridge,interior|calm|
+EXT_064|top-down: pink apartment, zebra rug, toys (Lucia-style home)|apartment,interior,pink,topdown|calm|
+EXT_065|man in tank top and woman argue in pink apartment|apartment,couple,dialogue,interior,pink|calm|
+EXT_066|woman lying on pink bed scrolling phone|phone,social-media,woman,bed,apartment|calm|
+EXT_067|woman in pink-curtained room with neon lights holds item|woman,apartment,neon,interior|calm|
+EXT_068|man in black shirt in teal room with vanity mirror lights, neon flamingo|man,apartment,neon,flamingo,interior|calm|
+EXT_069|woman walks through room, man over-shoulder|woman,man,apartment,interior|calm|
+EXT_070|over-shoulder dark man near mirror|man,apartment,interior|calm|
+EXT_071|man walks into dark room, gameplay prompt bottom-right|man,gameplay-ui,interior|calm|
+EXT_072|man walks through pink apartment living room|man,apartment,pink,walking,interior|calm|
+EXT_073|man opens fridge in kitchen|man,kitchen,fridge,interior|calm|
+EXT_074|man looks into open fridge full of drinks|fridge,food,detail,interactive,gameplay|calm|
+EXT_075|man at kitchen table, DRINK prompt (interactive gameplay)|gameplay-ui,interactive,kitchen,drink|calm|
+EXT_076|TV showing weird cartoon creature (in-game TV)|tv,cartoon,in-game-media,parody|calm|
+EXT_077|TV cartoon: lumpy creature on legs|tv,cartoon,in-game-media,parody|calm|
+EXT_078|TV switches to forest nature scene|tv,nature,in-game-media|calm|
+EXT_079|fullscreen cartoon forest animals: boar, squirrel, birds (in-game show)|cartoon,animals,in-game-media,parody,nature|calm|
+EXT_080|cartoon stag and rabbits close (in-game show)|cartoon,animals,in-game-media,parody|calm|
+EXT_081|cartoon giant meat burger on table (in-game ad parody)|cartoon,food,in-game-media,parody,ad|calm|
+EXT_082|sunny city: apartment block, palms, high-rises, street|vice-city,city,daytime,buildings,skyline|calm|
+EXT_083|woman in pink dress at glass door, man over-shoulder|woman,door,character,daytime|calm|
+EXT_084|man walks to red convertible in leafy parking area|man,car,convertible,daytime,parking|calm|
+EXT_085|red convertible parked under building, minimap visible (gameplay)|car,convertible,gameplay,minimap|calm|
+EXT_086|driving red convertible beside a tanker truck, minimap (driving gameplay)|car,driving,gameplay,convertible,traffic,minimap|calm|
+EXT_087|driving convertible through intersection, highway overpass, skyline|car,driving,gameplay,city,skyline,highway|calm|
+EXT_088|driving convertible on wide boulevard, traffic|car,driving,gameplay,traffic,city|calm|
+EXT_089|person climbing on bridge railing, high-rise behind (stunt / world detail)|bridge,city,stunt,world-detail,skyline|tense|
+EXT_090|night street: woman in red sports car, pedestrian falls, neon|night,car,sportscar,neon,street,chaos|action|
+EXT_091|man filming himself with phone outside liquor store (social media / vlogger NPC)|phone,social-media,npc,vlogger,street,daytime|calm|
+EXT_092|crowd fight / brawl in back lot|fight,crowd,brawl,chaos,npc|action|
+EXT_093|bearded man in sunglasses with assault rifle, woman beside, palms (low angle)|gun,rifle,character,daytime,threat|action|
+EXT_094|night street, burning cars, armed people|night,fire,chaos,street,crime|action|
+EXT_095|motel parking lot, man in tank top, residents|motel,daytime,street-life,npc|calm|
+EXT_096|woman hosing/spraying in rundown room|interior,npc,world-detail|calm|
+EXT_097|rooftop/backyard party, pool float, people sunbathing|party,backyard,daytime,npc,world-detail|calm|
+EXT_098|aerial over rooftop bar and city blocks, ocean in distance|aerial,city,rooftop,skyline,daytime|calm|
+EXT_099|woman in pink dress and sunglasses in elevator, man over-shoulder|elevator,woman,interior,character|calm|
+EXT_100|elevator ride, woman leaning on wall|elevator,woman,interior|calm|
+EXT_101|man in black and woman in pink walk hand-in-hand onto sunny rooftop bar, skyline|rooftop,bar,couple,daytime,skyline,luxury|calm|
+EXT_102|rooftop bar walk, balloons, skyline|rooftop,bar,daytime,skyline,luxury|calm|
+EXT_103|rooftop bar crowd, women at bar|rooftop,bar,party,npc,luxury|calm|
+EXT_104|men in floral shirts grab an old woman by a public locker sign (mugging)|crime,robbery,street,npc,chaos|tense|
+EXT_105|dark interior, people at monitors, figure entering|interior,dark,surveillance,crime|tense|
+EXT_106|dark close-up woman with bob hair and man in cap|characters,dark,closeup,crime|tense|
+EXT_107|security monitors/CCTV desk, man slumped|surveillance,cctv,monitors,crime,interior|tense|
+EXT_108|body lying on floor in murky water/dust|aftermath,body,dark|tense|
+EXT_109|man lying on floor, dim|aftermath,body,dark|tense|
+EXT_110|rooftop bar sign (fictional brand), patrons at bar|rooftop,bar,sign,brand-parody,daytime|calm|
+EXT_111|rooftop restaurant table: couple, older man in floral shirt, cocktails|rooftop,restaurant,characters,luxury,dialogue|calm|
+EXT_112|rooftop table conversation, bald man in sunglasses|rooftop,restaurant,dialogue,luxury|calm|
+EXT_113|rooftop table group talk|rooftop,restaurant,dialogue|calm|
+EXT_114|rooftop table, man leans in|rooftop,restaurant,dialogue|calm|
+EXT_115|woman in floral dress walks away from table|rooftop,restaurant,npc|calm|
+EXT_116|two men face off on rooftop at sunset, city skyline|rooftop,skyline,sunset,standoff,dialogue|tense|
+EXT_117|man by glass door, man in leather jacket (robbery prep)|robbery,characters,interior|tense|
+EXT_118|golden-hour shootout in parking lot, men firing pistols|shootout,gunfire,action,sunset,parking|action|
+EXT_119|masked man at tool bench in garage|robbery,mask,garage,prep|tense|
+EXT_120|man in jacket enters convenience store, shelves, clerk|convenience-store,robbery,interior,shop|tense|
+EXT_121|robber forces clerk behind counter in store|robbery,convenience-store,crime,action|action|
+EXT_122|Lucia in red bandana mask and partner in masks outside store, low angle (iconic robbery)|lucia,jason,robbery,mask,bandana,daytime,iconic|action|
+EXT_123|masked duo close low angle, confident|lucia,jason,robbery,mask,bandana,iconic|action|
+EXT_124|robber vaults over store counter|robbery,convenience-store,action|action|
+EXT_125|man walks through store toward exit, shelves|convenience-store,robbery,interior|tense|
+EXT_126|masked Lucia in car, raising arm|lucia,mask,car,robbery,escape|action|
+EXT_127|store owner fires shotgun at gas station door|gun,shotgun,gas-station,shootout,action|action|
+EXT_128|two men on rooftop overlooking city, helicopter in sky|rooftop,skyline,city,helicopter,dialogue|calm|
+EXT_129|wide city view from rooftop, high-rises, helicopter|city,skyline,aerial,daytime,vice-city|calm|
+EXT_130|driving grey sedan on waterfront road, sunlight, minimap|car,driving,gameplay,waterfront,sunset,minimap|calm|
+EXT_131|driving sedan, palm-lined road, sun flare|car,driving,gameplay,palms,sunset|calm|
+EXT_132|driving sedan toward high-rises|car,driving,gameplay,city,skyline|calm|
+EXT_133|driving sedan on highway, highway signs, towers|car,driving,highway,gameplay,city|calm|
+EXT_134|Jason and Lucia in car looking at phone, billboard outside|jason,lucia,car,phone,dialogue|calm|
+EXT_135|Jason driving, Lucia passenger, close|jason,lucia,car,driving,closeup,dialogue|calm|
+EXT_136|car interior dark, Jason and Lucia|jason,lucia,car,dialogue|calm|
+EXT_137|Lucia in back seat looking at Jason|lucia,car,closeup,dialogue|calm|
+EXT_138|bearded man in sunglasses in back seat|car,character,dialogue|calm|
+EXT_139|car interior, masked figure, motion|car,mask,robbery,motion|action|
+EXT_140|car interior looking out at street|car,driving,interior|calm|
+EXT_141|masked man with rifle leaning out of car window (drive-by)|car,gun,rifle,mask,shootout,chase|action|
+EXT_142|police helicopter over street, high-rises, police lights on minimap|police,helicopter,chase,city,wanted|action|
+EXT_143|man on foot fires rifle at police cars on street (gameplay shootout)|shootout,police,gun,gameplay,street,wanted|action|
+EXT_144|man fires at police car in alley|shootout,police,gun,gameplay|action|
+EXT_145|police car (832) crashes into pole after gunfire|police,crash,car,shootout,action|action|
+EXT_146|man aims rifle down residential street|shootout,gun,gameplay,residential|action|
+EXT_147|running with rifle past hedges|shootout,gun,running,gameplay|action|
+EXT_148|firing down alley at car|shootout,gun,gameplay,alley|action|
+EXT_149|dark sedan pulls up (getaway car)|car,getaway,escape|action|
+EXT_150|street with burning wrecks and police cars, bus|chaos,fire,police,street,aftermath|action|
+EXT_151|getaway car interior, mustached man and masked partner|car,getaway,characters,dialogue|tense|
+EXT_152|woman driver at wheel in dark car|car,driving,woman,getaway|tense|
+EXT_153|car interior, men in back, light ahead|car,getaway,characters|tense|
+EXT_154|curly-haired woman driver looks back, close|car,woman,closeup,getaway|tense|
+EXT_155|mustached man with glasses close, car interior|car,character,closeup,dialogue|tense|
+EXT_156|woman driver close|car,woman,closeup|tense|
+EXT_157|mustached man close talking|car,character,closeup,dialogue|tense|
+EXT_158|car drives into dark garage tunnel|car,garage,tunnel,escape|tense|
+EXT_159|car exits bright garage tunnel|car,garage,escape|tense|
+EXT_160|car drives out of alley into sunlight|car,escape,alley,daytime|calm|
+EXT_161|sedan drives out onto street past storefronts, minimap|car,driving,gameplay,street,daytime|calm|
+EXT_162|sedan speeding through residential street, police pursuit icons|car,chase,driving,gameplay,police|action|
+EXT_163|sedan races down palm boulevard, cars swerving|car,chase,driving,gameplay,traffic|action|
+EXT_164|police cruiser close behind (POLICE livery), pursuit|police,car,chase,city|action|
+EXT_165|sedan escapes past parking structure|car,chase,escape,gameplay|action|
+EXT_166|weapon wheel UI overlay, money counter top-right (gameplay menu)|gameplay-ui,weapon-wheel,menu,hud|calm|
+EXT_167|parking garage: man loads bag into brown van|van,garage,heist,bag|tense|
+EXT_168|brown van drives along waterfront street, stop sign, flowers, bay|van,driving,waterfront,daytime,gameplay|calm|
+EXT_169|aerial: neighborhood with tennis courts, beach town, high-rises in distance|aerial,city,neighborhood,daytime,map,vice-city|calm|
+EXT_170|Lucia meets man with bag on sunny sidewalk, man in leather jacket|lucia,deal,bag,street,daytime,dialogue|tense|
+EXT_171|Lucia and Jason walk beside van in alley, purple tile wall|lucia,jason,van,alley,walking|calm|
+EXT_172|Lucia close in grey crop hoodie, Jason behind, Leonida mural|lucia,jason,closeup,mural,leonida,iconic|calm|
+EXT_173|street view from van, motorcyclist, parked cars|street,van,traffic,daytime|calm|
+EXT_174|Jason and Lucia by tiled wall, WARNING cameras sign|jason,lucia,street,daytime|calm|
+EXT_175|Lucia walks away along tiled wall|lucia,walking,street|calm|
+EXT_176|colorful cartoon mural, people hanging out on sidewalk|street,mural,street-art,npc,daytime|calm|
+EXT_177|airboat speeding through green swamp, cypress trees (Everglades)|airboat,swamp,everglades,nature,boat,leonida|calm|
+EXT_178|man in tank top under stilt house, basketball hoop (Keys/fishing village)|stilt-house,village,npc,daytime,keys|calm|
+EXT_179|underwater: diver silhouette in blue water|underwater,diving,ocean,nature|calm|
+EXT_180|woman lifting barbell (prison/gym workout)|gym,workout,lucia,barbell|calm|
+EXT_181|woman diving into turquoise ocean, beach town behind|ocean,swimming,beach,nature,activities|calm|
+EXT_182|jet ski at sunset across bay, skyline|jetski,water,sunset,activities,skyline,gameplay|calm|
+EXT_183|binoculars view: woman in window (scope/zoom UI)|binoculars,gameplay-ui,spy,stealth|tense|
+EXT_184|kayaking in harbor, high-rises behind|kayak,water,activities,skyline,gameplay|calm|
+EXT_185|night club entrance, bouncers in green light|nightclub,night,club,bouncers|calm|
+EXT_186|nightclub dance floor, pink/purple lights, dancers|nightclub,party,dancing,neon,night|action|
+EXT_187|street race: white race car with livery, lap counter HUD|racing,race,car,gameplay,hud,activities|action|
+EXT_188|woman at repair shop storefront, pawn shop signs, NPCs|street,shop,npc,daytime,world-detail|calm|
+EXT_189|jewelry store robbery, people on floor, armed robber|robbery,jewelry-store,heist,crime,action|action|
+EXT_190|cyclist on street at sunset, traffic lights|bicycle,street,sunset,npc,activities|calm|
+EXT_191|man with phone filming woman on sidewalk (social media, content creator)|social-media,phone,filming,street,npc|calm|
+EXT_192|car with live-stream chat overlay on screen (in-game livestream)|livestream,social-media,car,gameplay-ui,street|calm|
+EXT_193|crowded beach with yellow umbrellas, sunbathers|beach,daytime,crowd,vice-city,tourism|calm|
+EXT_194|woman aiming rifle in courtyard, TARGETS REMAINING HUD (shooting range challenge)|gun,rifle,challenge,gameplay-ui,activities|action|
+EXT_195|dirt bike race through hills, lap/time HUD|dirtbike,racing,offroad,gameplay,activities|action|
+EXT_196|night drive in red convertible, city lights|car,driving,night,convertible,city|calm|
+EXT_197|skydiver freefalling over island city and canals|skydiving,aerial,activities,city,canals|action|
+EXT_198|parachute opening over skyline|parachute,skydiving,aerial,skyline,activities|calm|
+EXT_199|top-down aerial: beach, resort, city blocks|aerial,topdown,beach,city,map|calm|
+EXT_200|two men on couch drinking, sports jersey (hanging out)|friends,couch,drinking,interior,npc|calm|
+EXT_201|blonde woman in airport lounge, planes outside|airport,lounge,luxury,woman,character|calm|
+EXT_202|airport lounge wide, people walking|airport,lounge,luxury,interior|calm|
+EXT_203|blonde woman with pearl necklace smiling, private jets outside|airport,luxury,woman,closeup,private-jet|calm|
+EXT_204|woman greets man in suit and woman in black, airport lounge|airport,luxury,meeting,dialogue|calm|
+EXT_205|lounge conversation, jets outside|airport,luxury,dialogue|calm|
+EXT_206|blonde woman close, plane taxiing behind|airport,luxury,woman,closeup|calm|
+EXT_207|waiter serves drinks to group in lounge|airport,luxury,drinks,dialogue|calm|
+EXT_208|night: man and woman embrace on tarmac/waterfront|night,couple,romance,waterfront|calm|
+EXT_209|night hug, cars behind|night,couple,characters|calm|
+EXT_210|night waterfront, woman walks toward group|night,waterfront,characters|calm|
+EXT_211|dark car interior at night|night,car,interior|calm|
+EXT_212|SUV driving across bridge at night, skyline lights|night,car,driving,bridge,skyline,gameplay|calm|
+EXT_213|purple-lit skyscraper at night, low angle|night,skyline,neon,skyscraper,city,vice-city|calm|
+EXT_214|night party: woman dancing by car, neon|night,party,neon,dancing|action|
+EXT_215|night pool party, glowing pool, crowd|night,party,pool,neon,crowd|action|
+EXT_216|street race at sunset, tuned car with underglow, progress HUD|racing,street-race,car,sunset,gameplay,hud|action|
+EXT_217|street race through industrial area at dusk|racing,street-race,car,dusk,gameplay|action|
+EXT_218|packed nightclub dance floor, purple lights|nightclub,party,dancing,crowd,neon|action|
+EXT_219|woman holding drink above club dance floor, DRINK prompt|nightclub,party,gameplay-ui,drink|action|
+EXT_220|top-down night: building with rainbow neon sign|night,aerial,neon,city|calm|
+EXT_221|dark: woman exits car at night|night,car,arrival,dark|calm|
+EXT_222|night arrival at neon-lit venue entrance, guests|night,party,venue,neon,arrival,luxury|calm|
+EXT_223|man walks up candle-lined carpet into party|party,luxury,candles,entrance,night|calm|
+EXT_224|exclusive party: guests in suits, neon, balloons|party,luxury,guests,neon,night|calm|
+EXT_225|woman in sequin dress at party, close|party,luxury,woman,neon|calm|
+EXT_226|group of women and man talking at party|party,luxury,dialogue,guests|calm|
+EXT_227|man in olive suit passes woman in red by elevator|elevator,party,man,interior,stealth|tense|
+EXT_228|man waits at elevator door|elevator,stealth,interior|tense|
+EXT_229|man walks into dark room|stealth,dark,interior|tense|
+EXT_230|man sneaks through dim hallway with doors|stealth,hallway,dark,heist|tense|
+EXT_231|dark office overlooking party, people at desk with laptop|office,stealth,laptop,dark,heist|tense|
+EXT_232|dark office, men by window|office,stealth,dark|tense|
+EXT_233|dark office, figures by desk|office,stealth,dark|tense|
+EXT_234|dark office, laptop glow|office,laptop,stealth,dark|tense|
+EXT_235|blue-lit party hall with stairs, guests dancing|party,luxury,blue,dancing,mansion|calm|
+EXT_236|blue party, guests on staircase|party,luxury,staircase,guests|calm|
+EXT_237|high-angle: crowded luxury party, lights|party,luxury,crowd,aerial-interior|calm|
+EXT_238|older man in tuxedo and sunglasses, woman beside (rich villain type)|party,luxury,character,tuxedo,closeup|tense|
+EXT_239|dark: two men grappling / scuffle|fight,dark,action|action|
+EXT_240|dim room, figure crouched by equipment|stealth,dark,heist|tense|
+EXT_241|dark room, man looks at city through window|stealth,dark,night,heist|tense|
+EXT_242|man reads phone text from Lucia: GUYS EVERYWHERE (in-game messaging UI)|phone,text-message,lucia,gameplay-ui,heist|tense|
+EXT_243|guard in white hazmat suit with gun, blue light, Lucia text overlay|guard,hazmat,heist,gun,gameplay-ui|tense|
+EXT_244|hazmat guard with radio, close|guard,hazmat,heist,closeup|tense|
+EXT_245|body in white suit on floor in blood (top view) - violent|body,blood,violent,aftermath|tense|avoid-gore
+EXT_246|bloody body close-up - violent|body,blood,violent,gore|tense|avoid-gore
+EXT_247|woman silhouette crouches in blue-lit room|stealth,woman,silhouette,heist,blue|tense|
+EXT_248|woman sneaks through dark doorway|stealth,woman,heist,dark|tense|
+EXT_249|woman silhouette at door, blue light|stealth,woman,heist,silhouette|tense|
+EXT_250|woman silhouette walks into bright stairwell|stealth,woman,silhouette,heist|tense|
+EXT_251|man in white suit tumbles down stairs (takedown)|fight,takedown,stairs,action|action|
+EXT_252|man in white suit on stairs|stairs,guard,action|tense|
+EXT_253|man crawling on floor injured|fight,aftermath,injured|tense|
+EXT_254|man enters door marked 26|door,heist,interior|tense|
+EXT_255|black/dark frame|dark,transition|calm|skip
+EXT_256|dark figure moving|dark,stealth|tense|
+EXT_257|men in white suits in office, monitors|office,heist,guards,monitors|tense|
+EXT_258|dark office, body on floor, light beam|office,dark,aftermath,heist|tense|
+EXT_259|man crouches in dark office (stealth)|stealth,office,dark,heist|tense|
+EXT_260|dark open-plan office, city lights|office,dark,night,heist|tense|
+EXT_261|man in tan coat peeks around office corner|stealth,office,heist,night|tense|
+EXT_262|dark office interior, gameplay prompt|office,stealth,gameplay-ui,dark|tense|
+EXT_263|shotgun aimed in dark office|gun,shotgun,shootout,office|action|
+EXT_264|man moves through office kitchen with gun|shootout,office,gun,heist|action|
+EXT_265|dark office corridor, guards|office,guards,shootout|action|
+EXT_266|split-screen style: man fights guard in office|fight,office,guards,action|action|
+EXT_267|man bursts through door into lit room|door,breach,office,action|action|
+EXT_268|two people wrestling on floor|fight,brawl,action|action|
+EXT_269|man running past yellow barrier|running,escape,action|action|
+EXT_270|black frame|black,transition|calm|skip
+EXT_271|night skyline of Vice City, neon towers (aerial)|night,skyline,aerial,city,neon,vice-city,iconic|calm|
+EXT_272|aerial luxury tower with rooftop pool and sculpture|aerial,luxury,pool,skyscraper,daytime|calm|
+EXT_273|men fishing from boat on bay|fishing,boat,water,activities,daytime|calm|
+EXT_274|strip-club style bar, neon, dancer arms|nightclub,neon,bar,night|action|
+EXT_275|bikers/locals drinking at outdoor table by motel|bar,locals,motel,drinking,npc|calm|
+EXT_276|dark night shot, vehicle in fog|night,dark,vehicle|tense|
+EXT_277|tattooed man at night club bar, blue/red light|nightclub,tattoo,character,neon|calm|
+EXT_278|seaplane propeller close-up over water|seaplane,plane,propeller,water,vehicle|calm|
+EXT_279|sunset over Vice City skyline (golden)|sunset,skyline,city,vice-city,iconic|calm|
+EXT_280|friends partying on a boat, drinks, sea|boat,party,friends,ocean,daytime|calm|
+EXT_281|official GTA VI logo card (trademark - avoid)|logo,title-card|calm|skip
+EXT_282|release date text fading in on dark|title-card,release-date,text|calm|skip
+EXT_283|NOVEMBER 19, 2026 PRE-ORDER NOW end card|title-card,release-date,preorder,text|calm|skip
