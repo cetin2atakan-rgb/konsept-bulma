@@ -1,0 +1,38 @@
+## TITLE: Why Does Your Microwave Have a Spinning Glass Tray?
+
+## ALTERNATİF (2)
+1. What Is Your Microwave's Turntable Actually For?
+2. Why Early Microwave Ovens Had No Turntable at All
+
+## DESCRIPTION
+That glass plate turning inside your microwave is not there to help the energy reach every side of your food, that is a myth. It is a 1960s fix for a problem engineers had been fighting since Percy Spencer's accidental 1945 discovery at Raytheon, and the real reason it rotates has to do with standing waves, not simple exposure.
+
+Chapters:
+0:00 Hook
+0:58 The Question
+2:47 History
+11:14 The Real Reason
+15:59 What If
+19:08 Today
+22:10 Close
+
+Sources: Raytheon Manufacturing Company patent records (United States Patent 2,495,429), Lemelson-MIT Program biography of Percy Spencer, IEEE Spectrum history of the microwave oven, Technology Review retrospective on Percy Spencer, Early Office Museum archive on the Radarange, COMSOL technical blog on standing-wave heating, and Google Patents filings on microwave oven turntables. A full source list with confidence levels is in kaynaklar.md.
+
+Diagrams and illustrations are original. Sources are listed above. If you know a detail we missed, say it in the comments, corrections are welcome.
+
+## TAGS (15)
+microwave oven explained, why microwave has a turntable, history of the microwave oven, Percy Spencer, Raytheon Radarange, standing wave heating, engineering explained, weird history, kitchen engineering, how microwaves work, microwave hot spots, everyday engineering, appliance history, mode stirrer, built that way
+
+## PINNED COMMENT
+What is the one thing in your own kitchen you have always wondered about but never looked into? Tell us below, it might be the next video. Corrections welcome, we update the description when something needs fixing.
+
+## END SCREEN
+Point to the most recently published "Why It's Built That Way" video in the same kitchen or household-standard class (for example a video about the refrigerator door, the toilet flush, or an electrical outlet). The script no longer says "that video is on screen right now", so the end screen needs no matching line.
+
+## THUMBNAIL BRIEF
+Dark slate background. A single large technical line-art illustration of a microwave's glass turntable seen from above, teal accent line on the rotation path, no logos, no real faces. Object fills most of the frame for mobile legibility.
+
+## THUMBNAIL TEXT
+Why Does It Spin?
+
+## baslik_kaydi: Why Does Your Microwave Have a Spinning Glass Tray? | Mutfak | Yayin: 2026 iceriği, "6" numarali paket, klasor: C:\Users\Atakan\Desktop\1-7 Kasim\6\why its built
