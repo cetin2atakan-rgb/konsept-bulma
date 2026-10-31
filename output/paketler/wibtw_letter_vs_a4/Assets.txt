@@ -1,0 +1,40 @@
+## TITLE
+Why Does America Use Letter Paper While the Rest of the World Uses A4?
+
+## ALTERNATE TITLES (2)
+1. What Does Letter Paper Actually Have to Do With Your Own Arms?
+2. Why One Letter From 1786 Explains Every A4 Sheet on Earth
+
+## DESCRIPTION
+Almost every country on Earth prints on A4. The United States still prints on Letter, and the reason is a tangled trail of a 1786 letter, a 1922 German standard, a 1975 world standard, and a government paper size nobody outside Washington remembers.
+
+Chapters
+0:00 The Hook
+0:58 The Question
+3:02 The History
+12:20 The Real Reason
+17:06 What If
+20:04 Today
+23:03 Close
+
+Sources: Georg Christoph Lichtenberg's 1786 letter to Johann Beckmann (Cambridge transcription), the 3 November 1798 French stamp-tax paper law, DIN's own centenary release on DIN 476 (1922), ISO's documentation of ISO 216 (1975), published histories of Letter paper and Government Letter, and Time magazine's "Americana: Paper Chase" piece on the Joint Committee on Printing's 1980 deadline. Full list with confidence levels in the companion source document.
+
+Diagrams and illustrations are original. Sources are listed above. If you know a detail we missed, say it in the comments — corrections are welcome.
+
+## TAGS (15)
+A4 vs letter, why does america use letter paper, history of paper sizes, ISO 216 explained, DIN 476 history, Lichtenberg paper ratio, metric system usa, why america never went metric, paper standards explained, weird history, engineering history, standards explained, hidden history of everyday things, why it's built that way, built that way
+
+## PINNED COMMENT
+What is the strangest everyday standard you've noticed in your own country, the kind of thing nobody questions until a visitor from somewhere else points it out? Drop it below. Corrections welcome; we update the description when something checks out.
+
+## END SCREEN
+Point to the closest video in stock on standards/lock-in pattern (the script no longer says "that video is on screen now") (railroad gauge, driving side, or QWERTY keyboard class) — whichever of those is published and performing best at upload time. If none is live yet, point to the next-closest "Why It's Built That Way" video in the standards/habit class.
+
+## THUMBNAIL BRIEF
+Dark slate background (#1C2228). Two paper rectangles overlapping at a slight offset, rendered as clean technical line art with a single teal (#2FB8B0) accent on the outline of one sheet — no printed text or numbers on the sheets themselves, no logos, no faces. The size difference between the two rectangles should be visually obvious at a glance.
+
+## THUMBNAIL TEXT
+Letter vs A4
+
+## baslik_kaydi
+Weirdward Bound formatına uygun soru başlığı kullanıldı; "Why Does America Use Letter Paper While the Rest of the World Uses A4?" — rakamlı alternatif ("1786") thumbnail için değil, açıklamada kullanıldı.
