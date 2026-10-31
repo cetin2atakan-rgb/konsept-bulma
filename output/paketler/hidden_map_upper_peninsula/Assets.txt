@@ -1,0 +1,59 @@
+## TITLE: Michigan's Upper Peninsula Is Hiding Something Most Americans Never Notice
+## ALTERNATİF (2)
+1. Michigan's Upper Peninsula Is Hiding a Secret Older Than the Pyramids
+2. Michigan's Upper Peninsula Is Hiding an Empire Built on Copper
+## REGION: Michigan's Upper Peninsula
+## REGION_BBOX: 45.6,-90.9,47.5,-83.3
+## PERSONA_LINE: Walter Hale · retired geography teacher
+## PERSONA_IMG: persona.png
+## MAP_IMG: map_region.png
+## DESCRIPTION
+Michigan's Upper Peninsula is hiding secrets most Americans never notice: ancient copper mines, mineral-painted cliffs, and a bridge that joined a state that still feels like two.
+Retired geography teacher Walter Hale counts down 25 facts about Michigan's Upper Peninsula (the U.P.) — from Isle Royale's ancient mines to the Soo Locks that keep the Great Lakes moving. Along the way: the purest native copper deposit on Earth, the cliffs at Pictured Rocks painted entirely by minerals, and the newspaper contest that gave an entire region its name.
+
+⏱ Chapters:
+0:00 Intro
+1:17 Fact 25 — Big Bay Point Lighthouse
+3:03 Fact 24 — Les Cheneaux's Wooden Boats
+4:46 Fact 23 — Lake Gogebic
+6:32 Fact 22 — Grand Island's Working Past
+8:26 Fact 21 — Bond Falls
+10:14 Fact 20 — Four Counties on Wisconsin's Clock
+11:56 Fact 19 — Seney's Refuge Built on a Ruined Swamp
+13:39 Fact 18 — Drummond Island's Quiet Scale
+15:21 Fact 17 — Isle Royale's Watched Wolves
+17:18 Fact 16 — The Club That Closed Off a Mountain Range
+19:01 Fact 15 — The Graveyard Point of Lake Superior
+20:45 Fact 14 — The Highest Road Between Two Mountain Ranges
+22:24 Fact 13 — The Forest the Loggers Couldn't Reach
+23:58 Fact 12 — Three Hundred Inches, Most Winters
+25:57 Fact 11 — The Word a Newspaper Contest Created
+27:38 Fact 10 — The Peninsula Finland Built
+29:17 Fact 9 — The Christmas Eve Cry of Fire
+31:08 Fact 8 — "Old Reliable" (Quincy Mine)
+33:02 Fact 7 — The Compass That Found an Empire
+34:52 Fact 6 — The Root Beer Falls (Tahquamenon)
+36:38 Fact 5 — The Cliffs That Paint Themselves (Pictured Rocks)
+39:08 Fact 4 — The Purest Copper on Earth
+41:28 Fact 3 — Older Than the Pyramids (Isle Royale)
+43:54 Fact 2 — The Soo Locks
+46:21 Fact 1 — The Mackinac Bridge and the Yooper Divide
+48:50 Closing
+
+📚 Sources: United States Geological Survey (Keweenaw native copper mineralization) · National Park Service (Pictured Rocks National Lakeshore, Keweenaw National Historical Park) · Michigan Department of Natural Resources (Tahquamenon Falls, Porcupine Mountains, Bond Falls, Lake Gogebic State Parks) · United States Army Corps of Engineers (Soo Locks history) · Michigan Technological University (Isle Royale Wolf-Moose Project, Finnish-American Heritage Center) · United States Fish and Wildlife Service (Seney National Wildlife Refuge) · American Society of Mechanical Engineers (Quincy Mine No. 2 Hoist landmark) · Michigan History Center (Italian Hall disaster marker) · Mackinac Bridge Authority (bridge history) · Pompeani et al., "Copper mining on Isle Royale," The Holocene (2014) · Great Lakes Shipwreck Historical Society
+
+Walter Hale is a narrator persona, not a real historical figure. Illustrations are original AI-generated drawings based on real geography and may simplify details. Sources are listed above. Know this region? Tell us what we missed.
+
+## TAGS (15)
+upper peninsula michigan, michigan geography, michigan facts, us geography, yooper, keweenaw peninsula, pictured rocks, isle royale, tahquamenon falls, soo locks, upper peninsula travel, copper country michigan, mackinac bridge, great lakes geography, hidden map america
+
+## PINNED COMMENT
+"Yoopers — rate this list. What did I miss, and where are you watching from?"
+
+## THUMBNAIL BRIEF
+persona.png (Walter Hale, waist-up, cream shirt, pointing toward the landscape with a slightly surprised expression to guide the eye left-to-right) on the left; background uses the Pictured Rocks cliff landscape (Fact 5 range) as the primary candidate, with an alternate concept of Isle Royale's ancient mining pit or a freighter passing through the Soo Locks for A/B testing (less commonly seen, ties more directly to the "Hiding" promise); dark gradient overlay behind the text block for contrast; "MICHIGAN'S UPPER PENINSULA" in two lines of cream serif ExtraBold with a thin dark stroke on the right; red "HIDDEN" ribbon beneath it; small Michigan Upper Peninsula silhouette bottom left (moved off the text block).
+
+## THUMBNAIL TEXT: UPPER PENINSULA | HIDDEN
+
+## baslik_kaydi
+2026-10-21 | Michigan's Upper Peninsula | Hidden Map America | Walter Hale | 25 facts | 7,786 words script
