@@ -1,0 +1,54 @@
+## TITLE: Texas Hill Country Is Hiding Something Most Americans Never Notice
+## ALTERNATİF (2)
+1. Texas Hill Country Is Hiding a Cave That Has Taken Eight Lives
+2. Texas Hill Country Is Hiding a Billion-Year-Old Island of Rock
+## REGION: Texas Hill Country
+## REGION_BBOX: 29.5,-99.6,30.8,-97.8
+## PERSONA_LINE: Walter Hale · retired geography teacher
+## PERSONA_IMG: persona.png
+## MAP_IMG: map_region.png
+## DESCRIPTION
+Texas Hill Country is hiding a cave that has taken at least eight lives, a river that rose thirty-six feet in four hours, and a billion-year-old granite island buried in younger rock. Join retired geography teacher Walter Hale for a countdown of 25 remarkable geographic facts about Texas Hill Country, from Enchanted Rock and the Edwards Aquifer to Luckenbach, the LBJ Ranch, and the Devil's Backbone.
+
+⏱ Chapters:
+0:00 Intro
+1:24 Fact 25 - The Devil's Backbone
+3:22 Fact 24 - Luckenbach
+5:09 Fact 23 - Camp Verde's Camels
+7:02 Fact 22 - Treue der Union Monument
+8:55 Fact 21 - Longhorn Cavern
+10:47 Fact 20 - Willow City Loop
+12:33 Fact 19 - Granite Mountain
+14:17 Fact 18 - Natural Bridge Caverns
+16:04 Fact 17 - Nimitz Museum
+17:46 Fact 16 - Stonewall Wine and Peaches
+19:29 Fact 15 - The LBJ Ranch
+21:16 Fact 14 - Blue Hole
+23:05 Fact 13 - Jacob's Well
+24:57 Fact 12 - The 2015 Blanco River Flood
+26:51 Fact 11 - Canyon Lake Gorge
+28:38 Fact 10 - Comal Springs
+30:23 Fact 9 - Hamilton Pool
+32:21 Fact 8 - Pedernales Falls
+34:08 Fact 7 - Guadalupe River State Park
+35:57 Fact 6 - Lost Maples
+37:56 Fact 5 - Fredericksburg's Founding
+39:58 Fact 4 - The Llano Uplift
+41:53 Fact 3 - Enchanted Rock
+43:58 Fact 2 - The Edwards Aquifer
+46:11 Fact 1 - The Balcones Escarpment
+48:30 Closing
+
+📚 Sources: Edwards Aquifer Authority · Texas Parks and Wildlife Department · National Park Service · Texas Historical Commission · Guadalupe-Blanco River Authority · University of Texas Bureau of Economic Geology · Texas State Historical Association (Handbook of Texas) · National Museum of the Pacific War · National Weather Service / UTSA flood research · St. Mary's University
+
+Walter Hale is a narrator persona. Illustrations are original drawings based on real geography and may simplify details. Sources: USGS, Texas Parks and Wildlife, Edwards Aquifer Authority, National Park Service — listed above. Know this region? Tell us what we missed.
+
+## TAGS (15): texas hill country, texas geography, hidden america, us geography, enchanted rock, edwards aquifer, fredericksburg texas, jacobs well, lbj ranch, luckenbach texas, pedernales falls, hidden map america, texas road trip, texas travel, texas history
+
+## PINNED COMMENT: "Which of these 25 facts surprised you most — the camels, the flood that rose 36 feet in 4 hours, or the billion-year-old rock? And if you live in the Hill Country, tell me what I missed."
+
+## THUMBNAIL BRIEF: persona.png (Walter Hale, waist-up, cream shirt) on the left, background is the Fact 9 Hamilton Pool shot (50-foot waterfall into a collapsed limestone grotto, deep green water, dark cave shadow) rather than the flatter Enchanted Rock dome, for stronger color contrast and instant "hidden place" recognition at thumbnail size, region name "TEXAS HILL COUNTRY" in two lines serif ExtraBold cream on the right, red ribbon beneath reading "HIDDEN", small Texas state silhouette in bottom right corner.
+
+## THUMBNAIL TEXT: TEXAS HILL COUNTRY | HIDDEN
+
+## baslik_kaydi: 2026-10-23 | Texas Hill Country | America with Amos tarafından işlenmemiş, Hidden Map America kendi Panhandle videosundan ayrı alt-bölge | Script.txt 7.748 kelime
