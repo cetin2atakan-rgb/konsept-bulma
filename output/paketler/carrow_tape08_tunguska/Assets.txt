@@ -1,33 +1,33 @@
 ## TITLE (selected)
-1908: eighty million trees flattened, and no crater | The Carrow Institute, Tape 08
+1908: a blast flattened 80 million trees and left no crater | The Carrow Institute, Tape 08
 
 ## ALTERNATİF (2)
-He went upstairs, and came back down to keep cataloguing | The Carrow Institute, Tape 08
-1908: something burned the sky over Siberia and vanished | The Carrow Institute, Tape 08
+1908: the sky over Siberia split in two | The Carrow Institute, Tape 08
+"Keep cataloguing." What he was told in the annex | The Carrow Institute, Tape 08
 
 ## DESCRIPTION
 The Carrow Institute is a work of fiction inspired by real events and decades of unexplained lore. The archive, its records officer, and its people are invented. Real historical persons appear in dramatized form.
 
-June 1908, central Siberia: a blast that flattened eighty million trees, a decades-long search for a crater that was never found, and a single dense fragment this office quietly moved and never mentioned again. A found-footage mystery audio drama, recorded in a records office basement in 1977 — thirteen days after its records officer was taken into the annex upstairs.
+30 June 1908, central Siberia. Something exploded above the forest, knocked down some eighty million trees in a starburst pattern, and left no crater behind. Decades later, a survey recovered a small, dense fragment from the resin of a tree near the center. It was sent away for analysis, and no record of it appears again. A found-footage mystery audio drama, recorded in a records office basement in 1977.
 
 Monday, the 15th of August, 1977. Twelve minutes past midnight.
 
-Records officer Raymond Keel returns after a thirteen-day silence to tell you what little he can about the annex, a drawer number older than this office itself, and a file about the oldest event in this entire archive — one with a single unsigned name in the margin that he cannot explain.
+Thirteen days after his last recording, Raymond Keel is back in the basement. He carried six folders up to the annex, handed them over, and came back down with a new clearance, a drawer older than this office, and one instruction: keep cataloguing. Tonight's file is the oldest event in the archive, and it has a name pencilled in its margin that appears nowhere else: "Ask Carrow before closing."
 
 INDEX (The Carrow Institute cataloguing, for reference)
-00:00 Recorder on
+00:00 Recorder on: thirteen days
 01:09 A word to whoever is watching
-03:09 What happened upstairs
+03:09 The annex, and the instruction
 04:38 File C-071: sites, disposition blank
-06:06 The blast, the fragment, a name in pencil
+06:06 The starburst, the fragment, a name in pencil
 15:32 The scientist who never stopped asking
-17:33 A short digression: the comet
+17:33 A short digression: the airburst
 20:54 What he thinks happened
 23:02 A drawer older than this office
 25:05 One wall, one folder, one word
-26:57 One last thing, and a pilot's name for everything after
+26:57 One last thing, and nine objects over the mountains
 
-ARCHIVE NOTE — The Carrow Institute. This recording opens a new box logged under Raymond Keel's name, following a thirteen-day gap in the original reel sequence. Tape 08 of an ongoing series.
+ARCHIVE NOTE: The Carrow Institute. This recording opens a new box logged under Raymond Keel's name, after a thirteen-day gap in the original reel sequence. The fragment described in File C-071 has not been located.
 
 —
 Tape 08 of an ongoing series. Season 2: The Carrow Files.
@@ -35,21 +35,24 @@ Playlist: [SERİ OYNATMA LİSTESİ LİNKİ]
 
 The Carrow Institute publishes the recordings of Raymond Keel, a records officer, made in his basement in 1977 and recovered from the part of his archive that did not burn.
 
-#TheCarrowInstitute #TheCarrowFiles #UnsolvedMystery
+#TheCarrowInstitute #TheCarrowFiles #Tunguska
 
 The Carrow Institute is a work of fiction. Raymond Keel, the Institute, and the files described are invented; historical events and archival-style photographs are used as setting. All photographs are AI-generated recreations.
 
 ## TAGS (20)
-The Carrow Institute, The Carrow Files, found footage, classified files, Tunguska event 1908, Siberia explosion, government cover-up, audio drama, sci-fi mystery, archive tapes, reel to reel, analog horror, creepy documentary, unsolved mysteries, slow burn mystery, Cold War, alternate history, fiction, UFO files, records officer
+The Carrow Institute, The Carrow Files, Tunguska event, Tunguska 1908, Siberia explosion, airburst, meteor mystery, found footage, audio drama, archive tapes, reel to reel, analog horror, unsolved mysteries, classified files, slow burn mystery, creepy documentary, sci-fi mystery, records officer, alternate history, fiction
 
 ## PINNED COMMENT
-The Carrow Institute is a work of fiction. The tapes are numbered — start from Tape 1 and the playlist is in the description.
+The Carrow Institute is a work of fiction. Season 2 starts here, but the story begins on Tape 1; the playlist is in the description. Who, or what, do you think "Carrow" is?
 
 ## THUMBNAIL BRIEF
-Grainy black-and-white "archive photograph": the aerial starburst of fallen trees with the small standing grove at the center, no red circle or arrow. Faint white typewriter caption in the lower band: "TAPE 08 · 1908". Calm and archival.
+Grainy black-and-white "archive photograph" of the aerial starburst (Visuals image 24): fallen trunks radiating outward in every direction, a small stand of scorched trees still upright at the exact center. No red circle, no arrow. Faint white typewriter caption in the lower band: "TAPE 08 · 1908". Calm and archival, same style as Tapes 01-07.
+
+## THUMBNAIL TEXT
+(no large text; the typewriter caption only)
 
 ## NEXT TAPE TEASER
-Tape 09: June 1947, two weeks before Roswell made the news — a private pilot sees nine objects moving in a way no aircraft of that era could, and gives them a name the rest of the century never stopped using.
+Tape 09: 24 June 1947. A private pilot searching for a missing military transport sees nine objects crossing the sky near Mount Rainier, and the name the newspapers give them stays with everything that comes after. Two weeks later, Roswell makes the news.
 
 ## baslik_kaydi satırı
-TAPE08	Tunguska event, Siberia, 1908	radiating forest blast with no crater, recovered resin fragment, unsigned "Ask Carrow" pencil note	1908: eighty million trees flattened, and no crater
+TAPE08	Tunguska event, Siberia, 1908	starburst blast with no crater, standing trees at the center, resin fragment transferred and lost, pencil note "Ask Carrow before closing", Keel's first visit to the annex	1908: a blast flattened 80 million trees and left no crater
