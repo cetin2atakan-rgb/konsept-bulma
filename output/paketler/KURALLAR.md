@@ -4,3 +4,13 @@
 - Script ve Visuals düzenlenir, yeniden yaratılmaz: sadece hatalı/çelişkili cümleler, doğrulanamayan iddialar ve tekrar eden şablon kapanışlar değiştirilir.
 - Başlıklar ≤100 karakter. Chapter/index süreleri kelime sayısından (150 kelime/dk) hesaplanır.
 - Visuals ANCHOR/MATCH metinleri script'te birebir geçmeli, sıra script'le aynı, numaralar kesintisiz.
+
+## Hidden Map America thumbnail formatı (2 Kasım 2026'dan itibaren)
+Eski format (sol persona + serif bölge adı + kırmızı "HIDDEN" kurdele) düz kalıyor, CTR düşük. Yeni format, referans "THEY SELL RAIN" tipi:
+1. **Tek bir inanılmaz görsel:** videodaki en çarpıcı gerçek bilgiden; drone/kuş bakışı, abartılı ölçek, derinlik, doygun renk.
+2. **Ölçek ipucu:** küçük tekne, araba, insan; görseli "gerçek ama inanılmaz" yapar.
+3. **Yazı:** 2-4 kelime, ALL CAPS, kalın sans (Anton/Montserrat Black), beyaz + siyah gölge, üstte. Bölge adı değil, merak cümlesi. Başlığı tekrar etmez, tamamlar.
+4. **Sarı el çizimi ok:** anomaliyi gösterir.
+5. **Avatar:** Walter Hale köşede, şaşkın/işaret eden ifade, beyaz kontur, ana görseli kapatmaz.
+6. **Dürüstlük:** sahne videoda anlatılan gerçek bir şey olmalı. Ölçek/renk/açı abartılır, bilgi uydurulmaz (yanıltıcı thumbnail YouTube politikasına takılır).
+Assets'te her zaman: Grok arka plan promptu (yazısız) + yazı + ok + avatar yerleşimi + bir A/B alternatifi.

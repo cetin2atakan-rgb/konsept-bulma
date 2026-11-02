@@ -47,9 +47,18 @@ Walter Hale is a narrator persona, not a real person. Illustrations are original
 
 ## PINNED COMMENT: "Have you ever driven through War, West Virginia, or stood on the New River Gorge Bridge? And if your family comes from the coalfields, what did I miss?"
 
-## THUMBNAIL BRIEF: persona.png (Walter Hale, waist-up, cream shirt) on the left. Background: the New River Gorge Bridge arch over the forested gorge at golden hour, seen from the Canyon Rim overlook (Fact 1 range of Visuals). Region name "SOUTHERN WEST VIRGINIA" in two lines of cream serif ExtraBold on the right, red ribbon beneath reading "WAR, WV" to tie the thumbnail to the title. Small West Virginia state silhouette in the bottom right corner.
-A/B alternative: same layout, background swapped to the Devil Anse Hatfield marble statue on its hillside (Fact 18), ribbon reading "FEUD", for use with alternative title 1 or a feud-led title.
+## THUMBNAIL BRIEF (yeni abartılı format)
+ARKA PLAN (Grok promptu, yazısız): Hyper-real cinematic drone shot looking almost straight down into the New River Gorge in West Virginia, the steel arch of the New River Gorge Bridge spanning the frame, the river a thin ribbon 876 feet below, a single tiny base jumper in free fall just below the deck, parachute not yet open, a toy-sized car on the bridge for scale. Exaggerated depth and vertigo, saturated autumn orange and red forest, deep shadow in the gorge, sharp sunlight on the steel, 16:9, no text, no logos.
+YAZI (üstte, tek satır): "876 FEET DOWN" — ALL CAPS, heavy sans (Anton / Montserrat Black), beyaz, kalın siyah gölge, frame genişliğinin ~%70'i.
+OK: sarı el çizimi ok, yazının altından düşen jumper'ı gösteriyor.
+AVATAR: persona.png (Walter Hale) sağ alt köşe, göğüsten yukarısı, şaşkın ifade, beyaz dış kontur; köprüyü ve jumper'ı kapatmayacak.
+Bölge adı, kurdele, eyalet silüeti YOK (başlık bölgeyi söylüyor; thumbnail merak yaratıyor).
+DÜRÜSTLÜK: 876 fit ve Bridge Day atlayışları script'te var (Fact 1). Ölçek ve renk abartılıyor, bilgi değil.
 
-## THUMBNAIL TEXT: SOUTHERN WEST VIRGINIA | WAR, WV
+ALTERNATİF B (Grok promptu): Dramatic 1921 scene over forested Appalachian ridges, a small biplane silhouetted against a smoky orange sky dropping a bomb toward a line of armed coal miners on Blair Mountain, the miners tiny on the ridgeline, smoke columns rising from the trees, painterly-photoreal, high contrast, 16:9, no text.
+YAZI B: "THEY BOMBED MINERS" — aynı stil. Avatar sol alt, ciddi/şaşkın ifade.
+
+## THUMBNAIL TEXT: 876 FEET DOWN   (B: THEY BOMBED MINERS)
+Not: Thumbnail yazısı başlığı tekrar etmiyor, tamamlıyor (başlık: War kasabası; thumbnail: köprü/bombalama merakı).
 
 ## baslik_kaydi: 2026-10-23 | Southern West Virginia | Hidden Map America | The Only Town in America Named War (Southern West Virginia, 25 Facts) | 25 facts, 7,767 words, ~52 min
