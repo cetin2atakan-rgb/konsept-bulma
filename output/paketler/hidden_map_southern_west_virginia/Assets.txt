@@ -1,0 +1,55 @@
+## TITLE: The Only Town in America Named War (Southern West Virginia, 25 Facts)
+## ALTERNATİF (2)
+1. Southern West Virginia: Where Coal Companies Dropped Bombs on Miners
+2. The River That May Be Older Than the Mountains It Cuts (West Virginia, 25 Facts)
+## REGION: Southern West Virginia (New River Gorge and the Raleigh, Fayette, Summers, Mercer, McDowell, Wyoming, Logan and Mingo county coalfields)
+## REGION_BBOX: 37.2,-82.2,38.3,-80.6
+## PERSONA_LINE: Walter Hale · retired geography teacher
+## PERSONA_IMG: persona.png
+## MAP_IMG: map_region.png
+## DESCRIPTION
+A town named War. A mountain where private planes dropped bombs on striking coal miners in 1921. A river that some geologists argue is older than the Appalachians it cuts through. Retired geography teacher Walter Hale counts down 25 geographic facts about Southern West Virginia, from the New River Gorge Bridge and the ghost town of Thurmond to the Hatfield-McCoy feud, the Mine Wars, the millionaires of Bramwell, and the coal seam that fueled the U.S. Navy.
+
+⏱ Chapters:
+0:00 Intro
+1:12 Fact 25 — America's Newest National Park (2020)
+2:32 Fact 24 — The Mine You Can Still Ride Into
+4:10 Fact 23 — Hinton, the Town the Railroad Built
+6:05 Fact 22 — John Henry and the Big Bend Tunnel
+7:54 Fact 21 — The Buffalo Creek Flood
+9:37 Fact 20 — Upper Big Branch
+11:12 Fact 19 — The Hatfield-McCoy Trails
+13:18 Fact 18 — Devil Anse's Marble Statue
+15:08 Fact 17 — The Billion Dollar Coalfield
+17:05 Fact 16 — Twin Falls
+18:50 Fact 15 — Pinnacle Rock
+20:43 Fact 14 — A Town Named War
+22:41 Fact 13 — Keystone's Two Histories
+24:43 Fact 12 — Murder on the Courthouse Steps
+26:33 Fact 11 — Bramwell, Town of Millionaires
+28:30 Fact 10 — Kaymoor's Coke Ovens
+30:30 Fact 9 — Henry Ford's Coal Town
+32:49 Fact 8 — Thurmond, Population Five
+34:40 Fact 7 — Grandview
+36:26 Fact 6 — Sandstone Falls
+38:24 Fact 5 — The Hatfield-McCoy Feud
+41:01 Fact 4 — The Mine Wars and Blair Mountain
+43:32 Fact 3 — The Pocahontas Coal Seam
+45:46 Fact 2 — How Old Is the New River?
+48:13 Fact 1 — The New River Gorge Bridge
+50:36 Closing
+
+📚 Sources: National Park Service (New River Gorge National Park and Preserve) · e-WV, The West Virginia Encyclopedia · West Virginia Geological and Economic Survey · West Virginia Department of Transportation · U.S. Mine Safety and Health Administration (Upper Big Branch report) · National Register of Historic Places nominations · Historical Marker Database · West Virginia Public Broadcasting · Smithsonian Magazine
+
+Walter Hale is a narrator persona, not a real person. Illustrations are original drawings based on real geography and may simplify details. Know this region? Tell us what we missed.
+
+## TAGS (15): southern west virginia, west virginia geography, new river gorge, new river gorge bridge, war west virginia, mine wars, blair mountain, hatfield mccoy feud, thurmond ghost town, bramwell west virginia, appalachian coal towns, west virginia history, hidden america, us geography, hidden map america
+
+## PINNED COMMENT: "Have you ever driven through War, West Virginia, or stood on the New River Gorge Bridge? And if your family comes from the coalfields, what did I miss?"
+
+## THUMBNAIL BRIEF: persona.png (Walter Hale, waist-up, cream shirt) on the left. Background: the New River Gorge Bridge arch over the forested gorge at golden hour, seen from the Canyon Rim overlook (Fact 1 range of Visuals). Region name "SOUTHERN WEST VIRGINIA" in two lines of cream serif ExtraBold on the right, red ribbon beneath reading "WAR, WV" to tie the thumbnail to the title. Small West Virginia state silhouette in the bottom right corner.
+A/B alternative: same layout, background swapped to the Devil Anse Hatfield marble statue on its hillside (Fact 18), ribbon reading "FEUD", for use with alternative title 1 or a feud-led title.
+
+## THUMBNAIL TEXT: SOUTHERN WEST VIRGINIA | WAR, WV
+
+## baslik_kaydi: 2026-10-23 | Southern West Virginia | Hidden Map America | The Only Town in America Named War (Southern West Virginia, 25 Facts) | 25 facts, 7,767 words, ~52 min
