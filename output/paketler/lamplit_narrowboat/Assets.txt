@@ -1,0 +1,126 @@
+LAMPLIT JOURNEYS · NARROWBOAT ON AN ENGLISH CANAL AT NIGHT · ASSETS
+(written from Script.txt, 24,747 words / 12 chapters, and Narrowboat_Visuals.txt, 100 images)
+
+=====================================================
+TITLE (≤100 characters)
+=====================================================
+SELECTED: A Narrowboat Night on a Quiet English Canal | 2 Hour Sleep Story for Adults   (82)
+A/B:      Drift Through the English Canals at Night | Narrowboat Sleep Story   (70)
+Plain:    Lantern Light on an English Canal | Calm Narrowboat Bedtime Story   (68)
+
+Notes
+- The first 45 characters carry place + time + vehicle: "A Narrowboat Night on a Quiet English Canal".
+- "English Canal" sits next to "Narrowboat" in every title, so US viewers understand the word.
+- "2 Hour" only stays if the finished audio is at least 2:00. Estimate: 24,747 words ≈ 2:13 narration + 5 min tail ≈ 2:18. If the real audio is under 2:00, use the A/B or Plain title (no number).
+- The sister videos (Night Train, Nantucket Lightship, Cider Barn) use other title shapes; this one is "A [Vehicle] Night on a [Place] | [Length] Sleep Story for Adults". Do not copy it onto the next video.
+
+=====================================================
+THUMBNAIL
+=====================================================
+Base image: a tighter, brighter version of Visuals image 1 (the moored boat at dusk, lantern just lit, gold path across the water). Do not reuse the image itself.
+
+IMAGE PROMPT (no text in the image):
+Narrowboat on a quiet English canal at night, autumn: low wide view from the dark towpath grass toward a long, narrow, traditionally painted boat resting on still black water, a single lantern glowing on its cabin roof, its amber reflection laid out long and rippling across the water toward the viewer, faded red and green paint and simple painted roses near the glow, reeds in silhouette, thin pale mist over the far meadow, deep navy sky. The left third of the frame is dark hedge and sky, empty. One warm light only. No people, no hands, no animals, no other boats, no text, no letters, no numbers. 16:9, reads clearly at phone size.
+NEGATIVE: text, letters, numbers, signage, name on the boat, logo, people, face, hands, animals, other boats, modern objects, power lines, full moon, daylight, sunset, storm, flood, rushing water, large flames, lens flare, watermark, border
+
+TEXT (top-left over the dark area, bold sans-serif, cream #FFF1D6, dark navy #0B1F2A outline 6-8 px, soft shadow, at least 14% of frame height):
+- CANAL AT NIGHT   (recommended)
+- LANTERN LIGHT   (A/B test)
+- no-text version   (also test)
+Never "NARROWBOAT" alone. No teal in the text.
+
+Second concept (A/B): the willow mooring, Visuals images 59-63: the boat tied under hanging willows, lantern on its hook, a thread of chimney smoke, mist on the field. Text: QUIET CANAL.
+
+Check at ~168 px wide: only the lantern, its reflection and the text should read. Discard any generation with lettering on the boat, a person, a hand, or a second boat.
+
+=====================================================
+DESCRIPTION (paste as is)
+=====================================================
+Light the lantern on an old painted narrowboat and drift along a quiet English canal through a long autumn night. A slow, calm 2 hour sleep story for adults, told in the second person.
+
+The boat moves at the pace of a walk. You steer with one hand on the tiller, warm a kettle on a little black stove, and take tea and buttered bread at the hatch while bats cross the last of the dusk and a heron lifts out of the reeds. You work a windlass and rise slowly in an old lock, pass under a stone bridge and through a cool cutting where ferns drip into the water, coil the rope and trim the lantern, and listen to an owl and a far church clock across the misty fields. Then you tie up under the willows, bank the stove, turn the bench into a bed and settle under a wool blanket while the water laps at the hull. Nothing needs to happen. The night just carries on.
+
+This video is meant for relaxation. It does not diagnose, treat or prevent any condition. If you have ongoing trouble sleeping, talk with your doctor.
+The narration is a synthetic (AI-generated) voice and the pictures are AI-generated illustrations.
+This is a work of fiction. The boat, the canal and everything in it are invented.
+
+Business inquiries: [KENDİ E-POSTANI YAZ]
+
+CHAPTERS (optional; only after the final audio exists, then replace the estimates with real times; YouTube needs 0:00 first, at least 3 entries, each ≥10 s)
+0:00 Dusk on the towpath
+0:10 The boat by lantern light
+0:21 Tea at the hatch
+0:33 The first lock
+0:44 The stone bridge and the cutting
+0:55 Rope, brass and the second lock
+1:07 The night countryside
+1:18 Mooring under the willows
+1:29 The bunk
+1:40 Nights remembered
+1:53 The middle of the night
+2:04 Rest now
+(Estimated at 5.4 min per 1,000 words from the real chapter breaks, the "---" lines in Script.txt.)
+
+=====================================================
+TAGS (15)
+=====================================================
+sleep story, sleep story for adults, bedtime story for adults, narrowboat sleep story, english canal at night, canal boat, relaxing bedtime story, cozy sleep story, lantern light, slow travel story, countryside at night, calm narration, wind down story, 2 hour sleep story, lamplit journeys
+
+=====================================================
+PINNED COMMENT
+=====================================================
+The lantern is lit and the boat is tied up under the willows. Where are you listening from tonight? And what small evening sound do you like best: water against a boat, an owl over a field, or a kettle just starting to sing?
+
+=====================================================
+UPLOAD SETTINGS
+=====================================================
+- Category: Entertainment. Language: English. Not made for kids. Paid promotion: off.
+- Captions: upload an .srt made from Script.txt; spot-check sync in three places.
+- Altered/synthetic content: answer yes (synthetic voice, AI images).
+- Playlist: Lamplit Journeys "Sleep Stories", next to Night Train, Nantucket Lightship and Cider Barn.
+- Spacing: do not publish within a few days of a sister video.
+- First hours: check the Monetization tab for a yellow icon; if one appears, switch to the Plain title.
+
+=====================================================
+MUSIC AND AMBIENCE (built from the script's own sounds)
+=====================================================
+Overall: about 2:18 (narration ≈2:13 + 5 min tail, estimate). Narration = 0 dB. Bed (music + ambience) about -20 dB under narration until 1:48, then 3-4 dB quieter to the end. No voices, choir pads, beats, fiddle, accordion, shanty or folk tunes. Key: C (C Dorian / open C-G fifths), different from the sister videos.
+
+Music (Suno/Udio, lyrics field: "[Instrumental] [Warm Intro - barely audible swell] [Slow Loop - evolving, no melody] [Ambient Outro - open tail]")
+A) backbone (~60%): beatless warm low pad, sustained low cello and viola harmonics, slow tide-like swells, soft tape, rolled-off highs, C Dorian drone, no melody, strictly instrumental.
+B) colour (~25%, only before 1:40): ultra-sparse soft felt piano, single low notes with long silences, one slow bowed cello line far below, no rhythm, no repeating motif.
+C) colour (~15%): muted low strings and a soft warm pad, two chords only (C and G open), extremely slow, beatless.
+Exclude in all: vocals, choir, humming, drums, percussion, bells, chimes, brass, fiddle, accordion, folk, shanty, hymn, nature sounds, water sounds, sound effects.
+Build 10-12 tracks of 6-8 min; join with 30-45 s equal-power crossfades; never two of the same type back to back; no piano after 1:40. Music EQ: HPF 60 Hz, LPF 6 kHz, -4 to -6 dB at 1.5-4 kHz.
+
+Ambience (separate files, CC0 or self-made, levels vs narration)
+- Hull water lapping: -26 dB (towpath -24; moored -27; last 30 min sliding to -34). HPF 90 Hz, LPF 2.5 kHz, -7 dB at 2-4 kHz. No splash, no weir.
+- Engine heartbeat: -33 dB from the lantern lighting in Ch01 (≈0:08) to the mooring in Ch08 (≈1:22), where it slows and fades out over 2 min and never returns. One soft thud every 1.0-1.3 s, centred near 65 Hz, LPF 180 Hz, slightly irregular so it never reads as a beat. +2 dB with a short wooden reverb in the cutting (Ch05).
+- Lock water: Ch04 filling (rising) and Ch06 draining (falling, "like a great bath slowly emptying"); peak -28 dB, max 3-4 min per lock; HPF 100 Hz, LPF 1.6 kHz, -9 dB at 1-3 kHz.
+- Lock gates / rope / wood: gate groan -34 dB (Ch04 x2, Ch06 x2), rope creak -38 dB (Ch01 at the bank, Ch08 at the peg), wood settle -36 dB (cabin, at most once per 4 min, none after 2:04). All below 1.5 kHz.
+- Stove tick: -31 dB from Ch02 (cabin) and after mooring; off on deck, at the locks, bridge and cutting. Fades to nothing in the tail.
+- Cabin clock: -29 dB, inside the cabin only (from Ch02), -34 dB at the bunk. Never strikes, never speeds up or slows.
+- Night air over fields: -35 dB (-32 on open water, Ch03 and Ch07). Below 1 kHz. No gusts (the night is windless).
+- Owl: at most four calls at -36 dB peak (Ch03 once, Ch07 twice, Ch10 once at -42), only where the narration names it, never within 2 s of a word, none after 1:53.
+- Far church clock: -42 dB, only where the script has it (Ch07 counting strokes; Ch11 "one slow note" at -46 dB). The only strike in the mix.
+- Fern drips: Ch05 cutting only, -33 dB, every 3-7 s, soft attack.
+- Rain: NONE. The script has no rain scene (rain appears only in comparisons), and the two rain images in Visuals were replaced.
+- Room tone: -45 dB, brown noise 80-700 Hz, so pauses never feel empty.
+
+Ending (T0 = last "Rest now."): no new sound after T0. Music fades out over T+0:45-T+2:15 with no last chord. Clock fades to -50 dB by T+4:00 at a steady tempo. Stove fades out by T+3:15. Hull water is the last to leave, gone by T+4:50. Black frame to the end.
+Mix target: -19 to -20 LUFS integrated, true peak ≤ -3 dBTP, loudness range under 5 LU. Bus: gentle -3 dB at 2.5-3.5 kHz on the whole bed, LPF 6 kHz. Test on phone, laptop and TV soundbar: if any word is hard to follow, lower hull water 2 dB, then lock water 3 dB, then music 2 dB.
+
+=====================================================
+AVOID (title, description, tags, comments, file names, images)
+=====================================================
+fall asleep (fast), in minutes, deep sleep, insomnia, cures, relieves, better sleep, sleep aid, healing, binaural, delta, 432 Hz, seniors, "true story", "no ads", any real canal, lock, boat, town or company name, any real person.
+Images: no faces or people, no other boats, no readable text or names on the boat, locks, bridges, cottages or tins, no storm, flood, rushing weir, large fire or threatening water.
+
+=====================================================
+RISK NOTES
+=====================================================
+- Runtime: "2 Hour" is an estimate until the voice-over exists. Confirm before publishing.
+- Format similarity with the sister videos (2 h, synthetic voice, AI images, second person): keep this video's own setting, title shape, sound set (hull water, engine that stops, lock water) and description. Never reuse an image, clip or audio file from another video.
+- Health language: only "sleep story", "bedtime story for adults", "relaxing", "calm", "cozy", "wind down". No promised results. Keep the relaxation disclaimer.
+- Hands in Visuals (images 42, 43, 44, 62): the story is second person, so hands fit, but AI hands often come out wrong. Check those four generations closely, or regenerate them as the rope, cloth or lantern alone.
+- Not made for kids, even though the story is calm.
