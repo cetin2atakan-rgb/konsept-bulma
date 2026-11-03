@@ -1,0 +1,126 @@
+PORCH LIGHT EVENINGS · FIRST FROST AT A VERMONT GENERAL STORE AFTER CLOSING, 1950s · ASSETS
+(written from Script.txt, 25,093 words / 12 chapters, and GeneralStore_Visuals.txt, 100 images)
+
+=====================================================
+TITLE (≤100 characters)
+=====================================================
+SELECTED: First Frost at a 1950s Vermont General Store | Cozy 2 Hour Sleep Story   (70)
+A/B:      After Closing at an Old Vermont General Store (Bedtime Story for Adults)   (72)
+Plain:    Stove, Cat and Frost on the Window | A Quiet General Store Sleep Story   (70)
+
+Notes
+- The first 45 characters carry the moment and the place: "First Frost at a 1950s Vermont General Store".
+- The other Porch Light titles are "[Scene] | 2 Hour Sleep Story, [Sound] & [Sound]". This one puts "Cozy" inside the suffix and drops the sound pair, and the A/B uses a parenthesis. No rain anywhere (the script has no rain scene).
+- "2 Hour" stays only if the finished audio is at least 2:00. Estimate: 25,093 words ≈ 2:15 narration + 5 min tail ≈ 2:20. If shorter, use the A/B or Plain title (no number).
+
+=====================================================
+THUMBNAIL
+=====================================================
+Palette: dark brown #2A170C, amber #E8A33D, faded red-orange #C8553D, cream #FFF1D6 for text. No blue, teal or green anywhere; frost is warm cream-white and pale gold, never icy blue.
+
+A (first test): the store from the lane, a tighter, brighter version of Visuals image 1.
+PROMPT A (no text in the image): Cinematic wide photograph of a small clapboard country general store in a Vermont village on the night of the first hard frost, 1950s, seen from the quiet dirt lane at eye level. One large front window glows warm golden amber and is the brightest thing in the scene, its light spilling in soft gold streaks across frosty porch boards and frost-whitened grass. Fine feathers of frost creep in from the corners of the glass, lit warm cream and pale gold. Inside, only soft shapes: a hanging lamp over a counter and the dark outline of a stove. Two empty rocking chairs on the porch, pale with frost. Plain weathered front with no sign, no lettering, no flag. Bare maples with a few last copper leaves, a thin thread of chimney smoke. The upper left is dark, smooth night sky and clapboard, empty for text. Deep chocolate-brown shadows, amber glow, no blue or teal cast. No people, no animals, no vehicles. 35mm, f/2.8, soft bloom around the window, gentle vignette, subtle film grain, 16:9.
+NEGATIVE A: text, letters, numbers, sign, signage, flag, poster, logo, people, faces, animals, cars, neon, daylight, sunset, blue hour, moon, blue, teal, cyan, icy blue frost, green tint, cartoon, 3D render, oversaturated, HDR halo, watermark, border
+
+B (second test): the stove and the sleeping cat, from Visuals images 4 and 7 (or 41 for the wider version).
+PROMPT B (no text in the image): Cinematic photograph inside a small country general store at night, 1950s, low angle across worn floorboards toward a pot-bellied iron stove glowing orange through its small mica window, a soft pool of light on the floor, black stovepipe rising into shadow. Beside it, on a folded flour sack, a round gray cat with white feet sleeps curled tight, nose tucked under her tail, face hidden, fur edged gold by the glow. Shelves of plain unmarked tins and jars fade into brown shadow, a hanging kerosene lamp makes a small halo overhead. The left third is dark shelving, empty for text. Warm amber and chocolate-brown palette, no blue or green. No people, no readable labels. 35mm, f/2, shallow depth of field, soft bloom, film grain, 16:9.
+NEGATIVE B: text, letters, numbers, labels on tins or jars, crate markings, clock face, logo, people, face, cat face, eyes, hands, telephone, radio, modern objects, fluorescent light, daylight, blue, teal, cyan, green tint, cartoon, 3D render, watermark, border
+
+TEXT (top-left, bold sans-serif, cream #FFF1D6, dark brown #2A170C outline 6-8 px, soft shadow, at least 14% of frame height):
+- FIRST FROST   (recommended, pairs with the selected title)
+- STOVE LIT   (A/B)
+- no-text version   (also test)
+
+Check at ~168 px wide: only the glowing window (or stove), its light on the boards and the text should read. Discard any generation with a sign, label, crate marking, a cold colour cast, or a cat looking at the camera.
+
+=====================================================
+DESCRIPTION (paste as is)
+=====================================================
+Stay after closing in a small Vermont general store on the night of the first hard frost, with a pot-bellied stove glowing in the middle of the floor and frost slowly feathering the big front window. A calm 2 hour sleep story for adults, told in the second person.
+
+The last customer is long gone. You turn the sign, hear the door bell's one small note, and the warm room is yours: shelves climbing into the shadows, a coffee mill with an iron wheel, a wheel of cheese under a glass dome, barrels of apples and crackers, jars of hard candy, a hanging kerosene lamp, a wall clock, a checkerboard left mid-game, and a round gray cat asleep on a flour sack.
+
+You feed the stove with split maple and warm the kettle, share a cracker and a slice of cheese by the fire, sweep the worn boards and dust the tins, refill the candy jars, cover the barrels, coil rope in the hardware corner and wipe the oil cans. You stand at the glass while the frost grows and a dog barks once far down the road. Then you wind the clock, lower the lamp, bank the stove and settle on a cot in the back room under a wool blanket, with the stove's glow in the doorway. Nothing needs to happen.
+
+This video is meant for relaxation. It does not diagnose, treat or prevent any condition. If you have ongoing trouble sleeping, talk with your doctor.
+The narration is a synthetic (AI-generated) voice and the pictures are AI-generated illustrations.
+This is a work of fiction. The store, the village and everything in it are invented.
+
+CHAPTERS (optional; only after the final audio exists, then replace the estimates with real times)
+0:00 Closing up at dusk
+0:10 The store by lamplight
+0:21 The stove and the kettle
+0:33 Sweeping and dusting
+0:45 The barrels and the cat
+0:56 The hardware corner
+1:08 The frost on the window
+1:19 The last round
+1:30 The back room
+1:42 The slow circle
+1:54 The middle of the night
+2:06 Rest now
+(Estimated at 5.4 min per 1,000 words from the real chapter breaks, the "---" lines in Script.txt.)
+
+=====================================================
+TAGS (15)
+=====================================================
+sleep story, sleep story for adults, bedtime story for adults, cozy sleep story, general store sleep story, vermont, 1950s, first frost, wood stove, sleeping cat, autumn night, relaxing bedtime story, calm narration, 2 hour sleep story, porch light evenings
+
+=====================================================
+PINNED COMMENT
+=====================================================
+The stove is banked, the clock is wound and the frost is still growing on the glass. Where are you listening from tonight? Did you ever know a store like this one, with a stove in the middle and a cat by the fire?
+
+=====================================================
+UPLOAD SETTINGS
+=====================================================
+- Category: Entertainment. Language: English. Not made for kids. Paid promotion: off.
+- Captions: upload an .srt made from Script.txt; spot-check sync in three places.
+- Altered/synthetic content: answer yes (synthetic voice, AI images).
+- Playlist: "Porch Light Evenings", next to the Farmhouse Kitchen and Post Office videos.
+- Spacing: do not publish within a few days of a sister video.
+- Business email (About page): [KENDİ E-POSTANI YAZ]
+
+=====================================================
+MUSIC AND AMBIENCE (built from the script's own sounds)
+=====================================================
+Overall: about 2:20 (narration ≈2:15 + 5 min tail, estimate). Narration = 0 dB. Bed about -18 to -19 dB under narration; 2 dB lower from 0:45, 2 dB lower again from 1:50. No voices, choir pads, beats, banjo, fiddle, ragtime, hymn or jazz. Key: D minor (open D-A fifths), different from the sister videos.
+
+Music (Suno/Udio, lyrics field: "[Instrumental] [Warm Intro - barely audible swell] [Slow Loop - evolving, no melody] [Ambient Outro - open tail]")
+A) backbone (~60%): beatless warm low pad, sustained low cello and viola, held D-A fifth, slow swells, soft tape, rolled-off highs, no melody.
+B) colour (~25%, none after 1:50): ultra-sparse soft felt piano, single low notes with long silences, faint bowed bass pedal on D, no rhythm, no repeating motif.
+C) colour (~15%): warm vintage reed organ pad with muted low strings, two chords only (D minor, A minor), extremely slow.
+Exclude in all: vocals, choir, humming, drums, percussion, bells, chimes, brass, banjo, fiddle, ragtime, honky-tonk, hymn, gospel, jazz, waltz, polka, sound effects.
+Build 10-12 tracks of 6-8 min; join with 30-45 s equal-power crossfades; never two of the same type back to back. Music EQ: HPF 70 Hz, LPF 6.5 kHz, -4 to -6 dB at 1.5-4 kHz.
+
+Ambience (separate files, CC0 or self-made, levels vs narration)
+- Frost ticks on the glass (signature sound): -32 dB, tiny dry clusters every 30-90 s, never a patter or a glassy ring. Every 20-40 s at -30 dB in Ch07 (at the window), Ch10 and Ch11 as the frost thickens. HPF 300 Hz, LPF 4 kHz, -8 dB at 2-4 kHz.
+- Iron stove murmur: -30 dB (-34 on the porch in Ch01 before the door closes; -29 while it is fed in Ch03). LPF 1.2 kHz, no roar.
+- Stove crackle and iron ticks: -34 dB, one soft pop every 30-90 s; -31 dB once when the split maple goes in (Ch03). From Ch11 it becomes the slow tick of cooling iron, every 60-120 s.
+- Wall clock: -31 dB, about one tick per second, wooden, never strikes. The winding in Ch08 is narration only.
+- Cat purr: -38 dB from Ch02, -36 in Ch05 (the cat chapter), -37 at the cot (Ch09-Ch11). LPF 400 Hz. No meow, no trill.
+- Maple branches in light wind outside: -31 dB, -27 at the window in Ch07. 60-900 Hz, no whistle.
+- Rope, tin and cloth rustle: by hand only, -40 dB in Ch04 (dusting, tins), -38 dB in Ch06 (rope, oil cans, lamp chimneys).
+- Floor creak: -36 dB, one every 3-5 min, Ch02-Ch08 only.
+- Distant dog: exactly two single barks at -42 dB peak, matched to the script (Ch07 "Somewhere far down the road, a dog barks"; Ch10 "Far off, a dog gives one low bark"). None after that.
+- Door bell: narration only (Ch01). Never in the bed.
+- Rain: NONE. The script has no rain scene (rain appears only in comparisons).
+
+Ending (T0 = last "Rest now."): no new sound after T0. Music fades out over T+0:45-T+2:15 with no last chord. Cat purr gone by T+2:00, wind by T+2:30, cooling-iron ticks by T+3:10. Clock fades to -50 dB by T+4:00 at a steady tempo. Frost ticks are the last to leave, one final tick near T+4:40. Black frame to the end.
+Mix target: -19 to -20 LUFS integrated, true peak ≤ -3 dBTP, loudness range under 5 LU. Bus: -3 dB at 2.5-3.5 kHz on the whole bed, LPF 6.5 kHz. If a word gets lost on a TV speaker, lower the frost ticks and crackle 2 dB first, then the music 2 dB.
+
+=====================================================
+AVOID (title, description, tags, comments, file names, images)
+=====================================================
+fall asleep (fast), deep sleep, insomnia, sleep aid, seniors, dementia, caregivers, binaural, delta, 432 Hz, healing, cures, better sleep, "in minutes", "guaranteed", any real town, store, brand or person.
+Images: no blue or teal cast (frost stays warm), no faces (the cat keeps her face tucked away), no readable text (signs, tin labels, crate markings, numbers), no flag.
+
+=====================================================
+RISK NOTES
+=====================================================
+- Runtime: "2 Hour" is an estimate until the voice-over exists. Confirm before publishing.
+- Format similarity with the Farmhouse Kitchen and Post Office videos (2 h, synthetic voice, AI images, second person): keep this video's own setting, title shape, key (D minor) and sound set (frost ticks, iron stove, cat purr). Never reuse an image, clip or audio file.
+- Health language: only "sleep story", "bedtime story for adults", "relaxing", "calm", "cozy". No promised results.
+- Visuals palette: eight image prompts asked for blue sky, blue shadows or a blue window, which breaks the channel palette; they now read dusk, deep shadow or pale starlight. Image 100 showed "the cold stove", but the script ends with the ember still glowing; it now reads "the stove a faint red ember".
+- Hands in Visuals (images 17, 22, 29, 38, 44, 46, 61, 71): the story is second person, so hands fit, but AI hands often come out wrong. Check those generations closely, or regenerate them showing only the object.
+- "Vermont" appears once in the script as a state, with no town. Keep it that way.
