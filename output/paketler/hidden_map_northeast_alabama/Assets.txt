@@ -1,0 +1,64 @@
+## TITLE: The Alabama River That Runs on Top of a Mountain (25 Facts)
+## ALTERNATİF (2)
+1. The Alabama Town That Once Made Half of America's Socks
+2. Northeast Alabama: A 600-Foot Canyon Cut Through a Mountaintop
+## REGION: Northeast Alabama (Fort Payne, Mentone, Valley Head, Lookout Mountain, Little River Canyon, Weiss Lake)
+## REGION_BBOX: 34.0,-86.0,34.6,-85.3
+## PERSONA_LINE: Walter Hale · retired geography teacher
+## PERSONA_IMG: persona.png
+## MAP_IMG: map_region.png
+## DESCRIPTION
+In Northeast Alabama a river spends almost its whole life on top of a mountain, cutting a canyon roughly 600 feet deep before it finally drops off the edge. Retired geography teacher Walter Hale counts down 25 geographic facts about Lookout Mountain and the country around Fort Payne: the town that once made more than half of America's socks, Cherokee writing hidden in Manitou Cave just before the Trail of Tears, Alabama's only ski slope, one of the state's tallest waterfalls, and the night in 1989 when Fyffe's own police chief reported lights in the sky.
+
+⏱ Chapters:
+0:00 Intro
+1:16 Fact 25 — The Night of the Fyffe Lights
+3:12 Fact 24 — Collinsville Trade Day
+5:10 Fact 23 — The End of the World's Longest Yard Sale
+6:54 Fact 22 — A Covered Bridge With Two Histories
+8:38 Fact 21 — The Band Called Alabama
+10:30 Fact 20 — Streight's Raid
+12:25 Fact 19 — The County Built on Chicken Houses
+13:53 Fact 18 — Alabama's Only Ski Slope
+15:33 Fact 17 — Mentone, Named for the Riviera
+17:22 Fact 16 — The Fort Payne Opera House
+19:12 Fact 15 — High Falls
+20:58 Fact 14 — Weiss Lake, Crappie Capital
+22:48 Fact 13 — Buck's Pocket
+24:30 Fact 12 — The Park the CCC Built
+26:16 Fact 11 — "Sam Houston, 1830"
+27:59 Fact 10 — The Dam That Lit Five Towns
+29:51 Fact 9 — DeSoto Falls
+31:42 Fact 8 — Canyon Mouth and the 2020 Flood
+33:28 Fact 7 — The Canyon's Forgotten Name
+35:07 Fact 6 — The Fort Behind Fort Payne's Name
+37:01 Fact 5 — Manitou Cave's Cherokee Writings
+39:00 Fact 4 — One Ridge, Three States
+41:00 Fact 3 — Sock Capital of the World
+43:28 Fact 2 — The Canyon on Top of a Mountain
+45:31 Fact 1 — The River That Lives on Top of a Mountain
+48:02 Closing
+
+📚 Sources: National Park Service (Little River Canyon National Preserve; Trail of Tears National Historic Trail) · Encyclopedia of Alabama · Alabama State Parks · USDA NASS 2022 Census of Agriculture · Carroll, Simek et al., Antiquity (2019) · Landmarks of DeKalb County · National Register of Historic Places · American Battlefield Trust
+
+Walter Hale is a narrator persona, not a real person. Illustrations are original drawings based on real geography and may simplify details. Know this region? Tell us what we missed.
+
+## TAGS (15): northeast alabama, alabama geography, little river canyon, lookout mountain, fort payne alabama, sock capital of the world, mentone alabama, desoto falls, manitou cave, cherokee syllabary, fyffe ufo, weiss lake, alabama history, hidden america, hidden map america
+
+## PINNED COMMENT: "Did you know Alabama had a river that lives on top of a mountain? If you grew up on Lookout Mountain, what did I miss?"
+
+## THUMBNAIL BRIEF (yeni abartılı format)
+ARKA PLAN (Grok promptu, yazısız): Hyper-real cinematic drone shot of the flat, forested top of Lookout Mountain in Alabama, with a deep, sheer-walled canyon slicing straight through the middle of the plateau, a silver river glinting 600 feet down at the bottom, the canyon rim edged with sandstone cliffs, the rest of the mountaintop untouched and level, the lowland farmland far below the mountain's edge in the distance. One tiny car on the rim road for scale. Golden-hour light, saturated autumn colors, exaggerated depth and vertigo, 16:9, no text, no logos.
+YAZI (üstte, tek satır): "IT SHOULDN'T BE UP HERE" — ALL CAPS, heavy sans (Anton / Montserrat Black), beyaz, kalın siyah gölge.
+OK: sarı el çizimi ok, kanyonun dibindeki nehri gösteriyor.
+AVATAR: persona.png (Walter Hale) sağ alt köşe, göğüsten yukarısı, şaşkın ifade, beyaz dış kontur; kanyonu kapatmayacak.
+Bölge adı, kurdele, eyalet silüeti YOK.
+DÜRÜSTLÜK: Fact 1 ve Fact 2 (dağın üstünde akan Little River, ~600 fit kanyon). Ölçek ve renk abartılıyor, bilgi değil.
+
+ALTERNATİF B (Grok promptu): Hyper-real wide shot of an enormous old brick hosiery mill on a small-town main street, with a mountain of brightly colored socks spilling out of its loading doors and piling higher than the roofline, a single tiny worker at the base for scale, warm late-afternoon light, 16:9, no text.
+YAZI B: "HALF OF AMERICA'S SOCKS" — aynı stil, alternatif başlık 1 ile kullanılır. Avatar sol alt, şaşkın ifade.
+
+## THUMBNAIL TEXT: IT SHOULDN'T BE UP HERE   (B: HALF OF AMERICA'S SOCKS)
+Not: Thumbnail yazısı başlığı tekrar etmiyor; başlık nehrin ne olduğunu söylüyor, thumbnail neden tuhaf olduğunu (script'teki "a river that has no business being up there").
+
+## baslik_kaydi: 2026-10-23 | Northeast Alabama | Hidden Map America | The Alabama River That Runs on Top of a Mountain (25 Facts) | 25 facts, 7,355 words, ~49 min
