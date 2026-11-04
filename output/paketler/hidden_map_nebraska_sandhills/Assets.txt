@@ -1,0 +1,70 @@
+## TITLE: The Largest Sand Dune Field in the Western Hemisphere Is Hiding in Nebraska
+## ALTERNATİF (2)
+1. Nebraska Is Hiding a Sea of Sand Dunes Most Americans Have Never Seen
+2. Under This Nebraska Grass Is 20,000 Square Miles of Sand
+## REGION: The Sandhills, Nebraska
+## REGION_BBOX: 41.3,-103.0,43.3,-99.0   (harita noktası doğrulaması için; Valentine/Halsey/Hyannis/Alliance çevresini kapsar — Carhenge/Alliance bilinçli istisna, kutunun batı kenarına çok yakın)
+## PERSONA_LINE: Walter Hale · retired geography teacher
+## PERSONA_IMG: persona.png
+## MAP_IMG: map_region.png
+## DESCRIPTION
+Under the grass of central Nebraska lies the largest dune field in the entire Western Hemisphere: roughly 19,000 to 23,000 square miles of sand, held in place by roots only a few feet deep and sitting on top of one of the thickest parts of the Ogallala Aquifer. Retired geography teacher Walter Hale counts down 25 geographic facts about the Nebraska Sandhills: Carhenge, a 54-foot waterfall on private land, the first International Dark Sky Park in Nebraska, a national forest planted entirely by hand, nearly two thousand lakes tucked between the dunes, and a county with less than one person per square mile.
+
+⏱ Chapters:
+0:00 Intro
+1:58 Fact 25 – Valentine, America's Mailbox
+4:18 Fact 24 – Carhenge
+6:26 Fact 23 – Snake River Falls
+8:30 Fact 22 – Darkest Skies in Nebraska
+10:05 Fact 21 – Merritt Reservoir Star Party
+11:46 Fact 20 – Nebraska Highway 2
+13:46 Fact 19 – The Dismal River
+15:21 Fact 18 – Blowout Penstemon
+16:52 Fact 17 – Birds Interbreeding Here
+18:36 Fact 16 – Oldest Federal Tree Nursery
+20:10 Fact 15 – The Plum Fire
+21:44 Fact 14 – Largest Hand-Planted Forest
+23:32 Fact 13 – A National Forest of Grass
+25:14 Fact 12 – Niobrara River
+27:01 Fact 11 – Returning Bison
+28:53 Fact 10 – Valentine Wildlife Refuge
+30:40 Fact 9 – Cherry County
+32:27 Fact 8 – The Kinkaid Act
+34:15 Fact 7 – America's Largest Unplowed Prairie
+35:55 Fact 6 – Dunes Miles Long
+37:20 Fact 5 – An Intact Grassland
+39:22 Fact 4 – Lakes Between the Dunes
+41:17 Fact 3 – Dunes That Wake Up
+43:09 Fact 2 – Water 1,000 Feet Deep
+45:07 Fact 1 – Largest Dune Field in the Hemisphere
+47:41 Closing
+
+📚 Sources: USGS, University of Nebraska–Lincoln Conservation and Survey Division (Ogallala Aquifer research), US Fish and Wildlife Service (Valentine National Wildlife Refuge), National Park Service (Niobrara National Scenic River), USDA Forest Service (Nebraska National Forest, Bessey Nursery, Samuel R. McKelvie National Forest), The Nature Conservancy (Niobrara Valley Preserve), Nebraska Game and Parks, DarkSky International, World Wildlife Fund (Northern Great Plains), Kinkaid Act historical records, US Census Bureau 2020 (Cherry County).
+
+Walter Hale is a narrator persona. Illustrations are original drawings based on real geography and may simplify details. Know this region? Tell us what we missed.
+## TAGS (15)
+nebraska sandhills, sandhills nebraska, nebraska geography, hidden america, us geography, largest sand dunes in america, ogallala aquifer, carhenge, snake river falls, valentine nebraska, nebraska national forest, merritt reservoir, niobrara river, nebraska highway 2, hidden map america
+## PINNED COMMENT
+"Did you know there was a sea of sand under that Nebraska grass? If you've driven Highway 2 or live in the Sandhills, tell me what I missed."
+## THUMBNAIL BRIEF
+Format: abartılı Hidden Map stili (tek inanılmaz sahne + ölçek ipucu + 2-4 kelime BÜYÜK beyaz metin + sarı ok + Walter Hale köşede). Sahne videoda geçen gerçek bir şey.
+
+A (ana) — "IT'S ALL SAND"
+- Sahne: Sandhills'te tek bir yeşil çimenli kum tepesinin yamacı büyük bir "blowout" ile yırtılmış; ince çim tabakasının hemen altında dev, parlak altın rengi çıplak kum duvarı görünüyor (Fact 3 + Fact 18). Arkada ufka kadar uzanan çimenli tepeler ve tepeler arasında küçük mavi göller (Fact 4).
+- Ölçek ipucu: blowout'un kenarında küçük bir çiftlik kamyoneti ve birkaç sığır — kum duvarının ne kadar büyük olduğunu gösteriyor.
+- Metin: "IT'S ALL SAND" — beyaz, kalın sans-serif, siyah dış çizgi, sol üst/orta. Başlığı tekrar etmiyor, "çimenin altı kum" fikrini tamamlıyor.
+- Sarı ok: metinden çim tabakasının altındaki çıplak kuma doğru.
+- Walter Hale (persona.png) sağ alt köşe, belden yukarı, şaşkın/işaret eden ifade.
+- Küçük Nebraska silueti + bölge noktası sol alt (opsiyonel).
+- Grok arka plan promptu: "Dramatic aerial photo of the Nebraska Sandhills at golden hour, a single grass-covered sand dune torn open by a huge wind blowout revealing a towering wall of bright golden bare sand just beneath a thin layer of green prairie grass, a small white ranch pickup truck and a few black cattle at the rim for scale, endless rolling grassy dunes and small shallow blue lakes stretching to the horizon, big open sky, high contrast, saturated colors, sharp detail, no text, 16:9, empty space on the left for text and bottom right for a person"
+
+B (alternatif) — "PLANTED BY HAND"
+- Sahne: hiç ağaç olmayan çimenli kum tepelerinin ortasında, cetvelle çizilmiş gibi keskin kenarlı koyu yeşil bir çam ormanı duvarı yükseliyor (Fact 14 — Nebraska National Forest, Halsey). Ön planda tek bir küçük çam fidanı.
+- Ölçek ipucu: orman kenarındaki toprak yolda küçük bir araba.
+- Metin: "PLANTED BY HAND" beyaz, sarı ok orman duvarına. Walter Hale sağ alt.
+- Grok arka plan promptu: "Aerial photo of treeless rolling grass-covered sand dunes in the Nebraska Sandhills with a dense dark green ponderosa pine forest rising abruptly from the grassland in a sharp straight-edged block, a single small pine seedling in the foreground grass, a tiny car on a dirt road along the forest edge for scale, late afternoon sun, high contrast, vivid colors, no text, 16:9, empty space on the left for text and bottom right for a person"
+
+C (yedek A/B fikri): Carhenge (Fact 24) — "JUNKED CARS" metni, ok ayakta duran boyalı arabalara. Not: Carhenge internette çok görülen bir görsel, merak boşluğu A ve B'den zayıf.
+## THUMBNAIL TEXT: IT'S ALL SAND | B: PLANTED BY HAND
+## baslik_kaydi
+2026-10-23 | The Largest Sand Dune Field in the Western Hemisphere Is Hiding in Nebraska | Hidden Map America | kanal 4. video (bu bölge)
