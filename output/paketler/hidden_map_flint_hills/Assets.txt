@@ -1,0 +1,67 @@
+## TITLE: Kansas Is Hiding the Last Big Tallgrass Prairie in North America
+## ALTERNATİF (2)
+1. Why No Plow Could Ever Break the Flint Hills of Kansas
+2. Every Spring, Kansas Sets 2 Million Acres on Fire on Purpose
+## REGION: The Flint Hills, Kansas
+## REGION_BBOX: 37.3,-96.8,39.3,-96.3
+## PERSONA_LINE: Walter Hale · retired geography teacher
+## PERSONA_IMG: persona.png
+## MAP_IMG: map_region.png
+## DESCRIPTION
+Less than four percent of North America's tallgrass prairie survives, and most of what is left sits in the Flint Hills of Kansas. The reason is in the ground: a band of chert-studded Permian limestone just under the topsoil that broke the plows of every settler who tried to farm it. Retired geography teacher Walter Hale counts down 25 geographic facts about the Flint Hills, from the two million acres ranchers burn on purpose every spring (you can see the smoke from orbit) and the bison herd returned to the Tallgrass Prairie National Preserve, to the oak grove that named Council Grove and the oil field found by geology instead of luck.
+
+⏱ Chapters:
+0:00 Intro
+1:44 Fact 25 – Cassoday's Prairie Chickens
+3:31 Fact 24 – Roots Deeper Than the Grass Is Tall
+5:06 Fact 23 – Flint Hills Discovery Center
+6:38 Fact 22 – The El Dorado Oil Field
+8:08 Fact 21 – Chase County Courthouse
+9:30 Fact 20 – Pioneer Bluffs Ranch
+10:47 Fact 19 – Lower Fox Creek School
+12:24 Fact 18 – The Spring Hill Ranch Mansion
+13:59 Fact 17 – Thirteen Bison Come Home
+15:34 Fact 16 – Two Pastures, One Experiment
+17:22 Fact 15 – The Wind Turbine Fight
+19:07 Fact 14 – Cattle Turnout Season
+20:50 Fact 13 – Manhattan, the Little Apple
+22:39 Fact 12 – Symphony in the Flint Hills
+24:25 Fact 11 – Flint Hills Scenic Byway
+26:02 Fact 10 – The Osage Hills of Oklahoma
+27:35 Fact 9 – The Grove That Named a Town
+29:26 Fact 8 – The Kaw Mission
+30:58 Fact 7 – The Last Chance Store
+32:37 Fact 6 – Last Water on the Santa Fe Trail
+34:31 Fact 5 – Smoke You Can See From Space
+37:12 Fact 4 – Tallgrass Prairie National Preserve
+39:36 Fact 3 – Fifty Years of Fire at Konza
+42:08 Fact 2 – An Ancient Permian Sea
+44:30 Fact 1 – The Grass No Plow Could Break
+47:06 Closing
+
+📚 Sources: National Park Service (Tallgrass Prairie National Preserve, Flint Hills geology), Kansas Geological Survey, Konza Prairie Biological Station (Kansas State University), Kansas Historical Society (Kaw Mission, Kanza history), Kansas Department of Health and Environment (smoke management), NASA Earthdata (MODIS burn imagery), American Oil & Gas Historical Society, Flint Hills Discovery Center, Pioneer Bluffs, Federal Highway Administration (National Scenic Byways).
+
+Walter Hale is a narrator persona. Illustrations are original drawings based on real geography and may simplify details. Know this region? Tell us what we missed.
+## TAGS (15)
+flint hills kansas, kansas geography, tallgrass prairie, tallgrass prairie national preserve, flint hills burning, konza prairie, council grove kansas, santa fe trail, cottonwood falls kansas, flint hills scenic byway, kansas bison, hidden america, us geography, unplowed prairie, hidden map america
+## PINNED COMMENT
+"Have you ever seen the Flint Hills burning at night in April? If you're from Chase, Morris or Butler County, tell me what I missed."
+## THUMBNAIL BRIEF
+Format: abartılı Hidden Map stili (tek inanılmaz sahne + ölçek ipucu + 2-4 kelime BÜYÜK beyaz metin + sarı ok + Walter Hale köşede). Sahne videoda geçen gerçek bir şey.
+
+A (ana) — "THEY BURN IT ON PURPOSE"
+- Sahne: alacakaranlıkta Flint Hills; kilometrelerce uzanan dalgalı çıplak tepelerin üzerinde turuncu parlayan uzun yangın hatları yılan gibi kıvrılıyor, arkada gökyüzüne yükselen dev gri duman şeritleri (Fact 5 — her bahar 2-2,5 milyon dönüm kontrollü yakma). Yanmış siyah yamaçla hemen yanındaki yeşil yamaç arasındaki keskin sınır görünüyor (Fact 3).
+- Ölçek ipucu: ön planda toprak yolda duran küçük bir çiftlik kamyoneti ve yanında tek bir insan silueti — yangın hattının ne kadar uzun olduğunu gösteriyor.
+- Metin: "THEY BURN IT ON PURPOSE" — beyaz, kalın sans (Anton/Montserrat Black), siyah gölge, üstte. Başlığı (son büyük çayır) tamamlıyor, tekrar etmiyor.
+- Sarı el çizimi ok: metinden uzaktaki yangın hattına.
+- Walter Hale (persona.png) sağ alt köşe, şaşkın ifade, beyaz kontur.
+- Grok arka plan promptu: "Dramatic wide aerial photo of the Kansas Flint Hills at dusk during spring prescribed burning, long glowing orange fire lines snaking for miles across rolling treeless grassy hills, huge gray smoke plumes rising into a deep purple and orange sky, a sharp line between freshly blackened hillside and untouched golden grass, a small ranch pickup truck and one tiny human silhouette on a dirt road in the foreground for scale, high contrast, saturated colors, sharp detail, no text, 16:9, empty space at the top for text and bottom right for a person"
+
+B (alternatif) — "THE PLOW LOST"
+- Sahne: yakın plan, yarılmış bir prairie toprağı kesiti; incecik çim köklerinin hemen altında keskin beyaz-gri çakmaktaşı (chert) parçalarıyla dolu kireçtaşı tabakası, üzerinde kırılmış eski bir demir pulluk bıçağı (Fact 1 + Fact 2). Arkada ufka kadar sürülmemiş uzun çayır.
+- Ölçek ipucu: pulluğun yanında bir eldiven ya da kovboy şapkası.
+- Metin: "THE PLOW LOST", sarı ok kırık bıçaktan çakmaktaşına. Walter Hale sağ alt.
+- Grok arka plan promptu: "Photo of a cut-away cross section of Kansas prairie ground, a thin layer of dark topsoil and tall grass roots on top of a hard pale limestone layer packed with sharp white and gray flint nodules, a broken rusty antique iron plow blade lying on the flint, a worn cowboy hat beside it for scale, endless unplowed golden tallgrass prairie hills behind under a big blue sky, golden hour light, high contrast, sharp detail, no text, 16:9, empty space at the top for text and bottom right for a person"
+## THUMBNAIL TEXT: THEY BURN IT ON PURPOSE | B: THE PLOW LOST
+## baslik_kaydi
+2026-10-23 | Kansas Is Hiding the Last Big Tallgrass Prairie in North America | Hidden Map America | The Flint Hills, Kansas | 7.234 kelime | 25 Fact | Walter Hale
