@@ -1,0 +1,67 @@
+## TITLE: Door County Is Hiding a Strait Sailors Called the Door of the Dead
+## ALTERNATİF (2)
+1. Why Wisconsin's Door County Is Named After a Deadly Strait
+2. The Same Rock as Niagara Falls Is Hiding in Wisconsin
+## REGION: The Door Peninsula, Wisconsin (Door County)
+## REGION_BBOX: 44.6,-87.65,45.45,-86.8
+## PERSONA_LINE: Walter Hale · retired geography teacher
+## PERSONA_IMG: persona.png
+## MAP_IMG: map_region.png
+## DESCRIPTION
+At the tip of Wisconsin's Door Peninsula is a strait so dangerous that French sailors called it La Porte des Morts, the door of the dead, and the whole county still carries the name. Under the orchards runs the same Silurian dolomite ridge that forms the ledge of Niagara Falls. Retired geography teacher Walter Hale counts down 25 geographic facts about Door County: Wisconsin's oldest lighthouse on Rock Island, the wave-cut caves of Cave Point, the tallest dune in the state, a Norwegian stave church rebuilt by hand, the largest rural Belgian settlement in America, and an island once home to one of the country's largest Icelandic communities.
+
+⏱ Chapters:
+0:00 Intro
+1:43 Fact 25 – Peninsula State Park
+4:12 Fact 24 – Eagle Bluff Lighthouse
+5:52 Fact 23 – Pottawatomie Lighthouse
+7:44 Fact 22 – A County Full of Lighthouses
+9:41 Fact 21 – Plum Island
+11:39 Fact 20 – Pilot Island
+13:11 Fact 19 – Chambers Island
+14:59 Fact 18 – Cave Point
+16:52 Fact 17 – Whitefish Dunes
+18:47 Fact 16 – The Ridges Sanctuary
+20:24 Fact 15 – Toft Point
+22:03 Fact 14 – Karst Bedrock
+23:52 Fact 13 – The Fish Boil
+26:11 Fact 12 – Cherry Orchards
+28:18 Fact 11 – Ephraim
+30:06 Fact 10 – Fish Creek
+31:43 Fact 9 – The Clearing
+33:40 Fact 8 – Boynton Chapel
+35:16 Fact 7 – Horseshoe Island
+37:08 Fact 6 – Bay Shipbuilding
+39:00 Fact 5 – Sturgeon Bay Ship Canal
+40:56 Fact 4 – The Belgian Settlement
+42:50 Fact 3 – Washington Island's Icelanders
+44:37 Fact 2 – The Niagara Escarpment
+47:00 Fact 1 – Death's Door
+49:30 Closing
+
+📚 Sources: Wisconsin Historical Society, Wisconsin DNR, Wisconsin Geological and Natural History Survey, National Register of Historic Places, US Coast Guard light station records, US Fish and Wildlife Service, US Army Corps of Engineers, Door County Historical Society, The Ridges Sanctuary, University of Wisconsin-Green Bay, Lawrence University (Björklunden).
+
+Walter Hale is a narrator persona. Illustrations are original drawings based on real geography and may simplify details. Know this peninsula? Tell us what we missed.
+## TAGS (15)
+door county wisconsin, door peninsula, death's door strait, wisconsin geography, niagara escarpment, cave point door county, door county lighthouses, washington island wisconsin, peninsula state park, whitefish dunes, sturgeon bay ship canal, door county cherries, belgian settlement wisconsin, hidden america, hidden map america
+## PINNED COMMENT
+"Have you crossed Death's Door on the Washington Island ferry? If you live on the peninsula, tell me what I missed."
+## THUMBNAIL BRIEF
+Format: abartılı Hidden Map stili (tek inanılmaz sahne + ölçek ipucu + 2-4 kelime BÜYÜK beyaz metin + sarı ok + Walter Hale köşede). Sahne videoda geçen gerçek bir şey.
+
+A (ana) — "THE DOOR OF THE DEAD"
+- Sahne: kuşbakışı Death's Door boğazı (Fact 1); yarımadanın dolomit falezleriyle Plum Island arasındaki dar geçitte akıntı suyu beyaz köpüklü çizgiler halinde çalkalıyor, adada küçük beyaz deniz feneri (Fact 21). Ön planda berrak, yeşil-mavi sığ suyun altında yarı gömülü eski ahşap bir gemi enkazının silueti seçiliyor (Fact 1 — dalgıçlar boğazda hâlâ batık buluyor).
+- Ölçek ipucu: boğazı geçen minicik bir araba vapuru.
+- Metin: "THE DOOR OF THE DEAD" — beyaz, kalın sans (Anton/Montserrat Black), siyah gölge, üstte. Başlığı tamamlıyor, bölge adını tekrar etmiyor.
+- Sarı el çizimi ok: metinden su altındaki enkaza.
+- Walter Hale (persona.png) sağ alt köşe, şaşkın ifade, beyaz kontur.
+- Grok arka plan promptu: "Dramatic high aerial photo of a narrow strait between tall white dolomite cliffs and a small wooded island with a white lighthouse, strong current churning the water into lines of whitecaps, in the clear turquoise shallows in the foreground the dark outline of an old sunken wooden ship wreck visible beneath the surface, a tiny car ferry crossing the strait for scale, dark storm clouds breaking with sunbeams, high contrast, saturated colors, sharp detail, no text, 16:9, empty space at the top for text and bottom right for a person"
+
+B (alternatif) — "SAME ROCK AS NIAGARA"
+- Sahne: Cave Point (Fact 18); alçak beyaz dolomit falezlerin dibindeki deniz mağarasına dev bir dalga çarpıyor, çatlaktan yukarı köpük fışkırıyor, su açıkta birden turkuazdan koyu maviye dönüyor.
+- Ölçek ipucu: falez dibinde küçük sarı bir kano.
+- Metin: "SAME ROCK AS NIAGARA", sarı ok dolomit katmana. Walter Hale sağ alt.
+- Grok arka plan promptu: "Low wide-angle photo of layered pale gray dolomite limestone cliffs on Lake Michigan, a huge wave crashing into a sea cave at the waterline with white spray exploding up through a crack in the rock, crystal clear turquoise water turning abruptly deep blue offshore, a tiny yellow kayak near the cliff base for scale, golden morning light, high contrast, saturated colors, sharp detail, no text, 16:9, empty space at the top for text and bottom right for a person"
+## THUMBNAIL TEXT: THE DOOR OF THE DEAD | B: SAME ROCK AS NIAGARA
+## baslik_kaydi
+2026-10-23 | Door County Is Hiding a Strait Sailors Called the Door of the Dead | Hidden Map America | The Door Peninsula, Wisconsin | 7.558 kelime | 25 Fact | Walter Hale
