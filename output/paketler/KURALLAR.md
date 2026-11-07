@@ -14,3 +14,6 @@ Eski format (sol persona + serif bölge adı + kırmızı "HIDDEN" kurdele) düz
 5. **Avatar:** Walter Hale köşede, şaşkın/işaret eden ifade, beyaz kontur, ana görseli kapatmaz.
 6. **Dürüstlük:** sahne videoda anlatılan gerçek bir şey olmalı. Ölçek/renk/açı abartılır, bilgi uydurulmaz (yanıltıcı thumbnail YouTube politikasına takılır).
 Assets'te her zaman: Grok arka plan promptu (yazısız) + yazı + ok + avatar yerleşimi + bir A/B alternatifi.
+
+## Teslim kapsamı (7 Kasım 2026'dan itibaren)
+- Kullanıcı isteği: "bundan sonra sadece assetsi vermen yeterli her video için, aksi durumda ben bildiririm". Script ve Visuals düzeltilip gönderilmez; yalnızca Assets.txt (Script ve Visuals'a bakarak baştan) yazılır, commit/push edilir ve gönderilir. Script/Visuals'ta bulunan hatalar raporda kısa not olarak belirtilir, Assets bu hataları tekrarlamaz.
