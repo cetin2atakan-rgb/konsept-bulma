@@ -1,0 +1,67 @@
+## TITLE: The Dam Once Called the Largest on Earth Is Hiding in Mississippi
+## ALTERNATİF (2)
+1. North Mississippi Is Hiding the Real County Behind Faulkner's Novels
+2. Why One Mississippi County Still Has Two Courthouses
+## REGION: North Mississippi Hill Country
+## REGION_BBOX: 33.6,-90.1,34.8,-88.6
+## PERSONA_LINE: Walter Hale · retired geography teacher
+## PERSONA_IMG: persona.png
+## MAP_IMG: map_region.png
+## DESCRIPTION
+East of Sardis, a nearly three-mile earthen wall that the Army Corps of Engineers once called the largest earthen dam in the world holds back the Little Tallahatchie. It is one of four flood control lakes built across North Mississippi's hill country after the 1927 flood. Retired geography teacher Walter Hale counts down 25 geographic facts about the hills between Holly Springs, Oxford and Tupelo: yellow loess bluffs blown in by Ice Age winds, the cavalry raid that burned Grant's supply depot, the creek-bank treaty that drew today's county lines, the river that gave Faulkner the name Yoknapatawpha, a county with two courthouses, Elvis's two-room birthplace, and the hill country blues of Como and Chulahoma.
+
+⏱ Chapters:
+0:00 Intro
+1:32 Fact 25 – Loess Hills and Yellow Clay
+4:23 Fact 24 – Pontotoc Ridge
+6:37 Fact 23 – The Tallahatchie Headwaters
+8:31 Fact 22 – The Yocona and Yoknapatawpha
+10:29 Fact 21 – The Natchez Trace
+12:26 Fact 20 – Holly Springs National Forest
+14:23 Fact 19 – Settlers Ahead of the Treaty
+16:09 Fact 18 – Rust College
+18:01 Fact 17 – Colonel Falkner's Statue
+19:42 Fact 16 – The Tanglefoot Trail
+21:28 Fact 15 – Elvis Presley's Birthplace
+23:12 Fact 14 – Hill Country Blues
+25:06 Fact 13 – A County With Two Courthouses
+26:39 Fact 12 – Brices Cross Roads
+28:18 Fact 11 – The Battle of Tupelo
+29:52 Fact 10 – Camp McCain
+31:30 Fact 9 – Arkabutla Lake
+33:15 Fact 8 – Enid Lake
+34:59 Fact 7 – Grenada Lake
+36:37 Fact 6 – The University of Mississippi
+38:14 Fact 5 – The Treaty of Pontotoc Creek
+40:03 Fact 4 – Rowan Oak
+41:48 Fact 3 – Van Dorn's Holly Springs Raid
+43:33 Fact 2 – The Lyceum, 1962
+45:08 Fact 1 – Sardis Dam
+47:19 Closing
+
+📚 Sources: US Army Corps of Engineers, Vicksburg District (Sardis, Enid, Grenada, Arkabutla) · National Park Service (Natchez Trace Parkway, Brices Cross Roads, Tupelo National Battlefield) · USDA Forest Service (Holly Springs National Forest) · Mississippi Department of Archives and History · University of Mississippi · Rowan Oak (NRHP) · Mississippi Blues Trail · Treaty of Pontotoc Creek (1832) · Rust College · Rails-to-Trails Conservancy (Tanglefoot Trail) · Mississippi National Guard (Camp McCain) · Ulysses S. Grant, Personal Memoirs
+
+Walter Hale is a narrator persona. Illustrations are original drawings based on real geography and may simplify details. Know this region? Tell us what we missed.
+## TAGS (15)
+north mississippi, mississippi hill country, sardis dam, sardis lake mississippi, oxford mississippi, holly springs mississippi, tupelo mississippi, faulkner yoknapatawpha, rowan oak, hill country blues, natchez trace parkway, treaty of pontotoc creek, mississippi geography, hidden america, hidden map america
+## PINNED COMMENT
+"Did you know one Mississippi county has had two courthouses for more than 150 years? If you grew up in these hills, tell me what I missed."
+## THUMBNAIL BRIEF
+Format: abartılı Hidden Map stili (tek inanılmaz sahne + ölçek ipucu + 2-4 kelime BÜYÜK beyaz metin + sarı ok + Walter Hale köşede). Sahne videoda geçen gerçek bir şey.
+
+A (ana) — "ONCE THE WORLD'S BIGGEST"
+- Sahne: kuşbakışı Sardis Barajı (Fact 1); yaklaşık 3 mil uzunluğunda, çimenle kaplı dev toprak set bir tarafta ufka kadar uzanan geniş göl, diğer tarafta küçük nehir ve çam ormanlı tepeler. Setin üstündeki yol çizgi gibi.
+- Ölçek ipucu: setin üstündeki yolda tek bir minik pikap.
+- Metin: "ONCE THE WORLD'S BIGGEST" — beyaz, kalın sans (Anton/Montserrat Black), siyah gölge, üstte. Başlığı tamamlıyor (başlık "baraj"ı söylüyor, metin ölçeği).
+- Sarı el çizimi ok: setin uzun hattı boyunca.
+- Walter Hale (persona.png) sağ alt köşe, şaşkın ifade, beyaz kontur.
+- Grok arka plan promptu: "Dramatic high aerial photo of an enormous grass-covered earthen dam nearly three miles long stretching across a river valley in Mississippi, a vast blue lake filling the valley on one side to the horizon, a small winding river and green pine-covered hills on the other side, a thin road running along the top of the dam with one tiny pickup truck on it for scale, golden hour light, long shadows, high contrast, saturated colors, sharp detail, no text, 16:9, empty space at the top for text and bottom right for a person"
+
+B (alternatif) — "BLOWN IN BY WIND"
+- Sahne: Fact 25; yol kenarında dikine kesilmiş, 20-25 fit yüksekliğinde soluk sarı-bej loess duvarı, üstünde ağaç kökleri sarkıyor, dibinde dar bir taşra yolu.
+- Ölçek ipucu: duvarın dibinde park etmiş küçük bir araba ve yanında bir insan.
+- Metin: "BLOWN IN BY WIND", sarı ok sarı kil duvarına. Walter Hale sağ alt.
+- Grok arka plan promptu: "Low-angle photo of a towering vertical wall of pale yellow-tan loess clay beside a narrow rural Mississippi road, the bluff almost smooth and carved-looking, tree roots and green forest hanging over the top edge, a small parked car and one tiny person at its base for scale, warm afternoon sun, high contrast, saturated colors, sharp detail, no text, 16:9, empty space at the top for text and bottom right for a person"
+## THUMBNAIL TEXT: ONCE THE WORLD'S BIGGEST | B: BLOWN IN BY WIND
+## baslik_kaydi
+2026-11-01 | The Dam Once Called the Largest on Earth Is Hiding in Mississippi | Hidden Map America | North Mississippi Hill Country | 7.352 kelime | 25 Fact | Walter Hale
