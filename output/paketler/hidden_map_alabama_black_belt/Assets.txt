@@ -1,0 +1,67 @@
+## TITLE: Alabama's Black Belt Is Hiding the Floor of an Ancient Sea
+## ALTERNATİF (2)
+1. Why Alabama's Black Belt Is Named After Its Dirt
+2. A Vice President Died Beside This Alabama Ghost Town
+## REGION: Alabama's Black Belt
+## REGION_BBOX: 31.9,-88.2,32.8,-86.9
+## PERSONA_LINE: Walter Hale · retired geography teacher
+## PERSONA_IMG: persona.png
+## MAP_IMG: map_region.png
+## DESCRIPTION
+A few feet under the dark soil of west-central Alabama lies Cretaceous chalk, the floor of a sea that covered this land some seventy million years ago. That chalk made the soil, the soil made the cotton economy, and that economy shaped everything that followed here, all the way to the Edmund Pettus Bridge. Retired geography teacher Walter Hale counts down 25 geographic facts about Alabama's Black Belt, around Selma, Demopolis, Marion, Greensboro and Uniontown: the White Cliffs of Epes, shark teeth turned up in plowed fields, Old Cahawba (Alabama's vanished first capital), a vice president sworn in in Cuba who died weeks later near that town, the Gee's Bend quilters, and the voting rights campaign that began on a February night in Marion.
+
+⏱ Chapters:
+0:00 Intro
+1:22 Fact 25 – Freedom Quilting Bee
+3:01 Fact 24 – Marion's Two Colleges
+4:41 Fact 23 – Magnolia Grove and Greensboro
+6:14 Fact 22 – Catfish Farms
+8:19 Fact 21 – Sturdivant Hall
+9:52 Fact 20 – Uniontown's Coal Ash Fight
+11:37 Fact 19 – The Vine and Olive Colony
+13:45 Fact 18 – Demopolis Lock and Dam
+15:29 Fact 17 – The White Cliffs of Epes
+17:29 Fact 16 – Shark Teeth in the Chalk
+19:14 Fact 15 – Old Cahawba
+20:58 Fact 14 – William Rufus King
+22:55 Fact 13 – The Battle of Selma
+24:39 Fact 12 – Gee's Bend
+26:39 Fact 11 – The Vanishing Prairie
+28:32 Fact 10 – Persistent Poverty
+30:43 Fact 9 – Maternity Care Deserts
+32:59 Fact 8 – The Cahaba River
+34:50 Fact 7 – Jimmie Lee Jackson
+36:47 Fact 6 – Brown Chapel AME Church
+38:54 Fact 5 – The Edmund Pettus Bridge
+40:52 Fact 4 – The Plantation Economy
+42:42 Fact 3 – Child Poverty in Perry County
+44:52 Fact 2 – Why It's Called the Black Belt
+46:51 Fact 1 – The Chalk Beneath It All
+48:57 Closing
+
+📚 Sources: National Park Service (Selma to Montgomery National Historic Trail) · Encyclopedia of Alabama · Alabama Historical Commission (Old Cahawba, Magnolia Grove) · University of Alabama Education Policy Center · US Army Corps of Engineers (Demopolis Lock and Dam) · US Fish and Wildlife Service (Cahaba River NWR) · Geological Survey of Alabama · Auburn University Museum of Natural History · Souls Grown Deep Foundation · Alabama Cooperative Extension System · Alabama Hospital Association
+
+Walter Hale is a narrator persona. Illustrations are original drawings based on real geography and may simplify details. This video describes documented historical violence (Bloody Sunday, the killing of Jimmie Lee Jackson). Know this region? Tell us what we missed.
+## TAGS (15)
+alabama black belt, selma alabama, black belt soil, selma chalk, white cliffs of epes, old cahawba, edmund pettus bridge, gee's bend quilts, demopolis alabama, marion alabama, cahaba river, william rufus king, alabama geography, hidden america, hidden map america
+## PINNED COMMENT
+"Did you know Alabama has white chalk cliffs from the same era as the White Cliffs of Dover? If you grew up near Selma, Demopolis or Marion, tell me what I missed."
+## THUMBNAIL BRIEF
+Format: abartılı Hidden Map stili (tek inanılmaz sahne + ölçek ipucu + 2-4 kelime BÜYÜK beyaz metin + sarı ok + Walter Hale köşede). Sahne videoda geçen gerçek bir şey.
+
+A (ana) — "THIS WAS A SEA FLOOR"
+- Sahne: White Cliffs of Epes (Fact 17); Tombigbee Nehri boyunca yükselen, bembeyaz, katmanlı tebeşir falezleri, tepelerinde yeşil ağaçlar, falez dibinde açık kahverengi nehir suyu.
+- Ölçek ipucu: falezin dibinde küçük bir balıkçı teknesi ve içinde tek bir insan.
+- Metin: "THIS WAS A SEA FLOOR" — beyaz, kalın sans (Anton/Montserrat Black), siyah gölge, üstte. Başlığı tamamlıyor, tekrar etmiyor.
+- Sarı el çizimi ok: beyaz tebeşir katmanına.
+- Walter Hale (persona.png) sağ alt köşe, şaşkın ifade, beyaz kontur.
+- Grok arka plan promptu: "Dramatic photo of tall brilliant white layered chalk cliffs rising straight out of a wide brown river in rural Alabama, green hardwood forest along the clifftop, a small fishing boat with one tiny person at the base of the cliffs for scale, late afternoon sun lighting the chalk face, blue sky, high contrast, saturated colors, sharp detail, no text, 16:9, empty space at the top for text and bottom right for a person"
+
+B (alternatif) — "THIS WAS THE CAPITAL"
+- Sahne: Old Cahawba (Fact 15); çimenlerle kaplı, dik açılı boş sokak ızgarası, ortada yalnız kalmış tuğla bacalar ve birkaç eski mezar taşı, arkada Alabama Nehri.
+- Ölçek ipucu: boş sokakta yürüyen tek bir insan silueti.
+- Metin: "THIS WAS THE CAPITAL", sarı ok yalnız bacaya. Walter Hale sağ alt.
+- Grok arka plan promptu: "Wide aerial photo at dusk of an abandoned town site in a grassy river bottom in Alabama, a perfect grid of empty overgrown streets with no buildings, a few lone standing brick chimneys and weathered gravestones, a wide river curving behind it, one tiny person walking down an empty street for scale, moody golden light, high contrast, saturated colors, sharp detail, no text, 16:9, empty space at the top for text and bottom right for a person"
+## THUMBNAIL TEXT: THIS WAS A SEA FLOOR | B: THIS WAS THE CAPITAL
+## baslik_kaydi
+2026-11-01 | Alabama's Black Belt Is Hiding the Floor of an Ancient Sea | Hidden Map America | Alabama's Black Belt | 7.494 kelime | 25 Fact | Walter Hale
