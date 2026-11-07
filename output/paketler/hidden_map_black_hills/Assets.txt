@@ -1,0 +1,67 @@
+## TITLE: A Sinkhole in the Black Hills Trapped 61 Mammoths
+## ALTERNATİF (2)
+1. The Mountain Carving That Still Isn't Finished After 75 Years
+2. The Rock Under Mount Rushmore Is 1.7 Billion Years Old
+## REGION: The Black Hills, South Dakota
+## REGION_BBOX: 43.4,-104.3,44.5,-103.0
+## PERSONA_LINE: Walter Hale · retired geography teacher
+## PERSONA_IMG: persona.png
+## MAP_IMG: map_region.png
+## DESCRIPTION
+In 1974 a bulldozer grading a hillside in Hot Springs, South Dakota, cut into an ancient sinkhole and found mammoth bones. At least 61 mammoths are now known to have slipped into that spring-fed pond and never climbed back out. Retired geography teacher Walter Hale counts down 25 geographic facts about the Black Hills: Black Elk Peak, the highest point east of the Rockies; Mount Rushmore and the still-unfinished Crazy Horse Memorial; Jewel Cave and Wind Cave, two of the longest caves on Earth; a gold mine more than a mile deep that now hunts dark matter; Pactola Reservoir with a town under it; the 1972 Rapid City flood; and the 1868 Fort Laramie Treaty that the 1874 gold rush broke. Under all of it is a dome of rock more than a billion years older than the Rockies people mistake it for.
+
+⏱ Chapters:
+0:00 Intro
+1:00 Fact 25 – Black Elk Peak
+3:08 Fact 24 – Mount Rushmore
+5:07 Fact 23 – Crazy Horse Memorial
+7:02 Fact 22 – The Mammoth Site
+9:08 Fact 21 – Devils Tower
+11:34 Fact 20 – Deadwood
+13:41 Fact 19 – Spearfish Canyon
+15:43 Fact 18 – Custer State Park Bison
+17:40 Fact 17 – Wind Cave's Bison
+19:39 Fact 16 – Pactola Reservoir
+21:41 Fact 15 – The 1972 Rapid City Flood
+23:38 Fact 14 – Sturgis
+25:32 Fact 13 – Needles Highway
+27:28 Fact 12 – Cathedral Spires
+29:27 Fact 11 – The Summit Lookout Tower
+31:15 Fact 10 – The 1880 Train
+33:09 Fact 9 – Bighorn Sheep
+35:06 Fact 8 – Bear Butte
+37:13 Fact 7 – City of Presidents
+39:06 Fact 6 – The Stratobowl
+41:30 Fact 5 – Jewel Cave
+43:53 Fact 4 – Wind Cave
+46:09 Fact 3 – Homestake and Sanford Lab
+48:24 Fact 2 – The Fort Laramie Treaty
+51:08 Fact 1 – The Ancient Core
+53:58 Closing
+
+📚 Sources: National Park Service (Mount Rushmore, Wind Cave, Jewel Cave, Devils Tower, Fort Laramie) · USGS (Black Hills geology, 1972 flood) · The Mammoth Site of Hot Springs · Crazy Horse Memorial Foundation · South Dakota Game, Fish and Parks · US Forest Service, Black Hills National Forest · Bureau of Reclamation (Pactola) · Sanford Underground Research Facility · Smithsonian National Air and Space Museum · City of Deadwood · US Board on Geographic Names
+
+Walter Hale is a narrator persona. Illustrations are original drawings based on real geography and may simplify details. Know this region? Tell us what we missed.
+## TAGS (15)
+black hills south dakota, mammoth site hot springs, mount rushmore, crazy horse memorial, jewel cave, wind cave national park, black elk peak, deadwood south dakota, custer state park, sturgis, sanford underground lab, fort laramie treaty, south dakota geography, hidden america, hidden map america
+## PINNED COMMENT
+"Have you stood on the boardwalk at the Mammoth Site in Hot Springs? If you live anywhere near the Black Hills, tell me what I missed."
+## THUMBNAIL BRIEF
+Format: abartılı Hidden Map stili (tek inanılmaz sahne + ölçek ipucu + 2-4 kelime BÜYÜK beyaz metin + sarı ok + Walter Hale köşede). Sahne videoda geçen gerçek bir şey.
+
+A (ana) — "THEY FELL IN HERE"
+- Sahne: Hot Springs Mammoth Site (Fact 22); kapalı bir binanın içinde, yukarıdan bakılan geniş kazı çukuru; toprağın içinden yarı gömülü dev kıvrık mamut dişleri ve kemikleri çıkıyor, çukurun etrafında asılı ahşap yürüme yolu.
+- Ölçek ipucu: yürüme yolunda aşağıyı izleyen birkaç küçük insan ve çukurun dibinde fırçayla çalışan tek bir paleontolog.
+- Metin: "THEY FELL IN HERE" — beyaz, kalın sans (Anton/Montserrat Black), siyah gölge, üstte. Başlıktaki "61 mammoth" rakamını tekrar etmiyor, sahneyi açıklıyor.
+- Sarı el çizimi ok: en büyük kıvrık mamut dişine.
+- Walter Hale (persona.png) sağ alt köşe, şaşkın ifade, beyaz kontur.
+- Grok arka plan promptu: "Dramatic high-angle photo inside a large museum building over an active paleontological dig pit, huge curved woolly mammoth tusks and massive bones half-buried in reddish sediment walls, a wooden boardwalk suspended around the pit with a few small visitors looking down, one tiny paleontologist with a brush working at the bottom for scale, warm natural light from skylights, high contrast, rich earthy colors, sharp detail, no text, 16:9, empty space at the top for text and bottom right for a person"
+
+B (alternatif) — "STILL NOT FINISHED"
+- Sahne: Crazy Horse Memorial (Fact 23); dev granit dağın yüzünden çıkmış tamamlanmış yüz, altında kaba, işlenmemiş kaya ve kolun düz çizgisi; dağın üzerinde çalışan iş makineleri.
+- Ölçek ipucu: kolun üstünde karınca gibi görünen bir iş makinesi ve birkaç işçi.
+- Metin: "STILL NOT FINISHED", sarı ok yarım kalan kaya kütlesine. Walter Hale sağ alt.
+- Grok arka plan promptu: "Wide photo of an enormous mountain carving in progress in the Black Hills, a giant finished stone face of a Native American warrior emerging from a raw granite mountain, the rough unfinished outline of an outstretched arm below it, a tiny bulldozer and a few tiny workers on the arm for scale, ponderosa pine forest in the foreground, clear blue sky, late afternoon sun, high contrast, saturated colors, sharp detail, no text, 16:9, empty space at the top for text and bottom right for a person"
+## THUMBNAIL TEXT: THEY FELL IN HERE | B: STILL NOT FINISHED
+## baslik_kaydi
+2026-11-01 | A Sinkhole in the Black Hills Trapped 61 Mammoths | Hidden Map America | The Black Hills, South Dakota | 8.234 kelime | 25 Fact | Walter Hale
