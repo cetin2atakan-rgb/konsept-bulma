@@ -1,0 +1,67 @@
+## TITLE: Downeast Maine Is Hiding an Island Two Countries Both Claim
+## ALTERNATİF (2)
+1. Maine Is Hiding the Largest Whirlpool in the Western Hemisphere
+2. The Navy's 1,000-Foot Towers That Talk to Submarines Are in Maine
+## REGION: Downeast Maine (Washington County: Machias, Lubec, Eastport, Cutler, Jonesport)
+## REGION_BBOX: 44.35,-67.95,44.95,-66.85
+## PERSONA_LINE: Walter Hale · retired geography teacher
+## PERSONA_IMG: persona.png
+## MAP_IMG: map_region.png
+## DESCRIPTION
+Off the coast of Washington County, Maine, is an island that both the United States and Canada still claim. Between Eastport and Deer Island the tide forms the Old Sow, the largest tidal whirlpool in the Western Hemisphere, and in the woods near Cutler the Navy runs 26 towers, some close to 1,000 feet tall, that send radio signals to submarines underwater. Retired geography teacher Walter Hale counts down 25 geographic facts about Downeast Maine: the Bay of Fundy tides, the first naval battle of the Revolution, Roosevelt's Campobello, the last herring smokehouse in the country, baby eels worth more than $2,000 a pound, and the headland that is the first place in the US to see the sunrise for half the year.
+
+⏱ Chapters:
+0:00 Intro
+1:22 Fact 25 – Why It's Called "Downeast"
+3:11 Fact 24 – Bigger Than Rhode Island
+4:52 Fact 23 – The Battle of Machias
+6:44 Fact 22 – Roosevelt Campobello International Park
+8:28 Fact 21 – Great Wass Island's Jack Pines
+10:08 Fact 20 – Moosehorn and the Woodcock
+11:44 Fact 19 – The Border by Ferry
+13:26 Fact 18 – Eastport's Sardine Canneries
+15:14 Fact 17 – McCurdy's Smokehouse
+16:58 Fact 16 – The Beals Island Lobster Boat
+18:35 Fact 15 – The Passamaquoddy
+20:13 Fact 14 – Brush Herring Weirs
+21:54 Fact 13 – Reversing Falls
+23:52 Fact 12 – West Quoddy Head Light
+25:28 Fact 11 – Red and Black Granite
+27:10 Fact 10 – Wild Blueberry Barrens
+28:59 Fact 9 – Moose Peak Light and the Fog
+30:53 Fact 8 – Elvers
+32:50 Fact 7 – North Atlantic Right Whales
+34:38 Fact 6 – The Bold Coast
+36:27 Fact 5 – The Cutler VLF Towers
+38:36 Fact 4 – Machias Seal Island
+40:57 Fact 3 – The Old Sow Whirlpool
+43:11 Fact 2 – The Bay of Fundy Tides
+45:32 Fact 1 – First Sunrise in the USA
+47:50 Closing
+
+📚 Sources: NOAA tides and currents, Roosevelt Campobello International Park Commission, US Fish and Wildlife Service (Moosehorn NWR), Maine Bureau of Parks and Lands (Cutler Coast, Quoddy Head State Park), Maine Department of Marine Resources (elver fishery), The Nature Conservancy (Great Wass Island), Fisheries and Oceans Canada (right whale critical habitat), US Navy (VLF Cutler), US Department of State, US Census Bureau, Maine Historical Society, Lubec Landmarks.
+
+Walter Hale is a narrator persona. Illustrations are original drawings based on real geography and may simplify details. Know this region? Tell us what we missed.
+## TAGS (15)
+downeast maine, washington county maine, old sow whirlpool, machias seal island, bay of fundy tides, cutler vlf towers, west quoddy head, lubec maine, eastport maine, campobello island, bold coast maine, maine geography, hidden america, us geography, hidden map america
+## PINNED COMMENT
+"Did you know there's an island off Maine that both the US and Canada still say is theirs? If you live Downeast, tell me what I missed."
+## THUMBNAIL BRIEF
+Format: abartılı Hidden Map stili (tek inanılmaz sahne + ölçek ipucu + 2-4 kelime BÜYÜK beyaz metin + sarı ok + Walter Hale köşede). Sahne videoda geçen gerçek bir şey.
+
+A (ana) — "THE SEA SPINS HERE"
+- Sahne: kuşbakışı Old Sow girdabı (Fact 3); Eastport ile Deer Island arasındaki koyu yeşil-lacivert suda dev, net bir spiral, kenarında küçük yan girdaplar (piglets), arkada ladin ağaçlı adalar ve Eastport'un küçük liman evleri.
+- Ölçek ipucu: girdabın kenarında minicik kırmızı bir ıstakoz teknesi.
+- Metin: "THE SEA SPINS HERE" — beyaz, kalın sans (Anton/Montserrat Black), siyah gölge, üstte. Başlığı (iki ülkenin sahiplendiği ada) tamamlıyor, tekrar etmiyor.
+- Sarı el çizimi ok: girdabın merkezine.
+- Walter Hale (persona.png) sağ alt köşe, şaşkın ifade, beyaz kontur.
+- Grok arka plan promptu: "Dramatic top-down aerial photo of a huge tidal whirlpool spiraling in dark green and navy blue sea water between two spruce-covered islands on the Maine coast, white foam lines tracing the spiral, several smaller whirlpools around its edge, a tiny red lobster boat at the rim for scale, small harbor town houses on the far shore, late afternoon sun, high contrast, saturated colors, sharp detail, no text, 16:9, empty space at the top for text and bottom right for a person"
+
+B (alternatif) — "IT TALKS TO SUBMARINES"
+- Sahne: Cutler VLF istasyonu (Fact 5); sisin içinden yükselen onlarca dev çelik kafes kule, tepelerinde kırmızı uyarı ışıkları, aralarında gerili antenler, alacakaranlık.
+- Ölçek ipucu: kulelerin dibinde ladin ağaçları ve yolda minik bir pikap.
+- Metin: "IT TALKS TO SUBMARINES", sarı ok en uzun kuleye. Walter Hale sağ alt.
+- Grok arka plan promptu: "Wide low-angle photo of a field of enormous steel lattice radio towers nearly a thousand feet tall rising out of thick coastal fog and spruce forest at dusk, red warning lights glowing on top, long antenna cables strung between them in a diamond pattern, a tiny pickup truck on a gravel road below for scale, moody blue and orange sky, high contrast, sharp detail, no text, 16:9, empty space at the top for text and bottom right for a person"
+## THUMBNAIL TEXT: THE SEA SPINS HERE | B: IT TALKS TO SUBMARINES
+## baslik_kaydi
+2026-10-23 | Downeast Maine Is Hiding an Island Two Countries Both Claim | Hidden Map America | Downeast Maine | 7.307 kelime | 25 Fact | Walter Hale
