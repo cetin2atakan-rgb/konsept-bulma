@@ -1,0 +1,67 @@
+## TITLE: The Cumberland Gap Is Hiding a Town Built Inside a Meteor Crater
+## ALTERNATİF (2)
+1. Why 300,000 Pioneers Squeezed Through One Mountain Notch
+2. Stand in Three States at Once at the Cumberland Gap
+## REGION: The Cumberland Gap (Kentucky-Tennessee-Virginia tri-state corridor)
+## REGION_BBOX: 36.5,-83.9,36.8,-83.4
+## PERSONA_LINE: Walter Hale · retired geography teacher
+## PERSONA_IMG: persona.png
+## MAP_IMG: map_region.png
+## DESCRIPTION
+A few miles from the Cumberland Gap, the town of Middlesboro, Kentucky, is laid out on the floor of an ancient meteorite impact crater roughly three to four miles across, and from Pinnacle Overlook you can look straight down into it. Retired geography teacher Walter Hale counts down 25 geographic facts about Cumberland Gap National Historical Park, where Kentucky, Tennessee and Virginia meet. It covers the fault line that broke an unbroken sandstone wall, the buffalo trace that became Daniel Boone's Wilderness Road, the 200,000 to 300,000 settlers who funneled through one notch, Tri-State Peak, the Civil War forts both armies held, Hensley Settlement on top of the mountain, and the highway tunnel built so the historic saddle could finally be left alone.
+
+⏱ Chapters:
+0:00 Intro
+1:43 Fact 25 – Cave Gap
+3:34 Fact 24 – The Duke Who Never Saw It
+5:09 Fact 23 – The Warriors' Path
+6:54 Fact 22 – One Notch in a Sandstone Wall
+9:02 Fact 21 – The Saddle Above the Tunnel
+10:37 Fact 20 – Boone's Thirty Axemen
+12:30 Fact 19 – 300,000 Through One Doorway
+14:26 Fact 18 – Tri-State Peak
+16:17 Fact 17 – The Middlesboro Crater
+18:38 Fact 16 – Pinnacle Overlook
+20:45 Fact 15 – White Rocks
+22:22 Fact 14 – Gap Cave's Three Names
+24:20 Fact 13 – Hensley Settlement
+26:26 Fact 12 – Fern Lake
+28:10 Fact 11 – Forts Built by Both Sides
+30:12 Fact 10 – Fort McCook
+31:58 Fact 9 – Middlesboro, the Magic City
+34:19 Fact 8 – The Railroad Tunnel
+35:42 Fact 7 – When the Trains Moved
+37:28 Fact 6 – Lincoln Memorial University
+39:10 Fact 5 – The Highway Tunnel
+41:35 Fact 4 – Tearing Out the Old Road
+43:14 Fact 3 – Fifteen Years to a Park
+44:52 Fact 2 – Cumberland Gap, Tennessee
+46:27 Fact 1 – One Notch, Three States
+48:03 Closing
+
+📚 Sources: National Park Service (Cumberland Gap National Historical Park, Hensley Settlement, Civil War fortifications) · United States Geological Survey · Kentucky Geological Survey · Federal Highway Administration · Lincoln Memorial University · Town of Cumberland Gap, Tennessee · Thomas Walker's 1750 journal · Kentucky Historical Society
+
+Walter Hale is a narrator persona. Illustrations are original drawings based on real geography and may simplify details. Know this region? Tell us what we missed.
+## TAGS (15)
+cumberland gap, cumberland gap national historical park, middlesboro crater, middlesboro kentucky, meteor crater kentucky, tri-state peak, wilderness road, daniel boone, hensley settlement, pinnacle overlook, kentucky geography, appalachian geography, hidden america, us geography, hidden map america
+## PINNED COMMENT
+"If you've stood at Tri-State Peak, which state did you stand in longest? And if you live near the Gap, tell me what I missed."
+## THUMBNAIL BRIEF
+Format: abartılı Hidden Map stili (tek inanılmaz sahne + ölçek ipucu + 2-4 kelime BÜYÜK beyaz metin + sarı ok + Walter Hale köşede). Sahne videoda geçen gerçek bir şey.
+
+A (ana) — "SOMETHING HIT HERE"
+- Sahne: Pinnacle Overlook'tan şafakta Middlesboro havzası (Fact 16-17); ormanlı dağlarla çevrili yuvarlak basenin içi sisle dolu, sisin arasından kasabanın sokak ızgarası ve ışıkları görünüyor; havzanın yuvarlak kenarı belirgin.
+- Ölçek ipucu: ön planda seyir terasının taş korkuluğu ve yanında tek bir insan silueti; aşağıdaki kasaba minicik.
+- Metin: "SOMETHING HIT HERE" — beyaz, kalın sans (Anton/Montserrat Black), siyah gölge, üstte. Başlıktaki "meteor crater"ı tekrar etmiyor, merak boşluğu bırakıyor.
+- Sarı el çizimi ok: havzanın yuvarlak kenarını çizen yarım daire + kasabayı gösteren ok.
+- Walter Hale (persona.png) sağ alt köşe, şaşkın ifade, beyaz kontur.
+- Grok arka plan promptu: "Dramatic high overlook view at sunrise down into a wide round basin ringed by forested Appalachian mountains, the basin filled with soft white fog with the street grid and lights of a small town showing through it, the circular rim of the basin clearly visible, a stone overlook railing and one tiny human silhouette in the foreground for scale, warm golden light on the ridges, high contrast, saturated colors, sharp detail, no text, 16:9, empty space at the top for text and bottom right for a person"
+
+B (alternatif) — "3 STATES, 1 STEP"
+- Sahne: Tri-State Peak (Fact 18); ormanlık zirvede üç eyaletin sınır taşı, yerde birleşen üç sınır çizgisi, bir yürüyüşçünün botları iki farklı eyalette, eli üçüncüsüne uzanıyor.
+- Ölçek ipucu: insanın kendisi ve arkadaki ahşap pavyon.
+- Metin: "3 STATES, 1 STEP", sarı ok sınır taşına. Walter Hale sağ alt.
+- Grok arka plan promptu: "Photo on a forested mountain summit of a small stone survey marker where three state borders meet, three painted boundary lines converging on the ground at the marker, a hiker straddling the lines with one boot on each side and one hand reaching toward the third section, a wooden pavilion and autumn hardwood forest behind, warm afternoon light, high contrast, saturated colors, sharp detail, no text, 16:9, empty space at the top for text and bottom right for a person"
+## THUMBNAIL TEXT: SOMETHING HIT HERE | B: 3 STATES, 1 STEP
+## baslik_kaydi
+2026-11 | The Cumberland Gap Is Hiding a Town Built Inside a Meteor Crater | Hidden Map America | The Cumberland Gap | 7.382 kelime | 25 Fact | Walter Hale
