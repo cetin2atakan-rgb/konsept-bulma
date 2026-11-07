@@ -1,0 +1,67 @@
+## TITLE: The Laurel Highlands Is Hiding Pennsylvania's First Underground State Park
+## ALTERNATİF (2)
+1. One Small Pennsylvania Town Gave Us Mister Rogers, Arnold Palmer and the Banana Split
+2. One Ridge Explains Fallingwater, the Johnstown Flood and Ohiopyle
+## REGION: The Laurel Highlands, Pennsylvania
+## REGION_BBOX: 39.75,-79.65,40.45,-78.75
+## PERSONA_LINE: Walter Hale · retired geography teacher
+## PERSONA_IMG: persona.png
+## MAP_IMG: map_region.png
+## DESCRIPTION
+Under Chestnut Ridge in southwestern Pennsylvania, about four miles of cave passages have just become Laurel Caverns State Park, the state's first underground state park. Retired geography teacher Walter Hale counts down 25 geographic facts about the Laurel Highlands, the stretch of the Alleghenies between Pittsburgh and the Maryland line: Fallingwater built right over Bear Run, the falls at Ohiopyle that turned back a young George Washington, his only surrender at Fort Necessity, the 1889 Johnstown Flood and the incline built so the city could escape the next one, forty thousand coke ovens around Connellsville, Mount Davis (the roof of Pennsylvania), and Latrobe, the small town that gave the country Fred Rogers, Arnold Palmer and the banana split.
+
+⏱ Chapters:
+0:00 Intro
+1:34 Fact 25 – Jeannette, the Glass City
+3:46 Fact 24 – Fred Rogers' Latrobe
+5:15 Fact 23 – Arnold Palmer's Latrobe
+6:44 Fact 22 – The Banana Split
+8:02 Fact 21 – Windber, a Company Town
+9:24 Fact 20 – The Great Allegheny Passage
+11:22 Fact 19 – The Compass Inn
+12:50 Fact 18 – Bushy Run
+14:47 Fact 17 – Saint Vincent Archabbey
+16:29 Fact 16 – Idlewild Park
+18:04 Fact 15 – A Mountain's Disputed Name
+19:46 Fact 14 – Laurel Caverns
+21:49 Fact 13 – Forty Thousand Coke Ovens
+24:08 Fact 12 – Youghiogheny River Lake
+26:12 Fact 11 – The Quecreek Mine Rescue
+28:14 Fact 10 – Seven Springs
+30:16 Fact 9 – Fort Ligonier
+32:25 Fact 8 – The Johnstown Inclined Plane
+34:31 Fact 7 – Mount Davis
+36:26 Fact 6 – Ohiopyle Falls
+38:38 Fact 5 – Fallingwater
+40:41 Fact 4 – Fort Necessity
+42:36 Fact 3 – The Johnstown Flood
+44:54 Fact 2 – Flight 93 National Memorial
+46:50 Fact 1 – Laurel Ridge
+49:24 Closing
+
+📚 Sources: National Park Service (Johnstown Flood National Memorial, Flight 93 National Memorial, Fort Necessity National Battlefield) · Pennsylvania DCNR (Laurel Caverns State Park, Ohiopyle State Park, Forbes State Forest) · Western Pennsylvania Conservancy (Fallingwater) · American Society of Mechanical Engineers (Johnstown Inclined Plane) · Great Allegheny Passage Conservancy · Pennsylvania Historical and Museum Commission · Ligonier Valley Historical Society (Compass Inn) · Fort Ligonier · Saint Vincent Archabbey · US Army Corps of Engineers (Youghiogheny River Lake)
+
+Walter Hale is a narrator persona. Illustrations are original drawings based on real geography and may simplify details. Know this region? Tell us what we missed.
+## TAGS (15)
+laurel highlands, laurel caverns state park, pennsylvania geography, fallingwater, ohiopyle, johnstown flood, johnstown incline, fort necessity, mount davis, latrobe pennsylvania, great allegheny passage, seven springs, connellsville coke ovens, hidden america, hidden map america
+## PINNED COMMENT
+"Did you know Mister Rogers and Arnold Palmer grew up about a mile apart in the same small town? If you live in the Laurel Highlands, tell me what I missed."
+## THUMBNAIL BRIEF
+Format: abartılı Hidden Map stili (tek inanılmaz sahne + ölçek ipucu + 2-4 kelime BÜYÜK beyaz metin + sarı ok + Walter Hale köşede). Sahne videoda geçen gerçek bir şey.
+
+A (ana) — "4 MILES OF TUNNELS"
+- Sahne: Laurel Caverns (Fact 14); geniş, alçak tavanlı kumtaşı mağara geçidi, derinlere doğru kıvrılarak karanlıkta kayboluyor, sıcak sarı ışıklarla aydınlatılmış katmanlı kaya duvarları.
+- Ölçek ipucu: geçidin ortasında kafa lambalı tek bir insan, mağaranın genişliğinin yanında minicik.
+- Metin: "4 MILES OF TUNNELS" — beyaz, kalın sans (Anton/Montserrat Black), siyah gölge, üstte. Başlığı (ilk yeraltı eyalet parkı) tamamlıyor, tekrar etmiyor.
+- Sarı el çizimi ok: karanlıkta kaybolan geçidin derinliğine.
+- Walter Hale (persona.png) sağ alt köşe, şaşkın ifade, beyaz kontur.
+- Grok arka plan promptu: "Dramatic wide photo inside a huge sandstone cave passage in Pennsylvania, a broad low-ceilinged tunnel of layered tan and gray rock curving away deep into darkness, lit by warm amber lights along the floor, one tiny person with a headlamp standing in the middle of the passage for scale, sense of enormous depth, high contrast, rich warm colors, sharp detail, no text, 16:9, empty space at the top for text and bottom right for a person"
+
+B (alternatif) — "IT LIFTS CARS UP THIS"
+- Sahne: Johnstown Inclined Plane (Fact 8); vadi tabanındaki şehirden dağın tepesine neredeyse dik çıkan çift raylı rampa, üzerinde içinde gerçek bir otomobil taşıyan açık platformlu kabin, aşağıda Johnstown'ın çatıları ve nehir.
+- Ölçek ipucu: kabinin içindeki araba ve yanında duran bir insan.
+- Metin: "IT LIFTS CARS UP THIS", sarı ok rampanın eğimine. Walter Hale sağ alt.
+- Grok arka plan promptu: "Dramatic photo of an extremely steep double-track funicular incline climbing a forested mountainside above a small river city, a large open platform cable car on the tracks carrying a real automobile and one standing person, the slope nearly vertical, rooftops and a river in the valley far below, golden late afternoon light, high contrast, saturated colors, sharp detail, no text, 16:9, empty space at the top for text and bottom right for a person"
+## THUMBNAIL TEXT: 4 MILES OF TUNNELS | B: IT LIFTS CARS UP THIS
+## baslik_kaydi
+2026-11-01 | The Laurel Highlands Is Hiding Pennsylvania's First Underground State Park | Hidden Map America | The Laurel Highlands, Pennsylvania | 7.546 kelime | 25 Fact | Walter Hale
