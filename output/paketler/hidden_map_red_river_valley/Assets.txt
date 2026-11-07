@@ -1,0 +1,67 @@
+## TITLE: The Red River Valley Isn't Actually a Valley
+## ALTERNATİF (2)
+1. This American River Flows North Into Canada
+2. North Dakota's Flattest Farmland Is the Floor of a Vanished Lake
+## REGION: The Red River Valley of the North
+## REGION_BBOX: 46.0,-97.3,48.0,-96.5
+## PERSONA_LINE: Walter Hale · retired geography teacher
+## PERSONA_IMG: persona.png
+## MAP_IMG: map_region.png
+## DESCRIPTION
+The Red River Valley along the North Dakota–Minnesota border was never carved by its river. It is the exposed bed of Glacial Lake Agassiz, a meltwater lake larger than any lake on the continent today, and the river only began running across it about 9,300 years ago. Retired geography teacher Walter Hale counts down 25 geographic facts about the valley, from Wahpeton and Fargo-Moorhead up to Grand Forks: a river that runs north toward Hudson Bay, old beach ridges that roads still follow, the black clay that grows about a third of America's sugar beets, the 1888 Children's Blizzard, the Fargo tornado that helped create the Fujita Scale, the 1997 flood that crested five feet above the forecast, and a Viking ship built in a potato warehouse.
+
+⏱ Chapters:
+0:00 Intro
+1:30 Fact 25 – Which Red River Is the Song About?
+3:44 Fact 24 – The Railroad Checkerboard
+5:25 Fact 23 – Potato Country
+7:08 Fact 22 – Where Prairie Turns to Parkland
+8:50 Fact 21 – The Children's Blizzard
+10:33 Fact 20 – The 1957 Fargo Tornado
+12:12 Fact 19 – Halstad's Giant Sugar Beet
+13:53 Fact 18 – The Fargo-Moorhead Diversion
+15:43 Fact 17 – The Hjemkomst Viking Ship
+17:32 Fact 16 – Grand Forks Drone Base
+19:17 Fact 15 – Bluestem Prairie
+20:55 Fact 14 – Where the Red River Begins
+22:34 Fact 13 – Les Grandes Fourches
+24:21 Fact 12 – Draining the Valley
+26:04 Fact 11 – Roads on an Ancient Beach
+27:46 Fact 10 – Fort Abercrombie
+29:36 Fact 9 – Red River Carts
+31:49 Fact 8 – Fargo and Moorhead
+33:41 Fact 7 – The Bonanza Farms
+35:35 Fact 6 – The Black Clay Soil
+37:45 Fact 5 – Sugar Beet Country
+39:40 Fact 4 – The 1997 and 2009 Floods
+41:36 Fact 3 – Not Actually a Valley
+43:29 Fact 2 – The River That Runs North
+45:32 Fact 1 – Glacial Lake Agassiz
+48:16 Closing
+
+📚 Sources: North Dakota Geological Survey · USGS · North Dakota State University · Minnesota Historical Society · State Historical Society of North Dakota · USDA NRCS · Minnesota DNR · The Nature Conservancy (Bluestem Prairie) · National Weather Service · US Army Corps of Engineers (Fargo-Moorhead Diversion) · American Crystal Sugar Company · Hjemkomst Center · Manitoba Historical Society
+
+Walter Hale is a narrator persona. Illustrations are original drawings based on real geography and may simplify details. Know this region? Tell us what we missed.
+## TAGS (15)
+red river valley, red river of the north, glacial lake agassiz, fargo north dakota, moorhead minnesota, grand forks north dakota, 1997 red river flood, river that flows north, sugar beets, bonanza farms, children's blizzard 1888, hjemkomst, north dakota geography, hidden america, hidden map america
+## PINNED COMMENT
+"Did you know the Red River flows north into Canada and ends up in Hudson Bay? If you grew up anywhere between Wahpeton and the Canadian border, tell me what I missed."
+## THUMBNAIL BRIEF
+Format: abartılı Hidden Map stili (tek inanılmaz sahne + ölçek ipucu + 2-4 kelime BÜYÜK beyaz metin + sarı ok + Walter Hale köşede). Sahne videoda geçen gerçek bir şey.
+
+A (ana) — "IT WAS A LAKE"
+- Sahne: 1997 selinde kuşbakışı vadi (Fact 4 + Fact 1); ufka kadar dümdüz, kahverengi su altında kalmış tarlalar ve yollar, sudan yalnızca çiftlik evlerinin çatıları, ağaç sıraları ve bir tahıl silosunun tepesi çıkıyor. Vadi bir an için yeniden göle dönmüş gibi.
+- Ölçek ipucu: sudan çıkan tahıl silosu ve yanında küçük bir çiftlik evi çatısı.
+- Metin: "IT WAS A LAKE" — beyaz, kalın sans (Anton/Montserrat Black), siyah gölge, üstte. Başlığı ("aslında vadi değil") tamamlıyor.
+- Sarı el çizimi ok: silonun tepesine.
+- Walter Hale (persona.png) sağ alt köşe, şaşkın ifade, beyaz kontur.
+- Grok arka plan promptu: "Dramatic high aerial photo of a perfectly flat farming valley completely flooded with brown water all the way to the horizon, only farmhouse rooftops, lines of trees and the top of a tall grain elevator rising out of the water, a straight country road disappearing under the flood, overcast spring sky with a break of sunlight, high contrast, saturated colors, sharp detail, no text, 16:9, empty space at the top for text and bottom right for a person"
+
+B (alternatif) — "IT FLOWS TO CANADA"
+- Sahne: Fact 2; dümdüz tarlalar arasında kıvrılan kahverengi Red River, kuşbakışı, nehir kadrajın üstüne (kuzeye) doğru akıyor; köprüden geçen tek bir kamyon.
+- Ölçek ipucu: köprüdeki kamyon ve kıyıdaki şeker pancarı yığını.
+- Metin: "IT FLOWS TO CANADA", sarı ok nehir boyunca yukarıyı (kuzeyi) gösteriyor. Walter Hale sağ alt.
+- Grok arka plan promptu: "High aerial photo of a winding muddy brown river meandering through endlessly flat green and black farmland toward the top of the frame, a narrow bridge with one small truck crossing it for scale, a large pile of harvested sugar beets near the riverbank, wide prairie sky, late afternoon golden light, high contrast, saturated colors, sharp detail, no text, 16:9, empty space at the top for text and bottom right for a person"
+## THUMBNAIL TEXT: IT WAS A LAKE | B: IT FLOWS TO CANADA
+## baslik_kaydi
+2026-11-01 | The Red River Valley Isn't Actually a Valley | Hidden Map America | The Red River Valley of the North | 7.395 kelime | 25 Fact | Walter Hale
