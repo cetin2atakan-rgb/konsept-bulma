@@ -1,0 +1,67 @@
+## TITLE: Michigan's Thumb Is Hiding a Rock You Can Only Reach by Kayak
+## ALTERNATİF (2)
+1. Why Michigan's Mitten Has a Thumb
+2. The 1881 Fire That Burned a Million Acres of Michigan in One Day
+## REGION: Michigan's Thumb
+## REGION_BBOX: 43.3,-83.5,44.1,-82.4
+## PERSONA_LINE: Walter Hale · retired geography teacher
+## PERSONA_IMG: persona.png
+## MAP_IMG: map_region.png
+## DESCRIPTION
+Off the shore near Port Austin, Turnip Rock rises out of Lake Huron, a mushroom-shaped stack of stone that waves have carved wider at the top than at the bottom. Every acre of land around it is private, so the only way to see it is to paddle there. Retired geography teacher Walter Hale counts down 25 geographic facts about Michigan's Thumb, from Bad Axe and Caseville to Sebewaing and Harbor Beach: the glacier that split around hard sandstone and gave the mitten its thumb, the 1881 fire that burned about a million acres in a single day and became the American Red Cross's first disaster relief, a lighthouse standing alone two and a half miles out in the lake, Michigan's only known prehistoric rock carvings, a quarry town that made most of America's grindstones, and the buried drainage tile that turned swamp into bean and sugar beet country.
+
+⏱ Chapters:
+0:00 Intro
+1:44 Fact 25 – Bad Axe
+3:51 Fact 24 – White Rock
+5:40 Fact 23 – Port Hope
+7:25 Fact 22 – Sleeper State Park
+9:12 Fact 21 – Amish Country
+11:02 Fact 20 – Dry Bean Country
+12:56 Fact 19 – Drainage Tile
+14:50 Fact 18 – The Cass River
+16:37 Fact 17 – Wind Farms
+18:32 Fact 16 – Sanilac Shores Shipwrecks
+20:40 Fact 15 – Cheeseburger in Caseville
+22:31 Fact 14 – Bay Port
+24:29 Fact 13 – Fish Point
+26:18 Fact 12 – Sugar Beets
+28:09 Fact 11 – The Octagon Barn
+30:08 Fact 10 – Port Crescent
+32:12 Fact 9 – Huron City
+34:10 Fact 8 – Port Austin Reef Light
+36:06 Fact 7 – Pointe aux Barques
+38:09 Fact 6 – Turnip Rock
+40:06 Fact 5 – Sanilac Petroglyphs
+42:16 Fact 4 – Grindstone City
+44:26 Fact 3 – Harbor Beach
+46:45 Fact 2 – Why the Thumb Exists
+49:10 Fact 1 – The 1881 Thumb Fire
+51:39 Closing
+
+📚 Sources: Michigan DNR (Port Crescent, Sleeper, Sanilac Petroglyphs, Fish Point) · Michigan History Center · Huron County Historical Society · Huron City Museums · Port Austin Reef Lighthouse Association · US Army Corps of Engineers (Harbor Beach) · Michigan Underwater Preserves (Sanilac Shores) · Michigan Sugar Company · Michigan Bean Commission · Michigan State University Extension · American Red Cross (1881 Thumb Fire) · Cranbrook Institute of Science
+
+Walter Hale is a narrator persona. Illustrations are original drawings based on real geography and may simplify details. Know this region? Tell us what we missed.
+## TAGS (15)
+michigan's thumb, turnip rock, port austin michigan, 1881 thumb fire, huron county michigan, lake huron michigan, port austin reef light, pointe aux barques, sanilac petroglyphs, grindstone city, harbor beach michigan, saginaw bay, michigan geography, hidden america, hidden map america
+## PINNED COMMENT
+"Have you paddled out to Turnip Rock? If your family has roots anywhere between Port Austin and Port Sanilac, tell me what I missed."
+## THUMBNAIL BRIEF
+Format: abartılı Hidden Map stili (tek inanılmaz sahne + ölçek ipucu + 2-4 kelime BÜYÜK beyaz metin + sarı ok + Walter Hale köşede). Sahne videoda geçen gerçek bir şey.
+
+A (ana) — "WAVES CARVED THIS"
+- Sahne: Turnip Rock (Fact 6); berrak turkuaz Lake Huron suyundan yükselen, üstü geniş altı oyulmuş mantar biçimli taş sütun, tepesinde birkaç inatçı ağaç; suyun altındaki taşlı dip görünüyor.
+- Ölçek ipucu: kayanın dibinde tek bir kırmızı kano ve içinde kürek çeken bir insan.
+- Metin: "WAVES CARVED THIS" — beyaz, kalın sans (Anton/Montserrat Black), siyah gölge, üstte. Başlıktaki "kayak" vaadini tekrar etmiyor, kayanın şekline merak bırakıyor.
+- Sarı el çizimi ok: su hizasındaki oyuğa.
+- Walter Hale (persona.png) sağ alt köşe, şaşkın ifade, beyaz kontur.
+- Grok arka plan promptu: "Dramatic low-angle photo of a mushroom-shaped sandstone sea stack rising out of crystal clear turquoise Great Lakes water, the rock much wider at the top than at its wave-carved narrow base, a few stubborn trees growing on top, rocky lake bottom visible through the water, a single red kayak with one tiny paddler at its base for scale, bright summer light, blue sky with white clouds, high contrast, saturated colors, sharp detail, no text, 16:9, empty space at the top for text and bottom right for a person"
+
+B (alternatif) — "NO ROAD. NO SHORE."
+- Sahne: Port Austin Reef Light (Fact 8); açık gölün ortasında, sığ resifin üzerinde tek başına duran taş kaide üstünde fener, dört bir yanında sadece su, ufukta çok uzakta ince bir kıyı çizgisi.
+- Ölçek ipucu: fenere yaklaşan küçük bir tur teknesi.
+- Metin: "NO ROAD. NO SHORE.", sarı ok fenere. Walter Hale sağ alt.
+- Grok arka plan promptu: "Wide aerial photo of a lone historic lighthouse standing on a stone pier in the middle of open lake water, shallow rocky reef visible as pale shapes under the surface around it, the far shoreline only a thin line on the horizon, one small tour boat approaching for scale, moody late afternoon light with dramatic clouds, high contrast, saturated colors, sharp detail, no text, 16:9, empty space at the top for text and bottom right for a person"
+## THUMBNAIL TEXT: WAVES CARVED THIS | B: NO ROAD. NO SHORE.
+## baslik_kaydi
+2026-11-01 | Michigan's Thumb Is Hiding a Rock You Can Only Reach by Kayak | Hidden Map America | Michigan's Thumb | 7.878 kelime | 25 Fact | Walter Hale
