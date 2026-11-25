@@ -128,6 +128,7 @@ strength training, strength training for men, get stronger, workout mistakes, gy
 11. ✅ The Muscles Behind a Hard Punch (And Why Size Is Not One of Them)
 12. ✅ Push-Up Mistakes That Keep Your Chest Flat
 13. ✅ The Posture Mistakes That Make You Look Weak
+14. ✅ A Back People Notice From Across the Room
 Sırada (fikir): Old-School Exercises Strongmen Used Before Gyms Existed; Why You Look Smaller in a T-Shirt Than You Are.
 
 ---

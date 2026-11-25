@@ -43,5 +43,10 @@ Küçük kanallarda 40+ / 50+ erkek kas videoları güçlü: "12 Rep Rule After 
 7. [YAPILDI, video 13, output/Plain Strength/video_13_posture_mistakes] The Posture Mistakes That Make You Look Weak (video 2'den 8 video sonra). Kaynak: temkinli dil, fizyoterapi kaynakları.
 Not: Rakibin başlıkları (tendon, hidden muscle, punch) birebir kullanılmaz; açı ve kelimeler bizim.
 
+## Kasım 2026 dış liste değerlendirmesi
+Dışarıdan gelen 7'li liste: 1 Back (yapıldı), 2 Between Sets (video 10 tekrarı, alınmadı), 3 Old-School Strongmen (bekliyor), 4 Chest Flat After Pressing (video 12'den aralıklı yayınla), 5 Forearms (video 5 tekrarı), 6 Legs Make You Look Weaker (bekliyor), 7 Neck (video 4 tekrarı).
+- [YAPILDI, video 14, output/Plain Strength/video_14_back_people_notice] A Back People Notice From Across the Room. Kaynak: Youdas 2010, Lusk 2010, Fenwick 2009.
+Not: Grip videosu (video 5) yayında 412 izlenmeyle ikinci grupta (kullanıcı notu).
+
 ## Rakibin YAPTIĞI konular (farklı açıdan)
 - Dangerous hands, punch harder, traps, attractive muscle, after-workout mistakes, cheapest diet.

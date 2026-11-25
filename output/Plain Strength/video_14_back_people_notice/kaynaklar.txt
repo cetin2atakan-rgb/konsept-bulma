@@ -1,0 +1,5 @@
+25: SOURCE: Youdas et al, J Strength Cond Res, 2010
+37: SOURCE: Lusk et al, J Strength Cond Res, 2010
+39: SOURCE: Lat pulldown grip width study, 2014
+42: SOURCE: Buonsenso et al, 2025
+54: SOURCE: Fenwick et al, J Strength Cond Res, 2009
